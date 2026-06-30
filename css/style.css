@@ -680,6 +680,7 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 .shop-item--have .shop-check { color: var(--accent); }
 .shop-item--have .shop-text { opacity: 0.45; text-decoration: line-through; }
 .shop-text { font-size: 0.95rem; line-height: 1.4; }
+.shop-recipe-tag { display: block; font-size: 0.75rem; color: var(--text-muted); margin-top: 1px; }
 
 /* ── Chat Panel ── */
 .detail-layout {

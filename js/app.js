@@ -441,7 +441,8 @@ Answer questions about substitutions, techniques, or anything related to this re
   togglePantry(key) {
     if (state.pantry.has(key)) state.pantry.delete(key);
     else state.pantry.add(key);
-    renderShoppingList();
+    const el = document.getElementById('shopping-content');
+    if (el) el.innerHTML = renderShoppingContent();
     clearTimeout(_pantryTimer);
     _pantryTimer = setTimeout(() => this._syncSave().catch(() => {}), 1500);
   },
@@ -452,15 +453,21 @@ Answer questions about substitutions, techniques, or anything related to this re
       ? state.recipes.filter(r => r.id === state.detailId)
       : state.recipes.filter(r => state.shoppingSelected.has(r.id));
 
-    for (const r of recipes) {
-      const missing = (r.ingredients || []).filter(ing => !state.pantry.has(normalizeIngredient(ing)));
-      if (!missing.length) continue;
-      if (state.shoppingContext === 'multi') lines.push(`\n${r.title}:`);
-      missing.forEach(ing => lines.push(`• ${ing}`));
+    if (state.shoppingContext === 'multi') {
+      const missing = combinedMissingItems(recipes);
+      missing.forEach(item => lines.push(`• ${item.display}`));
+    } else {
+      const r = recipes[0];
+      if (r) {
+        (r.ingredients || [])
+          .filter(ing => !state.pantry.has(normalizeIngredient(ing)))
+          .forEach(ing => lines.push(`• ${ing}`));
+      }
     }
+
     if (!lines.length) { toast('Nothing missing!', 'success'); return; }
     try {
-      await navigator.clipboard.writeText(lines.join('\n').trim());
+      await navigator.clipboard.writeText(lines.join('\n'));
       toast('Shopping list copied!', 'success');
     } catch {
       toast('Could not copy — try selecting manually', 'error');
@@ -1037,6 +1044,60 @@ function renderImportPreview() {
   `;
 }
 
+// ── Shopping List helpers ────────────────────────────────────────────────────
+function parseQtyAndUnit(ing) {
+  let s = ing.trim();
+  let qty = null;
+  const leadRe = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d+\.?\d*)/;
+  const lm = s.match(leadRe);
+  if (lm) { qty = parseLeadingNumber(lm[1]); s = s.slice(lm[0].length).trim(); }
+
+  const unitRe = /^(cups?|tbsps?|tsps?|tablespoons?|teaspoons?|g|kg|ml|oz|lbs?|ounces?|pounds?|scoops?|pinch(?:es)?|cloves?|slices?|pieces?|heads?|stalks?|sprigs?)\b\s*/i;
+  const um = s.match(unitRe);
+  let unit = '';
+  if (um) {
+    unit = um[1].toLowerCase()
+      .replace(/tablespoons?/, 'tbsp').replace(/teaspoons?/, 'tsp')
+      .replace(/ounces?/, 'oz').replace(/pounds?/, 'lb').replace(/lbs/, 'lb')
+      .replace(/s$/, '');
+    s = s.slice(um[0].length);
+  }
+  return { qty, unit };
+}
+
+function combinedMissingItems(recipes) {
+  const groups = new Map();
+  for (const r of recipes) {
+    for (const ing of (r.ingredients || [])) {
+      if (state.pantry.has(normalizeIngredient(ing))) continue;
+      const key = normalizeIngredient(ing);
+      if (!groups.has(key)) groups.set(key, []);
+      const { qty, unit } = parseQtyAndUnit(ing);
+      groups.get(key).push({ qty, unit, original: ing, recipeTitle: r.title });
+    }
+  }
+
+  const result = [];
+  for (const [key, entries] of groups) {
+    const recipeNames = [...new Set(entries.map(e => e.recipeTitle))];
+    if (entries.length === 1) {
+      result.push({ display: entries[0].original, recipes: recipeNames, key });
+      continue;
+    }
+    const firstUnit = entries[0].unit;
+    const allSameUnit = entries.every(e => e.unit === firstUnit);
+    const allHaveQty  = entries.every(e => e.qty !== null);
+    if (allHaveQty && allSameUnit) {
+      const total = entries.reduce((s, e) => s + e.qty, 0);
+      const unitStr = firstUnit ? `${firstUnit} ` : '';
+      result.push({ display: `${formatQty(total)} ${unitStr}${key}`, recipes: recipeNames, key, combined: true });
+    } else {
+      for (const e of entries) result.push({ display: e.original, recipes: [e.recipeTitle], key });
+    }
+  }
+  return result;
+}
+
 // ── Shopping List ───────────────────────────────────────────────────────────
 function renderShoppingList() {
   const isMulti = state.shoppingContext === 'multi';
@@ -1074,40 +1135,73 @@ function renderShoppingContent() {
 
   if (!recipes.length) return '<p class="chat-empty">No recipes selected.</p>';
 
-  let totalMissing = 0;
-  const sections = recipes.map(r => {
-    const ings = r.ingredients || [];
-    const missing = ings.filter(ing => !state.pantry.has(normalizeIngredient(ing)));
-    const have   = ings.filter(ing =>  state.pantry.has(normalizeIngredient(ing)));
-    totalMissing += missing.length;
+  if (state.shoppingContext === 'multi') {
+    const missing = combinedMissingItems(recipes);
 
-    const missingRows = missing.map(ing => {
-      const key = normalizeIngredient(ing);
-      return `<li class="shop-item shop-item--need" onclick="App.togglePantry('${esc(key)}')">
+    // Deduplicated "have" items across all selected recipes
+    const seenHave = new Set();
+    const haveItems = [];
+    for (const r of recipes) {
+      for (const ing of (r.ingredients || [])) {
+        const k = normalizeIngredient(ing);
+        if (state.pantry.has(k) && !seenHave.has(k)) { seenHave.add(k); haveItems.push(ing); }
+      }
+    }
+
+    const missingRows = missing.map(item =>
+      `<li class="shop-item shop-item--need" onclick="App.togglePantry('${esc(item.key)}')">
         <span class="shop-check">☐</span>
-        <span class="shop-text">${esc(ing)}</span>
-      </li>`;
-    }).join('');
+        <div class="shop-text">
+          <span>${esc(item.display)}</span>
+          <span class="shop-recipe-tag">${esc(item.recipes.join(', '))}</span>
+        </div>
+      </li>`
+    ).join('');
 
-    const haveRows = have.map(ing => {
-      const key = normalizeIngredient(ing);
-      return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(key)}')">
+    const haveRows = haveItems.map(ing => {
+      const k = normalizeIngredient(ing);
+      return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(k)}')">
         <span class="shop-check">✓</span>
         <span class="shop-text">${esc(ing)}</span>
       </li>`;
     }).join('');
 
-    const recipeLabel = state.shoppingContext === 'multi'
-      ? `<h3 class="shop-recipe-title">${esc(r.title)}</h3>` : '';
+    const totalMissing = missing.length;
+    const summary = totalMissing === 0
+      ? '<p class="shopping-all-good">You have everything! 🎉</p>'
+      : `<p class="shop-summary">${totalMissing} item${totalMissing > 1 ? 's' : ''} to buy &mdash; tap to mark as available</p>`;
 
-    return `${recipeLabel}<ul class="shop-list">${missingRows}${haveRows}</ul>`;
+    return summary + `<ul class="shop-list">${missingRows}${haveRows}</ul>`;
+  }
+
+  // Single recipe mode
+  const r = recipes[0];
+  const ings = r.ingredients || [];
+  const missing = ings.filter(ing => !state.pantry.has(normalizeIngredient(ing)));
+  const have   = ings.filter(ing =>  state.pantry.has(normalizeIngredient(ing)));
+
+  const missingRows = missing.map(ing => {
+    const k = normalizeIngredient(ing);
+    return `<li class="shop-item shop-item--need" onclick="App.togglePantry('${esc(k)}')">
+      <span class="shop-check">☐</span>
+      <span class="shop-text">${esc(ing)}</span>
+    </li>`;
   }).join('');
 
+  const haveRows = have.map(ing => {
+    const k = normalizeIngredient(ing);
+    return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(k)}')">
+      <span class="shop-check">✓</span>
+      <span class="shop-text">${esc(ing)}</span>
+    </li>`;
+  }).join('');
+
+  const totalMissing = missing.length;
   const summary = totalMissing === 0
     ? '<p class="shopping-all-good">You have everything! 🎉</p>'
     : `<p class="shop-summary">${totalMissing} item${totalMissing > 1 ? 's' : ''} to buy &mdash; tap to mark as available</p>`;
 
-  return summary + sections;
+  return summary + `<ul class="shop-list">${missingRows}${haveRows}</ul>`;
 }
 
 // ── Init ────────────────────────────────────────────────────────────────────
