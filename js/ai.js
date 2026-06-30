@@ -49,9 +49,10 @@ const AI = {
   "ingredients": [string, ...],
   "instructions": [string, ...],
   "prepNotes": string,
-  "tags": [string, ...]
+  "tags": [string, ...],
+  "source": string
 }
-Infer tags from the recipe type (e.g. "vegetarian", "dessert", "quick", "Italian").
+Infer tags from the recipe type (e.g. "vegetarian", "dessert", "quick", "Italian"). Extract source/attribution if mentioned.
 Return ONLY valid JSON — no markdown, no explanation.
 
 ---
@@ -76,9 +77,10 @@ ${text}`;
   "ingredients": [string, ...],
   "instructions": [string, ...],
   "prepNotes": string,
-  "tags": [string, ...]
+  "tags": [string, ...],
+  "source": string
 }
-Infer tags from the recipe type. Return ONLY valid JSON — no markdown, no explanation.`,
+Infer tags from the recipe type. Extract source/attribution if visible. Return ONLY valid JSON — no markdown, no explanation.`,
         },
       ],
     }];

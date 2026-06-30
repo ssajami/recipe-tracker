@@ -217,6 +217,7 @@ const App = {
       id:             existing?.id || uuid(),
       title,
       servings:       document.getElementById('edit-servings')?.value.trim() || '',
+      source:         document.getElementById('edit-source')?.value.trim() || '',
       ingredients:    editIngredients.filter(s => s.trim()),
       instructions:   editInstructions.filter(s => s.trim()),
       prepNotes:      document.getElementById('edit-prep-notes')?.value.trim() || '',
@@ -698,6 +699,7 @@ function renderDetail() {
             ${stars(r.rating, true)}
           </div>
           ${(r.tags || []).length ? `<div class="detail-tags">${r.tags.map(tagHtml).join('')}</div>` : ''}
+          ${r.source ? `<div class="detail-source">Source: ${esc(r.source)}</div>` : ''}
         </div>
 
         ${r.prepNotes ? `
@@ -789,6 +791,10 @@ function renderEdit() {
         <input type="text" id="edit-servings" value="${esc(r?.servings || '')}" placeholder="e.g. 4 servings"
                oninput="App.updateServingSuggestions(this.value)" onfocus="App.updateServingSuggestions(this.value)" autocomplete="off">
         <div id="serving-suggestions" class="tag-suggestions hidden"></div>
+      </div>
+      <div class="form-group">
+        <label>Source</label>
+        <input type="text" id="edit-source" value="${esc(r?.source || '')}" placeholder="e.g. Grandma, NYT Cooking, Instagram…" autocomplete="off">
       </div>
       <div class="form-group">
         <label>Rating</label>

@@ -326,6 +326,13 @@ code { background: #f0ede8; padding: 1px 4px; border-radius: 3px; font-size: 0.8
   margin-bottom: 12px;
   box-shadow: var(--shadow);
 }
+.detail-source {
+  text-align: right;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 10px;
+  font-style: italic;
+}
 .detail-section h2 {
   font-size: 1rem;
   font-weight: 700;
