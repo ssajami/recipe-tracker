@@ -36,12 +36,9 @@
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Ninja Creami Cookie Dough Ice Cream",
-      "servings": "1 tub (470ml)",
+      "title": "Cookie Dough Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "200 g thickened cream",
         "150 g sweetened condensed milk (not evaporated milk)",
@@ -56,8 +53,8 @@
         "100 g finely chopped dark chocolate"
       ],
       "instructions": [
-        "Vanilla ice cream: Whisk ingredients together in a bowl, let sit 5 minutes, whisk again.",
-        "Pour into a 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Vanilla ice cream: Whisk cream, condensed milk, milk, vanilla together in a bowl, let sit 5 minutes, whisk again.",
+        "Pour into a tub and freeze with the lid off, 16–24 hours.",
         "Cookie dough (30–60 min before processing): Brown the butter in a saucepan over low-medium heat until golden and nutty-smelling.",
         "Pour over brown sugar in a heatproof bowl; cool 5 minutes.",
         "Add 1 tbsp milk and stir to a syrupy brown liquid.",
@@ -69,15 +66,14 @@
         "Return leftovers to the fridge with the lid on."
       ],
       "prepNotes": "Cookie dough should be prepared 30–60 minutes before processing the ice cream base.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "gluten free",
-        "low FODMAP option",
-        "dessert",
         "ice cream",
-        "cookie dough",
-        "Ninja Creami"
+        "cookie dough"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:34:31.326Z"
     },
     {
       "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
