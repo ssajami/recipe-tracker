@@ -10,7 +10,7 @@ const state = {
   cookChecked: { ingredients: new Set(), instructions: new Set() },
   qtyMultiplier: 1,
   importTab: 'text',
-  importImageData: null,
+  importImages: [],       // [{base64, mediaType, dataUrl}, ...]
   importPreview: null,  // [{recipe, include: true}, ...]
   syncStatus: 'idle',   // 'idle' | 'loading' | 'saving' | 'error'
   viewHistory: [],
@@ -161,7 +161,7 @@ const App = {
   showImport() {
     state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
     state.importTab = 'text';
-    state.importImageData = null;
+    state.importImages = [];
     state.importPreview = null;
     state.view = 'import';
     render();
@@ -607,7 +607,7 @@ Answer questions about substitutions, techniques, or anything related to this re
   // ── Import: Tab ───────────────────────────────────────────────────────────
   setImportTab(tab) {
     state.importTab = tab;
-    state.importImageData = null;
+    state.importImages = [];
     state.importPreview = null;
     render();
   },
@@ -628,14 +628,12 @@ Answer questions about substitutions, techniques, or anything related to this re
 
   // ── Import: Image ─────────────────────────────────────────────────────────
   handleImageFile(input) {
-    const file = input?.files?.[0];
-    if (file) this._loadImageFile(file);
+    [...(input?.files || [])].filter(f => f.type.startsWith('image/')).forEach(f => this._loadImageFile(f));
   },
   handleImageDrop(e) {
     e.preventDefault();
     document.getElementById('drop-zone')?.classList.remove('drag-over');
-    const file = e.dataTransfer?.files?.[0];
-    if (file && file.type.startsWith('image/')) this._loadImageFile(file);
+    [...(e.dataTransfer?.files || [])].filter(f => f.type.startsWith('image/')).forEach(f => this._loadImageFile(f));
   },
   handleDragOver(e) {
     e.preventDefault();
@@ -645,23 +643,29 @@ Answer questions about substitutions, techniques, or anything related to this re
     const reader = new FileReader();
     reader.onload = ev => {
       const dataUrl = ev.target.result;
-      const base64 = dataUrl.split(',')[1];
-      state.importImageData = { base64, mediaType: file.type };
+      state.importImages.push({ base64: dataUrl.split(',')[1], mediaType: file.type, dataUrl });
       const preview = document.getElementById('img-preview-area');
-      if (preview) {
-        preview.innerHTML = `<img src="${dataUrl}" class="image-preview" alt="Recipe screenshot">`;
-      }
+      if (preview) preview.innerHTML = renderImagePreviews();
       const btn = document.getElementById('extract-btn');
-      if (btn) btn.disabled = false;
+      if (btn) { btn.disabled = false; btn.textContent = `Extract with AI${state.importImages.length > 1 ? ` (${state.importImages.length})` : ''}`; }
     };
     reader.readAsDataURL(file);
   },
+  removeImage(i) {
+    state.importImages.splice(i, 1);
+    const preview = document.getElementById('img-preview-area');
+    if (preview) preview.innerHTML = renderImagePreviews();
+    const btn = document.getElementById('extract-btn');
+    if (btn) { btn.disabled = !state.importImages.length; btn.textContent = `Extract with AI${state.importImages.length > 1 ? ` (${state.importImages.length})` : ''}`; }
+  },
   async handleImageImport() {
-    if (!state.importImageData) { toast('Upload an image first', 'error'); return; }
-    setLoading(true, 'Extracting recipe with AI…');
+    if (!state.importImages.length) { toast('Upload at least one image first', 'error'); return; }
+    setLoading(true, `Extracting ${state.importImages.length > 1 ? state.importImages.length + ' recipes' : 'recipe'} with AI…`);
     try {
-      const recipe = await AI.parseImageRecipe(state.importImageData.base64, state.importImageData.mediaType);
-      state.importPreview = [{ recipe, include: true }];
+      const recipes = await Promise.all(
+        state.importImages.map(img => AI.parseImageRecipe(img.base64, img.mediaType))
+      );
+      state.importPreview = recipes.map(recipe => ({ recipe, include: true }));
       render();
     } catch (err) {
       toast(err.message, 'error', 6000);
@@ -1090,24 +1094,35 @@ function renderTextImport() {
     </div>`;
 }
 
+function renderImagePreviews() {
+  if (!state.importImages.length) return '';
+  return `<div class="img-preview-grid">${state.importImages.map((img, i) => `
+    <div class="img-thumb-wrap">
+      <img src="${img.dataUrl}" class="img-thumb" alt="Screenshot ${i + 1}">
+      <button class="img-thumb-remove" onclick="App.removeImage(${i})" title="Remove">&#x2715;</button>
+    </div>`).join('')}
+  </div>`;
+}
+
 function renderImageImport() {
+  const n = state.importImages.length;
   return `
     <div class="import-panel">
-      <p class="help-text">Upload or paste a screenshot of a recipe. The AI will extract the title, ingredients, instructions, and notes.</p>
+      <p class="help-text">Upload or paste screenshots — one per recipe. Multiple images are processed in parallel.</p>
       <div class="drop-zone" id="drop-zone"
            onclick="document.getElementById('img-file-input').click()"
            ondragover="App.handleDragOver(event)"
            ondrop="App.handleImageDrop(event)">
         <span class="drop-icon">📷</span>
         <p>Click to upload, drag &amp; drop, or paste (Ctrl+V)</p>
-        <p style="color:var(--text-muted);font-size:0.8rem;margin-top:4px">PNG, JPG, WEBP supported</p>
+        <p style="color:var(--text-muted);font-size:0.8rem;margin-top:4px">PNG, JPG, WEBP &mdash; select multiple files at once</p>
       </div>
-      <input type="file" id="img-file-input" accept="image/*" style="display:none"
+      <input type="file" id="img-file-input" accept="image/*" multiple style="display:none"
              onchange="App.handleImageFile(this)">
-      <div id="img-preview-area"></div>
+      <div id="img-preview-area">${renderImagePreviews()}</div>
       <button class="btn-primary" id="extract-btn"
-              ${state.importImageData ? '' : 'disabled'}
-              onclick="App.handleImageImport()">Extract with AI</button>
+              ${n ? '' : 'disabled'}
+              onclick="App.handleImageImport()">Extract with AI${n > 1 ? ` (${n})` : ''}</button>
     </div>`;
 }
 
@@ -1317,12 +1332,8 @@ async function init() {
   // Support clipboard paste for images on the import screen
   document.addEventListener('paste', e => {
     if (state.view !== 'import' || state.importTab !== 'image') return;
-    const items = e.clipboardData?.items || [];
-    for (const item of items) {
-      if (item.type.startsWith('image/')) {
-        App._loadImageFile(item.getAsFile());
-        break;
-      }
+    for (const item of (e.clipboardData?.items || [])) {
+      if (item.type.startsWith('image/')) App._loadImageFile(item.getAsFile());
     }
   });
 
