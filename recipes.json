@@ -67,12 +67,9 @@
     },
     {
       "id": "a0d10156-8b43-476a-8eff-70be72a17ba3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:06:20.143Z",
-      "updatedAt": "2026-06-30T19:06:20.143Z",
-      "title": "Ninja Creami Choc Coffee Ice Cream",
-      "servings": "1",
+      "title": "**Choc Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "@ninjacreamirecipes",
       "ingredients": [
         "1 Fairlife Vanilla Protein Shake",
         "1 Tbsp SF Vanilla Pudding Mix",
@@ -80,18 +77,16 @@
         "Chocolate (optional mix-in)"
       ],
       "instructions": [],
-      "prepNotes": "26g Protein | 180 Calories",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "ice cream",
-        "ninja creami",
-        "high protein",
-        "low calorie",
         "coffee",
-        "chocolate",
-        "dessert",
-        "healthy"
+        "chocolate"
       ],
-      "source": "@ninjacreamirecipes (recipe by @ashleighonig)"
+      "createdAt": "2026-06-30T19:06:20.143Z",
+      "updatedAt": "2026-06-30T19:08:39.511Z"
     },
     {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
