@@ -14,6 +14,9 @@ const state = {
   importPreview: null,  // [{recipe, include: true}, ...]
   syncStatus: 'idle',   // 'idle' | 'loading' | 'saving' | 'error'
   viewHistory: [],
+  chatMessages: [],
+  chatOpen: false,
+  chatLoading: false,
 };
 
 // Edit-specific mutable state (avoids full re-render on each keystroke)
@@ -118,6 +121,9 @@ const App = {
     state.detailId = id;
     state.cookChecked = { ingredients: new Set(), instructions: new Set() };
     state.qtyMultiplier = 1;
+    state.chatMessages = [];
+    state.chatOpen = false;
+    state.chatLoading = false;
     state.view = 'detail';
     render();
   },
@@ -335,6 +341,51 @@ const App = {
     document.querySelectorAll('.checklist-item.checked').forEach(el => el.classList.remove('checked'));
   },
 
+  toggleChat() {
+    state.chatOpen = !state.chatOpen;
+    document.getElementById('chat-panel')?.classList.toggle('open', state.chatOpen);
+    if (state.chatOpen) document.getElementById('chat-input')?.focus();
+  },
+
+  async sendChatMessage() {
+    const input = document.getElementById('chat-input');
+    const text = input?.value.trim();
+    if (!text || state.chatLoading) return;
+
+    const r = state.recipes.find(x => x.id === state.detailId);
+    state.chatMessages.push({ role: 'user', content: text });
+    input.value = '';
+    state.chatLoading = true;
+    reRenderChat();
+
+    const system = `You are a helpful cooking assistant. The user is viewing this recipe:
+
+Title: ${r.title}
+Servings: ${r.servings || 'not specified'}
+Ingredients:
+${(r.ingredients || []).map(i => `- ${i}`).join('\n')}
+
+Instructions:
+${(r.instructions || []).map((s, i) => `${i + 1}. ${s}`).join('\n')}
+${r.prepNotes ? `\nPreparation notes: ${r.prepNotes}` : ''}
+
+Answer questions about substitutions, techniques, or anything related to this recipe. Be concise and practical.`;
+
+    try {
+      const reply = await AI.chat(state.chatMessages, system);
+      state.chatMessages.push({ role: 'assistant', content: reply });
+    } catch (err) {
+      state.chatMessages.push({ role: 'assistant', content: `Sorry, I couldn't respond: ${err.message}` });
+    } finally {
+      state.chatLoading = false;
+      reRenderChat();
+    }
+  },
+
+  handleChatKey(e) {
+    if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); this.sendChatMessage(); }
+  },
+
   setQuantityMultiplier(m) {
     state.qtyMultiplier = m;
     const r = state.recipes.find(x => x.id === state.detailId);
@@ -448,6 +499,21 @@ const App = {
 };
 
 // ── Partial re-renders (avoid full render during edits) ─────────────────────
+function reRenderChat() {
+  const el = document.getElementById('chat-messages');
+  if (!el) return;
+  if (!state.chatMessages.length) {
+    el.innerHTML = '<p class="chat-empty">Ask about substitutions, techniques, or anything about this recipe.</p>';
+  } else {
+    el.innerHTML = state.chatMessages.map(m => `
+      <div class="chat-msg chat-msg--${m.role}">
+        <div class="chat-bubble">${esc(m.content).replace(/\n/g, '<br>')}</div>
+      </div>`).join('') +
+      (state.chatLoading ? '<div class="chat-msg chat-msg--assistant"><div class="chat-bubble chat-typing"><span></span><span></span><span></span></div></div>' : '');
+  }
+  el.scrollTop = el.scrollHeight;
+}
+
 function reRenderIngredients() {
   document.getElementById('ingredients-list').innerHTML = renderIngredientsList();
 }
@@ -508,6 +574,7 @@ function renderIngredientChecklist(ingredients) {
 
 // ── Render Functions ────────────────────────────────────────────────────────
 function render() {
+  if (state.view !== 'detail') cleanupDetailView();
   switch (state.view) {
     case 'list':   renderList();   break;
     case 'detail': renderDetail(); break;
@@ -582,62 +649,87 @@ function renderDetail() {
     <button class="btn-text" onclick="App.showEdit('${r.id}')">Edit</button>
   `);
 
+  document.getElementById('app-main').classList.add('detail-wide');
+
   document.getElementById('app-main').innerHTML = `
-    <div class="detail-view">
-      <div class="detail-hero">
-        <h1>${esc(r.title)}</h1>
-        <div class="detail-meta">
-          ${r.servings ? `<span>🍽 ${esc(r.servings)}</span>` : ''}
-          ${stars(r.rating, true)}
-        </div>
-        ${(r.tags || []).length ? `<div class="detail-tags">${r.tags.map(tagHtml).join('')}</div>` : ''}
-      </div>
-
-      ${r.prepNotes ? `
-        <div class="detail-section">
-          <h2>Preparation Notes</h2>
-          <p class="notes-text">${nl2br(r.prepNotes)}</p>
-        </div>` : ''}
-
-      <div class="detail-section">
-        <div class="ingredients-header">
-          <h2>Ingredients <span class="section-hint">(tap to check off)</span></h2>
-          <div class="qty-toggle">
-            ${[['½×', 0.5], ['1×', 1], ['2×', 2]].map(([label, m]) => `
-              <button class="qty-btn${state.qtyMultiplier === m ? ' active' : ''}"
-                      data-m="${m}" onclick="App.setQuantityMultiplier(${m})">${label}</button>
-            `).join('')}
+    <div class="detail-layout">
+      <div class="detail-view">
+        <div class="detail-hero">
+          <h1>${esc(r.title)}</h1>
+          <div class="detail-meta">
+            ${r.servings ? `<span>🍽 ${esc(r.servings)}</span>` : ''}
+            ${stars(r.rating, true)}
           </div>
+          ${(r.tags || []).length ? `<div class="detail-tags">${r.tags.map(tagHtml).join('')}</div>` : ''}
         </div>
-        <ul class="cooking-checklist" id="ingredient-list">
-          ${renderIngredientChecklist(r.ingredients || [])}
-        </ul>
+
+        ${r.prepNotes ? `
+          <div class="detail-section">
+            <h2>Preparation Notes</h2>
+            <p class="notes-text">${nl2br(r.prepNotes)}</p>
+          </div>` : ''}
+
+        <div class="detail-section">
+          <div class="ingredients-header">
+            <h2>Ingredients <span class="section-hint">(tap to check off)</span></h2>
+            <div class="qty-toggle">
+              ${[['½×', 0.5], ['1×', 1], ['2×', 2]].map(([label, m]) => `
+                <button class="qty-btn${state.qtyMultiplier === m ? ' active' : ''}"
+                        data-m="${m}" onclick="App.setQuantityMultiplier(${m})">${label}</button>
+              `).join('')}
+            </div>
+          </div>
+          <ul class="cooking-checklist" id="ingredient-list">
+            ${renderIngredientChecklist(r.ingredients || [])}
+          </ul>
+        </div>
+
+        <div class="detail-section">
+          <h2>Instructions <span class="section-hint">(tap to check off)</span></h2>
+          <ol class="cooking-checklist" id="instruction-list">
+            ${(r.instructions || []).map((step, i) => `
+              <li class="checklist-item${state.cookChecked.instructions.has(i) ? ' checked' : ''}"
+                  onclick="App.toggleInstruction(${i})">
+                <div class="check-box"></div>
+                <span class="check-text">${esc(step)}</span>
+              </li>`).join('')}
+          </ol>
+        </div>
+
+        ${r.afterPrepNotes ? `
+          <div class="detail-section after-notes">
+            <h2>Notes After Making</h2>
+            <p class="notes-text">${nl2br(r.afterPrepNotes)}</p>
+          </div>` : ''}
+
+        <div class="detail-actions">
+          <button class="reset-checks-btn" onclick="App.clearCookingChecks()">Reset checks</button>
+          <button class="btn-danger" onclick="App.confirmDelete('${r.id}')">Delete recipe</button>
+        </div>
       </div>
 
-      <div class="detail-section">
-        <h2>Instructions <span class="section-hint">(tap to check off)</span></h2>
-        <ol class="cooking-checklist" id="instruction-list">
-          ${(r.instructions || []).map((step, i) => `
-            <li class="checklist-item${state.cookChecked.instructions.has(i) ? ' checked' : ''}"
-                onclick="App.toggleInstruction(${i})">
-              <div class="check-box"></div>
-              <span class="check-text">${esc(step)}</span>
-            </li>`).join('')}
-        </ol>
-      </div>
-
-      ${r.afterPrepNotes ? `
-        <div class="detail-section after-notes">
-          <h2>Notes After Making</h2>
-          <p class="notes-text">${nl2br(r.afterPrepNotes)}</p>
-        </div>` : ''}
-
-      <div class="detail-actions">
-        <button class="reset-checks-btn" onclick="App.clearCookingChecks()">Reset checks</button>
-        <button class="btn-danger" onclick="App.confirmDelete('${r.id}')">Delete recipe</button>
-      </div>
+      <aside class="chat-panel${state.chatOpen ? ' open' : ''}" id="chat-panel">
+        <div class="chat-header">
+          <span>💬 Recipe Assistant</span>
+          <button class="chat-close-btn" onclick="App.toggleChat()">✕</button>
+        </div>
+        <div class="chat-messages" id="chat-messages">
+          <p class="chat-empty">Ask about substitutions, techniques, or anything about this recipe.</p>
+        </div>
+        <div class="chat-input-area">
+          <input type="text" id="chat-input" placeholder="e.g. substitute for cream…"
+                 onkeydown="App.handleChatKey(event)" autocomplete="off">
+          <button class="chat-send-btn" onclick="App.sendChatMessage()">&#9650;</button>
+        </div>
+      </aside>
     </div>
+
+    <button class="chat-fab" onclick="App.toggleChat()" title="Ask about this recipe">💬</button>
   `;
+}
+
+function cleanupDetailView() {
+  document.getElementById('app-main').classList.remove('detail-wide');
 }
 
 // ── Edit / Add ──────────────────────────────────────────────────────────────

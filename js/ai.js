@@ -1,7 +1,10 @@
 const AI = {
-  async _call(messages, maxTokens = 4096) {
+  async _call(messages, maxTokens = 4096, system = null) {
     const { claude } = Storage.getConfig();
     if (!claude) throw new Error('No Claude API key configured — add it in Settings.');
+
+    const body = { model: 'claude-opus-4-8', max_tokens: maxTokens, messages };
+    if (system) body.system = system;
 
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -11,7 +14,7 @@ const AI = {
         'anthropic-version': '2023-06-01',
         'anthropic-dangerous-direct-browser-access': 'true',
       },
-      body: JSON.stringify({ model: 'claude-opus-4-8', max_tokens: maxTokens, messages }),
+      body: JSON.stringify(body),
     });
 
     if (!res.ok) {
@@ -82,5 +85,9 @@ Infer tags from the recipe type. Return ONLY valid JSON — no markdown, no expl
 
     const raw = await this._call(messages, 4096);
     return { ...this._newRecipeSkeleton(), ...this._parseJson(raw) };
+  },
+
+  async chat(messages, system) {
+    return await this._call(messages, 1024, system);
   },
 };
