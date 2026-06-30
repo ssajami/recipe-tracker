@@ -42,22 +42,27 @@ const Storage = {
 
   async loadRecipes() {
     const res = await fetch(this._apiUrl('recipes.json'), { headers: this._headers() });
-    if (res.status === 404) return { recipes: [], sha: null };
+    if (res.status === 404) return { recipes: [], pantry: [], sha: null };
     if (!res.ok) {
       if (res.status === 401) throw new Error('GitHub auth failed — check your PAT in Settings.');
       throw new Error(`GitHub API error ${res.status}: ${res.statusText}`);
     }
-    const data = await res.json();
-    return { recipes: JSON.parse(this._b64decode(data.content)), sha: data.sha };
+    const file = await res.json();
+    const data = JSON.parse(this._b64decode(file.content));
+    // Support old format (plain array) and new format ({ recipes, pantry })
+    if (Array.isArray(data)) {
+      return { recipes: data, pantry: [], sha: file.sha };
+    }
+    return { recipes: data.recipes || [], pantry: data.pantry || [], sha: file.sha };
   },
 
-  async saveRecipes(recipes, sha) {
+  async saveRecipes(recipes, pantry, sha) {
     const { pat } = this.getConfig();
     if (!pat) throw new Error('No GitHub PAT configured — add it in Settings.');
 
     const body = {
       message: 'Update recipes',
-      content: this._b64encode(JSON.stringify(recipes, null, 2)),
+      content: this._b64encode(JSON.stringify({ recipes, pantry }, null, 2)),
     };
     if (sha) body.sha = sha;
 

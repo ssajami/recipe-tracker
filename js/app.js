@@ -14,6 +14,9 @@ const state = {
   importPreview: null,  // [{recipe, include: true}, ...]
   syncStatus: 'idle',   // 'idle' | 'loading' | 'saving' | 'error'
   viewHistory: [],
+  pantry: new Set(),
+  shoppingContext: 'single',
+  shoppingSelected: new Set(),
   chatMessages: [],
   chatOpen: false,
   chatLoading: false,
@@ -45,6 +48,14 @@ function tagHtml(t) { return `<span class="tag">${esc(t)}</span>`; }
 
 function uuid() { return crypto.randomUUID(); }
 
+function normalizeIngredient(ing) {
+  return ing
+    .replace(/^[\d¼½¾⅓⅔⅛⅜⅝⅞⅙⅚\s\/\.,-]+/, '')
+    .replace(/^(cups?|tbsps?|tsps?|tablespoons?|teaspoons?|grams?|g\b|kg\b|ml\b|l\b|lbs?|oz\b|ounces?|pounds?|pinch(es)?|dash(es)?|handful|bunch(es)?|cloves?|slices?|pieces?|cans?|jars?|stalks?|sprigs?|heads?|quarts?|pints?)\s+/i, '')
+    .toLowerCase()
+    .trim();
+}
+
 function getAllTags() {
   const set = new Set();
   state.recipes.forEach(r => (r.tags || []).forEach(t => set.add(t)));
@@ -68,6 +79,7 @@ function filterRecipes() {
 
 // ── Toast & Loading ────────────────────────────────────────────────────────
 let toastTimer = null;
+let _pantryTimer = null;
 function toast(msg, type = 'info', ms = 3000) {
   const el = document.getElementById('toast');
   el.textContent = msg;
@@ -195,7 +207,7 @@ const App = {
     updateSyncDot();
     try {
       const latest = await Storage.loadRecipes();
-      state.sha = await Storage.saveRecipes(state.recipes, latest.sha);
+      state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], latest.sha);
       state.syncStatus = 'idle';
       toast('Saved', 'success');
     } catch (err) {
@@ -404,6 +416,57 @@ Answer questions about substitutions, techniques, or anything related to this re
     if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); this.sendChatMessage(); }
   },
 
+  showShoppingList(id) {
+    state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
+    state.detailId = id;
+    state.shoppingContext = 'single';
+    state.view = 'shopping';
+    render();
+  },
+
+  showGlobalShoppingList() {
+    state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
+    state.shoppingContext = 'multi';
+    state.shoppingSelected = new Set(state.recipes.map(r => r.id));
+    state.view = 'shopping';
+    render();
+  },
+
+  toggleShoppingRecipe(id) {
+    if (state.shoppingSelected.has(id)) state.shoppingSelected.delete(id);
+    else state.shoppingSelected.add(id);
+    document.getElementById('shopping-content').innerHTML = renderShoppingContent();
+  },
+
+  togglePantry(key) {
+    if (state.pantry.has(key)) state.pantry.delete(key);
+    else state.pantry.add(key);
+    renderShoppingList();
+    clearTimeout(_pantryTimer);
+    _pantryTimer = setTimeout(() => this._syncSave().catch(() => {}), 1500);
+  },
+
+  async copyShoppingList() {
+    const lines = [];
+    const recipes = state.shoppingContext === 'single'
+      ? state.recipes.filter(r => r.id === state.detailId)
+      : state.recipes.filter(r => state.shoppingSelected.has(r.id));
+
+    for (const r of recipes) {
+      const missing = (r.ingredients || []).filter(ing => !state.pantry.has(normalizeIngredient(ing)));
+      if (!missing.length) continue;
+      if (state.shoppingContext === 'multi') lines.push(`\n${r.title}:`);
+      missing.forEach(ing => lines.push(`• ${ing}`));
+    }
+    if (!lines.length) { toast('Nothing missing!', 'success'); return; }
+    try {
+      await navigator.clipboard.writeText(lines.join('\n').trim());
+      toast('Shopping list copied!', 'success');
+    } catch {
+      toast('Could not copy — try selecting manually', 'error');
+    }
+  },
+
   async togglePin(id, event) {
     event.stopPropagation();
     const recipe = state.recipes.find(r => r.id === id);
@@ -609,16 +672,18 @@ function renderIngredientChecklist(ingredients) {
 function render() {
   if (state.view !== 'detail') cleanupDetailView();
   switch (state.view) {
-    case 'list':   renderList();   break;
-    case 'detail': renderDetail(); break;
-    case 'edit':   renderEdit();   break;
-    case 'import': renderImport(); break;
+    case 'list':     renderList();         break;
+    case 'detail':   renderDetail();       break;
+    case 'edit':     renderEdit();         break;
+    case 'import':   renderImport();       break;
+    case 'shopping': renderShoppingList(); break;
   }
 }
 
 function renderList() {
   updateHeader('My Recipes', false, `
     <span id="sync-dot" class="sync-dot" title="Synced"></span>
+    <button class="icon-btn" title="Shopping list" onclick="App.showGlobalShoppingList()">&#128722;</button>
     <button class="icon-btn" title="Import" onclick="App.showImport()">&#8675;</button>
     <button class="icon-btn" title="Settings" onclick="App.showSettings()">&#9881;</button>
   `);
@@ -743,6 +808,7 @@ function renderDetail() {
 
         <div class="detail-actions">
           <button class="reset-checks-btn" onclick="App.clearCookingChecks()">Reset checks</button>
+          <button class="reset-checks-btn" onclick="App.showShoppingList('${r.id}')">🛒 Shopping list</button>
           <button class="btn-danger" onclick="App.confirmDelete('${r.id}')">Delete recipe</button>
         </div>
       </div>
@@ -957,6 +1023,79 @@ function renderImportPreview() {
   `;
 }
 
+// ── Shopping List ───────────────────────────────────────────────────────────
+function renderShoppingList() {
+  const isMulti = state.shoppingContext === 'multi';
+  const title = isMulti ? 'Shopping List' : 'Shopping List';
+  updateHeader(title, true, `
+    <button class="btn-text" onclick="App.copyShoppingList()">📋 Copy</button>
+  `);
+
+  if (isMulti) {
+    document.getElementById('app-main').innerHTML = `
+      <div class="shopping-view">
+        <p class="help-text" style="margin-bottom:10px">Select recipes to include, then check off what you already have.</p>
+        <div class="shopping-recipe-picker">
+          ${state.recipes.map(r => `
+            <label class="recipe-pick-row">
+              <input type="checkbox" ${state.shoppingSelected.has(r.id) ? 'checked' : ''}
+                     onchange="App.toggleShoppingRecipe('${r.id}')">
+              <span>${esc(r.title)}</span>
+            </label>`).join('')}
+        </div>
+        <div id="shopping-content">${renderShoppingContent()}</div>
+      </div>`;
+  } else {
+    document.getElementById('app-main').innerHTML = `
+      <div class="shopping-view">
+        <div id="shopping-content">${renderShoppingContent()}</div>
+      </div>`;
+  }
+}
+
+function renderShoppingContent() {
+  const recipes = state.shoppingContext === 'single'
+    ? state.recipes.filter(r => r.id === state.detailId)
+    : state.recipes.filter(r => state.shoppingSelected.has(r.id));
+
+  if (!recipes.length) return '<p class="chat-empty">No recipes selected.</p>';
+
+  let totalMissing = 0;
+  const sections = recipes.map(r => {
+    const ings = r.ingredients || [];
+    const missing = ings.filter(ing => !state.pantry.has(normalizeIngredient(ing)));
+    const have   = ings.filter(ing =>  state.pantry.has(normalizeIngredient(ing)));
+    totalMissing += missing.length;
+
+    const missingRows = missing.map(ing => {
+      const key = JSON.stringify(normalizeIngredient(ing));
+      return `<li class="shop-item shop-item--need" onclick="App.togglePantry(${key})">
+        <span class="shop-check">☐</span>
+        <span class="shop-text">${esc(ing)}</span>
+      </li>`;
+    }).join('');
+
+    const haveRows = have.map(ing => {
+      const key = JSON.stringify(normalizeIngredient(ing));
+      return `<li class="shop-item shop-item--have" onclick="App.togglePantry(${key})">
+        <span class="shop-check">✓</span>
+        <span class="shop-text">${esc(ing)}</span>
+      </li>`;
+    }).join('');
+
+    const recipeLabel = state.shoppingContext === 'multi'
+      ? `<h3 class="shop-recipe-title">${esc(r.title)}</h3>` : '';
+
+    return `${recipeLabel}<ul class="shop-list">${missingRows}${haveRows}</ul>`;
+  }).join('');
+
+  const summary = totalMissing === 0
+    ? '<p class="shopping-all-good">You have everything! 🎉</p>'
+    : `<p class="shop-summary">${totalMissing} item${totalMissing > 1 ? 's' : ''} to buy &mdash; tap to mark as available</p>`;
+
+  return summary + sections;
+}
+
 // ── Init ────────────────────────────────────────────────────────────────────
 async function init() {
   // Support clipboard paste for images on the import screen
@@ -981,8 +1120,9 @@ async function init() {
 
   setLoading(true, 'Loading recipes…');
   try {
-    const { recipes, sha } = await Storage.loadRecipes();
+    const { recipes, pantry, sha } = await Storage.loadRecipes();
     state.recipes = recipes;
+    state.pantry = new Set(pantry);
     state.sha = sha;
   } catch (err) {
     toast(err.message, 'error', 6000);
