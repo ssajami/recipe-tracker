@@ -8,6 +8,7 @@ const state = {
   search: '',
   tagFilter: null,
   cookChecked: { ingredients: new Set(), instructions: new Set() },
+  qtyMultiplier: 1,
   importTab: 'text',
   importImageData: null,
   importPreview: null,  // [{recipe, include: true}, ...]
@@ -116,6 +117,7 @@ const App = {
     state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
     state.detailId = id;
     state.cookChecked = { ingredients: new Set(), instructions: new Set() };
+    state.qtyMultiplier = 1;
     state.view = 'detail';
     render();
   },
@@ -333,6 +335,16 @@ const App = {
     document.querySelectorAll('.checklist-item.checked').forEach(el => el.classList.remove('checked'));
   },
 
+  setQuantityMultiplier(m) {
+    state.qtyMultiplier = m;
+    const r = state.recipes.find(x => x.id === state.detailId);
+    if (!r) return;
+    document.getElementById('ingredient-list').innerHTML = renderIngredientChecklist(r.ingredients || []);
+    document.querySelectorAll('.qty-btn').forEach(btn => {
+      btn.classList.toggle('active', Number(btn.dataset.m) === m);
+    });
+  },
+
   // ── Search & Filter ───────────────────────────────────────────────────────
   onSearch(q) {
     state.search = q;
@@ -447,6 +459,50 @@ function reRenderTags() {
   App.updateTagSuggestions(document.getElementById('tag-text-input')?.value || '');
 }
 
+// ── Quantity Scaling ────────────────────────────────────────────────────────
+function formatQty(n) {
+  if (n <= 0) return '0';
+  const whole = Math.floor(n);
+  const rem = n - whole;
+  const fracs = [[1/8,'⅛'],[1/4,'¼'],[1/3,'⅓'],[3/8,'⅜'],[1/2,'½'],[5/8,'⅝'],[2/3,'⅔'],[3/4,'¾'],[7/8,'⅞']];
+  if (rem < 0.04) return String(whole);
+  for (const [val, sym] of fracs) {
+    if (Math.abs(rem - val) < 0.04) return whole > 0 ? `${whole}${sym}` : sym;
+  }
+  const dec = (Math.round(n * 4) / 4).toFixed(2).replace(/\.?0+$/, '');
+  return dec;
+}
+
+function scaleIngredient(text, multiplier) {
+  if (multiplier === 1) return text;
+  // Match mixed number (e.g. "2 1/2"), plain fraction (e.g. "1/2"), or decimal/integer
+  const re = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)/;
+  const m = text.match(re);
+  if (!m) return text;
+  const raw = m[1].trim();
+  let num;
+  if (raw.includes(' ')) {
+    const [w, f] = raw.split(/\s+/);
+    const [fn, fd] = f.split('/');
+    num = parseInt(w) + parseInt(fn) / parseInt(fd);
+  } else if (raw.includes('/')) {
+    const [fn, fd] = raw.split('/');
+    num = parseInt(fn) / parseInt(fd);
+  } else {
+    num = parseFloat(raw);
+  }
+  return text.replace(re, formatQty(num * multiplier));
+}
+
+function renderIngredientChecklist(ingredients) {
+  return ingredients.map((ing, i) => `
+    <li class="checklist-item${state.cookChecked.ingredients.has(i) ? ' checked' : ''}"
+        onclick="App.toggleIngredient(${i})">
+      <div class="check-box"></div>
+      <span class="check-text">${esc(scaleIngredient(ing, state.qtyMultiplier))}</span>
+    </li>`).join('');
+}
+
 // ── Render Functions ────────────────────────────────────────────────────────
 function render() {
   switch (state.view) {
@@ -541,14 +597,17 @@ function renderDetail() {
         </div>` : ''}
 
       <div class="detail-section">
-        <h2>Ingredients <span class="section-hint">(tap to check off)</span></h2>
+        <div class="ingredients-header">
+          <h2>Ingredients <span class="section-hint">(tap to check off)</span></h2>
+          <div class="qty-toggle">
+            ${[['½×', 0.5], ['1×', 1], ['2×', 2]].map(([label, m]) => `
+              <button class="qty-btn${state.qtyMultiplier === m ? ' active' : ''}"
+                      data-m="${m}" onclick="App.setQuantityMultiplier(${m})">${label}</button>
+            `).join('')}
+          </div>
+        </div>
         <ul class="cooking-checklist" id="ingredient-list">
-          ${(r.ingredients || []).map((ing, i) => `
-            <li class="checklist-item${state.cookChecked.ingredients.has(i) ? ' checked' : ''}"
-                onclick="App.toggleIngredient(${i})">
-              <div class="check-box"></div>
-              <span class="check-text">${esc(ing)}</span>
-            </li>`).join('')}
+          ${renderIngredientChecklist(r.ingredients || [])}
         </ul>
       </div>
 

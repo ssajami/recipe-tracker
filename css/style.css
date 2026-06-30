@@ -326,7 +326,7 @@ code { background: #f0ede8; padding: 1px 4px; border-radius: 3px; font-size: 0.8
   font-weight: 700;
   margin-bottom: 12px;
   color: var(--text);
-  display: flex; align-items: center; gap: 8px;
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
 }
 .section-hint { font-size: 0.75rem; font-weight: 400; color: var(--text-muted); }
 
@@ -386,6 +386,24 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   font-weight: 700;
   color: var(--text-muted);
 }
+
+.ingredients-header {
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 8px; margin-bottom: 12px;
+}
+.ingredients-header h2 { margin-bottom: 0; }
+.qty-toggle { display: flex; gap: 4px; }
+.qty-btn {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1.5px solid var(--border);
+  color: var(--text-muted);
+  background: var(--bg);
+}
+.qty-btn:hover { border-color: var(--accent); color: var(--accent); }
+.qty-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
 .notes-text { line-height: 1.6; white-space: pre-wrap; font-size: 0.95rem; }
 .after-notes { border-left: 3px solid var(--star); }
