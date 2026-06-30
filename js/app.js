@@ -502,8 +502,93 @@ Answer questions about substitutions, techniques, or anything related to this re
   // ── Search & Filter ───────────────────────────────────────────────────────
   onSearch(q) {
     state.search = q;
+    state.tagFilter = null;
+    document.getElementById('recipe-grid').innerHTML = renderGrid();
+    this.updateSearchSuggestions(q);
+  },
+
+  updateSearchSuggestions(q) {
+    const el = document.getElementById('search-suggestions');
+    if (!el) return;
+    if (!q.trim()) { el.classList.add('hidden'); return; }
+    const lower = q.toLowerCase();
+    const items = [];
+
+    // Tags
+    getAllTags().filter(t => t.toLowerCase().includes(lower)).slice(0, 4)
+      .forEach(t => items.push({ type: 'tag', value: t }));
+
+    // Recipe titles
+    state.recipes.filter(r => r.title.toLowerCase().includes(lower)).slice(0, 3)
+      .forEach(r => items.push({ type: 'recipe', value: r.title }));
+
+    // Ingredient names (normalized, deduplicated)
+    const seenIng = new Set();
+    outer: for (const r of state.recipes) {
+      for (const ing of (r.ingredients || [])) {
+        const name = normalizeIngredient(ing);
+        if (name.includes(lower) && !seenIng.has(name)) {
+          seenIng.add(name);
+          items.push({ type: 'ingredient', value: name });
+          if (items.filter(i => i.type === 'ingredient').length >= 3) break outer;
+        }
+      }
+    }
+
+    if (!items.length) { el.classList.add('hidden'); return; }
+    el._activeIdx = -1;
+    el.innerHTML = items.map((item, i) =>
+      `<div class="suggestion-item" data-idx="${i}"
+            onmousedown="event.preventDefault()"
+            onclick="App.applySuggestion('${esc(item.value)}')">
+        <span class="suggestion-type">${item.type}</span>
+        <span>${esc(item.value)}</span>
+      </div>`
+    ).join('');
+    el.classList.remove('hidden');
+  },
+
+  applySuggestion(value) {
+    state.search = value;
+    state.tagFilter = null;
+    const el = document.getElementById('search-suggestions');
+    if (el) el.classList.add('hidden');
+    const input = document.querySelector('.search-input');
+    if (input) input.value = value;
     document.getElementById('recipe-grid').innerHTML = renderGrid();
   },
+
+  hideSearchSuggestions() {
+    const el = document.getElementById('search-suggestions');
+    if (el) el.classList.add('hidden');
+  },
+
+  onSearchKey(event) {
+    const el = document.getElementById('search-suggestions');
+    if (!el || el.classList.contains('hidden')) return;
+    const items = el.querySelectorAll('.suggestion-item');
+    if (!items.length) return;
+    let idx = el._activeIdx ?? -1;
+    if (event.key === 'ArrowDown') {
+      event.preventDefault();
+      idx = (idx + 1) % items.length;
+    } else if (event.key === 'ArrowUp') {
+      event.preventDefault();
+      idx = (idx - 1 + items.length) % items.length;
+    } else if (event.key === 'Enter' && idx >= 0) {
+      event.preventDefault();
+      items[idx].click();
+      return;
+    } else if (event.key === 'Escape') {
+      el.classList.add('hidden');
+      return;
+    } else {
+      return;
+    }
+    items.forEach((item, i) => item.classList.toggle('active', i === idx));
+    el._activeIdx = idx;
+  },
+
   setTagFilter(tag) {
     state.tagFilter = tag;
     render();
@@ -715,16 +800,14 @@ function renderList() {
   document.getElementById('app-main').innerHTML = `
     <div class="search-container">
       <input type="search" class="search-input" placeholder="Search recipes, ingredients, tags…"
-             value="${esc(state.search)}" oninput="App.onSearch(this.value)" autocomplete="off">
+             value="${esc(state.search)}"
+             oninput="App.onSearch(this.value)"
+             onfocus="App.updateSearchSuggestions(this.value)"
+             onblur="App.hideSearchSuggestions()"
+             onkeydown="App.onSearchKey(event)"
+             autocomplete="off">
+      <div id="search-suggestions" class="search-suggestions hidden"></div>
     </div>
-    ${allTags.length ? `
-      <div class="tag-filters">
-        <button class="tag-pill${!state.tagFilter ? ' active' : ''}" onclick="App.setTagFilter(null)">All</button>
-        ${allTags.map(t => `
-          <button class="tag-pill${state.tagFilter === t ? ' active' : ''}"
-                  onclick="App.setTagFilter('${esc(t)}')">${esc(t)}</button>
-        `).join('')}
-      </div>` : ''}
     <div id="recipe-grid">${renderGrid()}</div>
     <button class="fab" onclick="App.showAdd()" title="Add recipe">+</button>
   `;
