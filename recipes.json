@@ -3,8 +3,8 @@
     {
       "id": "de7b597c-5427-4843-a489-567e1ec20874",
       "title": "Tiramisu Ice Cream",
-      "servings": "",
-      "source": "ninjacreamidelights",
+      "servings": "creami tub",
+      "source": "@ninjacreamidelights",
       "ingredients": [
         "300ml full cream milk",
         "100g yoghurt",
@@ -28,7 +28,7 @@
         "coffee"
       ],
       "createdAt": "2026-06-30T19:06:21.952Z",
-      "updatedAt": "2026-06-30T19:07:38.643Z"
+      "updatedAt": "2026-06-30T19:08:54.037Z"
     },
     {
       "id": "ae4e9052-08d0-4a8b-a8e9-efbc6413ddab",
