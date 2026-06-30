@@ -224,9 +224,8 @@ const App = {
     try {
       setLoading(true, 'Saving…');
       await this._syncSave();
-      state.detailId = recipe.id;
       state.viewHistory = [];
-      state.view = 'detail';
+      state.view = 'list';
       render();
     } catch (_) { /* toast already shown */ } finally { setLoading(false); }
   },
