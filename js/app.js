@@ -1082,16 +1082,16 @@ function renderShoppingContent() {
     totalMissing += missing.length;
 
     const missingRows = missing.map(ing => {
-      const key = JSON.stringify(normalizeIngredient(ing));
-      return `<li class="shop-item shop-item--need" onclick="App.togglePantry(${key})">
+      const key = normalizeIngredient(ing);
+      return `<li class="shop-item shop-item--need" onclick="App.togglePantry('${esc(key)}')">
         <span class="shop-check">☐</span>
         <span class="shop-text">${esc(ing)}</span>
       </li>`;
     }).join('');
 
     const haveRows = have.map(ing => {
-      const key = JSON.stringify(normalizeIngredient(ing));
-      return `<li class="shop-item shop-item--have" onclick="App.togglePantry(${key})">
+      const key = normalizeIngredient(ing);
+      return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(key)}')">
         <span class="shop-check">✓</span>
         <span class="shop-text">${esc(ing)}</span>
       </li>`;
