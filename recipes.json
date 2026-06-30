@@ -34,15 +34,12 @@
     },
     {
       "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T17:52:05.342Z",
-      "title": "Ninja Creami Strawberry Ricotta High Protein Ice Cream",
-      "servings": "",
+      "title": "Strawberry Ricotta Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "200 g ripe strawberries (weighed after de-hulling)",
-        "350 g smooth ricotta (not deli-style dry)",
+        "350 g smooth ricotta",
         "50 g agave syrup",
         "Pinch of fine salt"
       ],
@@ -52,17 +49,16 @@
         "Process on the ice cream function — needs 3 spins for ideal texture.",
         "Return leftovers to the fridge with the lid on; re-spin before serving."
       ],
-      "prepNotes": "Use lactose-free ricotta for a lactose-free option. 200g mango also tested well as a substitute fruit. High protein, lactose free option.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
-        "high protein",
-        "lactose free option",
-        "vegetarian",
-        "Ninja Creami",
         "strawberry"
       ],
-      "source": ""
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:16:40.113Z"
     },
     {
       "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
