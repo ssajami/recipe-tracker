@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
+    "title": "Chocolate Icecream 1",
+    "servings": "1 tub",
+    "ingredients": [
+      "1/4 cup milk",
+      "1/2 cup cream",
+      "2 1/2 tsp sugar",
+      "2 tsp brown sugar",
+      "10g cocoa powder",
+      "1 tsp vanilla"
+    ],
+    "instructions": [
+      "Heat milk and sugar to melt",
+      "Add cream and vanilla",
+      "Pour into tub"
+    ],
+    "prepNotes": "",
+    "afterPrepNotes": "",
+    "rating": null,
+    "tags": [
+      "icecream",
+      "chocolate",
+      "dessert"
+    ],
+    "createdAt": "2026-06-30T16:34:51.368Z",
+    "updatedAt": "2026-06-30T16:34:51.372Z"
+  }
+]
