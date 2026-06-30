@@ -744,25 +744,34 @@ function parseLeadingNumber(raw) {
   return parseFloat(s);
 }
 
+const _numPat = '\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d*\\.?\\d+';
+
 function scaleIngredient(text, multiplier) {
   if (multiplier === 1) return text;
 
-  // Scale the leading quantity (mixed number, fraction, or decimal)
-  const leadRe = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)/;
-  const leadMatch = text.match(leadRe);
-  let result = leadMatch
-    ? text.replace(leadRe, formatQty(parseLeadingNumber(leadMatch[1]) * multiplier))
-    : text;
-
-  // Scale numbers+units inside parentheses e.g. (150g), (2.5 oz), (500ml)
-  const unitRe = /(\d+(?:[.,]\d+)?)\s*(g|kg|ml|l|oz|lbs?|cups?|tbsps?|tsps?)\b/gi;
-  result = result.replace(/\(([^)]+)\)/g, (_, inner) =>
-    '(' + inner.replace(unitRe, (_, n, unit) =>
+  const parenUnitRe = /(\d+(?:[.,]\d+)?)\s*(g|kg|ml|l|oz|lbs?|cups?|tbsps?|tsps?)\b/gi;
+  const scaleParens = s => s.replace(/\(([^)]+)\)/g, (_, inner) =>
+    '(' + inner.replace(parenUnitRe, (_, n, unit) =>
       formatQty(parseFloat(n.replace(',', '.')) * multiplier) + unit
     ) + ')'
   );
 
-  return result;
+  // Range at start: "1-2 tsp" or "10–15 g" or "1/2–1 cup"
+  const rangeRe = new RegExp(`^(${_numPat})\\s*[-–]\\s*(${_numPat})`);
+  const rangeMatch = text.match(rangeRe);
+  if (rangeMatch) {
+    const scaled = `${formatQty(parseLeadingNumber(rangeMatch[1]) * multiplier)}–${formatQty(parseLeadingNumber(rangeMatch[2]) * multiplier)}`;
+    return scaleParens(text.replace(rangeRe, scaled));
+  }
+
+  // Single leading quantity
+  const leadRe = new RegExp(`^(${_numPat})`);
+  const leadMatch = text.match(leadRe);
+  const result = leadMatch
+    ? text.replace(leadRe, formatQty(parseLeadingNumber(leadMatch[1]) * multiplier))
+    : text;
+
+  return scaleParens(result);
 }
 
 function renderIngredientChecklist(ingredients) {
