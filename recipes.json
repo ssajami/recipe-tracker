@@ -77,38 +77,33 @@
     },
     {
       "id": "5d33ce3d-94ec-424a-a676-6a4f09591773",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:55.905Z",
-      "updatedAt": "2026-06-30T19:15:55.905Z",
-      "title": "Pistachio Ninja Creami",
-      "servings": "",
+      "title": "Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "@pursuitofhealth",
       "ingredients": [
-        "1 + 1/2c milk (I use lactose free milk)",
+        "1 1/2c milk",
         "1/2c roasted pistachios",
         "1 tbsp pistachio spread",
-        "1 tbsp sugar (I use Natvia)",
-        "3 tbsp unflavored or vanilla protein (optional)",
+        "1 tbsp sugar",
+        "3 tbsp vanilla protein",
         "1/2 tsp salt",
         "Mix Ins: Pistachios"
       ],
       "instructions": [
-        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the Creami tub and freeze overnight.",
-        "Mix the prepared Creami on the Lite Ice Cream setting.",
-        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin. Mine took 2 Respins.",
-        "Add in the pistachios and hit Mix In.",
-        "Enjoy immediately."
+        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the tub and freeze overnight.",
+        "Mix the on the Lite Ice Cream setting.",
+        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin.",
+        "Add in the pistachios and hit Mix In."
       ],
-      "prepNotes": "This pistachio ninja creami is currently number 1 on the creami rotation and for good reason!! Freeze overnight before processing.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "ninjacreamirecipes",
         "pistachio",
-        "ice cream",
-        "dessert",
-        "high protein"
+        "ice cream"
       ],
-      "source": "pursuitofhealth"
+      "createdAt": "2026-06-30T19:15:55.905Z",
+      "updatedAt": "2026-06-30T19:19:10.238Z"
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
