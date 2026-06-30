@@ -52,15 +52,18 @@ function getAllTags() {
 }
 
 function filterRecipes() {
-  let list = state.recipes;
+  let list = [...state.recipes];
   if (state.tagFilter) list = list.filter(r => (r.tags || []).includes(state.tagFilter));
-  if (!state.search.trim()) return list;
-  const q = state.search.toLowerCase();
-  return list.filter(r =>
-    [r.title, r.servings, r.prepNotes, r.afterPrepNotes,
-     ...(r.ingredients || []), ...(r.instructions || []), ...(r.tags || [])]
-      .some(f => f && String(f).toLowerCase().includes(q))
-  );
+  if (state.search.trim()) {
+    const q = state.search.toLowerCase();
+    list = list.filter(r =>
+      [r.title, r.servings, r.prepNotes, r.afterPrepNotes,
+       ...(r.ingredients || []), ...(r.instructions || []), ...(r.tags || [])]
+        .some(f => f && String(f).toLowerCase().includes(q))
+    );
+  }
+  list.sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0));
+  return list;
 }
 
 // ── Toast & Loading ────────────────────────────────────────────────────────
@@ -400,6 +403,21 @@ Answer questions about substitutions, techniques, or anything related to this re
     if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); this.sendChatMessage(); }
   },
 
+  async togglePin(id, event) {
+    event.stopPropagation();
+    const recipe = state.recipes.find(r => r.id === id);
+    if (!recipe) return;
+    recipe.pinned = !recipe.pinned;
+    recipe.updatedAt = new Date().toISOString();
+    document.getElementById('recipe-grid').innerHTML = renderGrid();
+    try {
+      await this._syncSave();
+    } catch (_) {
+      recipe.pinned = !recipe.pinned;
+      document.getElementById('recipe-grid').innerHTML = renderGrid();
+    }
+  },
+
   setQuantityMultiplier(m) {
     state.qtyMultiplier = m;
     const r = state.recipes.find(x => x.id === state.detailId);
@@ -645,8 +663,13 @@ function renderCard(r) {
   const tagHtmls = (r.tags || []).slice(0, 3).map(tagHtml).join('');
   const extra = (r.tags || []).length > 3 ? `<span class="tag-more">+${r.tags.length - 3}</span>` : '';
   return `
-    <div class="recipe-card" onclick="App.showDetail('${r.id}')">
-      <div class="recipe-card-title">${esc(r.title)}</div>
+    <div class="recipe-card${r.pinned ? ' pinned' : ''}" onclick="App.showDetail('${r.id}')">
+      <div class="card-title-row">
+        <div class="recipe-card-title">${esc(r.title)}</div>
+        <button class="pin-btn${r.pinned ? ' active' : ''}"
+                onclick="App.togglePin('${r.id}', event)"
+                title="${r.pinned ? 'Unpin' : 'Pin to top'}">📌</button>
+      </div>
       <div class="recipe-card-meta">
         ${r.servings ? `<span>🍽 ${esc(r.servings)}</span>` : ''}
         ${r.rating ? stars(r.rating) : ''}
