@@ -81,38 +81,32 @@
     },
     {
       "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Maple Pumpkin Ninja Creami Ice Cream",
-      "servings": "1 tub (470ml)",
+      "title": "Maple Pumpkin Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "200 g pumpkin puree",
         "75–100 g pure maple syrup",
-        "150 g cream (regular or lactose free)",
-        "75 g milk (regular or lactose free)",
+        "150 g cream",
+        "75 g milk",
         "1–2 tsp pumpkin spice",
         "Pinch of salt"
       ],
       "instructions": [
         "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
-        "Pour into the 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
         "Process on the ice cream function; re-spin if needed.",
         "Return leftovers to the freezer with the lid on."
       ],
       "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "lactose free option",
-        "vegan option",
-        "egg free",
-        "dessert",
         "ice cream",
-        "pumpkin",
-        "autumn",
-        "Ninja Creami"
+        "pumpkin"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:30:12.247Z"
     },
     {
       "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
