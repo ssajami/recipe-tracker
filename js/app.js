@@ -120,7 +120,8 @@ const App = {
     state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
     state.detailId = id;
     state.cookChecked = { ingredients: new Set(), instructions: new Set() };
-    state.qtyMultiplier = 1;
+    const recipe = state.recipes.find(x => x.id === id);
+    state.qtyMultiplier = /creami/i.test(recipe?.servings || '') ? 0.5 : 1;
     state.chatMessages = [];
     state.chatOpen = false;
     state.chatLoading = false;
@@ -309,6 +310,19 @@ const App = {
     } else {
       setTimeout(() => this.updateTagSuggestions(e.target.value), 0);
     }
+  },
+
+  updateServingSuggestions(query) {
+    const box = document.getElementById('serving-suggestions');
+    if (!box) return;
+    const q = query.trim().toLowerCase();
+    const all = [...new Set(state.recipes.map(r => r.servings).filter(Boolean))];
+    const matches = all.filter(s => !q || s.toLowerCase().includes(q));
+    if (!matches.length) { box.classList.add('hidden'); return; }
+    box.innerHTML = matches.map(s =>
+      `<button type="button" class="tag-suggestion" onclick="document.getElementById('edit-servings').value='${esc(s)}';App.updateServingSuggestions('')">${esc(s)}</button>`
+    ).join('');
+    box.classList.remove('hidden');
   },
 
   updateTagSuggestions(query) {
@@ -749,7 +763,9 @@ function renderEdit() {
       </div>
       <div class="form-group">
         <label>Servings</label>
-        <input type="text" id="edit-servings" value="${esc(r?.servings || '')}" placeholder="e.g. 4 servings">
+        <input type="text" id="edit-servings" value="${esc(r?.servings || '')}" placeholder="e.g. 4 servings"
+               oninput="App.updateServingSuggestions(this.value)" onfocus="App.updateServingSuggestions(this.value)" autocomplete="off">
+        <div id="serving-suggestions" class="tag-suggestions hidden"></div>
       </div>
       <div class="form-group">
         <label>Rating</label>
