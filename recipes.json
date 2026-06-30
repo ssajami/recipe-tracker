@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:54:33.740Z",
-      "updatedAt": "2026-06-30T18:54:33.749Z",
-      "title": "Cafe Latte",
+      "title": "Cafe Latte 1",
       "servings": "1",
+      "source": "creami_delights",
       "ingredients": [
         "50 g low fat ricotta cheese",
         "1 tsp Nescafé Gold Espresso instant coffee",
@@ -20,6 +17,8 @@
         "Spin on light ice cream setting. Add 2 tbsp vanilla shake and re-spin"
       ],
       "prepNotes": "Nutrition: 252 calories, 38 g protein, 15g carbs",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "healthylifestyle",
         "protein",
@@ -29,7 +28,8 @@
         "dessert",
         "highprotein"
       ],
-      "source": "creami_delights"
+      "createdAt": "2026-06-30T18:54:33.740Z",
+      "updatedAt": "2026-06-30T18:55:09.535Z"
     },
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
