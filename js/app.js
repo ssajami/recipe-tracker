@@ -638,25 +638,39 @@ function formatQty(n) {
   return n.toFixed(2).replace(/\.?0+$/, '');
 }
 
+function parseLeadingNumber(raw) {
+  const s = raw.trim();
+  if (s.includes(' ')) {
+    const [w, f] = s.split(/\s+/);
+    const [fn, fd] = f.split('/');
+    return parseInt(w) + parseInt(fn) / parseInt(fd);
+  }
+  if (s.includes('/')) {
+    const [fn, fd] = s.split('/');
+    return parseInt(fn) / parseInt(fd);
+  }
+  return parseFloat(s);
+}
+
 function scaleIngredient(text, multiplier) {
   if (multiplier === 1) return text;
-  // Match mixed number (e.g. "2 1/2"), plain fraction (e.g. "1/2"), or decimal/integer
-  const re = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)/;
-  const m = text.match(re);
-  if (!m) return text;
-  const raw = m[1].trim();
-  let num;
-  if (raw.includes(' ')) {
-    const [w, f] = raw.split(/\s+/);
-    const [fn, fd] = f.split('/');
-    num = parseInt(w) + parseInt(fn) / parseInt(fd);
-  } else if (raw.includes('/')) {
-    const [fn, fd] = raw.split('/');
-    num = parseInt(fn) / parseInt(fd);
-  } else {
-    num = parseFloat(raw);
-  }
-  return text.replace(re, formatQty(num * multiplier));
+
+  // Scale the leading quantity (mixed number, fraction, or decimal)
+  const leadRe = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)/;
+  const leadMatch = text.match(leadRe);
+  let result = leadMatch
+    ? text.replace(leadRe, formatQty(parseLeadingNumber(leadMatch[1]) * multiplier))
+    : text;
+
+  // Scale numbers+units inside parentheses e.g. (150g), (2.5 oz), (500ml)
+  const unitRe = /(\d+(?:[.,]\d+)?)\s*(g|kg|ml|l|oz|lbs?|cups?|tbsps?|tsps?)\b/gi;
+  result = result.replace(/\(([^)]+)\)/g, (_, inner) =>
+    '(' + inner.replace(unitRe, (_, n, unit) =>
+      formatQty(parseFloat(n.replace(',', '.')) * multiplier) + unit
+    ) + ')'
+  );
+
+  return result;
 }
 
 function renderIngredientChecklist(ingredients) {
