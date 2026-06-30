@@ -438,6 +438,16 @@ Answer questions about substitutions, techniques, or anything related to this re
     document.getElementById('shopping-content').innerHTML = renderShoppingContent();
   },
 
+  deselectAllRecipes() {
+    state.shoppingSelected.clear();
+    renderShoppingList();
+  },
+
+  selectPinnedRecipes() {
+    state.shoppingSelected = new Set(state.recipes.filter(r => r.pinned).map(r => r.id));
+    renderShoppingList();
+  },
+
   togglePantry(key) {
     if (state.pantry.has(key)) state.pantry.delete(key);
     else state.pantry.add(key);
@@ -1201,13 +1211,19 @@ function renderShoppingList() {
   if (isMulti) {
     document.getElementById('app-main').innerHTML = `
       <div class="shopping-view">
-        <p class="help-text" style="margin-bottom:10px">Select recipes to include, then check off what you already have.</p>
+        <div class="shop-picker-header">
+          <span class="help-text">Select recipes to include:</span>
+          <div class="shop-picker-actions">
+            <button class="btn-text-sm" onclick="App.deselectAllRecipes()">Deselect all</button>
+            <button class="btn-text-sm" onclick="App.selectPinnedRecipes()">Pinned only</button>
+          </div>
+        </div>
         <div class="shopping-recipe-picker">
           ${state.recipes.map(r => `
             <label class="recipe-pick-row">
               <input type="checkbox" ${state.shoppingSelected.has(r.id) ? 'checked' : ''}
                      onchange="App.toggleShoppingRecipe('${r.id}')">
-              <span>${esc(r.title)}</span>
+              <span>${r.pinned ? '📌 ' : ''}${esc(r.title)}</span>
             </label>`).join('')}
         </div>
         <div id="shopping-content">${renderShoppingContent()}</div>
