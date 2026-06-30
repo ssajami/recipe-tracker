@@ -1,6 +1,258 @@
 {
   "recipes": [
     {
+      "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami Frozen Yoghurt (High Protein)",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "400 g high protein sweetened yoghurt (e.g. Chobani Fit, Danone YoPro high protein vanilla)",
+        "25–50 g light agave syrup or pure maple syrup",
+        "0.5 g (lightly heaped 1/8 tsp) xanthan gum",
+        "100 g milk of choice"
+      ],
+      "instructions": [
+        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the 470ml tub.",
+        "Freeze 16–24 hours with the lid off.",
+        "Let sit on the bench 5–15 minutes before processing.",
+        "Process on the light ice cream function — generally needs two spins.",
+        "Store leftovers in the freezer with the lid on."
+      ],
+      "prepNotes": "Works with vegan yoghurt and milk. Use a yoghurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yoghurt + high protein skim milk.",
+      "tags": [
+        "high protein",
+        "lactose free",
+        "gluten free",
+        "vegan option",
+        "low FODMAP option",
+        "frozen yoghurt",
+        "dessert",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami Cookie Dough Ice Cream",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "200 g thickened cream",
+        "150 g sweetened condensed milk (not evaporated milk)",
+        "100 g full fat milk",
+        "1 tsp vanilla bean paste or extract",
+        "100 g butter",
+        "100 g light brown sugar",
+        "20–40 ml + 1–2 tbsp milk of choice, as needed",
+        "150–175 g heat-treated tapioca flour/starch",
+        "1 tsp vanilla bean paste or extract",
+        "Pinch of fine salt",
+        "100 g finely chopped dark chocolate"
+      ],
+      "instructions": [
+        "Vanilla ice cream: Whisk ingredients together in a bowl, let sit 5 minutes, whisk again.",
+        "Pour into a 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Cookie dough (30–60 min before processing): Brown the butter in a saucepan over low-medium heat until golden and nutty-smelling.",
+        "Pour over brown sugar in a heatproof bowl; cool 5 minutes.",
+        "Add 1 tbsp milk and stir to a syrupy brown liquid.",
+        "Add tapioca flour in batches until it forms a non-oily, rollable dough (add more milk if it crumbles).",
+        "Cool, then stir in chopped chocolate. Roll into balls or leave as crumbles; chill at least 10 minutes.",
+        "To assemble: Process the frozen ice cream base on the ice cream function (re-spin if balled up).",
+        "Fold chilled cookie dough into the spun ice cream in a large bowl.",
+        "Pack back into the tub; freeze ~20 minutes until firm. Serve.",
+        "Return leftovers to the fridge with the lid on."
+      ],
+      "prepNotes": "Cookie dough should be prepared 30–60 minutes before processing the ice cream base.",
+      "tags": [
+        "gluten free",
+        "low FODMAP option",
+        "dessert",
+        "ice cream",
+        "cookie dough",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Maple Pumpkin Ninja Creami Ice Cream",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "200 g pumpkin puree",
+        "75–100 g pure maple syrup",
+        "150 g cream (regular or lactose free)",
+        "75 g milk (regular or lactose free)",
+        "1–2 tsp pumpkin spice",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
+        "Pour into the 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; re-spin if needed.",
+        "Return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
+      "tags": [
+        "lactose free option",
+        "vegan option",
+        "egg free",
+        "dessert",
+        "ice cream",
+        "pumpkin",
+        "autumn",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami High Protein Sticky Date Ice Cream",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "100 g regular pitted dates, finely chopped",
+        "3–5 g baking soda",
+        "100 g boiling water",
+        "300 g milk of choice",
+        "Pinch of fine salt",
+        "1/2–1 tsp vanilla bean extract, to taste",
+        "30 g whey protein isolate with minimal sweetener"
+      ],
+      "instructions": [
+        "Place chopped dates in a heatproof bowl; sprinkle with baking soda and pour over boiling water. Stir and cool.",
+        "Transfer cooled date paste to a food processor with milk, salt, and vanilla; blend to desired consistency.",
+        "Return mixture to the bowl and whisk in the whey protein isolate (do not blend the protein — it gets too frothy).",
+        "Pour into the 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Process on the light ice cream function; re-spin if needed. Serve immediately; return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "3g baking soda for subtle flavour, 5g for a classic sticky date note. Do not substitute baking powder. Avoid high-sugar protein powders — too much sugar will prevent proper freezing.",
+      "tags": [
+        "high protein",
+        "gluten free",
+        "low FODMAP option",
+        "low lactose option",
+        "dessert",
+        "ice cream",
+        "sticky date",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "a7a16492-c48c-4ffa-af80-915b97b74919",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami Watermelon Sorbet",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "400 g watermelon, chopped into small cubes",
+        "50–75 g light agave syrup, to taste",
+        "25 g lime juice (or more, to taste)",
+        "Lime zest, to taste (optional)",
+        "Tiny pinch fine salt (optional)",
+        "1–1.5 g xanthan gum (optional)"
+      ],
+      "instructions": [
+        "Blend all ingredients (and optional add-ins) until completely smooth.",
+        "Pour into the 470ml tub (don't exceed fill line) and freeze with the lid off, 16–24 hours.",
+        "Process on the gelato function; re-spin once or twice as needed.",
+        "Return leftovers to the freezer with the lid on; re-spin on the gelato function before eating."
+      ],
+      "prepNotes": "",
+      "tags": [
+        "vegan",
+        "gluten free",
+        "dairy free",
+        "sorbet",
+        "dessert",
+        "watermelon",
+        "summer",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "ead8c3a9-2c44-48f8-acb2-533f692e997f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami Coffee Ice Cream",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "150 g sweetened condensed milk",
+        "50 g fresh espresso, cooled for 5 minutes",
+        "200 g full fat cream (35% butterfat)",
+        "100 g full fat milk (regular or lactose free)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together in a bowl until completely smooth.",
+        "Pour into the 470ml tub; optionally chill in the fridge 3 hours to minimise the hump, then freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; smooth a balled-up top with a spoon, or re-spin once if powdery (avoid over-processing — it can split the cream).",
+        "Return leftovers to the freezer with the lid on; let soften slightly on the bench before eating."
+      ],
+      "prepNotes": "",
+      "tags": [
+        "gluten free",
+        "lactose free option",
+        "dessert",
+        "ice cream",
+        "coffee",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
+      "id": "fb1ac5e1-e962-407b-a98f-dc3eafca0267",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:26:09.465Z",
+      "title": "Ninja Creami Coconut Ice Cream",
+      "servings": "1 tub (470ml)",
+      "ingredients": [
+        "175–200 g full fat coconut cream",
+        "175–200 g full fat or light coconut milk",
+        "80–100 g coconut condensed milk",
+        "Pinch of salt",
+        "Dash of vanilla bean paste or extract (optional)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together; taste and adjust salt/vanilla.",
+        "Pour into the 470ml tub and freeze with the lid off, 12–24 hours.",
+        "Let thaw 10 minutes before processing (optional, reduces need to re-spin).",
+        "Process on the ice cream function; re-process (no added liquid) if powdery or balled up.",
+        "Store leftovers in the freezer with the lid on."
+      ],
+      "prepNotes": "Choose coconut cream with ~20–25g fat per 100g. Can be low FODMAP in serves of 1/2 tub or less depending on condensed milk used.",
+      "tags": [
+        "dairy free",
+        "egg free",
+        "vegan",
+        "low FODMAP option",
+        "dessert",
+        "ice cream",
+        "coconut",
+        "Ninja Creami"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
       "id": "76711da0-b3dc-435c-9660-1e174671a060",
       "title": "Custard Ice Cream",
       "servings": "creami tub",
