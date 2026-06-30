@@ -1,349 +1,354 @@
-[
-  {
-    "id": "76711da0-b3dc-435c-9660-1e174671a060",
-    "title": "Custard Ice Cream",
-    "servings": "creami tub",
-    "source": "georgeats.com",
-    "ingredients": [
-      "3 extra large eggs (150g out of shell)",
-      "75 g caster/superfine sugar",
-      "75 g thickened cream (30–35% fat)",
-      "300 g full fat (high protein) milk",
-      "1 tsp vanilla bean extract",
-      "Pinch fine salt"
-    ],
-    "instructions": [
-      "Whisk eggs, sugar, and cream together in a heat-proof bowl.",
-      "Heat milk, vanilla, and salt in a saucepan until hot and just below a simmer.",
-      "Slowly pour the hot milk into the egg mixture while whisking.",
-      "Pour the combined mixture back into the saucepan and cook over low/medium heat, stirring constantly, until it thickens slightly (about 70°C, ~5 minutes).",
-      "If it starts to clump, remove from heat immediately and whisk vigorously; transfer out of the pot to stop cooking.",
-      "Cool slightly, then transfer to the tub and freeze 16–24 hours with the lid off.",
-      "Spin on the ice cream function — needs two full spins to be perfect."
-    ],
-    "prepNotes": "4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
-    "afterPrepNotes": "",
-    "rating": null,
-    "tags": [
-      "dessert",
-      "ice cream"
-    ],
-    "createdAt": "2026-06-30T17:52:05.342Z",
-    "updatedAt": "2026-06-30T18:01:24.331Z"
-  },
-  {
-    "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:52:05.342Z",
-    "updatedAt": "2026-06-30T17:52:05.342Z",
-    "title": "Ninja Creami Strawberry Ricotta High Protein Ice Cream",
-    "servings": "",
-    "ingredients": [
-      "200 g ripe strawberries (weighed after de-hulling)",
-      "350 g smooth ricotta (not deli-style dry)",
-      "50 g agave syrup",
-      "Pinch of fine salt"
-    ],
-    "instructions": [
-      "Blend strawberries to a smooth puree. Add remaining ingredients and pulse to combine until smooth and light pink.",
-      "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
-      "Process on the ice cream function — needs 3 spins for ideal texture.",
-      "Return leftovers to the fridge with the lid on; re-spin before serving."
-    ],
-    "prepNotes": "Use lactose-free ricotta for a lactose-free option. 200g mango also tested well as a substitute fruit. High protein, lactose free option.",
-    "tags": [
-      "dessert",
-      "ice cream",
-      "high protein",
-      "lactose free option",
-      "vegetarian",
-      "Ninja Creami",
-      "strawberry"
-    ],
-    "source": ""
-  },
-  {
-    "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:52:05.342Z",
-    "updatedAt": "2026-06-30T17:52:05.342Z",
-    "title": "Ninja Creami Chocolate Caramel Ice Cream",
-    "servings": "",
-    "ingredients": [
-      "10–15 g Dutch processed cocoa",
-      "60 g boiling water",
-      "200 g Top 'N Fill caramel or dulce de leche",
-      "125 g thickened cream (30–35% fat)",
-      "150 g milk of choice",
-      "Pinch of fine salt"
-    ],
-    "instructions": [
-      "Whisk cocoa with boiling water in a saucepan to remove clumps.",
-      "Add remaining ingredients and whisk to combine; crush any caramel chunks.",
-      "Cook on low heat 2–5 minutes until caramel is dissolved. Cool slightly.",
-      "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
-      "Process on the ice cream function — may need two spins.",
-      "Mix in chopped chocolate caramel eggs by hand (not via the mix-in function).",
-      "Return leftovers to the freezer with the lid on."
-    ],
-    "prepNotes": "Caramel sauce or homemade caramel are NOT suitable replacements for Top 'N Fill caramel/dulce de leche. Lower lactose option, nut free.",
-    "tags": [
-      "dessert",
-      "ice cream",
-      "chocolate",
-      "caramel",
-      "nut free",
-      "lower lactose",
-      "Ninja Creami"
-    ],
-    "source": ""
-  },
-  {
-    "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:52:05.342Z",
-    "updatedAt": "2026-06-30T17:52:05.342Z",
-    "title": "Sugar Free Strawberry Ninja Creami Ice Cream",
-    "servings": "",
-    "ingredients": [
-      "300 g fresh strawberries, weighed after hulling",
-      "100–125 g pure granulated allulose",
-      "125–150 g thickened cream, 35% milkfat",
-      "Optional: Tiny dash balsamic vinegar",
-      "Optional: Few cracks freshly cracked black pepper",
-      "Optional: Tiny pinch fine salt"
-    ],
-    "instructions": [
-      "Hull, chop, and mash strawberries in a pot to release liquid.",
-      "Add allulose and stir to combine.",
-      "Cook over medium heat 2–3 minutes until allulose dissolves and mixture is a vibrant red coulis. Stir in any flavour boosters, then cool 15 minutes.",
-      "Transfer cooled mixture to the 470ml tub.",
-      "Add cream and mix thoroughly.",
-      "Freeze with the lid off, 16–24 hours.",
-      "Process on the ice cream function — should be perfect on first spin with 100–125g allulose.",
-      "Return leftovers to the fridge with the lid on."
-    ],
-    "prepNotes": "Do not exceed 125g allulose — the mixture won't set. Less sweet strawberries may need more allulose; very sweet ones may need only 75–100g. Sugar free, diabetic friendly, keto friendly, gluten free, dairy free/vegan option.",
-    "tags": [
-      "dessert",
-      "ice cream",
-      "sugar free",
-      "diabetic friendly",
-      "keto",
-      "gluten free",
-      "dairy free option",
-      "vegan option",
-      "strawberry",
-      "Ninja Creami"
-    ],
-    "source": ""
-  },
-  {
-    "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:52:05.342Z",
-    "updatedAt": "2026-06-30T17:52:05.342Z",
-    "title": "Sugar Free Ninja Creami Lemon Sorbet",
-    "servings": "",
-    "ingredients": [
-      "80–100 g pure allulose",
-      "0.5–1 g stevia powder",
-      "Zest of two lemons",
-      "325 g water",
-      "Pinch of fine salt",
-      "75–100 g lemon juice, to taste"
-    ],
-    "instructions": [
-      "Mix allulose and stevia in a saucepan; rub in lemon zest.",
-      "Add water and salt, then lemon juice to taste.",
-      "Cook 1–3 minutes until allulose dissolves. Cool slightly.",
-      "Pour into the 470ml tub and freeze with the lid off, 24 hours.",
-      "Process on the sorbet function; re-spin once if needed (avoid spinning twice — can make it too soft).",
-      "Return leftovers to the freezer with the lid on; re-process before eating."
-    ],
-    "prepNotes": "Use common sour lemons rather than Meyer/Lemonade lemons for the classic tart flavour.",
-    "tags": [
-      "dessert",
-      "sorbet",
-      "sugar free",
-      "gluten free",
-      "dairy free",
-      "vegan",
-      "lemon",
-      "Ninja Creami"
-    ],
-    "source": ""
-  },
-  {
-    "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
-    "title": "Healthier Orange Creamsicle Protein Ice Cream",
-    "servings": "creami tub",
-    "source": "insta: ninja_creami_recipes",
-    "ingredients": [
-      "1 cup orange juice",
-      "1/2 cup 2% milk",
-      "1 scoop vanilla whey protein"
-    ],
-    "instructions": [
-      "Combine ingredients and freeze 12–24 hours.",
-      "Spin on the Lite Ice Cream setting.",
-      "Add 1 tbsp milk and re-spin 1–2x until smooth."
-    ],
-    "prepNotes": "tastes like a copycat DQ Orange Julius",
-    "afterPrepNotes": "",
-    "rating": null,
-    "tags": [
-      "dessert",
-      "ice cream"
-    ],
-    "createdAt": "2026-06-30T17:29:44.270Z",
-    "updatedAt": "2026-06-30T17:40:54.862Z",
-    "pinned": false
-  },
-  {
-    "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
-    "title": "**Apple Butter Biscoff Protein Ice Cream",
-    "servings": "creami tub",
-    "source": "insta: ninja_creami_recipes",
-    "ingredients": [
-      "1 cup milk",
-      "1/2 scoop JI Salted Caramel protein",
-      "1/2 scoop LeanFit vanilla protein",
-      "1–2 tbsp apple butter or apple pie filling",
-      "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)",
-      "2 Biscoff cookies (mix-in)",
-      "1 tbsp apple butter (mix-in)"
-    ],
-    "instructions": [
-      "Mix base ingredients together in a Ninja Creami pint and freeze 24 hours.",
-      "Once frozen, spin on the Lite Ice Cream setting.",
-      "Respin if needed.",
-      "Add in apple butter and Biscoff cookies as mix-ins and spin on respin."
-    ],
-    "prepNotes": "",
-    "afterPrepNotes": "",
-    "rating": null,
-    "tags": [
-      "dessert",
-      "ice cream",
-      "apples",
-      "biscoff"
-    ],
-    "createdAt": "2026-06-30T17:29:44.270Z",
-    "updatedAt": "2026-06-30T17:44:22.171Z"
-  },
-  {
-    "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
-    "title": "Sweet Potato Ice Cream",
-    "servings": "creami tub",
-    "source": "georgeats.com",
-    "ingredients": [
-      "200 g sweet potato puree",
-      "150 g sweetened condensed milk (not evaporated milk)",
-      "100 g thickened cream (30–35% fat)",
-      "75 g full fat milk",
-      "Good pinch of fine salt",
-      "1/2–3/4 tsp pumpkin spice (optional)"
-    ],
-    "instructions": [
-      "Whisk all ingredients together until smooth and spices are integrated.",
-      "Pour into the tub and freeze 16–24 hours with the lid off.",
-      "Process on the ice cream function. Re-spin for a fluffier texture if desired."
-    ],
-    "prepNotes": "Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested.",
-    "afterPrepNotes": "",
-    "rating": null,
-    "tags": [
-      "dessert",
-      "ice cream",
-      "sweet potato"
-    ],
-    "createdAt": "2026-06-30T17:29:44.270Z",
-    "updatedAt": "2026-06-30T17:50:21.996Z"
-  },
-  {
-    "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
-    "title": "Classic Ice Cream Base Recipe",
-    "servings": "creami tub",
-    "source": "insta: ninja_creami_recipes",
-    "ingredients": [
-      "1 cup 2% + milk",
-      "1 tbsp cream cheese (optional — makes the ice cream thicker)",
-      "1/4 cup heavy cream",
-      "1/4 cup granulated sugar"
-    ],
-    "instructions": [
-      "Mix all ingredients together in a pint tub and freeze 24 hours",
-      "Once frozen, spin on the ice cream setting.",
-      "The ice cream will come out slightly crumbly — add 1 tbsp milk and respin."
-    ],
-    "prepNotes": "For a thicker, still-creamy texture, freeze an additional 1–3 hours.",
-    "afterPrepNotes": "",
-    "rating": null,
-    "tags": [
-      "dessert",
-      "ice cream"
-    ],
-    "createdAt": "2026-06-30T17:10:58.648Z",
-    "updatedAt": "2026-06-30T17:46:19.745Z"
-  },
-  {
-    "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
-    "title": "Peanut Butter Icecream",
-    "servings": "1 tub",
-    "source": "",
-    "ingredients": [
-      "1/3 cup milk",
-      "2/3 cup cream",
-      "30g pb powder",
-      "5 tbsp sugar syrup",
-      "1/2 tsp vanilla"
-    ],
-    "instructions": [
-      "mix all and pour in tub"
-    ],
-    "prepNotes": "",
-    "afterPrepNotes": "",
-    "rating": 4,
-    "tags": [
-      "dessert",
-      "peanut butter",
-      "ice cream"
-    ],
-    "createdAt": "2026-06-30T16:43:37.207Z",
-    "updatedAt": "2026-06-30T17:44:58.165Z"
-  },
-  {
-    "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
-    "title": "Chocolate Icecream 1",
-    "servings": "1 tub",
-    "source": "",
-    "ingredients": [
-      "1/4 cup milk",
-      "1/2 cup cream",
-      "2 1/2 tsp sugar",
-      "2 tsp brown sugar",
-      "10g cocoa powder",
-      "1 tsp vanilla"
-    ],
-    "instructions": [
-      "Heat milk and sugar to melt",
-      "Add cream and vanilla",
-      "Pour into tub"
-    ],
-    "prepNotes": "",
-    "afterPrepNotes": "",
-    "rating": 3,
-    "tags": [
-      "chocolate",
-      "dessert",
-      "ice cream"
-    ],
-    "createdAt": "2026-06-30T16:34:51.368Z",
-    "updatedAt": "2026-06-30T17:45:08.583Z"
-  }
-]
+{
+  "recipes": [
+    {
+      "id": "76711da0-b3dc-435c-9660-1e174671a060",
+      "title": "Custard Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "3 extra large eggs (150g out of shell)",
+        "75 g caster/superfine sugar",
+        "75 g thickened cream (30–35% fat)",
+        "300 g full fat (high protein) milk",
+        "1 tsp vanilla bean extract",
+        "Pinch fine salt"
+      ],
+      "instructions": [
+        "Whisk eggs, sugar, and cream together in a heat-proof bowl.",
+        "Heat milk, vanilla, and salt in a saucepan until hot and just below a simmer.",
+        "Slowly pour the hot milk into the egg mixture while whisking.",
+        "Pour the combined mixture back into the saucepan and cook over low/medium heat, stirring constantly, until it thickens slightly (about 70°C, ~5 minutes).",
+        "If it starts to clump, remove from heat immediately and whisk vigorously; transfer out of the pot to stop cooking.",
+        "Cool slightly, then transfer to the tub and freeze 16–24 hours with the lid off.",
+        "Spin on the ice cream function — needs two full spins to be perfect."
+      ],
+      "prepNotes": "4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "dessert",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:01:24.331Z"
+    },
+    {
+      "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T17:52:05.342Z",
+      "title": "Ninja Creami Strawberry Ricotta High Protein Ice Cream",
+      "servings": "",
+      "ingredients": [
+        "200 g ripe strawberries (weighed after de-hulling)",
+        "350 g smooth ricotta (not deli-style dry)",
+        "50 g agave syrup",
+        "Pinch of fine salt"
+      ],
+      "instructions": [
+        "Blend strawberries to a smooth puree. Add remaining ingredients and pulse to combine until smooth and light pink.",
+        "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function — needs 3 spins for ideal texture.",
+        "Return leftovers to the fridge with the lid on; re-spin before serving."
+      ],
+      "prepNotes": "Use lactose-free ricotta for a lactose-free option. 200g mango also tested well as a substitute fruit. High protein, lactose free option.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high protein",
+        "lactose free option",
+        "vegetarian",
+        "Ninja Creami",
+        "strawberry"
+      ],
+      "source": ""
+    },
+    {
+      "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T17:52:05.342Z",
+      "title": "Ninja Creami Chocolate Caramel Ice Cream",
+      "servings": "",
+      "ingredients": [
+        "10–15 g Dutch processed cocoa",
+        "60 g boiling water",
+        "200 g Top 'N Fill caramel or dulce de leche",
+        "125 g thickened cream (30–35% fat)",
+        "150 g milk of choice",
+        "Pinch of fine salt"
+      ],
+      "instructions": [
+        "Whisk cocoa with boiling water in a saucepan to remove clumps.",
+        "Add remaining ingredients and whisk to combine; crush any caramel chunks.",
+        "Cook on low heat 2–5 minutes until caramel is dissolved. Cool slightly.",
+        "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function — may need two spins.",
+        "Mix in chopped chocolate caramel eggs by hand (not via the mix-in function).",
+        "Return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "Caramel sauce or homemade caramel are NOT suitable replacements for Top 'N Fill caramel/dulce de leche. Lower lactose option, nut free.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "chocolate",
+        "caramel",
+        "nut free",
+        "lower lactose",
+        "Ninja Creami"
+      ],
+      "source": ""
+    },
+    {
+      "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T17:52:05.342Z",
+      "title": "Sugar Free Strawberry Ninja Creami Ice Cream",
+      "servings": "",
+      "ingredients": [
+        "300 g fresh strawberries, weighed after hulling",
+        "100–125 g pure granulated allulose",
+        "125–150 g thickened cream, 35% milkfat",
+        "Optional: Tiny dash balsamic vinegar",
+        "Optional: Few cracks freshly cracked black pepper",
+        "Optional: Tiny pinch fine salt"
+      ],
+      "instructions": [
+        "Hull, chop, and mash strawberries in a pot to release liquid.",
+        "Add allulose and stir to combine.",
+        "Cook over medium heat 2–3 minutes until allulose dissolves and mixture is a vibrant red coulis. Stir in any flavour boosters, then cool 15 minutes.",
+        "Transfer cooled mixture to the 470ml tub.",
+        "Add cream and mix thoroughly.",
+        "Freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function — should be perfect on first spin with 100–125g allulose.",
+        "Return leftovers to the fridge with the lid on."
+      ],
+      "prepNotes": "Do not exceed 125g allulose — the mixture won't set. Less sweet strawberries may need more allulose; very sweet ones may need only 75–100g. Sugar free, diabetic friendly, keto friendly, gluten free, dairy free/vegan option.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "sugar free",
+        "diabetic friendly",
+        "keto",
+        "gluten free",
+        "dairy free option",
+        "vegan option",
+        "strawberry",
+        "Ninja Creami"
+      ],
+      "source": ""
+    },
+    {
+      "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T17:52:05.342Z",
+      "title": "Sugar Free Ninja Creami Lemon Sorbet",
+      "servings": "",
+      "ingredients": [
+        "80–100 g pure allulose",
+        "0.5–1 g stevia powder",
+        "Zest of two lemons",
+        "325 g water",
+        "Pinch of fine salt",
+        "75–100 g lemon juice, to taste"
+      ],
+      "instructions": [
+        "Mix allulose and stevia in a saucepan; rub in lemon zest.",
+        "Add water and salt, then lemon juice to taste.",
+        "Cook 1–3 minutes until allulose dissolves. Cool slightly.",
+        "Pour into the 470ml tub and freeze with the lid off, 24 hours.",
+        "Process on the sorbet function; re-spin once if needed (avoid spinning twice — can make it too soft).",
+        "Return leftovers to the freezer with the lid on; re-process before eating."
+      ],
+      "prepNotes": "Use common sour lemons rather than Meyer/Lemonade lemons for the classic tart flavour.",
+      "tags": [
+        "dessert",
+        "sorbet",
+        "sugar free",
+        "gluten free",
+        "dairy free",
+        "vegan",
+        "lemon",
+        "Ninja Creami"
+      ],
+      "source": ""
+    },
+    {
+      "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
+      "title": "Healthier Orange Creamsicle Protein Ice Cream",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup orange juice",
+        "1/2 cup 2% milk",
+        "1 scoop vanilla whey protein"
+      ],
+      "instructions": [
+        "Combine ingredients and freeze 12–24 hours.",
+        "Spin on the Lite Ice Cream setting.",
+        "Add 1 tbsp milk and re-spin 1–2x until smooth."
+      ],
+      "prepNotes": "tastes like a copycat DQ Orange Julius",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "dessert",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T17:40:54.862Z",
+      "pinned": false
+    },
+    {
+      "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
+      "title": "**Apple Butter Biscoff Protein Ice Cream",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup milk",
+        "1/2 scoop JI Salted Caramel protein",
+        "1/2 scoop LeanFit vanilla protein",
+        "1–2 tbsp apple butter or apple pie filling",
+        "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)",
+        "2 Biscoff cookies (mix-in)",
+        "1 tbsp apple butter (mix-in)"
+      ],
+      "instructions": [
+        "Mix base ingredients together in a Ninja Creami pint and freeze 24 hours.",
+        "Once frozen, spin on the Lite Ice Cream setting.",
+        "Respin if needed.",
+        "Add in apple butter and Biscoff cookies as mix-ins and spin on respin."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "dessert",
+        "ice cream",
+        "apples",
+        "biscoff"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T17:44:22.171Z"
+    },
+    {
+      "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
+      "title": "Sweet Potato Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "200 g sweet potato puree",
+        "150 g sweetened condensed milk (not evaporated milk)",
+        "100 g thickened cream (30–35% fat)",
+        "75 g full fat milk",
+        "Good pinch of fine salt",
+        "1/2–3/4 tsp pumpkin spice (optional)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together until smooth and spices are integrated.",
+        "Pour into the tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function. Re-spin for a fluffier texture if desired."
+      ],
+      "prepNotes": "Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "dessert",
+        "ice cream",
+        "sweet potato"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T17:50:21.996Z"
+    },
+    {
+      "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
+      "title": "Classic Ice Cream Base Recipe",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup 2% + milk",
+        "1 tbsp cream cheese (optional — makes the ice cream thicker)",
+        "1/4 cup heavy cream",
+        "1/4 cup granulated sugar"
+      ],
+      "instructions": [
+        "Mix all ingredients together in a pint tub and freeze 24 hours",
+        "Once frozen, spin on the ice cream setting.",
+        "The ice cream will come out slightly crumbly — add 1 tbsp milk and respin."
+      ],
+      "prepNotes": "For a thicker, still-creamy texture, freeze an additional 1–3 hours.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "dessert",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:10:58.648Z",
+      "updatedAt": "2026-06-30T17:46:19.745Z"
+    },
+    {
+      "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
+      "title": "Peanut Butter Icecream",
+      "servings": "1 tub",
+      "source": "",
+      "ingredients": [
+        "1/3 cup milk",
+        "2/3 cup cream",
+        "30g pb powder",
+        "5 tbsp sugar syrup",
+        "1/2 tsp vanilla"
+      ],
+      "instructions": [
+        "mix all and pour in tub"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": 4,
+      "tags": [
+        "dessert",
+        "peanut butter",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T16:43:37.207Z",
+      "updatedAt": "2026-06-30T17:44:58.165Z"
+    },
+    {
+      "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
+      "title": "Chocolate Icecream 1",
+      "servings": "1 tub",
+      "source": "",
+      "ingredients": [
+        "1/4 cup milk",
+        "1/2 cup cream",
+        "2 1/2 tsp sugar",
+        "2 tsp brown sugar",
+        "10g cocoa powder",
+        "1 tsp vanilla"
+      ],
+      "instructions": [
+        "Heat milk and sugar to melt",
+        "Add cream and vanilla",
+        "Pour into tub"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": 3,
+      "tags": [
+        "chocolate",
+        "dessert",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T16:34:51.368Z",
+      "updatedAt": "2026-06-30T17:45:08.583Z"
+    }
+  ],
+  "pantry": [
+    "extra large eggs (150g out of shell)"
+  ]
+}
