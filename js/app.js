@@ -295,8 +295,24 @@ const App = {
     if (e.key === 'Enter' || e.key === ',') {
       e.preventDefault();
       const val = e.target.value.replace(/,/g, '').trim();
-      if (val) { this.addTag(val); e.target.value = ''; }
+      if (val) { this.addTag(val); e.target.value = ''; this.updateTagSuggestions(''); }
+    } else if (e.key === 'Escape') {
+      this.updateTagSuggestions('');
+    } else {
+      setTimeout(() => this.updateTagSuggestions(e.target.value), 0);
     }
+  },
+
+  updateTagSuggestions(query) {
+    const box = document.getElementById('tag-suggestions');
+    if (!box) return;
+    const q = query.trim().toLowerCase();
+    const existing = getAllTags().filter(t => !editTags.includes(t) && (!q || t.includes(q)));
+    if (!existing.length) { box.classList.add('hidden'); return; }
+    box.innerHTML = existing.map(t =>
+      `<button type="button" class="tag-suggestion" onclick="App.addTag('${esc(t)}');document.getElementById('tag-text-input').value='';App.updateTagSuggestions('')">${esc(t)}</button>`
+    ).join('');
+    box.classList.remove('hidden');
   },
 
   // ── Detail Checklist ──────────────────────────────────────────────────────
@@ -428,6 +444,7 @@ function reRenderInstructions() {
 }
 function reRenderTags() {
   document.getElementById('tag-chips').innerHTML = renderTagChips();
+  App.updateTagSuggestions(document.getElementById('tag-text-input')?.value || '');
 }
 
 // ── Render Functions ────────────────────────────────────────────────────────
@@ -587,8 +604,9 @@ function renderEdit() {
       <div class="form-group">
         <label>Tags</label>
         <div id="tag-chips">${renderTagChips()}</div>
-        <input type="text" class="tag-text-input" placeholder="Type tag, press Enter…"
-               onkeydown="App.handleTagKey(event)" autocomplete="off">
+        <input type="text" id="tag-text-input" class="tag-text-input" placeholder="Type to filter or add a tag…"
+               onkeydown="App.handleTagKey(event)" onfocus="App.updateTagSuggestions(this.value)" autocomplete="off">
+        <div id="tag-suggestions" class="tag-suggestions hidden"></div>
       </div>
       <div class="form-group">
         <label>Ingredients</label>
