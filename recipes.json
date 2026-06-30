@@ -59,12 +59,9 @@
   },
   {
     "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:29:44.270Z",
-    "updatedAt": "2026-06-30T17:29:44.270Z",
-    "title": "Sweet Potato Ninja Creami Ice Cream",
-    "servings": "1 tub (470ml)",
+    "title": "Sweet Potato Ice Cream",
+    "servings": "creami tub",
+    "source": "georgeats.com",
     "ingredients": [
       "200 g sweet potato puree",
       "150 g sweetened condensed milk (not evaporated milk)",
@@ -75,19 +72,19 @@
     ],
     "instructions": [
       "Whisk all ingredients together until smooth and spices are integrated.",
-      "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
-      "Process on the ice cream function. Re-spin for a fluffier texture if desired.",
-      "Return leftovers to the freezer with the lid on."
+      "Pour into the tub and freeze 16–24 hours with the lid off.",
+      "Process on the ice cream function. Re-spin for a fluffier texture if desired."
     ],
-    "prepNotes": "Equipment: NC300 Ninja Creami machine with 470ml tubs. Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested. Lactose-free cream/milk can be substituted.",
+    "prepNotes": "Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested.",
+    "afterPrepNotes": "",
+    "rating": null,
     "tags": [
       "dessert",
       "ice cream",
-      "lactose-free option",
-      "low FODMAP",
-      "vegetarian",
-      "Ninja Creami"
-    ]
+      "sweet potato"
+    ],
+    "createdAt": "2026-06-30T17:29:44.270Z",
+    "updatedAt": "2026-06-30T17:49:11.962Z"
   },
   {
     "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
