@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Recipe Tracker</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="loading-overlay" class="hidden">
+    <div class="spinner"></div>
+    <p id="loading-text">Loading...</p>
+  </div>
+
+  <div id="toast" class="hidden"></div>
+
+  <header id="app-header">
+    <div class="header-left">
+      <button id="btn-back" class="icon-btn hidden" onclick="App.goBack()">&#8592;</button>
+      <h1 id="header-title">My Recipes</h1>
+    </div>
+    <div class="header-right" id="header-right"></div>
+  </header>
+
+  <main id="app-main"></main>
+
+  <div id="modal-settings" class="modal-overlay hidden">
+    <div class="modal-box">
+      <h2>Settings</h2>
+      <div class="form-group">
+        <label for="setting-pat">GitHub Personal Access Token</label>
+        <input type="password" id="setting-pat" placeholder="ghp_...">
+        <small>Needs <code>repo</code> scope &mdash; <a href="https://github.com/settings/tokens/new?scopes=repo&description=Recipe+Tracker" target="_blank" rel="noopener">create one here</a></small>
+      </div>
+      <div class="form-group">
+        <label for="setting-claude">Claude API Key</label>
+        <input type="password" id="setting-claude" placeholder="sk-ant-...">
+        <small>Used for AI import features (text &amp; image)</small>
+      </div>
+      <div class="form-group">
+        <label for="setting-owner">GitHub Username</label>
+        <input type="text" id="setting-owner" placeholder="ssajami">
+      </div>
+      <div class="form-group">
+        <label for="setting-repo">GitHub Repo Name</label>
+        <input type="text" id="setting-repo" placeholder="recipe-tracker">
+      </div>
+      <div class="modal-actions">
+        <button class="btn-primary" onclick="App.saveSettings()">Save</button>
+        <button class="btn-secondary" onclick="App.hideSettings()">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal-confirm" class="modal-overlay hidden">
+    <div class="modal-box">
+      <p id="confirm-msg"></p>
+      <div class="modal-actions">
+        <button class="btn-danger" id="confirm-ok">Delete</button>
+        <button class="btn-secondary" onclick="App.hideConfirm()">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/storage.js"></script>
+  <script src="js/ai.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
