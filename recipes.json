@@ -2,37 +2,30 @@
   "recipes": [
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Ninja Creami Frozen Yoghurt (High Protein)",
-      "servings": "1 tub (470ml)",
+      "title": "Frozen Yoghurt (High Protein)",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
-        "400 g high protein sweetened yoghurt (e.g. Chobani Fit, Danone YoPro high protein vanilla)",
+        "400 g high protein sweetened yoghurt",
         "25–50 g light agave syrup or pure maple syrup",
         "0.5 g (lightly heaped 1/8 tsp) xanthan gum",
         "100 g milk of choice"
       ],
       "instructions": [
-        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the 470ml tub.",
+        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the tub.",
         "Freeze 16–24 hours with the lid off.",
         "Let sit on the bench 5–15 minutes before processing.",
         "Process on the light ice cream function — generally needs two spins.",
         "Store leftovers in the freezer with the lid on."
       ],
-      "prepNotes": "Works with vegan yoghurt and milk. Use a yoghurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yoghurt + high protein skim milk.",
+      "prepNotes": "Use a yoghurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yoghurt + high protein skim milk.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high protein",
-        "lactose free",
-        "gluten free",
-        "vegan option",
-        "low FODMAP option",
-        "frozen yoghurt",
-        "dessert",
-        "Ninja Creami"
+        "frozen yoghurt"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:36:34.810Z"
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
