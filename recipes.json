@@ -96,12 +96,9 @@
     },
     {
       "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T17:52:05.342Z",
-      "title": "Sugar Free Strawberry Ninja Creami Ice Cream",
-      "servings": "",
+      "title": "Sugar Free Strawberry Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "300 g fresh strawberries, weighed after hulling",
         "100–125 g pure granulated allulose",
@@ -114,26 +111,22 @@
         "Hull, chop, and mash strawberries in a pot to release liquid.",
         "Add allulose and stir to combine.",
         "Cook over medium heat 2–3 minutes until allulose dissolves and mixture is a vibrant red coulis. Stir in any flavour boosters, then cool 15 minutes.",
-        "Transfer cooled mixture to the 470ml tub.",
+        "Transfer cooled mixture to the tub.",
         "Add cream and mix thoroughly.",
         "Freeze with the lid off, 16–24 hours.",
         "Process on the ice cream function — should be perfect on first spin with 100–125g allulose.",
         "Return leftovers to the fridge with the lid on."
       ],
-      "prepNotes": "Do not exceed 125g allulose — the mixture won't set. Less sweet strawberries may need more allulose; very sweet ones may need only 75–100g. Sugar free, diabetic friendly, keto friendly, gluten free, dairy free/vegan option.",
+      "prepNotes": "Do not exceed 125g allulose — the mixture won't set. Less sweet strawberries may need more allulose; very sweet ones may need only 75–100g.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
-        "sugar free",
-        "diabetic friendly",
-        "keto",
-        "gluten free",
-        "dairy free option",
-        "vegan option",
-        "strawberry",
-        "Ninja Creami"
+        "strawberry"
       ],
-      "source": ""
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:23:13.439Z"
     },
     {
       "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
