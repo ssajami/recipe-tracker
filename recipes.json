@@ -196,12 +196,9 @@
     },
     {
       "id": "fb1ac5e1-e962-407b-a98f-dc3eafca0267",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Ninja Creami Coconut Ice Cream",
-      "servings": "1 tub (470ml)",
+      "title": "Coconut Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "175–200 g full fat coconut cream",
         "175–200 g full fat or light coconut milk",
@@ -211,23 +208,20 @@
       ],
       "instructions": [
         "Whisk all ingredients together; taste and adjust salt/vanilla.",
-        "Pour into the 470ml tub and freeze with the lid off, 12–24 hours.",
+        "Pour into the tub and freeze with the lid off, 12–24 hours.",
         "Let thaw 10 minutes before processing (optional, reduces need to re-spin).",
         "Process on the ice cream function; re-process (no added liquid) if powdery or balled up.",
         "Store leftovers in the freezer with the lid on."
       ],
-      "prepNotes": "Choose coconut cream with ~20–25g fat per 100g. Can be low FODMAP in serves of 1/2 tub or less depending on condensed milk used.",
+      "prepNotes": "Choose coconut cream with ~20–25g fat per 100g.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dairy free",
-        "egg free",
-        "vegan",
-        "low FODMAP option",
-        "dessert",
         "ice cream",
-        "coconut",
-        "Ninja Creami"
+        "coconut"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:41:13.963Z"
     },
     {
       "id": "76711da0-b3dc-435c-9660-1e174671a060",
