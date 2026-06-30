@@ -1,6 +1,104 @@
 {
   "recipes": [
     {
+      "id": "de7b597c-5427-4843-a489-567e1ec20874",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T19:06:21.952Z",
+      "updatedAt": "2026-06-30T19:06:21.952Z",
+      "title": "Tiramisu Ninja Creami Icecream",
+      "servings": "",
+      "ingredients": [
+        "300ml full cream milk",
+        "100g yoghurt",
+        "20g instant pudding, vanilla",
+        "2 heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
+        "20g stevia",
+        "1 tsp cacao powder"
+      ],
+      "instructions": [
+        "Place all ingredients (apart from cacao) in pint & use hand mixer.",
+        "Freeze overnight.",
+        "When making, run pint under water for 10 seconds.",
+        "Press scoop, then Lite Icecream.",
+        "Dust with cacao powder, scoop & enjoy!"
+      ],
+      "prepNotes": "Replacing your morning iced latte with a morning espresso creami. Freeze overnight before making.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "ninja creami",
+        "coffee",
+        "tiramisu",
+        "low sugar",
+        "frozen treat"
+      ],
+      "source": "ninjacreamidelights"
+    },
+    {
+      "id": "ae4e9052-08d0-4a8b-a8e9-efbc6413ddab",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T19:06:21.732Z",
+      "updatedAt": "2026-06-30T19:06:21.732Z",
+      "title": "Coffee Protein Ice Cream",
+      "servings": "",
+      "ingredients": [
+        "Coffee concentrate or coffee",
+        "Fairlife non fat milk",
+        "5g monk fruit sweetener",
+        "Pinch of salt",
+        "8g sugar free white chocolate pudding mix",
+        "15g vanilla whey",
+        "15g vanilla casein",
+        "Oreos for your mix-in"
+      ],
+      "instructions": [
+        "Combine coffee concentrate or coffee, Fairlife non fat milk, monk fruit sweetener, salt, sugar free white chocolate pudding mix, vanilla whey, and vanilla casein.",
+        "Process in the Ninja Creami to make the coffee flavored protein ice cream.",
+        "Add Oreos as your mix-in."
+      ],
+      "prepNotes": "Made with a Ninja Creami.",
+      "tags": [
+        "coffee",
+        "protein",
+        "ice cream",
+        "ninja creami",
+        "dessert",
+        "high protein",
+        "sugar free"
+      ],
+      "source": "bridgetbeefit"
+    },
+    {
+      "id": "a0d10156-8b43-476a-8eff-70be72a17ba3",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-06-30T19:06:20.143Z",
+      "updatedAt": "2026-06-30T19:06:20.143Z",
+      "title": "Ninja Creami Choc Coffee Ice Cream",
+      "servings": "1",
+      "ingredients": [
+        "1 Fairlife Vanilla Protein Shake",
+        "1 Tbsp SF Vanilla Pudding Mix",
+        "2 Shots Espresso",
+        "Chocolate (optional mix-in)"
+      ],
+      "instructions": [],
+      "prepNotes": "26g Protein | 180 Calories",
+      "tags": [
+        "ice cream",
+        "ninja creami",
+        "high protein",
+        "low calorie",
+        "coffee",
+        "chocolate",
+        "dessert",
+        "healthy"
+      ],
+      "source": "@ninjacreamirecipes (recipe by @ashleighonig)"
+    },
+    {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
       "title": "Cafe Latte",
       "servings": "creami tub",
