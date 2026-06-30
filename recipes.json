@@ -1,12 +1,8 @@
 [
   {
     "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
-    "afterPrepNotes": "",
-    "rating": null,
-    "createdAt": "2026-06-30T17:29:44.270Z",
-    "updatedAt": "2026-06-30T17:29:44.270Z",
     "title": "Healthier Orange Creamsicle Protein Ice Cream",
-    "servings": "1 pint",
+    "servings": "creami tub",
     "ingredients": [
       "1 cup orange juice",
       "1/2 cup 2% milk",
@@ -17,15 +13,16 @@
       "Spin on the Lite Ice Cream setting.",
       "Add 1 tbsp milk and re-spin 1–2x until smooth."
     ],
-    "prepNotes": "Only 3 ingredients, packed with protein, tastes like a copycat DQ Orange Julius. 240 calories + 31g protein for the whole pint.",
+    "prepNotes": "tastes like a copycat DQ Orange Julius",
+    "afterPrepNotes": "",
+    "rating": null,
     "tags": [
       "dessert",
       "ice cream",
-      "high-protein",
-      "quick",
-      "vegetarian",
-      "Ninja Creami"
-    ]
+      "high-protein"
+    ],
+    "createdAt": "2026-06-30T17:29:44.270Z",
+    "updatedAt": "2026-06-30T17:32:10.525Z"
   },
   {
     "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
