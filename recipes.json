@@ -130,12 +130,9 @@
     },
     {
       "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T17:52:05.342Z",
-      "title": "Sugar Free Ninja Creami Lemon Sorbet",
-      "servings": "",
+      "title": "Sugar Free Lemon Sorbet",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "80–100 g pure allulose",
         "0.5–1 g stevia powder",
@@ -148,22 +145,20 @@
         "Mix allulose and stevia in a saucepan; rub in lemon zest.",
         "Add water and salt, then lemon juice to taste.",
         "Cook 1–3 minutes until allulose dissolves. Cool slightly.",
-        "Pour into the 470ml tub and freeze with the lid off, 24 hours.",
+        "Pour into the tub and freeze with the lid off, 24 hours.",
         "Process on the sorbet function; re-spin once if needed (avoid spinning twice — can make it too soft).",
         "Return leftovers to the freezer with the lid on; re-process before eating."
       ],
       "prepNotes": "Use common sour lemons rather than Meyer/Lemonade lemons for the classic tart flavour.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "sorbet",
-        "sugar free",
-        "gluten free",
-        "dairy free",
-        "vegan",
-        "lemon",
-        "Ninja Creami"
+        "lemon"
       ],
-      "source": ""
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:24:16.003Z"
     },
     {
       "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
