@@ -94,6 +94,7 @@ code { background: #f0ede8; padding: 1px 4px; border-radius: 3px; font-size: 0.8
   color: var(--text);
   flex-shrink: 0;
 }
+#btn-back { font-size: 1.6rem; width: 42px; height: 42px; }
 .icon-btn:hover { background: var(--bg); }
 
 /* ── Buttons ── */
