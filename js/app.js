@@ -464,13 +464,16 @@ function formatQty(n) {
   if (n <= 0) return '0';
   const whole = Math.floor(n);
   const rem = n - whole;
-  const fracs = [[1/8,'⅛'],[1/4,'¼'],[1/3,'⅓'],[3/8,'⅜'],[1/2,'½'],[5/8,'⅝'],[2/3,'⅔'],[3/4,'¾'],[7/8,'⅞']];
-  if (rem < 0.04) return String(whole);
+  const fracs = [
+    [1/8,'⅛'],[1/6,'⅙'],[1/5,'1/5'],[1/4,'¼'],[1/3,'⅓'],
+    [3/8,'⅜'],[2/5,'2/5'],[1/2,'½'],[3/5,'3/5'],[5/8,'⅝'],
+    [2/3,'⅔'],[3/4,'¾'],[4/5,'4/5'],[5/6,'⅚'],[7/8,'⅞'],
+  ];
+  if (rem < 0.04) return String(whole || '0');
   for (const [val, sym] of fracs) {
-    if (Math.abs(rem - val) < 0.04) return whole > 0 ? `${whole}${sym}` : sym;
+    if (Math.abs(rem - val) < 0.04) return whole > 0 ? `${whole} ${sym}` : sym;
   }
-  const dec = (Math.round(n * 4) / 4).toFixed(2).replace(/\.?0+$/, '');
-  return dec;
+  return n.toFixed(2).replace(/\.?0+$/, '');
 }
 
 function scaleIngredient(text, multiplier) {
