@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "de7b597c-5427-4843-a489-567e1ec20874",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:06:21.952Z",
-      "updatedAt": "2026-06-30T19:06:21.952Z",
-      "title": "Tiramisu Ninja Creami Icecream",
+      "title": "Tiramisu Ice Cream",
       "servings": "",
+      "source": "ninjacreamidelights",
       "ingredients": [
         "300ml full cream milk",
         "100g yoghurt",
@@ -23,17 +20,15 @@
         "Press scoop, then Lite Icecream.",
         "Dust with cacao powder, scoop & enjoy!"
       ],
-      "prepNotes": "Replacing your morning iced latte with a morning espresso creami. Freeze overnight before making.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "ninja creami",
-        "coffee",
-        "tiramisu",
-        "low sugar",
-        "frozen treat"
+        "coffee"
       ],
-      "source": "ninjacreamidelights"
+      "createdAt": "2026-06-30T19:06:21.952Z",
+      "updatedAt": "2026-06-30T19:07:38.643Z"
     },
     {
       "id": "ae4e9052-08d0-4a8b-a8e9-efbc6413ddab",
