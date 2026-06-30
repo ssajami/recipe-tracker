@@ -2,34 +2,29 @@
   "recipes": [
     {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
-      "title": "Cafe Latte 1",
-      "servings": "1",
+      "title": "Cafe Latte",
+      "servings": "creami tub",
       "source": "creami_delights",
       "ingredients": [
         "50 g low fat ricotta cheese",
-        "1 tsp Nescafé Gold Espresso instant coffee",
+        "1 tsp instant coffee",
         "60 g vanilla 0% Greek yogurt",
         "300 ml vanilla protein shake"
       ],
       "instructions": [
-        "Mix all ingredients in a Ninja Cup",
+        "Mix all ingredients and pour into tub",
         "Freeze x 24 hrs",
         "Spin on light ice cream setting. Add 2 tbsp vanilla shake and re-spin"
       ],
-      "prepNotes": "Nutrition: 252 calories, 38 g protein, 15g carbs",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "healthylifestyle",
-        "protein",
-        "ninjacreamirecipes",
         "coffee",
-        "icecream",
-        "dessert",
-        "highprotein"
+        "ice cream"
       ],
       "createdAt": "2026-06-30T18:54:33.740Z",
-      "updatedAt": "2026-06-30T18:55:09.535Z"
+      "updatedAt": "2026-06-30T19:00:30.637Z"
     },
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
