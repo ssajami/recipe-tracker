@@ -62,40 +62,37 @@
     },
     {
       "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T17:52:05.342Z",
-      "title": "Ninja Creami Chocolate Caramel Ice Cream",
-      "servings": "",
+      "title": "Chocolate Caramel Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "10–15 g Dutch processed cocoa",
         "60 g boiling water",
-        "200 g Top 'N Fill caramel or dulce de leche",
+        "200 g dulce de leche",
         "125 g thickened cream (30–35% fat)",
-        "150 g milk of choice",
+        "150 g milk",
         "Pinch of fine salt"
       ],
       "instructions": [
         "Whisk cocoa with boiling water in a saucepan to remove clumps.",
         "Add remaining ingredients and whisk to combine; crush any caramel chunks.",
         "Cook on low heat 2–5 minutes until caramel is dissolved. Cool slightly.",
-        "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
+        "Pour into the tub and freeze 16–24 hours with the lid off.",
         "Process on the ice cream function — may need two spins.",
         "Mix in chopped chocolate caramel eggs by hand (not via the mix-in function).",
         "Return leftovers to the freezer with the lid on."
       ],
-      "prepNotes": "Caramel sauce or homemade caramel are NOT suitable replacements for Top 'N Fill caramel/dulce de leche. Lower lactose option, nut free.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
         "chocolate",
-        "caramel",
-        "nut free",
-        "lower lactose",
-        "Ninja Creami"
+        "caramel"
       ],
-      "source": ""
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:18:23.183Z"
     },
     {
       "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
