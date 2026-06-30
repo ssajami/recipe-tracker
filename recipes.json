@@ -130,12 +130,9 @@
     },
     {
       "id": "a7a16492-c48c-4ffa-af80-915b97b74919",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Ninja Creami Watermelon Sorbet",
-      "servings": "1 tub (470ml)",
+      "title": "Watermelon Sorbet",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "400 g watermelon, chopped into small cubes",
         "50–75 g light agave syrup, to taste",
@@ -146,22 +143,19 @@
       ],
       "instructions": [
         "Blend all ingredients (and optional add-ins) until completely smooth.",
-        "Pour into the 470ml tub (don't exceed fill line) and freeze with the lid off, 16–24 hours.",
+        "Pour into the tub (don't exceed fill line) and freeze with the lid off, 16–24 hours.",
         "Process on the gelato function; re-spin once or twice as needed.",
         "Return leftovers to the freezer with the lid on; re-spin on the gelato function before eating."
       ],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "vegan",
-        "gluten free",
-        "dairy free",
         "sorbet",
-        "dessert",
-        "watermelon",
-        "summer",
-        "Ninja Creami"
+        "watermelon"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:43:07.840Z"
     },
     {
       "id": "ead8c3a9-2c44-48f8-acb2-533f692e997f",
