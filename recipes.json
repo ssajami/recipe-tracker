@@ -1,5 +1,99 @@
 [
   {
+    "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
+    "afterPrepNotes": "",
+    "rating": null,
+    "createdAt": "2026-06-30T17:29:44.270Z",
+    "updatedAt": "2026-06-30T17:29:44.270Z",
+    "title": "Healthier Orange Creamsicle Protein Ice Cream",
+    "servings": "1 pint",
+    "ingredients": [
+      "1 cup orange juice",
+      "1/2 cup 2% milk",
+      "1 scoop vanilla whey protein"
+    ],
+    "instructions": [
+      "Combine ingredients and freeze 12–24 hours.",
+      "Spin on the Lite Ice Cream setting.",
+      "Add 1 tbsp milk and re-spin 1–2x until smooth."
+    ],
+    "prepNotes": "Only 3 ingredients, packed with protein, tastes like a copycat DQ Orange Julius. 240 calories + 31g protein for the whole pint.",
+    "tags": [
+      "dessert",
+      "ice cream",
+      "high-protein",
+      "quick",
+      "vegetarian",
+      "Ninja Creami"
+    ]
+  },
+  {
+    "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
+    "afterPrepNotes": "",
+    "rating": null,
+    "createdAt": "2026-06-30T17:29:44.270Z",
+    "updatedAt": "2026-06-30T17:29:44.270Z",
+    "title": "Apple Butter Biscoff Protein Ice Cream",
+    "servings": "1 pint",
+    "ingredients": [
+      "1 cup milk",
+      "1/2 scoop JI Salted Caramel protein",
+      "1/2 scoop LeanFit vanilla protein",
+      "1–2 tbsp apple butter or apple pie filling",
+      "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)",
+      "2 Biscoff cookies (mix-in)",
+      "1 tbsp apple butter (mix-in)"
+    ],
+    "instructions": [
+      "Mix base ingredients together in a Ninja Creami pint and freeze 24 hours.",
+      "Once frozen, spin on the Lite Ice Cream setting.",
+      "Respin if needed.",
+      "Add in apple butter and Biscoff cookies as mix-ins and spin on respin.",
+      "Enjoy!"
+    ],
+    "prepNotes": "The perfect holiday Creami recipe! (Apple Butter Biscoff / Apple Pie Biscoff)",
+    "tags": [
+      "dessert",
+      "ice cream",
+      "high-protein",
+      "holiday",
+      "vegetarian",
+      "Ninja Creami"
+    ]
+  },
+  {
+    "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
+    "afterPrepNotes": "",
+    "rating": null,
+    "createdAt": "2026-06-30T17:29:44.270Z",
+    "updatedAt": "2026-06-30T17:29:44.270Z",
+    "title": "Sweet Potato Ninja Creami Ice Cream",
+    "servings": "1 tub (470ml)",
+    "ingredients": [
+      "200 g sweet potato puree",
+      "150 g sweetened condensed milk (not evaporated milk)",
+      "100 g thickened cream (30–35% fat)",
+      "75 g full fat milk",
+      "Good pinch of fine salt",
+      "1–1 1/2 tsp pumpkin spice (optional)"
+    ],
+    "instructions": [
+      "Whisk all ingredients together until smooth and spices are integrated.",
+      "Pour into the 470ml tub and freeze 16–24 hours with the lid off.",
+      "Process on the ice cream function. Re-spin for a fluffier texture if desired.",
+      "Return leftovers to the freezer with the lid on."
+    ],
+    "prepNotes": "Equipment: NC300 Ninja Creami machine with 470ml tubs. Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested. Lactose-free cream/milk can be substituted.",
+    "tags": [
+      "dessert",
+      "ice cream",
+      "lactose-free option",
+      "low FODMAP",
+      "vegetarian",
+      "Ninja Creami"
+    ]
+  },
+  {
     "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
     "title": "Classic Ice Cream Base Recipe",
     "servings": "creami tub",
