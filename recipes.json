@@ -116,12 +116,9 @@
     },
     {
       "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:26:09.465Z",
-      "title": "Ninja Creami High Protein Sticky Date Ice Cream",
-      "servings": "1 tub (470ml)",
+      "title": "Sticky Date Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
       "ingredients": [
         "100 g regular pitted dates, finely chopped",
         "3–5 g baking soda",
@@ -135,21 +132,18 @@
         "Place chopped dates in a heatproof bowl; sprinkle with baking soda and pour over boiling water. Stir and cool.",
         "Transfer cooled date paste to a food processor with milk, salt, and vanilla; blend to desired consistency.",
         "Return mixture to the bowl and whisk in the whey protein isolate (do not blend the protein — it gets too frothy).",
-        "Pour into the 470ml tub and freeze with the lid off, 16–24 hours.",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
         "Process on the light ice cream function; re-spin if needed. Serve immediately; return leftovers to the freezer with the lid on."
       ],
       "prepNotes": "3g baking soda for subtle flavour, 5g for a classic sticky date note. Do not substitute baking powder. Avoid high-sugar protein powders — too much sugar will prevent proper freezing.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high protein",
-        "gluten free",
-        "low FODMAP option",
-        "low lactose option",
-        "dessert",
         "ice cream",
-        "sticky date",
-        "Ninja Creami"
+        "sticky date"
       ],
-      "source": "Ninja Creami"
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:28:54.514Z"
     },
     {
       "id": "a7a16492-c48c-4ffa-af80-915b97b74919",
