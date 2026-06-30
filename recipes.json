@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
-      "title": "Frozen Yoghurt (High Protein)",
+      "title": "Frozen Yoghurt",
       "servings": "creami tub",
       "source": "georgeats.com",
       "ingredients": [
@@ -25,7 +25,7 @@
         "frozen yoghurt"
       ],
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:36:34.810Z"
+      "updatedAt": "2026-06-30T18:36:47.043Z"
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
