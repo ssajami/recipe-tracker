@@ -157,12 +157,9 @@
     },
     {
       "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:44.360Z",
-      "updatedAt": "2026-07-01T05:58:44.360Z",
-      "title": "Chocolate Cheesecake",
-      "servings": "",
+      "title": "Chocolate Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
       "ingredients": [
         "300g Fat free cottage cheese",
         "160ml Almond milk",
@@ -173,20 +170,19 @@
       ],
       "instructions": [
         "Blend cottage cheese, almond milk, Medjool dates, and cocoa powder to form the base.",
-        "Freeze and process in a Ninja Creami.",
+        "Freeze and spin",
         "Top with strawberries and honey."
       ],
-      "prepNotes": "High protein Ninja Creami recipe.",
+      "prepNotes": ".",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high protein",
-        "dessert",
         "cheesecake",
         "chocolate",
-        "ninja creami",
-        "healthy",
-        "low fat"
+        "ice cream"
       ],
-      "source": "katstaddon.fit"
+      "createdAt": "2026-07-01T05:58:44.360Z",
+      "updatedAt": "2026-07-01T06:13:11.712Z"
     },
     {
       "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
