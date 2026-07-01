@@ -213,7 +213,7 @@
       "afterPrepNotes": "",
       "rating": null,
       "createdAt": "2026-07-01T05:23:47.138Z",
-      "updatedAt": "2026-07-01T05:23:47.138Z",
+      "updatedAt": "2026-07-01T05:24:37.749Z",
       "title": "Snickers Protein Ice Cream",
       "servings": "1 pint",
       "ingredients": [
@@ -242,7 +242,8 @@
         "healthy dessert",
         "sugar-free"
       ],
-      "source": "ninja_creami_recipes (Instagram)"
+      "source": "ninja_creami_recipes (Instagram)",
+      "pinned": true
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
