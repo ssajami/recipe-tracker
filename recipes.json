@@ -172,12 +172,9 @@
     },
     {
       "id": "e802904a-54fa-42b5-9892-05af3f3ddf59",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:32.867Z",
-      "updatedAt": "2026-07-01T06:20:32.867Z",
       "title": "Healthy Watermelon Sorbet",
-      "servings": "1 pint (120 calories, 2g protein for the entire pint)",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g chopped watermelon",
         "35g Lakanto Classic Monk Fruit Sweetener",
@@ -190,17 +187,15 @@
         "Spin on \"Sorbet\" setting",
         "Spin on \"Respin\" setting until it reaches your desired consistency"
       ],
-      "prepNotes": "Nutrition: 120 cal, 28g C, 1g F, 2g P. Made with the Ninja Creami. Freeze base for at least 16 hours before spinning.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "sorbet",
-        "italianice",
-        "healthy",
-        "watermelon",
-        "dessert",
-        "lowcalorie",
-        "ninjacreami"
+        "watermelon"
       ],
-      "source": "fitnessproductfinder and lakanto (#LakantoPartner)"
+      "createdAt": "2026-07-01T06:20:32.867Z",
+      "updatedAt": "2026-07-01T06:44:07.469Z"
     },
     {
       "id": "e343e638-e84a-4a58-a108-9460dc3d4dee",
