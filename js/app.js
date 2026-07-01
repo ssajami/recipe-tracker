@@ -686,10 +686,7 @@ Answer questions about substitutions, techniques, or anything related to this re
     if (!url) { toast('Enter a URL first', 'error'); return; }
     setLoading(true, 'Fetching page…');
     try {
-      const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
-      if (!res.ok) throw new Error('Could not fetch the page — try pasting the text instead');
-      const { contents: html, status } = await res.json();
-      if (status?.http_code >= 400) throw new Error(`Page returned ${status.http_code} — check the URL`);
+      const html = await _fetchViaProxy(url);
 
       // Try JSON-LD structured data first (no AI needed)
       let recipes = _tryJsonLdRecipes(html, url);
@@ -1191,6 +1188,33 @@ function renderTextImport() {
       <textarea id="import-text-area" placeholder="Paste recipe text here…" rows="14"></textarea>
       <button class="btn-primary" onclick="App.handleTextImport()">Parse with AI</button>
     </div>`;
+}
+
+async function _fetchViaProxy(url, timeoutMs = 9000) {
+  async function attempt(fetchUrl, getHtml) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), timeoutMs);
+    try {
+      const res = await fetch(fetchUrl, { signal: ctrl.signal });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await getHtml(res);
+    } finally { clearTimeout(timer); }
+  }
+
+  const enc = encodeURIComponent(url);
+  const proxies = [
+    () => attempt(
+      `https://api.allorigins.win/get?url=${enc}`,
+      async r => { const d = await r.json(); if (d.status?.http_code >= 400) throw new Error(`HTTP ${d.status.http_code}`); return d.contents; }
+    ),
+    () => attempt(`https://corsproxy.io/?${enc}`, r => r.text()),
+    () => attempt(`https://api.codetabs.com/v1/proxy?quest=${enc}`, r => r.text()),
+  ];
+
+  for (const proxy of proxies) {
+    try { return await proxy(); } catch {}
+  }
+  throw new Error('Could not fetch the page — all proxies failed. Try the "Paste Text" tab instead.');
 }
 
 function _tryJsonLdRecipes(html, sourceUrl) {
