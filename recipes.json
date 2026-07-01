@@ -146,12 +146,9 @@
     },
     {
       "id": "b666a61e-3502-45b5-98a7-a0e91e2167f5",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:55.336Z",
-      "updatedAt": "2026-06-30T19:15:55.336Z",
       "title": "Brownie Batter Protein Ice Cream",
       "servings": "1 pint",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "1 Chocolate Protein Shake (350-400ml)",
         "30g Lakanto Sugar-free Brownie Mix (heat treated)",
@@ -164,18 +161,15 @@
         "Spin on \"Lite Ice Cream\" setting",
         "Spin on \"Respin\" setting until it reaches your desired consistency"
       ],
-      "prepNotes": "211 calories, 34g protein, 19g fiber for the entire pint (211 cal, 9g C, 4g F, 34g P). Made using a Ninja Creami.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "protein",
         "ice cream",
-        "dessert",
-        "sugar-free",
-        "high-protein",
-        "brownie batter",
-        "ninja creami",
-        "lakanto"
+        "brownie batter"
       ],
-      "source": "fitnessproductfinder and lakanto (Paid partnership)"
+      "createdAt": "2026-06-30T19:15:55.336Z",
+      "updatedAt": "2026-07-01T02:53:12.187Z"
     },
     {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
