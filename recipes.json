@@ -98,12 +98,9 @@
     },
     {
       "id": "abf37ac4-ffb9-4765-a665-bbb8dc1b0fec",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:45.329Z",
-      "updatedAt": "2026-07-01T05:58:45.329Z",
       "title": "Reese's Peanut Butter Ice Cream",
-      "servings": "1 pint (1 serving)",
+      "servings": "creami tub",
+      "source": "@justinanderson_fit",
       "ingredients": [
         "1.25 cup milk",
         "1 scoop vanilla protein",
@@ -115,19 +112,18 @@
       "instructions": [
         "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
         "Mix well and pour into a pint container.",
-        "Freeze, then process in a Ninja Creami until smooth and creamy."
+        "Freeze, then process until smooth and creamy."
       ],
-      "prepNotes": "~440 calories, 47g protein. Can be enjoyed as a pint of ice cream every night while still hitting fitness goals.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "recipe",
-        "highprotein",
-        "dessert",
-        "lowcalorie",
-        "icecream",
-        "ninjacreami",
-        "peanutbutter"
+        "peanut butter",
+        "ice cream",
+        "protein"
       ],
-      "source": "ninjacreamidelights (recipe by @justinanderson_fit)"
+      "createdAt": "2026-07-01T05:58:45.329Z",
+      "updatedAt": "2026-07-01T06:03:16.812Z"
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
