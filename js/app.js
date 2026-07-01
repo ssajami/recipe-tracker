@@ -802,6 +802,28 @@ function parseLeadingNumber(raw) {
 
 const _numPat = '\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d*\\.?\\d+';
 
+const _UFRACS = {
+  '½':1/2,'¼':1/4,'¾':3/4,'⅓':1/3,'⅔':2/3,
+  '⅛':1/8,'⅜':3/8,'⅝':5/8,'⅞':7/8,
+  '⅙':1/6,'⅚':5/6,'⅕':1/5,'⅖':2/5,'⅗':3/5,'⅘':4/5,
+};
+const _UFRAC_CLASS = '[½¼¾⅓⅔⅛⅜⅝⅞⅙⅚⅕⅖⅗⅘]';
+
+function _parseUniLeading(text) {
+  // Returns { val, len } or null — handles "¼", "1 ¼", "2½"
+  let m;
+  // whole + space + unicode: "1 ¼"
+  m = text.match(new RegExp(`^(\\d+)\\s+(${_UFRAC_CLASS})`));
+  if (m) return { val: parseInt(m[1]) + _UFRACS[m[2]], len: m[0].length };
+  // whole + unicode no space: "2½"
+  m = text.match(new RegExp(`^(\\d+)(${_UFRAC_CLASS})`));
+  if (m) return { val: parseInt(m[1]) + _UFRACS[m[2]], len: m[0].length };
+  // bare unicode: "¼"
+  m = text.match(new RegExp(`^(${_UFRAC_CLASS})`));
+  if (m) return { val: _UFRACS[m[1]], len: m[0].length };
+  return null;
+}
+
 function scaleIngredient(text, multiplier) {
   if (multiplier === 1) return text;
 
@@ -812,15 +834,23 @@ function scaleIngredient(text, multiplier) {
     ) + ')'
   );
 
-  // Range at start: "1-2 tsp" or "10–15 g" or "1/2–1 cup"
-  const rangeRe = new RegExp(`^(${_numPat})\\s*[-–]\\s*(${_numPat})`);
+  // Range at start: "1-2 tsp", "¼–½ cup", "10–15 g"
+  const rangeRe = new RegExp(`^(${_numPat}|${_UFRAC_CLASS})\\s*[-–]\\s*(${_numPat}|${_UFRAC_CLASS})`);
   const rangeMatch = text.match(rangeRe);
   if (rangeMatch) {
-    const scaled = `${formatQty(parseLeadingNumber(rangeMatch[1]) * multiplier)}–${formatQty(parseLeadingNumber(rangeMatch[2]) * multiplier)}`;
+    const n1 = _UFRACS[rangeMatch[1]] ?? parseLeadingNumber(rangeMatch[1]);
+    const n2 = _UFRACS[rangeMatch[2]] ?? parseLeadingNumber(rangeMatch[2]);
+    const scaled = `${formatQty(n1 * multiplier)}–${formatQty(n2 * multiplier)}`;
     return scaleParens(text.replace(rangeRe, scaled));
   }
 
-  // Single leading quantity
+  // Unicode fraction at start (e.g. "¼ teaspoon", "1 ¼ cups", "2½ tbsp")
+  const uni = _parseUniLeading(text);
+  if (uni) {
+    return scaleParens(formatQty(uni.val * multiplier) + text.slice(uni.len));
+  }
+
+  // ASCII fraction / decimal / integer
   const leadRe = new RegExp(`^(${_numPat})`);
   const leadMatch = text.match(leadRe);
   const result = leadMatch
