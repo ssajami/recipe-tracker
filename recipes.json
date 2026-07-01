@@ -222,7 +222,7 @@
         "1/2 chopped snickers bar"
       ],
       "instructions": [
-        "Mix together all ingredients",
+        "Mix together all ingredients except Snickers ",
         "Freeze 24 hours.",
         "Spin on lite ice cream. Add 1 tbsp. milk and respin 1-2x.",
         "Add in 1/2 chopped snickers bar.",
@@ -236,7 +236,7 @@
         "snickers"
       ],
       "createdAt": "2026-07-01T05:23:47.138Z",
-      "updatedAt": "2026-07-01T05:27:18.621Z"
+      "updatedAt": "2026-07-01T05:27:49.707Z"
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
