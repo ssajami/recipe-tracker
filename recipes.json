@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-      "title": "Vanilla (Base Recipe)",
+      "title": "Vanilla Ice Cream (Base Recipe)",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -25,7 +25,7 @@
         "protein"
       ],
       "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-01T18:11:52.063Z"
+      "updatedAt": "2026-07-01T18:40:33.864Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
