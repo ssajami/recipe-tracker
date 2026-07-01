@@ -2259,10 +2259,11 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "ice cream"
+        "ice cream",
+        "unique"
       ],
       "createdAt": "2026-07-01T07:34:08.593Z",
-      "updatedAt": "2026-07-01T07:34:08.593Z"
+      "updatedAt": "2026-07-01T19:24:53.318Z"
     },
     {
       "id": "bf4df602-696c-4ac5-b82e-7896ff9f454f",
