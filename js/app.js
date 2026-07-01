@@ -824,6 +824,16 @@ function _parseUniLeading(text) {
   return null;
 }
 
+const _TSP_RE = /^(tsps?|teaspoons?)\s*/i;
+
+// When scaled tsp result < ⅛ tsp, convert to grams (1 tsp ≈ 5g) — more measurable on a scale
+function _tspToGrams(scaledTsp, afterUnit) {
+  const g = scaledTsp * 5;
+  const gStr = g < 1 ? (Math.round(g * 10) / 10) + 'g' : formatQty(g) + 'g';
+  const rest = afterUnit.replace(_TSP_RE, '').trimStart();
+  return gStr + (rest ? ' ' + rest : '');
+}
+
 function scaleIngredient(text, multiplier) {
   if (multiplier === 1) return text;
 
@@ -847,17 +857,27 @@ function scaleIngredient(text, multiplier) {
   // Unicode fraction at start (e.g. "¼ teaspoon", "1 ¼ cups", "2½ tbsp")
   const uni = _parseUniLeading(text);
   if (uni) {
-    return scaleParens(formatQty(uni.val * multiplier) + text.slice(uni.len));
+    const scaledQty = uni.val * multiplier;
+    const afterQty = text.slice(uni.len).trimStart();
+    if (_TSP_RE.test(afterQty) && scaledQty < 1/8) {
+      return scaleParens(_tspToGrams(scaledQty, afterQty));
+    }
+    return scaleParens(formatQty(scaledQty) + text.slice(uni.len));
   }
 
   // ASCII fraction / decimal / integer
   const leadRe = new RegExp(`^(${_numPat})`);
   const leadMatch = text.match(leadRe);
-  const result = leadMatch
-    ? text.replace(leadRe, formatQty(parseLeadingNumber(leadMatch[1]) * multiplier))
-    : text;
+  if (leadMatch) {
+    const scaledQty = parseLeadingNumber(leadMatch[1]) * multiplier;
+    const afterQty = text.slice(leadMatch[0].length).trimStart();
+    if (_TSP_RE.test(afterQty) && scaledQty < 1/8) {
+      return scaleParens(_tspToGrams(scaledQty, afterQty));
+    }
+    return scaleParens(text.replace(leadRe, formatQty(scaledQty)));
+  }
 
-  return scaleParens(result);
+  return scaleParens(text);
 }
 
 function renderIngredientChecklist(ingredients) {
