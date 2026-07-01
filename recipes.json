@@ -321,10 +321,13 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "ice cream"
+        "ice cream",
+        "maple",
+        "pecan",
+        "protein"
       ],
       "createdAt": "2026-07-01T05:23:45.859Z",
-      "updatedAt": "2026-07-01T05:37:50.979Z"
+      "updatedAt": "2026-07-01T06:00:58.457Z"
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
