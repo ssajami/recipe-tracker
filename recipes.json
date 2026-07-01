@@ -236,20 +236,17 @@
     },
     {
       "id": "f026f9b2-3768-4118-a461-7e930580b845",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:35.980Z",
-      "updatedAt": "2026-07-01T06:20:35.980Z",
-      "title": "Chocolate Chip Cookie Cheesecake Protein Ice Cream",
-      "servings": "1 pint (296 calories, 23g protein)",
+      "title": "Chocolate Chip Cookie Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g fat free Fairlife milk",
         "22g (2 tbsp) whipped (or regular) cream cheese",
-        "5g (1 tsp) Nielsen Massey vanilla bean paste",
+        "5g (1 tsp)  vanilla bean paste",
         "40-45g Lakanto monk fruit sweetener",
         "A pinch of salt",
         "1g (¼ tsp) xanthan gum",
-        "3 Simple Mills chocolate chip cookies (can sub with any crunchy chocolate chip cookies)"
+        "3 chocolate chip cookies (can sub with any crunchy chocolate chip cookies)"
       ],
       "instructions": [
         "Blend all ingredients for the base and freeze (at least 16 hours)",
@@ -260,20 +257,17 @@
         "Make a hole down to the bottom with a butter knife and add the frozen cookies",
         "Run the \"Mix-in\" cycle"
       ],
-      "prepNotes": "296 cal, 23g C, 11g F, 24g P for the entire pint including toppings/mix-ins. All recipe books (200+ flavors) are in bio. Made with Ninja Kitchen Creami.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "low-calorie",
-        "healthy",
         "cheesecake",
-        "chocolate chip cookie",
-        "Ninja Creami",
-        "sugar-free"
+        "chocolate chip cookie"
       ],
-      "source": "fitnessproductfinder (Instagram)"
+      "createdAt": "2026-07-01T06:20:35.980Z",
+      "updatedAt": "2026-07-01T06:48:39.523Z"
     },
     {
       "id": "e212a14f-d0cc-49e9-a3ee-aaaf244a25a1",
