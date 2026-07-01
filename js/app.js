@@ -1042,6 +1042,7 @@ function renderEdit() {
   const r = isNew ? null : state.recipes.find(x => x.id === state.editId);
 
   updateHeader(isNew ? 'New Recipe' : 'Edit Recipe', true, `
+    ${!isNew ? `<button class="icon-btn" title="Shopping list" onclick="App.showShoppingList('${r.id}')">&#128722;</button>` : ''}
     <button class="btn-primary" style="padding:8px 16px" onclick="App.saveEdit()">Save</button>
   `);
 
