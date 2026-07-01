@@ -217,12 +217,9 @@
     },
     {
       "id": "e343e638-e84a-4a58-a108-9460dc3d4dee",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:36.701Z",
-      "updatedAt": "2026-07-01T06:20:36.701Z",
-      "title": "Cookies 'n Cream Cheesecake Protein Ice Cream",
-      "servings": "1 pint (355 calories, 33g C, 14g F, 26g P total)",
+      "title": "Cookies 'n Cream Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g fat free ultra-filtered milk",
         "22g (2 tbsp) whipped (or regular) cream cheese",
@@ -244,18 +241,16 @@
         "Run the \"Mix-in\" cycle"
       ],
       "prepNotes": "355 calories 26g protein for the entire pint, toppings/mix-ins included. All recipe books (200+ flavors) are in the creator's bio.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "protein",
         "ice cream",
-        "dessert",
-        "high-protein",
-        "low-calorie",
         "cookies and cream",
-        "cheesecake",
-        "ninja creami",
-        "fitness"
+        "cheesecake"
       ],
-      "source": "fitnessproductfinder (Instagram)"
+      "createdAt": "2026-07-01T06:20:36.701Z",
+      "updatedAt": "2026-07-01T06:36:37.396Z"
     },
     {
       "id": "f026f9b2-3768-4118-a461-7e930580b845",
