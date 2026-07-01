@@ -210,40 +210,33 @@
     },
     {
       "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:47.138Z",
-      "updatedAt": "2026-07-01T05:24:40.615Z",
-      "title": "Snickers Protein Ice Cream",
-      "servings": "1 pint",
+      "title": "Snickers Ice Cream",
+      "servings": "creami tub",
+      "source": "@ninja_creami_recipes",
       "ingredients": [
-        "1 cup 1 or 2% milk",
-        "1 scoop @leanfitbrand Chocolate Whey Protein",
-        "1 tbsp. SF chocolate instant pudding mix",
-        "1 tbsp. SF chocolate caramel coffee syrup",
-        "1.5 tbsp. Powdered Peanutbutter (@pb.and.me)",
+        "1 cup 2% milk",
+        "1 scoop chocolate whey protein",
+        "1 tbsp sugar free chocolate instant pudding mix",
+        "1 tbsp sugar free chocolate caramel coffee syrup",
+        "1.5 tbsp powdered peanut butter ",
         "1/2 chopped snickers bar"
       ],
       "instructions": [
-        "Mix together all ingredients in Ninja Creami Pint.",
-        "Freeze 12-24 hours.",
+        "Mix together all ingredients",
+        "Freeze 24 hours.",
         "Spin on lite ice cream. Add 1 tbsp. milk and respin 1-2x.",
         "Add in 1/2 chopped snickers bar.",
         "Spin on mixin."
       ],
-      "prepNotes": "Freeze 12-24 hours before spinning. Discount code: ninja_creami_recipes for 25% off Lean Fit Brand.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "high-protein",
-        "ninja creami",
-        "snickers",
-        "healthy dessert",
-        "sugar-free"
+        "snickers"
       ],
-      "source": "ninja_creami_recipes (Instagram)",
-      "pinned": false
+      "createdAt": "2026-07-01T05:23:47.138Z",
+      "updatedAt": "2026-07-01T05:27:18.621Z"
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
