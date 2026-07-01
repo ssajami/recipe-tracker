@@ -146,18 +146,15 @@
     },
     {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:59.812Z",
-      "updatedAt": "2026-06-30T19:15:59.812Z",
-      "title": "Barebells Protein Ice Cream",
-      "servings": "1 pint (333 calories, 42g protein total)",
+      "title": "Barebells Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g Fat Free ultra-filtered Milk",
         "40-45g Lakanto monk fruit sweetener",
-        "5g (1 tsp) Nielsen-Massey vanilla bean paste (or extract)",
+        "5g (1 tsp) vanilla bean paste (or extract)",
         "A pinch of salt",
-        "1g (1/4 tsp) Bob's Red Mill xanthan gum",
+        "1g (1/4 tsp) xanthan gum",
         "1 Barebells protein bar (mix-in)"
       ],
       "instructions": [
@@ -165,21 +162,18 @@
         "Run your pint under hot water for at least 60 seconds",
         "Spin on \"Lite Ice Cream\" setting",
         "Spin on \"Respin\" setting if very powdery",
+        "Right before the Mix-In cycle, microwave the Barebells bar for 10-20 seconds, hollow out a hole in the center of the base, and dump in.",
         "Make a hole down to the bottom with a butter knife and fill with the melty Barebells",
         "Run the \"Mix-in\" cycle"
       ],
-      "prepNotes": "Right before the Mix-In cycle, microwave the Barebells bar for 10-20 seconds, hollow out a hole in the center of the base, and dump in. After spinning on the Mix-In setting, it'll turn into perfectly sized chocolatey bits. Macros: 333 cal, 21g C, 7g F, 42g P. Made with Ninja Kitchen Creami.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "protein",
-        "ice cream",
-        "dessert",
-        "low calorie",
-        "high protein",
-        "ninja creami",
-        "fitness",
-        "healthy"
+        "ice cream"
       ],
-      "source": "fitnessproductfinder (Instagram), idea from @ajmangofit"
+      "createdAt": "2026-06-30T19:15:59.812Z",
+      "updatedAt": "2026-07-01T05:15:12.581Z"
     },
     {
       "id": "de7b597c-5427-4843-a489-567e1ec20874",
