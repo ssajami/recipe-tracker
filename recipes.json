@@ -114,14 +114,11 @@
     },
     {
       "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:36.073Z",
-      "updatedAt": "2026-07-01T06:20:36.073Z",
       "title": "Snickers-Eis aus der Ninjacreami",
       "servings": "",
+      "source": "alex.new.life (Instagram)",
       "ingredients": [
-        "100ml Milch 0,3 %",
+        "100ml Milk 0,3 %",
         "200g Quark",
         "30g Protein Pudding Caramel",
         "2 Scoop Chunky Flavour Hazelnut & MilkyCream",
@@ -130,12 +127,14 @@
         "Topping: Erdnüsse"
       ],
       "instructions": [
-        "Als erstes gibst du alle Zutaten in deinen Behälter für die Ninjacreami außer das Topping und frierst es für 24 Std ein.",
+        "Add all ingredients (except toppings) to your Ninja Creami container. Whisk until smooth, then freeze flat and level for 24 hours.",
         "Nun gibst du das gefrorene Eis in deine Ninjacreami und drückst auf Ice Cream.",
         "Danach gibst du nochmal ein Schluck Milch hinzu und drückst 1-2x auf Re-Spin bis du eine cremige Konsistenz hast.",
         "Wenn du magst kannst du jetzt als Topping die Schokosoße und die Erdnüsse obendrauf geben."
       ],
       "prepNotes": "Kalorienarm, familientauglich, zuckerreduziert. Einfrierzeit: 24 Stunden.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Eis",
         "Dessert",
@@ -146,7 +145,8 @@
         "Protein",
         "Snickers"
       ],
-      "source": "alex.new.life (Instagram)"
+      "createdAt": "2026-07-01T06:20:36.073Z",
+      "updatedAt": "2026-07-01T06:27:05.513Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
