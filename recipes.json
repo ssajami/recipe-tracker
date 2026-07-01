@@ -60,12 +60,9 @@
     },
     {
       "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:44.520Z",
-      "updatedAt": "2026-07-01T05:58:44.520Z",
-      "title": "Chocolate Brownie",
-      "servings": "1",
+      "title": "Chocolate Brownie Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
       "ingredients": [
         "15g Cookies & cream whey",
         "50g 10% Fat greek yogurt",
@@ -77,20 +74,19 @@
       ],
       "instructions": [
         "Combine the base ingredients: cookies & cream whey, greek yogurt, almond milk, cocao powder, agave, and xanthan gum.",
-        "Blend/freeze in Ninja Creami.",
+        "Blend/freeze.",
         "Mix in 1 brownie."
       ],
-      "prepNotes": "High protein Ninja Creami recipe. Chocolate brownie flavor.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high protein",
-        "dessert",
-        "ninja creami",
         "chocolate",
         "ice cream",
-        "healthy",
         "protein"
       ],
-      "source": "katstaddon.fit"
+      "createdAt": "2026-07-01T05:58:44.520Z",
+      "updatedAt": "2026-07-01T06:14:16.408Z"
     },
     {
       "id": "abf37ac4-ffb9-4765-a665-bbb8dc1b0fec",
