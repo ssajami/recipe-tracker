@@ -189,15 +189,12 @@
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:47.453Z",
-      "updatedAt": "2026-07-01T05:23:47.453Z",
-      "title": "Blueberry Vanilla Creami",
-      "servings": "",
+      "title": "Blueberry Vanilla Ice Cream",
+      "servings": "creami tub",
+      "source": "@ellies.fav.eats",
       "ingredients": [
-        "3/4-1 cup whole milk (I love @fairlife)",
-        "1 scoop vanilla protein powder (I used @cleansimpleeats)",
+        "3/4-1 cup whole milk",
+        "1 scoop vanilla protein powder",
         "1/2 Tb sugar free vanilla jello pudding mix",
         "Blueberries"
       ],
@@ -207,18 +204,15 @@
         "Put lid on and freeze for 12-24 hours.",
         "I blend mine once using light ice cream and one more time using the mix in setting!"
       ],
-      "prepNotes": "The color on this is gorgeous!! Freeze for 12-24 hours before blending. Use the Ninja Creami with light ice cream setting, then the mix in setting.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "blueberry",
-        "blueberryicecream",
-        "ice cream",
-        "protein",
-        "dessert",
-        "ninja creami",
-        "healthy",
-        "high protein"
+        "ice cream"
       ],
-      "source": "ninjacreamidelights (Original by ellies.fav.eats)"
+      "createdAt": "2026-07-01T05:23:47.453Z",
+      "updatedAt": "2026-07-01T05:50:59.288Z"
     },
     {
       "id": "7a8b4c9d-19e2-41b8-9203-9f82ddd1b740",
