@@ -123,12 +123,9 @@
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:45.654Z",
-      "updatedAt": "2026-07-01T05:58:45.654Z",
-      "title": "Snickerdoodle Protein Ice Cream",
-      "servings": "1 pint",
+      "title": "Snickerdoodle Ice Cream",
+      "servings": "creami tub",
+      "source": "@jennaliveswell",
       "ingredients": [
         "1 cup unsweetened oat, almond, or milk of choice",
         "1 scoop vanilla protein powder",
@@ -143,21 +140,20 @@
       ],
       "instructions": [
         "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
-        "Pour into a Ninja Creami pint, cover, and freeze 12–24 hours.",
+        "Pour into a tub, cover, and freeze 12–24 hours.",
         "Spin on Lite Ice Cream.",
-        "Add 1–2 tbsp milk and \"Re-Spin\".",
-        "Enjoyyyy"
+        "Add 1–2 tbsp milk and \"Re-Spin\"."
       ],
-      "prepNotes": "Freeze 12–24 hours before spinning. Cashew or almond butter is optional but recommended.",
+      "prepNotes": "Cashew or almond butter is optional but recommended.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "highprotein",
         "ice cream",
-        "dessert",
         "snickerdoodle",
-        "healthy"
+        "protein"
       ],
-      "source": "ninjacreamidelights (recipe by @jennaliveswell)"
+      "createdAt": "2026-07-01T05:58:45.654Z",
+      "updatedAt": "2026-07-01T06:08:38.552Z"
     },
     {
       "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
