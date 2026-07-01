@@ -145,32 +145,27 @@
     },
     {
       "id": "a6c1ff12-77b0-49f5-9642-d63a2e9072bb",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:54.776Z",
-      "updatedAt": "2026-06-30T19:15:54.776Z",
-      "title": "High Protein Chocolate Ninja-Creami",
-      "servings": "",
+      "title": "Chocolate Ice Cream 2",
+      "servings": "creami tub",
+      "source": "@fit_jumar",
       "ingredients": [
         "2 tbsp chocolate protein powder",
         "2 tbsp unsweetened cocoa powder",
         "150 ml high-protein almond milk",
-        "50 ml light milk (e.g., low-fat cow's milk)",
+        "50 ml low fat milk",
         "1 tsp date paste or honey (to taste)",
         "0.5-1 tsp guar gum"
       ],
       "instructions": [],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high-protein",
-        "dessert",
         "chocolate",
-        "ice cream",
-        "ninja creami",
-        "healthy",
-        "low-fat"
+        "ice cream"
       ],
-      "source": "fit_jumar"
+      "createdAt": "2026-06-30T19:15:54.776Z",
+      "updatedAt": "2026-07-01T02:13:40.174Z"
     },
     {
       "id": "b666a61e-3502-45b5-98a7-a0e91e2167f5",
