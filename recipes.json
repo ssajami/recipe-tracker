@@ -2,18 +2,15 @@
   "recipes": [
     {
       "id": "7a8b4c9d-19e2-41b8-9203-9f82ddd1b740",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:57.123Z",
-      "updatedAt": "2026-06-30T19:15:57.123Z",
-      "title": "Oreo McFlurry Protein Ice Cream",
-      "servings": "1 pint",
+      "title": "Oreo McFlurry Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g Fat Free fairlife milk",
         "45g Lakanto monk fruit sweetener",
-        "5g (1 tsp) nielsenmassey vanilla bean paste (or extract)",
+        "5g (1 tsp)  vanilla bean paste (or extract)",
         "A pinch of salt",
-        "1g (¼ tsp) bobsredmill xanthan gum",
+        "1g (¼ tsp)  xanthan gum",
         "Mix-ins: 5 OREO Thins (cream removed)"
       ],
       "instructions": [
@@ -24,17 +21,14 @@
         "Make a hole down to the bottom with a butter knife and fill with the Oreos",
         "Run the \"Mix-in\" cycle"
       ],
-      "prepNotes": "233 calories 23g protein for the entire pint, mix-ins included (233 cal, 29g C, 2g F, 23g P). All recipe books (200+ flavors) are in bio. Follow for more NinjaKitchen Creami tips, tricks, and recipes!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "proteinicecream",
-        "creami",
-        "dessert",
-        "high-protein",
-        "low-calorie",
         "ice cream"
       ],
-      "source": "ray128128128 (Instagram)"
+      "createdAt": "2026-06-30T19:15:57.123Z",
+      "updatedAt": "2026-07-01T02:16:36.408Z"
     },
     {
       "id": "394074bf-c766-4f91-a18f-0dce012e35d7",
