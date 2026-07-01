@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-01T18:10:16.589Z",
       "title": "Vanilla (Base Recipe)",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -18,20 +15,17 @@
         "Pinch of salt",
         "¼ teaspoon of Vanilla Extract"
       ],
-      "instructions": [
-        "Mix-ins: Anything you like.",
-        "Toppings: Anything you like."
-      ],
-      "prepNotes": "Your traditional vanilla. A classic recipe you can spruce up however you like. This is where I start for most flavors when experimenting with new concoctions.",
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "vanilla",
-        "high-protein",
-        "sugar-free",
-        "base recipe"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T18:10:16.588Z",
+      "updatedAt": "2026-07-01T18:11:52.063Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
