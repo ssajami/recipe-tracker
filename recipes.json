@@ -95,12 +95,9 @@
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-06-30T19:15:57.506Z",
-      "updatedAt": "2026-06-30T19:15:57.506Z",
-      "title": "Vanilla Bean FroYo",
-      "servings": "Makes 3 servings (118 calories, 18g protein per serving)",
+      "title": "**Vanilla Bean FroYo",
+      "servings": "creami tub",
+      "source": "fitnessproductfinder (Instagram, #OIKOSPartner)",
       "ingredients": [
         "400g Vanilla OIKOS PRO",
         "5g (1 tsp) vanilla bean paste",
@@ -109,27 +106,19 @@
         "1g (¼ tsp) binding agent"
       ],
       "instructions": [
-        "Blend all ingredients for the base in the Ninja CREAMi and freeze (at least 16 hours)",
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
         "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting (or Frozen Yogurt if you have the newer machines)",
-        "Spin on \"Respin\" setting until it reaches your desired texture",
-        "If you have the Ninja Swirl, follow these extra steps:",
-        "Replace the spinning paddle with the dispensing lid",
-        "Place the pint into the soft serve side of the Swirl and lock into place",
-        "Open the nozzle of the lid",
-        "Dispense!!"
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired texture"
       ],
-      "prepNotes": "Entire pint: 353 cal, 17g C, 7g F, 54g P. Save this for the next time you want dessert that helps you hit your macros!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high-protein",
-        "frozen yogurt",
-        "dessert",
-        "low-sugar",
-        "ninja creami",
-        "healthy",
-        "fitness"
+        "frozen yogurt"
       ],
-      "source": "fitnessproductfinder (Instagram, #OIKOSPartner)"
+      "createdAt": "2026-06-30T19:15:57.506Z",
+      "updatedAt": "2026-07-01T02:49:20.552Z"
     },
     {
       "id": "a6c1ff12-77b0-49f5-9642-d63a2e9072bb",
