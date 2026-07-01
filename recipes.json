@@ -1,6 +1,403 @@
 {
   "recipes": [
     {
+      "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Cosmic Brownie",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate OR White Chocolate pudding",
+        "1 scoop of Ryse Cosmic Brownie Protein Powder OR Optium Nutrition Extreme Chocolate Protein Powder (won't be as brownie flavored)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1 Tbsp Dark Cocoa Powder OR Cocoa Powder OR Half Tbsp of each as desired",
+        "Bulk Option: add 1 Tbsp of PB2 Chocolate Chip Brownie Mix OR Equivalent",
+        "Lower Calorie Non-Mixin Optional: Swap Little Debbie Cosmic Brownie with 1 Tbsp of Pillsbury Zero Sugar Brownie Mix OR Make Keto Fudge Brownie",
+        "Mix-ins: 1 Little Debbie's Cosmic Brownie diced up OR Keto Fudge Brownie",
+        "Mix-ins: 2 Tbsp Rainbow Sprinkles",
+        "Toppings: Rainbow Sprinkles",
+        "Toppings: Sugar Free Hershey Chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional dark chocolate ice cream.",
+        "Add the diced Cosmic Brownie and rainbow sprinkles during the mix-in cycle.",
+        "Top with rainbow sprinkles and sugar free Hershey chocolate syrup."
+      ],
+      "prepNotes": "This is a traditionally churned dark chocolate ice cream packed with decadent Little Debbie Cosmic Brownie snacks.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "chocolate"
+      ],
+      "source": "https://www.youtube.com/watch?v=wUOcU8VDDMQ&list=PL4qtMlW9Grwnl4xfVp9Ki61y4461icOK5&index=34"
+    },
+    {
+      "id": "859c87d5-d30e-4d69-ac4f-89156bf7652f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Oatmeal Cream Pie",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free vanilla pudding",
+        "1 scoop of Ryse Jet Puff Marshmallow OR 1 Keto Iced Oatmeal Whey Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: Reduce each milk by 1/4 cup and replace with 1/4 cup of cooked oatmeal – rolled oats and water (Optional add cinnamon and honey)",
+        "Mix-ins: 1 Little Debbie's Oatmeal Cream Pie, broken up into smaller pieces",
+        "Cream Filling Topping: 1 tbsp room temp Butter, 15 gr Serve Powdered Sugar, 1/8 teaspoon vanilla extract, 4 ml heavy cream"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add broken up Oatmeal Cream Pie pieces during the mix-in cycle.",
+        "For cream filling topping: beat 1 tbsp room temp butter until fluffy (a few minutes), then add 15 gr powdered sugar and mix well, then add 1/8 teaspoon vanilla extract and 4 ml heavy cream and mix well. Add more heavy cream as needed until desired texture (like icing)."
+      ],
+      "prepNotes": "A traditional vanilla ice cream complemented with oatmeal, and Little Debbie's Oatmeal Cream Pie. Edit: Updated 3/30/26 & 4/2/26 still not right. Trying something else. Cream filling: 115 cal, 15 carb, 14 fat.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein"
+      ],
+      "source": ""
+    },
+    {
+      "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Star Crunch",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Caramel pudding",
+        "1 scoop of Vanilla Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 tbsp Caramel Syrup",
+        "Mix-ins: 1 Frozen Little Debbie's Star Crunch OR Optional healthier Alternative: Rice Crispies soaked with SF Chocolate Syrup hand stirred in",
+        "Toppings: Optional SF Chocolate AND/OR SF Caramel Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add the frozen Star Crunch (or soaked rice crispies) during the mix-in cycle.",
+        "Top with optional SF chocolate and/or SF caramel syrup."
+      ],
+      "prepNotes": "A traditionally vanilla ice cream with hints of caramel and chocolate-covered rice crisp. Edit: Still Trying to refine as of 3/17/26.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "caramel"
+      ],
+      "source": ""
+    },
+    {
+      "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Red Velvet",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Red Velvet Cupcake pudding (Sprinkles brand)",
+        "1 scoop of Vanilla Protein Powder",
+        "1/4 Tbsp of Cocoa Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: 2-4 drops of red food coloring (Just darkens the mix)",
+        "Mix-ins: 1 tbsp Cream cheese"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add cream cheese during the mix-in cycle: pre-freeze it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint."
+      ],
+      "prepNotes": "A traditional vanilla ice cream complemented with Red Velvet Pudding and cream cheese for that signature red velvet taste. Cream cheese can dial up the fat, so opt for Low Fat or Non Fat Cream Cheese if watching macros.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein"
+      ],
+      "source": ""
+    },
+    {
+      "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Cinnamon Toast Crunch",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free vanilla pudding",
+        "1 scoop of Ryse Cinnamon Toast Crunch Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1 tbsp Cinnamon",
+        "Mix-ins: 1 tbsp Cinnamon",
+        "Mix-ins: 1/2 cup of Cinnamon Toast Crunch Cereal, OR Catalina Crunch Protein Cereal, adjust as desired",
+        "Toppings: Cool Whip",
+        "Toppings: Cinnamon Toast Crunch Cereal",
+        "Toppings: Dash of Cinnamon"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add cinnamon and cereal during the mix-in cycle.",
+        "Top with Cool Whip, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
+      ],
+      "prepNotes": "Your favorite cinnamon cereal transformed into a smooth, creamy texture, complemented with bits of crunchy goodness.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "cinnamon"
+      ],
+      "source": ""
+    },
+    {
+      "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Sherbert (Lime, Orange, Raspberry, Strawberry)",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free JELLO (Stir/Whisk in 1/2 cup hot water until it dissolves or it will have a grainy texture)",
+        "1 scoop of Vanilla Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Flavored Extract of desired flavor (Lime, Lemon, Strawberry, ...)",
+        "1/4 Cup of desired Blended Fruit",
+        "Optional: Dash of Zest (Too much will make it bitter)",
+        "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float",
+        "Toppings: Cool Whip"
+      ],
+      "instructions": [
+        "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
+        "Combine all base ingredients and mix well.",
+        "Churn on the SHERBERT setting.",
+        "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
+        "Top with Cool Whip."
+      ],
+      "prepNotes": "Your favorite summertime treat of fruit infused ice cream. Make sure to RUN ON SHERBERT SETTING!",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "fruit",
+        "sherbert"
+      ],
+      "source": ""
+    },
+    {
+      "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Coconut Cream Pie",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk (Optional: swap for Coconut Milk)",
+        "1 tbsp sugar-free Vanilla pudding OR Coconut Cream Pudding (I haven't found sugar free)",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "2 Tablespoons of coconut flakes, toasted if desired",
+        "1/4 teaspoon Coconut Extract",
+        "Optional: Reduce Almond Milk by up to 1/2 cup and replace with equal parts Coconut Milk/Coconut Water",
+        "Mix-ins: Coconut Flakes, toasted if desired",
+        "Mix-ins: Optional 1 Rectangle Graham Cracker",
+        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 1 Crumbled Graham Crackers",
+        "Toppings: Coconut Flakes"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional ice cream.",
+        "Add coconut flakes and optional graham cracker during the mix-in cycle.",
+        "Top with Cool Whip, crumbled graham crackers, and coconut flakes."
+      ],
+      "prepNotes": "This coconut cream pie recipe features a thick and creamy coconut base, with graham crackers and toasted coconut flakes.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "coconut"
+      ],
+      "source": ""
+    },
+    {
+      "id": "56a3c6e9-7eb0-4a0d-a708-eb42b12d24de",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Pretzel Toffee Crunch",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Sugar Free Toffee Syrup (for Coffee) Skinny Girl or Torani",
+        "1/4 teaspoon Butter Extract",
+        "Mix-ins: Pretzels (Crushed)",
+        "Mix-ins: Heath Bar Toffee Bits",
+        "Mix-ins: Dark Chocolate Chips, Dark Chocolate or Cacao Nibs",
+        "Toppings: 2 tbsp Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a vanilla base ice cream.",
+        "Add crushed pretzels, Heath Bar toffee bits, and dark chocolate chips during the mix-in cycle.",
+        "Top with Cool Whip."
+      ],
+      "prepNotes": "This vanilla base features a buttery taste of toffee and crunch overload with pretzels and Heathbars and dark chocolate chips.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "toffee"
+      ],
+      "source": ""
+    },
+    {
+      "id": "6708d926-e326-49d8-90e6-ba0cd1411281",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Dark Chocolate Oreo/Starry Night of Texas",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop of Chocolate protein powder",
+        "1 tbsp Allulose",
+        "1 tbsp Black Cocoa Powder (makes it darker) OR Cocoa Powder if can't find Dark",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon of Vanilla Extract",
+        "Mix-ins: 9 Oreo mini's or Oreo thins, approx. 28 grams, break up first; or equivalent",
+        "Toppings: Optional crumbled Oreo minis",
+        "Toppings: Optional Chocolate Sprinkles",
+        "Toppings: Optional Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a dark chocolate base ice cream.",
+        "Break up Oreos and add during the mix-in cycle. Tip: scrape the cream out of the Oreo to reduce sugar content greatly - the cookies are all that matters for the crunch.",
+        "Top with crumbled Oreo minis, chocolate sprinkles, and/or Cool Whip."
+      ],
+      "prepNotes": "Similar to Oreo blast, but instead of a base vanilla recipe, we start with a Dark Chocolate base with a blast of America's favorite cookie for a bit of crunch.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "chocolate"
+      ],
+      "source": ""
+    },
+    {
+      "id": "53390bcd-c6c4-41ff-9a2a-e04198432bf4",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-01T19:07:16.074Z",
+      "title": "Rice Crispy Treat",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Ryse Jett Puff Protein Powder OR (Vanilla Ice Cream-Not quite as good)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/2 teaspoon of Marshmallow Extract (Needs more than normal to achieve the flavor)",
+        "Mix-ins: Rice Crispy Treat Square OR HAND STIR Plain Rice Krispies for less calories",
+        "Mix-ins: Jet Puff marshmallow swirls (hand stirred)",
+        "Toppings: Rice Crispy Sprinkled on top",
+        "Toppings: Optional Mini Marshmallows",
+        "Toppings: Optional Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a vanilla base ice cream.",
+        "Hand stir in the mix-ins to keep the Rice Krispies crunchy and the Jet Puff marshmallows soft. Running them on mixin setting will pulverize them.",
+        "Add marshmallow swirls by hand stirring in Jet Puff (actual marshmallows get hard from the cold; freeze dried marshmallows have a Lucky Charm cereal texture; for soft mallow use Jet Puff).",
+        "Top with Rice Crispy sprinkled on top, optional mini marshmallows (try kitchen blow torch toasting), and optional Cool Whip."
+      ],
+      "prepNotes": "Vanilla base with marshmallow extract and rice crispy mixins. This one needs hand stirring for the mixins to keep the Rice Crispys crunchy and the Jet Puff Marshmallows soft.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "sugar-free",
+        "high-protein",
+        "marshmallow"
+      ],
+      "source": ""
+    },
+    {
       "id": "85183f50-1883-410d-91ce-5670ee6460f7",
       "afterPrepNotes": "",
       "rating": null,
