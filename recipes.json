@@ -27,12 +27,9 @@
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-01T05:23:46.495Z",
-      "title": "Tiramisu Ninja Creami Icecream",
-      "servings": "Serves 3",
+      "title": "Tiramisu Ice Cream",
+      "servings": "creami tub",
+      "source": "@julzhealth",
       "ingredients": [
         "300ml full cream milk",
         "100g yoghurt",
@@ -48,16 +45,16 @@
         "Press scoop, then Lite Icecream.",
         "Dust with cacao powder, scoop & enjoy!"
       ],
-      "prepNotes": "ps. mine turned out like the video on the first spin, if yours is icy just re-spin, do not add more liquid.",
+      "prepNotes": "if icy just re-spin, do not add more liquid.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "ninjacreamirecipes",
         "tiramisu",
-        "icecream",
-        "dessert",
-        "coffee"
+        "coffee",
+        "ice cream"
       ],
-      "source": "ninjacreamidelights, Original by julzhealth"
+      "createdAt": "2026-07-01T05:23:46.495Z",
+      "updatedAt": "2026-07-01T05:52:29.434Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
