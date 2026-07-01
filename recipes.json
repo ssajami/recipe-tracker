@@ -1,6 +1,37 @@
 {
   "recipes": [
     {
+      "id": "b0a5fcb1-38d5-4e33-8cfd-c4534f5b989d",
+      "title": "Turkish Dondurma Ice Cream",
+      "servings": "creami tub",
+      "source": "Reddit",
+      "ingredients": [
+        "2 cups unsweetened almond milk or full fat milk",
+        "1 tsp salep powder",
+        "1/16 tsp mastic powder or crushed mastic tears",
+        "1 scoop Vanilla protein powder ",
+        "Sweeteners ",
+        "Cinnamon ",
+        "2 tsp Sugar free jello cheesecake pudding "
+      ],
+      "instructions": [
+        "Heat milk in saucepan, stirring constantly with whisk",
+        "Add salep. Keep whisking ",
+        "Add mastic. As you cook 10-15 minutes it will thicken.",
+        "Let cool. ",
+        "Add protein powder and sweetener. Add cinnamon and pudding",
+        "Freeze. Spin on Lite. Serve with crushed pistachios "
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T07:34:08.593Z",
+      "updatedAt": "2026-07-01T07:34:08.593Z"
+    },
+    {
       "id": "bf4df602-696c-4ac5-b82e-7896ff9f454f",
       "title": "Black Raspberry Ice Cream",
       "servings": "creami tub",
