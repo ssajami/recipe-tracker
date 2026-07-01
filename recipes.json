@@ -36,40 +36,6 @@
       "updatedAt": "2026-07-01T06:39:21.282Z"
     },
     {
-      "id": "994a8334-2a74-49e9-beba-1d557daf9f94",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:40.864Z",
-      "updatedAt": "2026-07-01T06:20:40.864Z",
-      "title": "Recettes Ninja Creami (5 versions)",
-      "servings": "1 portion par recette",
-      "ingredients": [
-        "Peanut butter & chocolat: 300ml lait demi-écrémé, un peu d'édulcorant, 15g pb2, 2g gomme de xanthane (facultatif), 15g peanut butter, 10g de pépites de chocolat",
-        "Spéculos Lotus: 300ml lait demi-écrémé, un peu d'édulcorant, 20g pâte de spéculos (Lotus ici), 2g gomme de xanthane (facultatif), 1 spéculos émietté",
-        "Vanille protéinée: 300ml lait demi-écrémé, un peu d'édulcorant, 20g protéine en poudre vegan à la vanille (vegan pour la texture), 2g gomme de xanthane (facultatif)",
-        "Chocolat noir protéinée: 300ml lait demi-écrémé, un peu d'édulcorant, 20g protéine en poudre vegan chocolat (vegan pour la texture), 10g cacao non sucré, 2g gomme de xanthane (facultatif)",
-        "Frozen Yogurt: 100g fromage blanc/skyr, 250ml d'eau, un peu d'édulcorant, 20g protéine en poudre vegan vanille (vegan pour la texture), 2g gomme de xanthane (facultatif), qq framboises surgelées (bonus)"
-      ],
-      "instructions": [
-        "Peanut butter & chocolat: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, ajouter 15g peanut butter & 10g de pépites de chocolat & respin 1-2x",
-        "Spéculos Lotus: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, ajouter 1 spéculos émietté & respin 1-2x",
-        "Vanille protéinée: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x",
-        "Chocolat noir protéinée: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x",
-        "Frozen Yogurt: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x (bonus: ajouter qq framboises surgelées avant la dégustation)"
-      ],
-      "prepNotes": "12-24h au congélateur avant de passer en machine. Utiliser l'option 'light ice cream' puis respin 1-2x. La gomme de xanthane est facultative. Utiliser de la protéine vegan pour la texture.",
-      "tags": [
-        "ninja creami",
-        "glace",
-        "dessert",
-        "healthy",
-        "protéiné",
-        "frozen yogurt",
-        "faible en calories"
-      ],
-      "source": "Recettes préférées avec la Ninja Creami (publication Instagram/réseau social)"
-    },
-    {
       "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
       "title": "Vanilla Caramel Fudge Ice Cream",
       "servings": "creami tub",
