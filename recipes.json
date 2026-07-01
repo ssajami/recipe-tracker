@@ -210,12 +210,9 @@
     },
     {
       "id": "addb1f41-cd4d-415a-ae98-e45fea6bbc95",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:45.862Z",
-      "updatedAt": "2026-07-01T05:58:45.862Z",
-      "title": "Vanilla Biscoff",
-      "servings": "",
+      "title": "Vanilla Biscoff Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
       "ingredients": [
         "30g Vanilla whey",
         "1/2 Banana",
@@ -228,22 +225,22 @@
       ],
       "instructions": [
         "Combine base ingredients (vanilla whey, banana, oats, PB powder, Greek yogurt, whole milk, and almond milk) and blend.",
-        "Freeze the base in the Ninja Creami container.",
-        "Process in the Ninja Creami until smooth and creamy.",
+        "Freeze the base",
+        "Process until smooth and creamy.",
         "Add Lotus biscuits as mix-ins and re-spin if desired.",
         "Top with crumbled Lotus biscuits and serve."
       ],
-      "prepNotes": "High protein Ninja Creami recipe. Freeze base before processing.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "high protein",
-        "dessert",
         "ice cream",
         "biscoff",
         "vanilla",
-        "healthy"
+        "protein"
       ],
-      "source": "katstaddon.fit"
+      "createdAt": "2026-07-01T05:58:45.862Z",
+      "updatedAt": "2026-07-01T06:15:31.977Z"
     },
     {
       "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
