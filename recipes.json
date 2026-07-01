@@ -1,6 +1,39 @@
 {
   "recipes": [
     {
+      "id": "bf4df602-696c-4ac5-b82e-7896ff9f454f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:59:50.327Z",
+      "updatedAt": "2026-07-01T06:59:50.327Z",
+      "title": "Black Raspberry Protein Ice Cream",
+      "servings": "1 pint (133 calories, 22g protein for the entire pint)",
+      "ingredients": [
+        "400g fat free fairlife milk",
+        "40-45g Lakanto monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste",
+        "5g (1 tsp) lorannglobal Black Raspberry flavoring (can sub with 40-50g of both raspberries and blackberries)",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired consistency"
+      ],
+      "prepNotes": "Nutrition: 133 cal, 10g C, 0g F, 22g P. Made using the Ninja Creami.",
+      "tags": [
+        "ninjacreami",
+        "proteinicecream",
+        "dessert",
+        "high-protein",
+        "low-calorie",
+        "ice cream"
+      ],
+      "source": "fitnessproductfinder (Instagram), June 7"
+    },
+    {
       "id": "e8e15269-e641-4c37-8f3d-b2e52d828a30",
       "title": "Lotus Speculoos Ice Cream",
       "servings": "creami tub",
