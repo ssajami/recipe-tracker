@@ -1,6 +1,385 @@
 {
   "recipes": [
     {
+      "id": "b49b8bc7-edcd-4ec9-a058-46a79a19c006",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Snickerdoodle",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of BUM Snickerdoodle Whey Protein",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Cinnamon",
+        "¼ teaspoon of Vanilla Extract",
+        "Optional: ¼ teaspoon of Cream of Tartar (adds tang)"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Add mix-ins: Optional Snickerdoodle Cookie (Keto or store-bought), usually 1 serving per pint.",
+        "Top with Cool Whip and Cinnamon."
+      ],
+      "prepNotes": "A soft, cinnamon-sugar coating with a slight bit of tang. Cream of Tartar adds the tang used in Snickerdoodle cookies but tastes fine without it. For a cheesecake version, see Cinnamon Cookie Crumble.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Lemon Cake/Lemon Bar",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of BUM Lemon Cake Whey Protein Powder OR Vanilla Ice Cream protein powder (but not as lemony)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Lemon Extract",
+        "¼ teaspoon of Cake Batter Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Optional mix-ins: For a more cake-like texture, use Bettergoods Lemon Chiffon Soft Baked Cookies or Lemon Bars (Keto/Regular or Quest Lemon Cake protein bars).",
+        "Make Lemon Icing: Mix 1 tablespoon of SF powdered sugar with 1/4 teaspoon of water and a couple drops of lemon juice/extract until an icing-like texture.",
+        "Drizzle icing over the top or mix with the Cool Whip first.",
+        "Optional: Top with Lemon Cookies or Lemon Bars."
+      ],
+      "prepNotes": "Vanilla base with hints of lemon topped with Lemon Bars or Lemon cookies and drizzled with Sugar Free Lemon icing.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "lemon",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "0dc996f7-9d12-4c8a-9aa7-dee0ea5d4327",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Wedding Cake",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of BUM Birthday Cake Whey Protein Powder OR Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Cake Batter Extract",
+        "Optional: Add 2 tbsp of SF Jam/Jelly/Preserves of choice to achieve flavor"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Optional: Add 2 tbsp of SF Jam/Jelly/Preserves (e.g., raspberry jam and caramel icing for Devils Food flavor).",
+        "Add mix-ins: Wedding Cake Cookies.",
+        "Top with Cool Whip and crumbled wedding cookies.",
+        "Optional: Drizzle SF Powdered Sugar icing (mix cold water with powdered sugar; add a tablespoon of SF Pudding to thicken. Try Cheesecake, Salted Caramel, or Vanilla pudding mixes)."
+      ],
+      "prepNotes": "A classic cake batter mix with the sweetness dialed up and a bit of your favorite tang. Google Wedding cake flavors: lemon, almond, coconut, chocolate hazelnut expresso, pistachio, raspberry, lemon blueberry, salted caramel & toffee. Add 1-2 Tbsp of any wet ingredient, ¼ teaspoon of extract, ½ teaspoon of syrups.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "cake",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Caramel Frapachino",
+      "servings": "1 pint",
+      "ingredients": [
+        "¾ cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Salted Caramel pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp SF Caramel beverage syrup Torani",
+        "¼ teaspoon of Vanilla",
+        "1 brewed shot of expresso/coffee (2 oz) OR 1 scoop of Nespresso (if using this option keep the Fairlife Milk at 1 Cup)"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Spin up on lite ice cream setting for extra fluffy smoothness.",
+        "Top with Non Fat Cool Whip and SF Caramel Syrup."
+      ],
+      "prepNotes": "Vanilla base with an expresso shot spun up on lite ice cream setting for extra fluffy smoothness and topped with cool whip and caramel syrup. No mix-ins.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "coffee",
+        "caramel",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Chocolate Fudge Almond Toffee",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop Chocolate Protein powder OR 50/50 mix with Ryse Cosmic Brownie",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp of Dark Cocoa Powder OR Cocoa Powder",
+        "1 Tbsp PB2 Chocolate Chip Brownie Mix OR Brownie Mix",
+        "1/4 teaspoon of SF Skinny Girl Butter Toffee Syrup",
+        "¼ teaspoon of Vanilla",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven (breakup first).",
+        "Add mix-ins: 14 grams toasted almonds, Heath Bar Toffee Bits, optional crumbled Keto brownie bits.",
+        "Top with Cool Whip, toffee bits, SF chocolate syrup, and brownie crumble."
+      ],
+      "prepNotes": "An explosion smorgasbord of flavors. A rich fudge chocolate base with buttery toffee syrup, toasted almonds, brownies and buttery toffee bits.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "chocolate",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection (https://www.youtube.com/watch?v=wUOcU8VDDMQ&list=PL4qtMlW9Grwnl4xfVp9Ki61y4461icOK5&index=34)"
+    },
+    {
+      "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Almond Fudge",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop Chocolate Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ Tbsp of Dark Cocoa Powder (can use 1 Tbsp all dark if desired)",
+        "½ Tbsp Cocoa Powder",
+        "¼ teaspoon of Vanilla",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven (careful not to burn!).",
+        "Add mix-ins: 14 grams toasted almonds, 17 grams (1 inch square) Chocolate Fudge.",
+        "Optional: Squirt SF Chocolate Syrup in the bottom of the pint.",
+        "Optional toppings: Non Fat Cool Whip and SF Chocolate Syrup."
+      ],
+      "prepNotes": "A rich Chocolate base blended with toasted almonds and chewy Fudge.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "chocolate",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Toasted Coconut Almond",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp Coconut Flakes (Toasted or not)",
+        "¼ teaspoon of Vanilla Extract",
+        "¼ teaspoon of Coconut Extract",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven, then crush (put in ziplock bag and crush with spoon).",
+        "Toast 2 Tbsp coconut flakes in toaster oven until slightly brown.",
+        "Add mix-ins: 14 grams toasted crushed almonds, 2 Tbsp toasted coconut flakes, Lilies Dark Chocolate Chips OR Regular Chocolate Chips, optional Almond Joy.",
+        "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. Optional: Non Fat Cool Whip."
+      ],
+      "prepNotes": "Shredded coconut, toasted to caramelized perfection, crunchy, salt-roasted almonds, and bittersweet chocolate chips.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "coconut",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Dulce De Leche",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Davinci SF Dulche De Leche Syrup AND/OR 100 grams Dulche de Leche Pudding (wet)",
+        "¼ teaspoon of Vanilla extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "No mix-ins.",
+        "Top with Non Fat Cool Whip (Optional: mix in bowl with 1 Tbsp of Dulche De Leche Syrup before adding) and SF Caramel Sauce."
+      ],
+      "prepNotes": "Dulce de Leche is a rich, sweet confection of milk and sugar with a creamy, caramel-like sauce, popular across Latin America.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "caramel",
+        "Latin American",
+        "low-sugar",
+        "keto-friendly"
+      ],
+      "source": "BUM Whey Protein recipe collection"
+    },
+    {
+      "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Cookies Over Texas",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Vanilla Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Add mix-ins: Chocolate chip Cookie Dough (Keto or Regular), Oreo's (SF Oreos or Oreo Thins/Minis/Regular, can remove the cream for fewer calories).",
+        "Optional toppings: Cool Whip, SF Chocolate Syrup, Chocolate Sprinkles, crumbled cookie bits."
+      ],
+      "prepNotes": "One of my favorites hailing from my home state Texas. Classic vanilla base ice cream loaded with big chunks of chocolate chip cookie dough and Oreo cookies. It's all about the mixins! Hard to keep macro friendly as the mix-ins can double or triple total calories; possible with SF Oreos or Oreo Thins with cream removed and homemade Keto Cookie Dough.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "cookies",
+        "low-sugar"
+      ],
+      "source": "BUM Whey Protein recipe collection (Keto cookie dough: https://alldayidreamaboutfood.com/keto-chocolate-chip-cookies/#recipe)"
+    },
+    {
+      "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-01T19:10:07.257Z",
+      "title": "Banana Nut/Banana Nut Bread",
+      "servings": "1 pint",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Banana Cream Pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ of ripe banana",
+        "¼ teaspoon Banana Extract",
+        "¼ teaspoon of Vanilla"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Add mix-ins: Crushed Walnuts OR Pecans, optional Keto Banana Nut Bread/Muffins.",
+        "Optional toppings: Crushed Walnuts OR Pecans, Cool Whip, sliced banana."
+      ],
+      "prepNotes": "Untested. Straight from grandma's kitchen. A Banana cream base with smashed banana and mixed with earthy chopped walnuts. Similar to banana pudding but with nuts for crunch and banana bread.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "banana",
+        "low-sugar",
+        "keto-friendly",
+        "untested"
+      ],
+      "source": "BUM Whey Protein recipe collection (Keto banana bread: https://healthyrecipesblogs.com/paleo-banana-bread/#recipe, https://www.sugarfreemom.com/recipes/sugar-free-keto-banana-bread-nut-free-low-carb-gluten-free/)"
+    },
+    {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
       "afterPrepNotes": "",
       "rating": null,
