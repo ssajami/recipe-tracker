@@ -71,12 +71,9 @@
     },
     {
       "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:35.741Z",
-      "updatedAt": "2026-07-01T06:20:35.741Z",
-      "title": "Vanilla Caramel Fudge Protein Ice Cream",
-      "servings": "1 pint",
+      "title": "Vanilla Caramel Fudge Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g fat free ultra-filtered milk",
         "40-45g Lakanto Classic White Monk Fruit Sweetener",
@@ -95,17 +92,17 @@
         "Run the \"Mix-in\" cycle",
         "Top with the caramel sauce"
       ],
-      "prepNotes": "Right before the Mix-In cycle, combine the chocolate with the coconut oil, melt in the microwave (30 sec intervals, stirring in between), hollow out a hole in the center of the base, and pour in. After spinning on the Mix-In setting, it'll turn into perfect, creamy chocolate chips. Nutrition: 231 calories, 23g protein, 16g C, 6g F for the entire pint including toppings/mix-ins.",
+      "prepNotes": "Right before the Mix-In cycle, combine the chocolate with the coconut oil, melt in the microwave (30 sec intervals, stirring in between), hollow out a hole in the center of the base, and pour in. After spinning on the Mix-In setting, it'll turn into perfect, creamy chocolate chips.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "protein",
         "ice cream",
-        "dessert",
-        "sugar free",
-        "high protein",
-        "low calorie",
-        "Ninja Creami"
+        "caramel",
+        "vanilla"
       ],
-      "source": "@fitnessproductfinder"
+      "createdAt": "2026-07-01T06:20:35.741Z",
+      "updatedAt": "2026-07-01T06:51:48.541Z"
     },
     {
       "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
