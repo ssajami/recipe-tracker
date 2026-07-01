@@ -1,6 +1,284 @@
 {
   "recipes": [
     {
+      "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:45.854Z",
+      "updatedAt": "2026-07-01T05:58:45.854Z",
+      "title": "Chocolate Therapy",
+      "servings": "",
+      "ingredients": [
+        "400ml chocolate protein milkshake",
+        "10g Sugar Free Chocolate Pudding Mix",
+        "10g dark cocoa powder",
+        "1 scoop chocolate protein powder",
+        "20g sweetener (erythritol)",
+        "1g xanthan gum",
+        "Pinch of salt",
+        "2 x Oreo Thins (mix-in)"
+      ],
+      "instructions": [
+        "Blend all ingredients until smooth",
+        "Freeze for at least 24 hours without Lid",
+        "Leave tub to soften for 10-15 minutes",
+        "Warm tub edges under hot water briefly",
+        "Run \"Lite Ice Cream\" mode",
+        "Add 2 x Oreo thins",
+        "Run \"Mix-In\" mode (Re-spin if needed)",
+        "Enjoy"
+      ],
+      "prepNotes": "80% less sugar. Even with these macros, nothing's sacrificed—it's thick, creamy, and tastes too good to be this lean. Macros: Calories 360, Protein 44g, Fat 5.8g, Net carbs 27g, Sugars 18g. Ingredients and nutritional values can vary by brand/region.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high protein",
+        "low sugar",
+        "chocolate",
+        "protein"
+      ],
+      "source": ""
+    },
+    {
+      "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:44.520Z",
+      "updatedAt": "2026-07-01T05:58:44.520Z",
+      "title": "Chocolate Brownie",
+      "servings": "1",
+      "ingredients": [
+        "15g Cookies & cream whey",
+        "50g 10% Fat greek yogurt",
+        "300ml Almond milk",
+        "10g Cocao powder",
+        "10g Agave",
+        "1g Xanthan gum",
+        "1 Brownie (mix in)"
+      ],
+      "instructions": [
+        "Combine the base ingredients: cookies & cream whey, greek yogurt, almond milk, cocao powder, agave, and xanthan gum.",
+        "Blend/freeze in Ninja Creami.",
+        "Mix in 1 brownie."
+      ],
+      "prepNotes": "High protein Ninja Creami recipe. Chocolate brownie flavor.",
+      "tags": [
+        "high protein",
+        "dessert",
+        "ninja creami",
+        "chocolate",
+        "ice cream",
+        "healthy",
+        "protein"
+      ],
+      "source": "katstaddon.fit"
+    },
+    {
+      "id": "abf37ac4-ffb9-4765-a665-bbb8dc1b0fec",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:45.329Z",
+      "updatedAt": "2026-07-01T05:58:45.329Z",
+      "title": "Reese's Peanut Butter Ice Cream",
+      "servings": "1 pint (1 serving)",
+      "ingredients": [
+        "1.25 cup milk",
+        "1 scoop vanilla protein",
+        "2 tbsp peanut butter powder",
+        "1 tbsp butterscotch pudding mix",
+        "1/4 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
+        "Mix well and pour into a pint container.",
+        "Freeze, then process in a Ninja Creami until smooth and creamy."
+      ],
+      "prepNotes": "~440 calories, 47g protein. Can be enjoyed as a pint of ice cream every night while still hitting fitness goals.",
+      "tags": [
+        "recipe",
+        "highprotein",
+        "dessert",
+        "lowcalorie",
+        "icecream",
+        "ninjacreami",
+        "peanutbutter"
+      ],
+      "source": "ninjacreamidelights (recipe by @justinanderson_fit)"
+    },
+    {
+      "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:45.654Z",
+      "updatedAt": "2026-07-01T05:58:45.654Z",
+      "title": "Snickerdoodle Protein Ice Cream",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup unsweetened oat, almond, or milk of choice",
+        "1 scoop vanilla protein powder",
+        "1 scoop collagen powder (unflavored or vanilla)",
+        "1½–2 tsp ground cinnamon",
+        "¼ tsp ground nutmeg",
+        "¼ tsp ground cream of tartar (classic snickerdoodle tang)",
+        "1–2 tsp maple syrup",
+        "1 tsp vanilla extract",
+        "pinch of salt",
+        "1–2 tsp cashew or almond butter (optional, but goooood)"
+      ],
+      "instructions": [
+        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
+        "Pour into a Ninja Creami pint, cover, and freeze 12–24 hours.",
+        "Spin on Lite Ice Cream.",
+        "Add 1–2 tbsp milk and \"Re-Spin\".",
+        "Enjoyyyy"
+      ],
+      "prepNotes": "Freeze 12–24 hours before spinning. Cashew or almond butter is optional but recommended.",
+      "tags": [
+        "ninjacreami",
+        "highprotein",
+        "ice cream",
+        "dessert",
+        "snickerdoodle",
+        "healthy"
+      ],
+      "source": "ninjacreamidelights (recipe by @jennaliveswell)"
+    },
+    {
+      "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:44.360Z",
+      "updatedAt": "2026-07-01T05:58:44.360Z",
+      "title": "Chocolate Cheesecake",
+      "servings": "",
+      "ingredients": [
+        "300g Fat free cottage cheese",
+        "160ml Almond milk",
+        "3-4 Medjool dates",
+        "15g Cocoa powder",
+        "Strawberries (topping)",
+        "Honey (topping)"
+      ],
+      "instructions": [
+        "Blend cottage cheese, almond milk, Medjool dates, and cocoa powder to form the base.",
+        "Freeze and process in a Ninja Creami.",
+        "Top with strawberries and honey."
+      ],
+      "prepNotes": "High protein Ninja Creami recipe.",
+      "tags": [
+        "high protein",
+        "dessert",
+        "cheesecake",
+        "chocolate",
+        "ninja creami",
+        "healthy",
+        "low fat"
+      ],
+      "source": "katstaddon.fit"
+    },
+    {
+      "id": "0d5727f3-72a4-4222-b013-8a1519850d58",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:44.491Z",
+      "updatedAt": "2026-07-01T05:58:44.491Z",
+      "title": "Pistachio Creami",
+      "servings": "",
+      "ingredients": [
+        "2 cups fairlife milk",
+        "1/2 cup pistachios",
+        "dates",
+        "1 tbsp collagen",
+        "salt",
+        "1/4 cup pistachios (mix-in)"
+      ],
+      "instructions": [
+        "Blend 2 cups fairlife milk, 1/2 cup pistachios, dates, 1 tbsp collagen, and salt to make the base.",
+        "Freeze and process in the Ninja Creami.",
+        "Add 1/4 cup pistachios as a mix-in."
+      ],
+      "prepNotes": "Pistachio creami for this week. Optionally add a wee bit of ricotta.",
+      "tags": [
+        "ninjacreami",
+        "ninjacreamirecipe",
+        "healthyrecipes",
+        "dietitian",
+        "nutrition",
+        "pistachiocreami",
+        "pistachiorecipe",
+        "lifestyle",
+        "dessert",
+        "high-protein"
+      ],
+      "source": "ninjacreamidelights"
+    },
+    {
+      "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:43.724Z",
+      "updatedAt": "2026-07-01T05:58:43.724Z",
+      "title": "Chocolate Pistachio",
+      "servings": "",
+      "ingredients": [
+        "25g White choc & Pistachio whey",
+        "300ml Whole milk",
+        "100ml Almond milk",
+        "10g Cocoa powder",
+        "M&S Pistachio bites (mix ins/toppings)"
+      ],
+      "instructions": [],
+      "prepNotes": "Ninja Creami recipe. Combine base ingredients, freeze, process in Ninja Creami, then add pistachio bites as mix-ins/toppings.",
+      "tags": [
+        "ninjacreami",
+        "high protein",
+        "dessert",
+        "chocolate",
+        "pistachio",
+        "ice cream",
+        "protein"
+      ],
+      "source": "katstaddon.fit"
+    },
+    {
+      "id": "addb1f41-cd4d-415a-ae98-e45fea6bbc95",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:58:45.862Z",
+      "updatedAt": "2026-07-01T05:58:45.862Z",
+      "title": "Vanilla Biscoff",
+      "servings": "",
+      "ingredients": [
+        "30g Vanilla whey",
+        "1/2 Banana",
+        "15g Oats",
+        "5-10g PB powder",
+        "50g 0% Greek yogurt",
+        "100ml Whole milk",
+        "100ml Almond milk",
+        "4 x Lotus biscuits (mix ins/toppings)"
+      ],
+      "instructions": [
+        "Combine base ingredients (vanilla whey, banana, oats, PB powder, Greek yogurt, whole milk, and almond milk) and blend.",
+        "Freeze the base in the Ninja Creami container.",
+        "Process in the Ninja Creami until smooth and creamy.",
+        "Add Lotus biscuits as mix-ins and re-spin if desired.",
+        "Top with crumbled Lotus biscuits and serve."
+      ],
+      "prepNotes": "High protein Ninja Creami recipe. Freeze base before processing.",
+      "tags": [
+        "ninjacreami",
+        "high protein",
+        "dessert",
+        "ice cream",
+        "biscoff",
+        "vanilla",
+        "healthy"
+      ],
+      "source": "katstaddon.fit"
+    },
+    {
       "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
       "title": "Salted Maple Pecan Ice Cream",
       "servings": "creami tub",
