@@ -89,17 +89,14 @@
     },
     {
       "id": "4b8c1e18-d95e-4e47-a785-1f3a3f9d8aa5",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:48.973Z",
-      "updatedAt": "2026-07-01T05:23:48.973Z",
-      "title": "Caramel Pecan Ninja Creami Protein Ice Cream",
-      "servings": "1 pint (294 cals, 25.5P, 14.5C, 15.5F)",
+      "title": "Caramel Pecan Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitfood_ae",
       "ingredients": [
         "200ml high protein skim milk",
         "200ml unsweetened almond milk",
-        "15g PEScience snickerdoodle protein (discount code FIT15)",
-        "15g Lakanto brown Monkfruit sweetener",
+        "15g PEScience snickerdoodle protein",
+        "15g brown Monkfruit sweetener",
         "3g cinnamon",
         "1g xanthan gum",
         "4g fat free vanilla pudding mix",
@@ -108,21 +105,18 @@
       ],
       "instructions": [
         "Add all ingredients to a container except the last two, shake to combine, then freeze for 24 hours",
-        "Use the \"light ice cream\" setting on your Ninja Creami, then add a tbsp of unsweetened almond milk",
-        "Scoop the middle and add the pecans and biscoff, and use the \"re-spin\" setting",
-        "Enjoy"
+        "Use the \"light ice cream\", then add a tbsp of unsweetened almond milk",
+        "Scoop the middle and add the pecans and biscoff, and use the \"re-spin\" setting"
       ],
-      "prepNotes": "Freeze for 24 hours before processing in the Ninja Creami. Requires the light ice cream and re-spin settings.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "highprotein",
-        "lowcalorie",
-        "macrofriendly",
-        "ninjacreami",
-        "protein",
-        "dessert",
-        "icecream"
+        "ice cream",
+        "caramel"
       ],
-      "source": "fitfood_ae (Instagram), Vancouver, British Columbia, December 23, 2024"
+      "createdAt": "2026-07-01T05:23:48.973Z",
+      "updatedAt": "2026-07-01T05:36:38.226Z"
     },
     {
       "id": "fe33883a-1a06-41b5-bad9-17c691f525a5",
