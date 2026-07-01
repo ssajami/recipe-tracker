@@ -190,12 +190,9 @@
     },
     {
       "id": "0d5727f3-72a4-4222-b013-8a1519850d58",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:44.491Z",
-      "updatedAt": "2026-07-01T05:58:44.491Z",
       "title": "Pistachio Creami",
       "servings": "",
+      "source": "ninjacreamidelights",
       "ingredients": [
         "2 cups fairlife milk",
         "1/2 cup pistachios",
@@ -210,19 +207,13 @@
         "Add 1/4 cup pistachios as a mix-in."
       ],
       "prepNotes": "Pistachio creami for this week. Optionally add a wee bit of ricotta.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "ninjacreamirecipe",
-        "healthyrecipes",
-        "dietitian",
-        "nutrition",
-        "pistachiocreami",
-        "pistachiorecipe",
-        "lifestyle",
-        "dessert",
-        "high-protein"
+        "pistachiocreami"
       ],
-      "source": "ninjacreamidelights"
+      "createdAt": "2026-07-01T05:58:44.491Z",
+      "updatedAt": "2026-07-01T06:09:50.841Z"
     },
     {
       "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
