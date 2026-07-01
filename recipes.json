@@ -1,6 +1,41 @@
 {
   "recipes": [
     {
+      "id": "41c74812-0fd3-4363-9dbb-f2482ed656e1",
+      "title": "Ninja Creami Cinnamon Churro Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1½ cups half & half",
+        "⅓ cup sweetened condensed milk",
+        "⅓ cup cream cheese (softened)",
+        "2 tablespoons brown sugar",
+        "½ teaspoon cinnamon",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Add all ingredients to a blender and blend until completely smooth.",
+        "Pour into a 24 oz Ninja Creami Deluxe pint. Freeze 24 hours.",
+        "Spin using the Ice Cream setting.",
+        "If crumbly, press Respin. Add 1–2 tbsp half &amp; half only if needed.",
+        "For add-ins, create a well in the center and run Mix-In.",
+        "Scoop and enjoy, or freeze 15 minutes to firm up."
+      ],
+      "prepNotes": "A thick, creamy, churro-inspired ice cream made with cream cheese, brown sugar, cinnamon, and sweetened condensed milk — no gums, no pudding mix, and naturally high in protein. Spins perfectly in the Ninja Creami for warm bakery flavor in every cold scoop.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "Snack",
+        "American",
+        "Mexican"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-cinnamon-churro-ice-cream/",
+      "createdAt": "2026-07-01T19:21:27.938Z",
+      "updatedAt": "2026-07-01T19:21:27.938Z"
+    },
+    {
       "id": "b49b8bc7-edcd-4ec9-a058-46a79a19c006",
       "afterPrepNotes": "",
       "rating": null,
