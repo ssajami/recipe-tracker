@@ -68,36 +68,31 @@
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:47.133Z",
-      "updatedAt": "2026-07-01T05:23:47.133Z",
       "title": "Espresso Chip Ice Cream",
-      "servings": "1 Ninja Creami pint",
+      "servings": "creami tub",
+      "source": "@laurens.liftss",
       "ingredients": [
-        "1 1/2 cups plant milk",
+        "1 1/2 cups milk",
         "2 shots of espresso",
         "1 scoop vanilla protein",
         "Chopped coffee beans",
         "Chocolate chips"
       ],
       "instructions": [
-        "In a ninja creami pint, add 1 1/2 cups plant milk, 2 shots of espresso, and 1 scoop vanilla protein",
+        "add milk, espresso, vanilla protein",
         "Freeze for 12+ hours",
         "Blend on \"lite ice cream\" setting and respin",
         "Add chopped coffee beans and chocolate chips"
       ],
-      "prepNotes": "Freeze for 12+ hours. 30g protein.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "vegan",
-        "high protein",
-        "ninja creami",
-        "dessert",
         "ice cream",
-        "coffee",
-        "espresso"
+        "coffee"
       ],
-      "source": "laurens.liftss"
+      "createdAt": "2026-07-01T05:23:47.133Z",
+      "updatedAt": "2026-07-01T05:31:31.436Z"
     },
     {
       "id": "4b8c1e18-d95e-4e47-a785-1f3a3f9d8aa5",
