@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "70f49cbc-cdd5-4faa-9736-995712a661af",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T06:20:34.487Z",
-      "updatedAt": "2026-07-01T06:20:34.487Z",
-      "title": "Peanut Butter & Jelly Protein Ice Cream",
-      "servings": "1 pint (260 calories, 31g protein, 16g C, 6g F)",
+      "title": "Peanut Butter & Jelly Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
       "ingredients": [
         "400g fat free ultra-filtered Milk",
         "40-45g Lakanto Monk Fruit sweetener",
@@ -26,19 +23,17 @@
         "Make a hole down to the bottom with a butter knife and fill with the strawberry jelly",
         "Run the \"Mix-in\" cycle"
       ],
-      "prepNotes": "260 calories 31g protein for the entire pint, mix-ins included. Requires freezing at least 16 hours. Made with a Ninja Creami.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "protein",
         "ice cream",
-        "high protein",
-        "low sugar",
-        "dessert",
-        "ninja creami",
         "peanut butter",
-        "jelly",
-        "healthy"
+        "jelly"
       ],
-      "source": "fitnessproductfinder and lakanto (Instagram) #LakantoPartner #ninjacreami #jenisicecream"
+      "createdAt": "2026-07-01T06:20:34.487Z",
+      "updatedAt": "2026-07-01T06:39:21.282Z"
     },
     {
       "id": "994a8334-2a74-49e9-beba-1d557daf9f94",
