@@ -821,14 +821,45 @@ function _parseUniLeading(text) {
   return null;
 }
 
-const _TSP_RE = /^(tsps?|teaspoons?)\s*/i;
+const _TSP_RE  = /^(tsps?|teaspoons?)\s*/i;
+const _TBSP_RE = /^(tbsps?|tablespoons?)\s*/i;
+const _CUP_RE  = /^(cups?)\s*/i;
 
-// When scaled tsp result < ⅛ tsp, convert to grams (1 tsp ≈ 5g) — more measurable on a scale
-function _tspToGrams(scaledTsp, afterUnit) {
-  const g = scaledTsp * 5;
-  const gStr = g < 1 ? (Math.round(g * 10) / 10) + 'g' : formatQty(g) + 'g';
-  const rest = afterUnit.replace(_TSP_RE, '').trimStart();
-  return gStr + (rest ? ' ' + rest : '');
+function _gramsStr(tsp) {
+  const g = tsp * 5;
+  return g < 1 ? (Math.round(g * 10) / 10) + 'g' : formatQty(g) + 'g';
+}
+
+// Cascade: cup → tbsp → tsp → grams, stopping at the first practical unit.
+// Returns a formatted string or null if no conversion is needed.
+function _smallVolumeConvert(scaledQty, afterQty) {
+  let m, rest;
+
+  m = afterQty.match(_CUP_RE);
+  if (m && scaledQty < 1/8) {
+    rest = afterQty.slice(m[0].length).trimStart();
+    const tbsp = scaledQty * 16;
+    if (tbsp >= 1) return formatQty(tbsp) + ' tbsp' + (rest ? ' ' + rest : '');
+    const tsp = scaledQty * 48;
+    if (tsp >= 1/8) return formatQty(tsp) + ' tsp' + (rest ? ' ' + rest : '');
+    return _gramsStr(tsp) + (rest ? ' ' + rest : '');
+  }
+
+  m = afterQty.match(_TBSP_RE);
+  if (m && scaledQty < 1) {
+    rest = afterQty.slice(m[0].length).trimStart();
+    const tsp = scaledQty * 3;
+    if (tsp >= 1/8) return formatQty(tsp) + ' tsp' + (rest ? ' ' + rest : '');
+    return _gramsStr(tsp) + (rest ? ' ' + rest : '');
+  }
+
+  m = afterQty.match(_TSP_RE);
+  if (m && scaledQty < 1/8) {
+    rest = afterQty.slice(m[0].length).trimStart();
+    return _gramsStr(scaledQty) + (rest ? ' ' + rest : '');
+  }
+
+  return null;
 }
 
 function scaleIngredient(text, multiplier) {
@@ -856,9 +887,8 @@ function scaleIngredient(text, multiplier) {
   if (uni) {
     const scaledQty = uni.val * multiplier;
     const afterQty = text.slice(uni.len).trimStart();
-    if (_TSP_RE.test(afterQty) && scaledQty < 1/8) {
-      return scaleParens(_tspToGrams(scaledQty, afterQty));
-    }
+    const conv = _smallVolumeConvert(scaledQty, afterQty);
+    if (conv !== null) return scaleParens(conv);
     return scaleParens(formatQty(scaledQty) + text.slice(uni.len));
   }
 
@@ -868,9 +898,8 @@ function scaleIngredient(text, multiplier) {
   if (leadMatch) {
     const scaledQty = parseLeadingNumber(leadMatch[1]) * multiplier;
     const afterQty = text.slice(leadMatch[0].length).trimStart();
-    if (_TSP_RE.test(afterQty) && scaledQty < 1/8) {
-      return scaleParens(_tspToGrams(scaledQty, afterQty));
-    }
+    const conv = _smallVolumeConvert(scaledQty, afterQty);
+    if (conv !== null) return scaleParens(conv);
     return scaleParens(text.replace(leadRe, formatQty(scaledQty)));
   }
 
