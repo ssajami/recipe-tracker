@@ -1,6 +1,29 @@
 {
   "recipes": [
     {
+      "id": "e212a14f-d0cc-49e9-a3ee-aaaf244a25a1",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:00:15.975Z",
+      "updatedAt": "2026-07-01T06:00:15.975Z",
+      "title": "Test recipe",
+      "servings": "",
+      "ingredients": [
+        "1 cup milk"
+      ],
+      "instructions": [
+        "Mix all and freeze"
+      ],
+      "prepNotes": "Will this work???",
+      "tags": [
+        "pecan",
+        "maple",
+        "protein",
+        "apples"
+      ],
+      "source": ""
+    },
+    {
       "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
       "afterPrepNotes": "",
       "rating": null,
