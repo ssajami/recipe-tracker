@@ -145,33 +145,6 @@
       "updatedAt": "2026-07-01T02:13:40.174Z"
     },
     {
-      "id": "b666a61e-3502-45b5-98a7-a0e91e2167f5",
-      "title": "Brownie Batter Protein Ice Cream",
-      "servings": "1 pint",
-      "source": "@fitnessproductfinder",
-      "ingredients": [
-        "1 Chocolate Protein Shake (350-400ml)",
-        "30g Lakanto Sugar-free Brownie Mix (heat treated)",
-        "15g Lakanto monk fruit sweetener",
-        "10g black cocoa powder"
-      ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Spin on \"Respin\" setting until it reaches your desired consistency"
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "ice cream",
-        "brownie batter"
-      ],
-      "createdAt": "2026-06-30T19:15:55.336Z",
-      "updatedAt": "2026-07-01T02:53:12.187Z"
-    },
-    {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
       "afterPrepNotes": "",
       "rating": null,
