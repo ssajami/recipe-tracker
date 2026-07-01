@@ -1,6 +1,416 @@
 {
   "recipes": [
     {
+      "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Toffee Crunch",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Sugar Free Toffee Syrup (for Coffee) Skinny Girl or Torani",
+        "¼ teaspoon Butter Extract",
+        "Mix-ins: 2 Toffee Chocolate Bars Ghirardelli OR Heath Bar",
+        "Optional: more Bars, Crushed almonds or walnuts"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add toffee chocolate bar mix-ins and run mix-in cycle."
+      ],
+      "prepNotes": "Vanilla base infused with English toffee syrup blended with brittle buttery texture and a hint of burnt sugar. Pretzel Toffee Crunch is later in this guide if you really like to amp up the crunchy factor (add pretzels and dark chocolate mixins).",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami"
+      ],
+      "source": ""
+    },
+    {
+      "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Girl Scout Cookie Lemonades",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Lemon Pudding or Butterscotch pudding OR half of each",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ teaspoon Vanilla Extract",
+        "½ teaspoon Lemon Extract",
+        "Mix-ins: 2 Lemonades Girl Scout Cookies broken up",
+        "Optional toppings: Crumbled Cookies, Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Lemonades cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies and cool whip if desired."
+      ],
+      "prepNotes": "Vanilla butter base with a hint of lemon blended with your favorite Girl Scout Cookies. Experiment with lemon and butterscotch pudding ratios to find your preference. These mix-ins will kill your macros!",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "lemon"
+      ],
+      "source": ""
+    },
+    {
+      "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Girl Scout Cookie Thin Mint",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "1-2 DROPS of Mint extract",
+        "Mix-ins: 4 Thin Mint Girl Scout Cookies broken up",
+        "Optional: 2 Tablespoon Sugar Free Hershey Chocolate Syrup",
+        "Optional toppings: Crumbled Cookies, Cool Whip, SF chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Thin Mint cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
+      ],
+      "prepNotes": "Vanilla base blended with your favorite Girl Scout Cookies. Thin Mints, Samoa, and Tagalongs are favorites, but any cookie will do. A little mint extract goes a long way. These mix-ins will kill your macros! Support your local troop!",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "mint",
+        "chocolate"
+      ],
+      "source": ""
+    },
+    {
+      "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Girl Scout Cookie Do-Si-Dos or Tagalongs",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 Tablespoon of Peanut Butter Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Butter Extract",
+        "Mix-ins: 2 Tagalongs or Do-Si-Do's Girl Scout Cookies broken up",
+        "Optional: SF Peanut Butter Chips",
+        "Optional toppings: Crumbled Cookies, Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies and cool whip if desired."
+      ],
+      "prepNotes": "Peanut Butter base blended with your favorite Girl Scout Cookies. Tagalongs are favorites, but any cookie will do. These mix-ins will kill your macros! Support your local troop!",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "peanut butter"
+      ],
+      "source": ""
+    },
+    {
+      "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Girl Scout Cookie Samoa's",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "2 Tablespoons of Coconut Flakes",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Coconut Extract",
+        "1 Tablespoon of Sugar Free Caramel Syrup (Skinny Girl or Torani beverage Sauce)",
+        "Mix-ins: 2 Samoa's Girl Scout Cookies broken up",
+        "Mix-ins: 2 Tablespoons Coconut Flakes",
+        "Optional: Caramel Syrup",
+        "Optional toppings: Crumbled Cookies, Cool Whip, Hershey SF Chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Samoa cookies and coconut flakes as mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
+      ],
+      "prepNotes": "Coconut base blended with hints of caramel and your favorite Girl Scout Cookies. Samoa's (or Caramel Delights) could be used. These mix-ins will kill your macros! Support your local troop!",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "coconut",
+        "caramel"
+      ],
+      "source": ""
+    },
+    {
+      "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Pistachio",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Pistachio pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1/4 teaspoon Almond Extract",
+        "Mix-ins: 2 oz Shelled Pistachios or more as desired"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add shelled pistachios as mix-ins and run mix-in cycle."
+      ],
+      "prepNotes": "An inviting color with a nutty, creamy taste of pistachios blended in for a bite of crunch.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "pistachio",
+        "nutty"
+      ],
+      "source": ""
+    },
+    {
+      "id": "55491128-28ab-4e7d-b173-a761c2fa3f80",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Rocky Road",
+      "servings": "1",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free chocolate OR chocolate deluxe pudding",
+        "1 scoop of chocolate protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 tbsp Cocoa Powder",
+        "1/4 teaspoon Vanilla Extract",
+        "Mix-ins: 1/4 cup chopped toasted almonds",
+        "Mix-ins: 2 tbsp Marshmallow JetPuff (Hand Mixed in at the end)",
+        "Mix-ins: 2 tbsp Dark Chocolate Chips AND/OR Dark Chocolate bar",
+        "Optional toppings: SF Chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add chopped toasted almonds and dark chocolate chips and run mix-in cycle.",
+        "Hand stir marshmallow JetPuff in at the end to keep clumps intact.",
+        "Top with SF chocolate syrup if desired."
+      ],
+      "prepNotes": "This has a chocolate base packed with chunks of rich chocolate, marshmallows, and toasted almonds. Marshmallow Jet Puff added as a hand-stirred mix-in (not the Creami Mixin Cycle) works best to prevent freezing/hardening.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "chocolate",
+        "marshmallow"
+      ],
+      "source": ""
+    },
+    {
+      "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Mississippi Mud",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate OR Chocolate deluxe pudding",
+        "1 scoop of Chocolate protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 tbsp Cocoa Powder",
+        "1/4 teaspoon Vanilla Extract",
+        "Mix-ins: Chocolate Fudge Sauce OR Sugar Free Hershey syrup",
+        "Mix-ins: ¼ cup Mini Oreos, about 9 cookies",
+        "Mix-ins: 2 tbsp Dark Chocolate Chips or Chocolate Bars",
+        "Optional toppings: SF Chocolate Syrup, SF Chocolate Chips"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add mini Oreos, dark chocolate chips, and fudge sauce as mix-ins and run mix-in cycle.",
+        "Top with SF chocolate syrup and chips if desired."
+      ],
+      "prepNotes": "Holds all of the deliciousness you'd expect from a Mississippi Mud pie, including cookies, chocolate, coffee, and cream. You can remove the cream filling from the Oreos to reduce sugar and calorie intake.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "chocolate",
+        "coffee"
+      ],
+      "source": ""
+    },
+    {
+      "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Turtle Ice Cream",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1/4 teaspoon Almond Extract",
+        "Mix-ins: 1/4 cup chopped toasted Pecans",
+        "Mix-ins: SF Marshmallow JetPuff",
+        "Mix-ins: 2 tbsp Dark Chocolate Chips",
+        "Mix-ins: 2 tbsp Torani SF Caramel Beverage Sauce",
+        "Toppings: SF Caramel Sauce, chopped nuts"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add chopped toasted pecans, dark chocolate chips, caramel sauce, and marshmallow as mix-ins and run mix-in cycle.",
+        "Top with SF caramel sauce and chopped nuts."
+      ],
+      "prepNotes": "A traditionally churned vanilla almond ice cream packed with decadent chocolate chunks, toasted pecans, and swirled with caramel and chocolate fudge.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "caramel",
+        "chocolate",
+        "nutty"
+      ],
+      "source": ""
+    },
+    {
+      "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-01T19:02:52.993Z",
+      "title": "Baklava Ice Cream",
+      "servings": "1",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon of Cinnamon",
+        "1/4 teaspoon Vanilla Extract",
+        "Mix-ins: 1 tbsp Raw Honey, Local/organic preferred",
+        "Mix-ins: 1/4 cup chopped Walnuts",
+        "Mix-ins: 1-3 Phyllo Shells - Pepperidge Farm Puff Pastry, crumbled (cooked, not raw dough)",
+        "Toppings: Crumbled Phyllo shells, nuts, and honey drizzled on top"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add raw honey, chopped walnuts, and crumbled phyllo shells as mix-ins and run mix-in cycle.",
+        "Top with crumbled phyllo shells, nuts, and drizzled honey."
+      ],
+      "prepNotes": "Flavored with honey, cinnamon, and vanilla. Mixed with crisp walnuts and flaky phyllo dough so that the flavor and texture of baklava are in every bite.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "sugar-free",
+        "Ninja Creami",
+        "honey",
+        "walnut",
+        "Mediterranean"
+      ],
+      "source": ""
+    },
+    {
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
       "afterPrepNotes": "",
       "rating": null,
