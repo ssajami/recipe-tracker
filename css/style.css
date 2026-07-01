@@ -537,7 +537,16 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   font-size: 0.7rem;
   display: flex; align-items: center; justify-content: center;
 }
+.tag-input-row { display: flex; gap: 6px; margin-top: 2px; align-items: center; }
+.tag-input-row .tag-text-input { flex: 1; margin-top: 0; }
+.btn-add-tag {
+  padding: 8px 14px; border-radius: var(--radius-sm);
+  background: var(--accent); color: #fff; border: none;
+  font-size: 0.88rem; font-weight: 600; cursor: pointer; white-space: nowrap; flex-shrink: 0;
+}
+.btn-add-tag:hover { opacity: 0.88; }
 .tag-text-input { margin-top: 2px; }
+.url-input { width: 100%; }
 .tag-suggestions {
   display: flex; flex-wrap: wrap; gap: 6px;
   margin-top: 8px;

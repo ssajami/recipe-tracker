@@ -11,6 +11,7 @@ const state = {
   qtyMultiplier: 1,
   importTab: 'text',
   importImages: [],       // [{base64, mediaType, dataUrl}, ...]
+  importUrl: '',
   importPreview: null,  // [{recipe, include: true}, ...]
   syncStatus: 'idle',   // 'idle' | 'loading' | 'saving' | 'error'
   viewHistory: [],
@@ -136,7 +137,7 @@ const App = {
     state.detailId = id;
     state.cookChecked = { ingredients: new Set(), instructions: new Set() };
     const recipe = state.recipes.find(x => x.id === id);
-    state.qtyMultiplier = /creami/i.test(recipe?.servings || '') ? 0.5 : 1;
+    state.qtyMultiplier = /creami/i.test(recipe?.servings || '') ? 0.5 : /delux/i.test(recipe?.servings || '') ? 1/3 : 1;
     state.chatMessages = [];
     state.chatOpen = false;
     state.chatLoading = false;
@@ -162,6 +163,7 @@ const App = {
     state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
     state.importTab = 'text';
     state.importImages = [];
+    state.importUrl = '';
     state.importPreview = null;
     state.view = 'import';
     render();
@@ -308,6 +310,11 @@ const App = {
   },
   updateInstruction(i, v) { editInstructions[i] = v; },
 
+  addTagFromInput() {
+    const input = document.getElementById('tag-text-input');
+    const val = input?.value?.replace(/,/g, '').trim();
+    if (val) { this.addTag(val); input.value = ''; this.updateTagSuggestions(''); }
+  },
   addTag(tag) {
     const t = tag.trim().toLowerCase();
     if (t && !editTags.includes(t)) {
@@ -505,7 +512,7 @@ Answer questions about substitutions, techniques, or anything related to this re
     if (!r) return;
     document.getElementById('ingredient-list').innerHTML = renderIngredientChecklist(r.ingredients || []);
     document.querySelectorAll('.qty-btn').forEach(btn => {
-      btn.classList.toggle('active', Number(btn.dataset.m) === m);
+      btn.classList.toggle('active', Math.abs(Number(btn.dataset.m) - m) < 0.001);
     });
   },
 
@@ -608,6 +615,7 @@ Answer questions about substitutions, techniques, or anything related to this re
   setImportTab(tab) {
     state.importTab = tab;
     state.importImages = [];
+    state.importUrl = '';
     state.importPreview = null;
     render();
   },
@@ -672,6 +680,36 @@ Answer questions about substitutions, techniques, or anything related to this re
     } finally { setLoading(false); }
   },
 
+  // ── Import: URL ───────────────────────────────────────────────────────────
+  async handleUrlImport() {
+    const url = state.importUrl.trim();
+    if (!url) { toast('Enter a URL first', 'error'); return; }
+    setLoading(true, 'Fetching page…');
+    try {
+      const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
+      if (!res.ok) throw new Error('Could not fetch the page — try pasting the text instead');
+      const { contents: html, status } = await res.json();
+      if (status?.http_code >= 400) throw new Error(`Page returned ${status.http_code} — check the URL`);
+
+      // Try JSON-LD structured data first (no AI needed)
+      let recipes = _tryJsonLdRecipes(html, url);
+
+      // Fall back to Claude text extraction
+      if (!recipes.length) {
+        setLoading(true, 'Extracting recipe with AI…');
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        doc.querySelectorAll('script,style,nav,header,footer,aside,iframe,noscript').forEach(el => el.remove());
+        const text = (doc.body?.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 14000);
+        recipes = await AI.parseTextRecipes(text + `\n\nSource URL: ${url}`);
+      }
+
+      state.importPreview = recipes.map(recipe => ({ recipe, include: true }));
+      render();
+    } catch (err) {
+      toast(err.message, 'error', 6000);
+    } finally { setLoading(false); }
+  },
+
   // ── Import: Preview actions ───────────────────────────────────────────────
   toggleImportItem(i) {
     state.importPreview[i].include = !state.importPreview[i].include;
@@ -685,7 +723,11 @@ Answer questions about substitutions, techniques, or anything related to this re
   },
 
   async confirmImport() {
-    const toAdd = state.importPreview.filter(p => p.include).map(p => p.recipe);
+    const toAdd = state.importPreview.filter(p => p.include).map(p => {
+      const recipe = { ...p.recipe };
+      if (state.recipes.some(r => r.title === recipe.title)) recipe.title += ' - Copy';
+      return recipe;
+    });
     if (!toAdd.length) { toast('No recipes selected', 'error'); return; }
     state.recipes = [...toAdd, ...state.recipes];
     setLoading(true, 'Saving…');
@@ -904,8 +946,8 @@ function renderDetail() {
           <div class="ingredients-header">
             <h2>Ingredients <span class="section-hint">(tap to check off)</span></h2>
             <div class="qty-toggle">
-              ${[['½×', 0.5], ['1×', 1], ['2×', 2]].map(([label, m]) => `
-                <button class="qty-btn${state.qtyMultiplier === m ? ' active' : ''}"
+              ${[['⅓×', 1/3], ['½×', 0.5], ['1×', 1], ['2×', 2]].map(([label, m]) => `
+                <button class="qty-btn${Math.abs(state.qtyMultiplier - m) < 0.001 ? ' active' : ''}"
                         data-m="${m}" onclick="App.setQuantityMultiplier(${m})">${label}</button>
               `).join('')}
             </div>
@@ -996,8 +1038,12 @@ function renderEdit() {
       <div class="form-group">
         <label>Tags</label>
         <div id="tag-chips">${renderTagChips()}</div>
-        <input type="text" id="tag-text-input" class="tag-text-input" placeholder="Type to filter or add a tag…"
-               onkeydown="App.handleTagKey(event)" onfocus="App.updateTagSuggestions(this.value)" autocomplete="off">
+        <div class="tag-input-row">
+          <input type="text" id="tag-text-input" class="tag-text-input" placeholder="Type a tag…"
+                 onkeydown="App.handleTagKey(event)" oninput="App.updateTagSuggestions(this.value)"
+                 onfocus="App.updateTagSuggestions(this.value)" autocomplete="off">
+          <button type="button" class="btn-add-tag" onclick="App.addTagFromInput()">Add</button>
+        </div>
         <div id="tag-suggestions" class="tag-suggestions hidden"></div>
       </div>
       <div class="form-group">
@@ -1079,8 +1125,10 @@ function renderImport() {
                 onclick="App.setImportTab('text')">📋 Paste Text</button>
         <button class="import-tab${state.importTab === 'image' ? ' active' : ''}"
                 onclick="App.setImportTab('image')">📷 Screenshot</button>
+        <button class="import-tab${state.importTab === 'url' ? ' active' : ''}"
+                onclick="App.setImportTab('url')">🔗 URL</button>
       </div>
-      ${state.importTab === 'text' ? renderTextImport() : renderImageImport()}
+      ${state.importTab === 'text' ? renderTextImport() : state.importTab === 'url' ? renderUrlImport() : renderImageImport()}
     </div>
   `;
 }
@@ -1091,6 +1139,54 @@ function renderTextImport() {
       <p class="help-text">Paste one or more recipes in any format. The AI will identify and separate each recipe automatically.</p>
       <textarea id="import-text-area" placeholder="Paste recipe text here…" rows="14"></textarea>
       <button class="btn-primary" onclick="App.handleTextImport()">Parse with AI</button>
+    </div>`;
+}
+
+function _tryJsonLdRecipes(html, sourceUrl) {
+  const results = [];
+  const scriptRe = /<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi;
+  let m;
+  while ((m = scriptRe.exec(html)) !== null) {
+    try {
+      const raw = JSON.parse(m[1]);
+      const items = raw['@graph'] ? raw['@graph'] : (Array.isArray(raw) ? raw : [raw]);
+      for (const item of items) {
+        const types = [].concat(item['@type'] || []);
+        if (!types.includes('Recipe')) continue;
+        const steps = [].concat(item.recipeInstructions || []).flatMap(s =>
+          s['@type'] === 'HowToSection'
+            ? (s.itemListElement || []).map(x => x.text || String(x))
+            : [s.text || String(s)]
+        );
+        const servings = [].concat(item.recipeYield || [])[0] || '';
+        const tags = [].concat(item.recipeCategory || [], item.recipeCuisine || []);
+        results.push({
+          id: crypto.randomUUID(),
+          title: item.name || 'Untitled Recipe',
+          servings: String(servings),
+          ingredients: [].concat(item.recipeIngredient || []),
+          instructions: steps.filter(Boolean),
+          prepNotes: item.description || '',
+          afterPrepNotes: '',
+          rating: null,
+          tags,
+          source: sourceUrl,
+          createdAt: new Date().toISOString(),
+          updatedAt: new Date().toISOString(),
+        });
+      }
+    } catch {}
+  }
+  return results;
+}
+
+function renderUrlImport() {
+  return `
+    <div class="import-panel">
+      <p class="help-text">Paste a link to a recipe page. The AI will extract the recipe from the page content.</p>
+      <input type="url" id="url-input" class="url-input" placeholder="https://example.com/recipe…"
+             value="${esc(state.importUrl)}" oninput="state.importUrl=this.value" autocomplete="off" autocapitalize="none">
+      <button class="btn-primary" style="margin-top:10px" onclick="App.handleUrlImport()">Import from URL</button>
     </div>`;
 }
 
