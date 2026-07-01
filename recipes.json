@@ -114,39 +114,33 @@
     },
     {
       "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
-      "title": "Snickers-Eis aus der Ninjacreami",
-      "servings": "",
-      "source": "alex.new.life (Instagram)",
+      "title": "**Snickers Ice Cream",
+      "servings": "creami tub",
+      "source": "alex.new.life",
       "ingredients": [
         "100ml Milk 0,3 %",
         "200g Quark",
         "30g Protein Pudding Caramel",
         "2 Scoop Chunky Flavour Hazelnut & MilkyCream",
         "10g White Crazy Hazel (@ahead_nutrition)",
-        "Topping: Schokosoße",
-        "Topping: Erdnüsse"
+        "Topping: chocolate sauce",
+        "Topping: peanuts"
       ],
       "instructions": [
-        "Add all ingredients (except toppings) to your Ninja Creami container. Whisk until smooth, then freeze flat and level for 24 hours.",
-        "Nun gibst du das gefrorene Eis in deine Ninjacreami und drückst auf Ice Cream.",
-        "Danach gibst du nochmal ein Schluck Milch hinzu und drückst 1-2x auf Re-Spin bis du eine cremige Konsistenz hast.",
-        "Wenn du magst kannst du jetzt als Topping die Schokosoße und die Erdnüsse obendrauf geben."
+        "Add all ingredients (except toppings) to your container. Whisk until smooth, then freeze flat and level for 24 hours.",
+        "Mix on Ice Cream setting",
+        "Then add another splash of milk and press Re-Spin 1-2 times until you have a creamy consistency.",
+        "add the chocolate sauce and peanuts on top as a topping."
       ],
-      "prepNotes": "Kalorienarm, familientauglich, zuckerreduziert. Einfrierzeit: 24 Stunden.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Eis",
-        "Dessert",
-        "Ninjacreami",
-        "kalorienarm",
-        "zuckerreduziert",
-        "familientauglich",
-        "Protein",
-        "Snickers"
+        "snickers",
+        "ice cream"
       ],
       "createdAt": "2026-07-01T06:20:36.073Z",
-      "updatedAt": "2026-07-01T06:27:05.513Z"
+      "updatedAt": "2026-07-01T06:30:41.231Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
