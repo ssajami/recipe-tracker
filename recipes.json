@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:23:45.859Z",
-      "updatedAt": "2026-07-01T05:23:45.859Z",
-      "title": "Salted Maple Pecan Ninja Creami",
-      "servings": "",
+      "title": "Salted Maple Pecan Ice Cream",
+      "servings": "creami tub",
+      "source": "@ftvfitness92",
       "ingredients": [
         "1/2 cup unsweetened almond milk",
         "1/2 cup organic coconut milk",
@@ -19,18 +16,14 @@
       "instructions": [
         "Mix in: crushed up pecans"
       ],
-      "prepNotes": "A clean, protein-packed salted maple pecan Ninja Creami recipe. All clean Ninja Creami recipes can be found at FTVfitness.com!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "reels",
-        "icecream",
-        "creami",
-        "foodie",
-        "nutrition",
-        "protein",
-        "dessert",
-        "healthy"
+        "ice cream"
       ],
-      "source": "ftvfitness92 (FTVfitness.com)"
+      "createdAt": "2026-07-01T05:23:45.859Z",
+      "updatedAt": "2026-07-01T05:33:53.675Z"
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
