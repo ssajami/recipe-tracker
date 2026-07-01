@@ -25,12 +25,9 @@
     },
     {
       "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:45.854Z",
-      "updatedAt": "2026-07-01T05:58:45.854Z",
       "title": "Chocolate Therapy",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "",
       "ingredients": [
         "400ml chocolate protein milkshake",
         "10g Sugar Free Chocolate Pudding Mix",
@@ -48,19 +45,18 @@
         "Warm tub edges under hot water briefly",
         "Run \"Lite Ice Cream\" mode",
         "Add 2 x Oreo thins",
-        "Run \"Mix-In\" mode (Re-spin if needed)",
-        "Enjoy"
+        "Run \"Mix-In\" mode (Re-spin if needed)"
       ],
-      "prepNotes": "80% less sugar. Even with these macros, nothing's sacrificed—it's thick, creamy, and tastes too good to be this lean. Macros: Calories 360, Protein 44g, Fat 5.8g, Net carbs 27g, Sugars 18g. Ingredients and nutritional values can vary by brand/region.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high protein",
-        "low sugar",
         "chocolate",
         "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T05:58:45.854Z",
+      "updatedAt": "2026-07-01T06:05:51.885Z"
     },
     {
       "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
