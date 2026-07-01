@@ -182,12 +182,9 @@
     },
     {
       "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T05:58:43.724Z",
-      "updatedAt": "2026-07-01T05:58:43.724Z",
-      "title": "Chocolate Pistachio",
-      "servings": "",
+      "title": "Chocolate Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
       "ingredients": [
         "25g White choc & Pistachio whey",
         "300ml Whole milk",
@@ -195,18 +192,22 @@
         "10g Cocoa powder",
         "M&S Pistachio bites (mix ins/toppings)"
       ],
-      "instructions": [],
-      "prepNotes": "Ninja Creami recipe. Combine base ingredients, freeze, process in Ninja Creami, then add pistachio bites as mix-ins/toppings.",
+      "instructions": [
+        "Combine base ingredients",
+        "Freeze",
+        "Process then add pistachio bites as mix-ins"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "ninjacreami",
-        "high protein",
-        "dessert",
         "chocolate",
         "pistachio",
         "ice cream",
         "protein"
       ],
-      "source": "katstaddon.fit"
+      "createdAt": "2026-07-01T05:58:43.724Z",
+      "updatedAt": "2026-07-01T06:17:37.892Z"
     },
     {
       "id": "addb1f41-cd4d-415a-ae98-e45fea6bbc95",
