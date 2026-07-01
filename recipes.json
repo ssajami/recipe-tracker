@@ -1,6 +1,283 @@
 {
   "recipes": [
     {
+      "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:45.859Z",
+      "updatedAt": "2026-07-01T05:23:45.859Z",
+      "title": "Salted Maple Pecan Ninja Creami",
+      "servings": "",
+      "ingredients": [
+        "1/2 cup unsweetened almond milk",
+        "1/2 cup organic coconut milk",
+        "1 serving Levels vanilla whey protein",
+        "1 tbsp pure maple syrup",
+        "pinch of sea salt",
+        "10g pecans"
+      ],
+      "instructions": [
+        "Mix in: crushed up pecans"
+      ],
+      "prepNotes": "A clean, protein-packed salted maple pecan Ninja Creami recipe. All clean Ninja Creami recipes can be found at FTVfitness.com!",
+      "tags": [
+        "reels",
+        "icecream",
+        "creami",
+        "foodie",
+        "nutrition",
+        "protein",
+        "dessert",
+        "healthy"
+      ],
+      "source": "ftvfitness92 (FTVfitness.com)"
+    },
+    {
+      "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:46.495Z",
+      "updatedAt": "2026-07-01T05:23:46.495Z",
+      "title": "Tiramisu Ninja Creami Icecream",
+      "servings": "Serves 3",
+      "ingredients": [
+        "300ml full cream milk",
+        "100g yoghurt",
+        "20g instant pudding, vanilla",
+        "2 heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
+        "20g stevia",
+        "1 tsp cacao powder"
+      ],
+      "instructions": [
+        "Place all ingredients (apart from cacao) in pint & use hand mixer.",
+        "Freeze overnight.",
+        "When making, run pint under water for 10 seconds.",
+        "Press scoop, then Lite Icecream.",
+        "Dust with cacao powder, scoop & enjoy!"
+      ],
+      "prepNotes": "ps. mine turned out like the video on the first spin, if yours is icy just re-spin, do not add more liquid.",
+      "tags": [
+        "ninjacreami",
+        "ninjacreamirecipes",
+        "tiramisu",
+        "icecream",
+        "dessert",
+        "coffee"
+      ],
+      "source": "ninjacreamidelights, Original by julzhealth"
+    },
+    {
+      "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:47.133Z",
+      "updatedAt": "2026-07-01T05:23:47.133Z",
+      "title": "Espresso Chip Ice Cream",
+      "servings": "1 Ninja Creami pint",
+      "ingredients": [
+        "1 1/2 cups plant milk",
+        "2 shots of espresso",
+        "1 scoop vanilla protein",
+        "Chopped coffee beans",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "In a ninja creami pint, add 1 1/2 cups plant milk, 2 shots of espresso, and 1 scoop vanilla protein",
+        "Freeze for 12+ hours",
+        "Blend on \"lite ice cream\" setting and respin",
+        "Add chopped coffee beans and chocolate chips"
+      ],
+      "prepNotes": "Freeze for 12+ hours. 30g protein.",
+      "tags": [
+        "vegan",
+        "high protein",
+        "ninja creami",
+        "dessert",
+        "ice cream",
+        "coffee",
+        "espresso"
+      ],
+      "source": "laurens.liftss"
+    },
+    {
+      "id": "19d5f843-f2c1-49ea-adff-2edd32f46868",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:45.861Z",
+      "updatedAt": "2026-07-01T05:23:45.861Z",
+      "title": "Espresso Chip Ice Cream",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 1/2 cups plant milk",
+        "2 shots of espresso",
+        "1 scoop vanilla protein",
+        "Chopped coffee beans",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "In a ninja creami pint, add 1 1/2 cups plant milk, 2 shots of espresso, and 1 scoop vanilla protein",
+        "Freeze for 12+ hours",
+        "Blend on \"lite ice cream\" setting and respin",
+        "Add chopped coffee beans and chocolate chips"
+      ],
+      "prepNotes": "30g protein. Freeze for 12+ hours before blending.",
+      "tags": [
+        "veganrecipes",
+        "highprotein",
+        "ninjacreami",
+        "dessert",
+        "icecream",
+        "coffee",
+        "vegan"
+      ],
+      "source": "laurens.liftss"
+    },
+    {
+      "id": "4b8c1e18-d95e-4e47-a785-1f3a3f9d8aa5",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:48.973Z",
+      "updatedAt": "2026-07-01T05:23:48.973Z",
+      "title": "Caramel Pecan Ninja Creami Protein Ice Cream",
+      "servings": "1 pint (294 cals, 25.5P, 14.5C, 15.5F)",
+      "ingredients": [
+        "200ml high protein skim milk",
+        "200ml unsweetened almond milk",
+        "15g PEScience snickerdoodle protein (discount code FIT15)",
+        "15g Lakanto brown Monkfruit sweetener",
+        "3g cinnamon",
+        "1g xanthan gum",
+        "4g fat free vanilla pudding mix",
+        "20g pecans",
+        "5g biscoff spread"
+      ],
+      "instructions": [
+        "Add all ingredients to a container except the last two, shake to combine, then freeze for 24 hours",
+        "Use the \"light ice cream\" setting on your Ninja Creami, then add a tbsp of unsweetened almond milk",
+        "Scoop the middle and add the pecans and biscoff, and use the \"re-spin\" setting",
+        "Enjoy"
+      ],
+      "prepNotes": "Freeze for 24 hours before processing in the Ninja Creami. Requires the light ice cream and re-spin settings.",
+      "tags": [
+        "highprotein",
+        "lowcalorie",
+        "macrofriendly",
+        "ninjacreami",
+        "protein",
+        "dessert",
+        "icecream"
+      ],
+      "source": "fitfood_ae (Instagram), Vancouver, British Columbia, December 23, 2024"
+    },
+    {
+      "id": "fe33883a-1a06-41b5-bad9-17c691f525a5",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:49.695Z",
+      "updatedAt": "2026-07-01T05:23:49.695Z",
+      "title": "Peanut Butter Ninja Creami Protein Ice Cream w/ Mix-Ins",
+      "servings": "1",
+      "ingredients": [
+        "120ml - 2% Fairlife Milk (1/2 cup)",
+        "120ml - Unsweetened Almond Milk (1/2 cup)",
+        "240ml - Water (1 cup)",
+        "20g - Peanut Butter Powder",
+        "40g - Zero Calorie Sweetener of Choice",
+        "5g - Protein Powder (casein works best)",
+        "1/4 tsp - Salt",
+        "1/4 tsp - Guar or Xantham Gum (optional)",
+        "1/4 Bar - Gatsby brand Sea Salt Extra Dark Chocolate",
+        "1/4 Bar - Gatsby brand Peanut Butter Madness"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 10-12 hours, depending on your freezer)",
+        "Spin on \"lite ice cream\" setting",
+        "Do ONE \"re-spin\" if necessary",
+        "Make a hole down to the bottom with a butter knife and fill with toppings",
+        "Run the \"mix-in\" cycle"
+      ],
+      "prepNotes": "Full Recipe w/ Mix-Ins Macros - 286 cals | 12g fat, 25g carb, 23g pro. Ice cream Base Macros - 186 cals | 6g fat, 9.5g carb, 20g pro. Mix Ins Macros - 100 cals | 6g fat, 15g carb, 3g pro. If you don't have the Creami or another ice cream maker, you can use the same ingredients in a shake. Just blend with ice and add toppings at the end.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high protein",
+        "low calorie",
+        "ninja creami",
+        "peanut butter",
+        "healthy"
+      ],
+      "source": "@mattsmagicmacros"
+    },
+    {
+      "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:47.138Z",
+      "updatedAt": "2026-07-01T05:23:47.138Z",
+      "title": "Snickers Protein Ice Cream",
+      "servings": "1 pint",
+      "ingredients": [
+        "1 cup 1 or 2% milk",
+        "1 scoop @leanfitbrand Chocolate Whey Protein",
+        "1 tbsp. SF chocolate instant pudding mix",
+        "1 tbsp. SF chocolate caramel coffee syrup",
+        "1.5 tbsp. Powdered Peanutbutter (@pb.and.me)",
+        "1/2 chopped snickers bar"
+      ],
+      "instructions": [
+        "Mix together all ingredients in Ninja Creami Pint.",
+        "Freeze 12-24 hours.",
+        "Spin on lite ice cream. Add 1 tbsp. milk and respin 1-2x.",
+        "Add in 1/2 chopped snickers bar.",
+        "Spin on mixin."
+      ],
+      "prepNotes": "Freeze 12-24 hours before spinning. Discount code: ninja_creami_recipes for 25% off Lean Fit Brand.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "ninja creami",
+        "snickers",
+        "healthy dessert",
+        "sugar-free"
+      ],
+      "source": "ninja_creami_recipes (Instagram)"
+    },
+    {
+      "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T05:23:47.453Z",
+      "updatedAt": "2026-07-01T05:23:47.453Z",
+      "title": "Blueberry Vanilla Creami",
+      "servings": "",
+      "ingredients": [
+        "3/4-1 cup whole milk (I love @fairlife)",
+        "1 scoop vanilla protein powder (I used @cleansimpleeats)",
+        "1/2 Tb sugar free vanilla jello pudding mix",
+        "Blueberries"
+      ],
+      "instructions": [
+        "Add milk, protein powder, and jello mix to container and blend until smooth.",
+        "Add blueberries and stir with spoon.",
+        "Put lid on and freeze for 12-24 hours.",
+        "I blend mine once using light ice cream and one more time using the mix in setting!"
+      ],
+      "prepNotes": "The color on this is gorgeous!! Freeze for 12-24 hours before blending. Use the Ninja Creami with light ice cream setting, then the mix in setting.",
+      "tags": [
+        "blueberry",
+        "blueberryicecream",
+        "ice cream",
+        "protein",
+        "dessert",
+        "ninja creami",
+        "healthy",
+        "high protein"
+      ],
+      "source": "ninjacreamidelights (Original by ellies.fav.eats)"
+    },
+    {
       "id": "7a8b4c9d-19e2-41b8-9203-9f82ddd1b740",
       "title": "Oreo McFlurry Ice Cream",
       "servings": "creami tub",
