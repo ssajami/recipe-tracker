@@ -57,12 +57,9 @@
     },
     {
       "id": "46454ea2-398e-4a96-9212-3914db88ad16",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-01T18:10:16.589Z",
       "title": "Strawberry (Base Recipe)",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -74,21 +71,16 @@
         "½ teaspoon of Strawberry Extract",
         "½ cup of fresh diced strawberries"
       ],
-      "instructions": [
-        "Mix-ins: Anything you like.",
-        "Toppings: Anything you like."
-      ],
-      "prepNotes": "Your traditional strawberry. A classic recipe you can spruce up however you like.",
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "strawberry",
-        "high-protein",
-        "sugar-free",
-        "fruit",
-        "base recipe"
+        "strawberry"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-01T18:39:12.169Z"
     },
     {
       "id": "4aa4dd22-0b27-4ec7-834b-2b8d5daa7bf4",
