@@ -29,12 +29,9 @@
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-01T18:10:16.589Z",
       "title": "Chocolate (Base Recipe)",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -46,20 +43,17 @@
         "¼ teaspoon of Vanilla Extract",
         "1 Tbsp Cocoa Powder"
       ],
-      "instructions": [
-        "Mix-ins: Anything you like.",
-        "Toppings: Anything you like."
-      ],
-      "prepNotes": "Your traditional chocolate. A classic recipe you can spruce up however you like.",
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "chocolate",
-        "high-protein",
-        "sugar-free",
-        "base recipe"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-01T18:13:57.968Z"
     },
     {
       "id": "46454ea2-398e-4a96-9212-3914db88ad16",
