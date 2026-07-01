@@ -85,12 +85,9 @@
     },
     {
       "id": "4aa4dd22-0b27-4ec7-834b-2b8d5daa7bf4",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-01T18:10:16.589Z",
       "title": "Cookies & Cream",
       "servings": "",
+      "source": "",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -102,18 +99,18 @@
         "¼ teaspoon of Vanilla Extract"
       ],
       "instructions": [
-        "Mix-ins: Mini Chips Ahoy Chocolate Chip Cookies - 30 grams, about 9 cookies.",
-        "Toppings: NA"
+        "Mix-ins: Mini Chips Ahoy Chocolate Chip Cookies"
       ],
       "prepNotes": "Classic vanilla base mixed with chocolate chip cookies.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "cookies and cream",
-        "high-protein",
-        "sugar-free"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-01T18:40:23.613Z"
     },
     {
       "id": "421729ae-1e16-4f5b-b9d8-5581c5d2d315",
