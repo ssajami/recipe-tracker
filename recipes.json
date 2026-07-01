@@ -1,6 +1,310 @@
 {
   "recipes": [
     {
+      "id": "70f49cbc-cdd5-4faa-9736-995712a661af",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:34.487Z",
+      "updatedAt": "2026-07-01T06:20:34.487Z",
+      "title": "Peanut Butter & Jelly Protein Ice Cream",
+      "servings": "1 pint (260 calories, 31g protein, 16g C, 6g F)",
+      "ingredients": [
+        "400g fat free ultra-filtered Milk",
+        "40-45g Lakanto Monk Fruit sweetener",
+        "8g (½ tbsp) Peanut Butter",
+        "16g (2 tbsp) Lakanto Peanut Butter Powder",
+        "1g (¼ tsp) salt",
+        "1g (¼ tsp) xanthan gum",
+        "Mix-ins: 2 tbsp sugar free strawberry jelly"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting",
+        "Respin again if powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the strawberry jelly",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "260 calories 31g protein for the entire pint, mix-ins included. Requires freezing at least 16 hours. Made with a Ninja Creami.",
+      "tags": [
+        "protein",
+        "ice cream",
+        "high protein",
+        "low sugar",
+        "dessert",
+        "ninja creami",
+        "peanut butter",
+        "jelly",
+        "healthy"
+      ],
+      "source": "fitnessproductfinder and lakanto (Instagram) #LakantoPartner #ninjacreami #jenisicecream"
+    },
+    {
+      "id": "994a8334-2a74-49e9-beba-1d557daf9f94",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:40.864Z",
+      "updatedAt": "2026-07-01T06:20:40.864Z",
+      "title": "Recettes Ninja Creami (5 versions)",
+      "servings": "1 portion par recette",
+      "ingredients": [
+        "Peanut butter & chocolat: 300ml lait demi-écrémé, un peu d'édulcorant, 15g pb2, 2g gomme de xanthane (facultatif), 15g peanut butter, 10g de pépites de chocolat",
+        "Spéculos Lotus: 300ml lait demi-écrémé, un peu d'édulcorant, 20g pâte de spéculos (Lotus ici), 2g gomme de xanthane (facultatif), 1 spéculos émietté",
+        "Vanille protéinée: 300ml lait demi-écrémé, un peu d'édulcorant, 20g protéine en poudre vegan à la vanille (vegan pour la texture), 2g gomme de xanthane (facultatif)",
+        "Chocolat noir protéinée: 300ml lait demi-écrémé, un peu d'édulcorant, 20g protéine en poudre vegan chocolat (vegan pour la texture), 10g cacao non sucré, 2g gomme de xanthane (facultatif)",
+        "Frozen Yogurt: 100g fromage blanc/skyr, 250ml d'eau, un peu d'édulcorant, 20g protéine en poudre vegan vanille (vegan pour la texture), 2g gomme de xanthane (facultatif), qq framboises surgelées (bonus)"
+      ],
+      "instructions": [
+        "Peanut butter & chocolat: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, ajouter 15g peanut butter & 10g de pépites de chocolat & respin 1-2x",
+        "Spéculos Lotus: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, ajouter 1 spéculos émietté & respin 1-2x",
+        "Vanille protéinée: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x",
+        "Chocolat noir protéinée: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x",
+        "Frozen Yogurt: Mélanger les ingrédients de base, 12-24h au congel, puis option light ice cream, décoller les bords avec un couteau & respin 1-2x (bonus: ajouter qq framboises surgelées avant la dégustation)"
+      ],
+      "prepNotes": "12-24h au congélateur avant de passer en machine. Utiliser l'option 'light ice cream' puis respin 1-2x. La gomme de xanthane est facultative. Utiliser de la protéine vegan pour la texture.",
+      "tags": [
+        "ninja creami",
+        "glace",
+        "dessert",
+        "healthy",
+        "protéiné",
+        "frozen yogurt",
+        "faible en calories"
+      ],
+      "source": "Recettes préférées avec la Ninja Creami (publication Instagram/réseau social)"
+    },
+    {
+      "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:35.741Z",
+      "updatedAt": "2026-07-01T06:20:35.741Z",
+      "title": "Vanilla Caramel Fudge Protein Ice Cream",
+      "servings": "1 pint",
+      "ingredients": [
+        "400g fat free ultra-filtered milk",
+        "40-45g Lakanto Classic White Monk Fruit Sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (1/4 tsp) xanthan gum",
+        "15g Lakanto Sugar Free Chocolate Chips mixed with 2g of coconut oil (mix-in/topping)",
+        "7g caramel sauce (mix-in/topping)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the melted chocolate",
+        "Run the \"Mix-in\" cycle",
+        "Top with the caramel sauce"
+      ],
+      "prepNotes": "Right before the Mix-In cycle, combine the chocolate with the coconut oil, melt in the microwave (30 sec intervals, stirring in between), hollow out a hole in the center of the base, and pour in. After spinning on the Mix-In setting, it'll turn into perfect, creamy chocolate chips. Nutrition: 231 calories, 23g protein, 16g C, 6g F for the entire pint including toppings/mix-ins.",
+      "tags": [
+        "protein",
+        "ice cream",
+        "dessert",
+        "sugar free",
+        "high protein",
+        "low calorie",
+        "Ninja Creami"
+      ],
+      "source": "@fitnessproductfinder"
+    },
+    {
+      "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:36.073Z",
+      "updatedAt": "2026-07-01T06:20:36.073Z",
+      "title": "Snickers-Eis aus der Ninjacreami",
+      "servings": "",
+      "ingredients": [
+        "100ml Milch 0,3 %",
+        "200g Quark",
+        "30g Protein Pudding Caramel",
+        "2 Scoop Chunky Flavour Hazelnut & MilkyCream",
+        "10g White Crazy Hazel (@ahead_nutrition)",
+        "Topping: Schokosoße",
+        "Topping: Erdnüsse"
+      ],
+      "instructions": [
+        "Als erstes gibst du alle Zutaten in deinen Behälter für die Ninjacreami außer das Topping und frierst es für 24 Std ein.",
+        "Nun gibst du das gefrorene Eis in deine Ninjacreami und drückst auf Ice Cream.",
+        "Danach gibst du nochmal ein Schluck Milch hinzu und drückst 1-2x auf Re-Spin bis du eine cremige Konsistenz hast.",
+        "Wenn du magst kannst du jetzt als Topping die Schokosoße und die Erdnüsse obendrauf geben."
+      ],
+      "prepNotes": "Kalorienarm, familientauglich, zuckerreduziert. Einfrierzeit: 24 Stunden.",
+      "tags": [
+        "Eis",
+        "Dessert",
+        "Ninjacreami",
+        "kalorienarm",
+        "zuckerreduziert",
+        "familientauglich",
+        "Protein",
+        "Snickers"
+      ],
+      "source": "alex.new.life (Instagram)"
+    },
+    {
+      "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:36.095Z",
+      "updatedAt": "2026-07-01T06:20:36.095Z",
+      "title": "Chocolate Chip Cookie Dough Protein Blizzard",
+      "servings": "1 pint (285 calories, 30g protein)",
+      "ingredients": [
+        "400g fat free ultra-filtered milk (or any fat free milk)",
+        "40-45g monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "½ of a package of the @fuulsnacks Chocolate Chip Cookie Dough bites (cxde FPF for 15% off, linked in bio)",
+        "15g low cal chocolate ganache (combine 5g of unsweetened cocoa powder with 10g of sugar free syrup)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Prep your chocolate ganache (ingredients above)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Respin again if very powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the ganache and half of the cookie dough bites",
+        "Run the \"Mix-in\" cycle",
+        "Top with the rest of the cookie dough bites"
+      ],
+      "prepNotes": "285 cal, 29g C, 5g F, 30g P (for the entire pint, toppings/mix-ins included). To make the ganache, combine 5g of unsweetened cocoa powder with 10g of sugar free syrup (I know this sounds like it wouldn't work, but trust me... it does). All my recipe books (200+ flavors) are in my bio!",
+      "tags": [
+        "dessert",
+        "high-protein",
+        "low-calorie",
+        "ice cream",
+        "ninja creami",
+        "cookie dough",
+        "chocolate",
+        "sugar free",
+        "healthy"
+      ],
+      "source": "Ninja Creami recipe (@fuulsnacks product mentioned)"
+    },
+    {
+      "id": "e802904a-54fa-42b5-9892-05af3f3ddf59",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:32.867Z",
+      "updatedAt": "2026-07-01T06:20:32.867Z",
+      "title": "Healthy Watermelon Sorbet",
+      "servings": "1 pint (120 calories, 2g protein for the entire pint)",
+      "ingredients": [
+        "400g chopped watermelon",
+        "35g Lakanto Classic Monk Fruit Sweetener",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Sorbet\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired consistency"
+      ],
+      "prepNotes": "Nutrition: 120 cal, 28g C, 1g F, 2g P. Made with the Ninja Creami. Freeze base for at least 16 hours before spinning.",
+      "tags": [
+        "sorbet",
+        "italianice",
+        "healthy",
+        "watermelon",
+        "dessert",
+        "lowcalorie",
+        "ninjacreami"
+      ],
+      "source": "fitnessproductfinder and lakanto (#LakantoPartner)"
+    },
+    {
+      "id": "e343e638-e84a-4a58-a108-9460dc3d4dee",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:36.701Z",
+      "updatedAt": "2026-07-01T06:20:36.701Z",
+      "title": "Cookies 'n Cream Cheesecake Protein Ice Cream",
+      "servings": "1 pint (355 calories, 33g C, 14g F, 26g P total)",
+      "ingredients": [
+        "400g fat free ultra-filtered milk",
+        "22g (2 tbsp) whipped (or regular) cream cheese",
+        "40-45g Lakanto monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "Mix-in/toppings:",
+        "4 Oreo Thins (cream removed)",
+        "30g cheesecake bites (~100 calories worth of any cheesecake, chopped into bite size pieces)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "At the same time, put the cheesecake bites and Oreos into the freezer. This allows it to firm up and withstand the power of the Mix-in setting (so it doesn't get completely pulverized)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the frozen cheesecake bites and Oreos",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "355 calories 26g protein for the entire pint, toppings/mix-ins included. All recipe books (200+ flavors) are in the creator's bio.",
+      "tags": [
+        "protein",
+        "ice cream",
+        "dessert",
+        "high-protein",
+        "low-calorie",
+        "cookies and cream",
+        "cheesecake",
+        "ninja creami",
+        "fitness"
+      ],
+      "source": "fitnessproductfinder (Instagram)"
+    },
+    {
+      "id": "f026f9b2-3768-4118-a461-7e930580b845",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-01T06:20:35.980Z",
+      "updatedAt": "2026-07-01T06:20:35.980Z",
+      "title": "Chocolate Chip Cookie Cheesecake Protein Ice Cream",
+      "servings": "1 pint (296 calories, 23g protein)",
+      "ingredients": [
+        "400g fat free Fairlife milk",
+        "22g (2 tbsp) whipped (or regular) cream cheese",
+        "5g (1 tsp) Nielsen Massey vanilla bean paste",
+        "40-45g Lakanto monk fruit sweetener",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "3 Simple Mills chocolate chip cookies (can sub with any crunchy chocolate chip cookies)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Place your cookies in a plastic bag and freeze alongside your pint (this allows them to firm up and not get pulverized by the Mix-in setting)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the frozen cookies",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "296 cal, 23g C, 11g F, 24g P for the entire pint including toppings/mix-ins. All recipe books (200+ flavors) are in bio. Made with Ninja Kitchen Creami.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "high-protein",
+        "low-calorie",
+        "healthy",
+        "cheesecake",
+        "chocolate chip cookie",
+        "Ninja Creami",
+        "sugar-free"
+      ],
+      "source": "fitnessproductfinder (Instagram)"
+    },
+    {
       "id": "e212a14f-d0cc-49e9-a3ee-aaaf244a25a1",
       "afterPrepNotes": "",
       "rating": null,
