@@ -134,12 +134,9 @@
     },
     {
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Chocolate Fudge Almond Toffee",
-      "servings": "1 pint",
+      "title": "Chocolate Fudge Almond Toffee Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -160,17 +157,18 @@
         "Add mix-ins: 14 grams toasted almonds, Heath Bar Toffee Bits, optional crumbled Keto brownie bits.",
         "Top with Cool Whip, toffee bits, SF chocolate syrup, and brownie crumble."
       ],
-      "prepNotes": "An explosion smorgasbord of flavors. A rich fudge chocolate base with buttery toffee syrup, toasted almonds, brownies and buttery toffee bits.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "chocolate",
-        "low-sugar",
-        "keto-friendly"
+        "almond",
+        "chocolate"
       ],
-      "source": "BUM Whey Protein recipe collection (https://www.youtube.com/watch?v=wUOcU8VDDMQ&list=PL4qtMlW9Grwnl4xfVp9Ki61y4461icOK5&index=34)"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:07:44.392Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
