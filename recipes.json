@@ -1,6 +1,39 @@
 {
   "recipes": [
     {
+      "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
+      "title": "Ninja Creami Mint Chocolate Chip Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ¼ cup Half and half",
+        "½ cup Sweetened condensed milk",
+        "½ cup Cottage cheese",
+        "½ teaspoon Mint chocolate chip flavor (I used Lorann Oils Mint Chocolate Chip)",
+        "1 teaspoon Vanilla extract or vanilla bean paste",
+        "2 drops Green food color",
+        "2 tablespoon Chocolate chips or mint chocolate chips (chopped)"
+      ],
+      "instructions": [
+        "In a blender, combine half and half, sweetened condensed milk, cottage cheese, vanilla, and mint flavoring. Blend until smooth and creamy.",
+        "Pour the mixture into a Ninja Creami pint container. Freeze for at least 24 hours.",
+        "Once frozen, place the container in the Ninja Creami machine. Select the Ice Cream setting and let it spin.",
+        "If too crumbly, add a splash of milk and respin.",
+        "Stir in chocolate chips or use Mix in function and enjoy!",
+        "Serve & Enjoy – Scoop into a bowl and dig in!"
+      ],
+      "prepNotes": "If you love mint chocolate chip ice cream but don’t want it to taste like you’re eating toothpaste, you’re in the right place! This homemade Ninja Creami mint chocolate chip ice cream is perfectly balanced—cool, creamy, and loaded with just the right amount of chocolatey goodness.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-mint-chocolate-chip-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:04:55.787Z",
+      "updatedAt": "2026-07-02T10:04:55.787Z"
+    },
+    {
       "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
       "title": "Ninja Creami Hot Honey Ice Cream",
       "servings": "4",
