@@ -1,6 +1,37 @@
 {
   "recipes": [
     {
+      "id": "d44f4048-6f18-4287-9306-8ac097b6f958",
+      "title": "Ninja Creami Shamrock Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ½ cup Half and half",
+        "½ cup Sweetened condensed milk",
+        "½ cup Cottage cheese",
+        "½ teaspoon Mint chocolate chip flavor I used Lorann Oils Mint Chocolate Chip",
+        "1 teaspoon Vanilla extract or vanilla bean paste",
+        "2 drops  Green food color"
+      ],
+      "instructions": [
+        "Blend Ingredients – Combine everything in a blender until smooth.",
+        "Freeze for 24 Hours – Pour into a Ninja Creami pint and freeze on a level surface.",
+        "Spin on Ice Cream Mode – Let the Ninja Creami do its magic!",
+        "Respin if Needed – If it’s crumbly, respin for the perfect texture.",
+        "Serve and Enjoy – Scoop it up and enjoy a creamy, minty treat!"
+      ],
+      "prepNotes": "This Ninja Creami Shamrock Ice Cream is minty, creamy, and smooth with real ingredients — no pudding mix, no gums, and perfect for St. Patrick’s Day.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-shamrock-ice-cream/",
+      "createdAt": "2026-07-02T11:23:46.465Z",
+      "updatedAt": "2026-07-02T11:23:46.465Z"
+    },
+    {
       "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
       "title": "Ninja Creami Mint Cookies and Cream Ice Cream",
       "servings": "4",
