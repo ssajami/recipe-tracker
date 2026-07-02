@@ -1435,12 +1435,9 @@
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Chocolate Chocolate Chip",
-      "servings": "",
+      "title": "Chocolate Chocolate Chip Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1455,16 +1452,16 @@
         "Toppings: Chocolate Chips, SF Chocolate Syrup"
       ],
       "instructions": [],
-      "prepNotes": "What's better than chocolate? More chocolate! The chips enhanced it with a bit of crunch.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "chocolate",
-        "frozen"
+        "chocolate"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:25:33.622Z"
     },
     {
       "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
