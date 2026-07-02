@@ -209,12 +209,9 @@
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
       "title": "Toasted Coconut Almond",
       "servings": "1 pint",
+      "source": "BUM Whey Protein recipe collection",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -235,17 +232,17 @@
         "Add mix-ins: 14 grams toasted crushed almonds, 2 Tbsp toasted coconut flakes, Lilies Dark Chocolate Chips OR Regular Chocolate Chips, optional Almond Joy.",
         "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. Optional: Non Fat Cool Whip."
       ],
-      "prepNotes": "Shredded coconut, toasted to caramelized perfection, crunchy, salt-roasted almonds, and bittersweet chocolate chips.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "coconut",
-        "low-sugar",
-        "keto-friendly"
+        "almond"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:12:00.801Z"
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
