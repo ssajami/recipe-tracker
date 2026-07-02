@@ -66,12 +66,9 @@
     },
     {
       "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Lemon Cake/Lemon Bar",
-      "servings": "1 pint",
+      "title": "Lemon Cake/Lemon Bar Ice Cream",
+      "servings": "delux tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -90,17 +87,16 @@
         "Drizzle icing over the top or mix with the Cool Whip first.",
         "Optional: Top with Lemon Cookies or Lemon Bars."
       ],
-      "prepNotes": "Vanilla base with hints of lemon topped with Lemon Bars or Lemon cookies and drizzled with Sugar Free Lemon icing.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "lemon",
-        "low-sugar",
-        "keto-friendly"
+        "lemon"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T03:26:27.403Z"
     },
     {
       "id": "0dc996f7-9d12-4c8a-9aa7-dee0ea5d4327",
