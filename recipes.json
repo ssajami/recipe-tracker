@@ -1,6 +1,34 @@
 {
   "recipes": [
     {
+      "id": "860d7119-6a2c-4e89-944c-8e7581ba0906",
+      "title": "Ninja Creami Watermelon Ice Cream (2 ingredients)",
+      "servings": "4",
+      "ingredients": [
+        "2 cups fresh watermelon chunks",
+        "⅔ cup sweetened condensed milk"
+      ],
+      "instructions": [
+        "Blend watermelon and sweetened condensed milk until smooth.",
+        "Pour into a Ninja Creami Deluxe pint container.",
+        "Freeze on a level surface for 24 hours.",
+        "Spin using “Lite Ice Cream” mode.",
+        "Re-spin if crumbly.",
+        "Scoop and enjoy your creamy watermelon treat!"
+      ],
+      "prepNotes": "This 2-Ingredient Watermelon Ice Cream Is Summer in a Pint. When it’s blazing hot out, nothing hits like a cold, creamy scoop of watermelon ice cream. This easy Ninja Creami recipe only needs two ingredients—but tastes like a store-bought favorite.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-watermelon-ice-cream-2-ingredients/",
+      "createdAt": "2026-07-02T10:01:35.905Z",
+      "updatedAt": "2026-07-02T10:01:35.905Z"
+    },
+    {
       "id": "175ed17e-2caf-44bc-badf-91bd0b720bfc",
       "title": "Ninja CREAMi Sugar Free Blackberry Sorbet",
       "servings": "4",
