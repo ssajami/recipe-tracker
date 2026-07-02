@@ -34,12 +34,9 @@
     },
     {
       "id": "b49b8bc7-edcd-4ec9-a058-46a79a19c006",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Snickerdoodle",
-      "servings": "1 pint",
+      "title": "Snickerdoodle Ice Cream",
+      "servings": "creami tub",
+      "source": "BUM Whey Protein recipe collection",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -58,6 +55,8 @@
         "Top with Cool Whip and Cinnamon."
       ],
       "prepNotes": "A soft, cinnamon-sugar coating with a slight bit of tang. Cream of Tartar adds the tang used in Snickerdoodle cookies but tastes fine without it. For a cheesecake version, see Cinnamon Cookie Crumble.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -66,7 +65,8 @@
         "low-sugar",
         "keto-friendly"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T02:40:51.891Z"
     },
     {
       "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
