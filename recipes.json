@@ -1647,12 +1647,9 @@
     },
     {
       "id": "eafa4f67-d265-451a-a16d-58e72ea0cd2a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Strawberry Cheesecake",
-      "servings": "",
+      "title": "Strawberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -1667,17 +1664,17 @@
         "Toppings: 1 Rectangle of Graham Cracker, 2 Tbsp Cool Whip, Optional: Diced Strawberries"
       ],
       "instructions": [],
-      "prepNotes": "A rich and creamy cheesecake ice cream with fresh strawberries, strawberry jam, and crushed graham crackers. The addition of cream cheese makes the texture of cheesecake ice cream perfectly creamy. Don't forget the Strawberry and Cool Whip toppings!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "fruit",
         "cheesecake",
-        "frozen"
+        "strawberry"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:26:42.833Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
