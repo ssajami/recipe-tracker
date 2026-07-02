@@ -1317,12 +1317,9 @@
     },
     {
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Butterfinger/Candy Bar",
-      "servings": "",
+      "title": "Candy Bar Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1336,15 +1333,14 @@
       ],
       "instructions": [],
       "prepNotes": "Classic vanilla base mixed with the crunchy salted buttery flavor of a Butterfinger candy bar. This is a solid base recipe for pretty much any candy bar (Snickers, Baby Ruth, Kit Kat, Reeses, etc). Make sure you refrigerate your bar so that the Mix-in setting doesn't obliterate your bar. The colder texture helps keep bits of crunchy goodness better than room temperature. You can opt for basic Vanilla/Chocolate recipe instead for other bars.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "high-protein",
-        "candy",
-        "frozen"
+        "protein"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:19:17.755Z"
     },
     {
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
