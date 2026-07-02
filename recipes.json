@@ -1,6 +1,41 @@
 {
   "recipes": [
     {
+      "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
+      "title": "Ninja Creami Chocolate Brownie Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1¼ cups half and half",
+        "3 tablespoons cocoa powder",
+        "½ cup hot water",
+        "½ cup sweetened condensed milk",
+        "1 teaspoon instant espresso powder",
+        "½ cup cottage cheese",
+        "1 teaspoon vanilla extract or vanilla bean paste",
+        "¾ cup brownie chunks (for mix-in)"
+      ],
+      "instructions": [
+        "Whisk cocoa powder with hot water until smooth.",
+        "Blend cocoa mixture with all remaining ingredients (except brownies) until fully smooth.",
+        "Pour into a Ninja Creami Deluxe pint and freeze 24 hours.",
+        "Spin on Ice Cream.",
+        "Respin once until creamy.",
+        "Add brownie chunks and run Mix-In cycle."
+      ],
+      "prepNotes": "This Ninja Creami chocolate brownie ice cream is rich, creamy, and deeply chocolatey with fudgy brownie chunks. High protein, no gums, no eggs — just real ingredients and reliable results.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-chocolate-brownie-ice-cream/",
+      "createdAt": "2026-07-02T11:26:42.818Z",
+      "updatedAt": "2026-07-02T11:26:42.818Z"
+    },
+    {
       "id": "a6da4888-e7e5-44f9-802b-91f74e991d49",
       "title": "Ninja Creami Pumpkin Spice Latte Ice Cream",
       "servings": "4",
