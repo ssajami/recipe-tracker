@@ -677,12 +677,9 @@
     },
     {
       "id": "85183f50-1883-410d-91ce-5670ee6460f7",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
       "title": "Fat Elvis Ice Cream",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -700,16 +697,15 @@
         "Toppings: Optional: Cool Whip"
       ],
       "instructions": [],
-      "prepNotes": "Made with mashed bananas and peanut butter, a gourmet flavor based on the famous singer's favorite sweet sandwich.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:35:22.002Z"
     },
     {
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
