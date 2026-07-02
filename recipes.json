@@ -1,0 +1,4597 @@
+{
+  "recipes": [
+    {
+      "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
+      "title": "Hazelnut Chocolate Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "@karavasis reddit",
+      "ingredients": [
+        "225g fat free Fairlife",
+        "200 unsweetened vanilla almond milk",
+        "190g Coldbrew",
+        "15g Torani hazelnut syrup",
+        "15g half and half",
+        "1 scoop chocolate protein powder",
+        "1.5 tbs cocoa powder",
+        "1/4 tsp Xantham gum",
+        "5g monk fruit w allulose",
+        "5g TJs bourbon vanilla paste",
+        "1.5 pinches of salt"
+      ],
+      "instructions": [
+        "Combine all ingredients.",
+        "One spin on lite ice cream setting.",
+        "Top with TJs dark chocolate covered espresso beans."
+      ],
+      "prepNotes": "*cold brew substitute:  French Press\n1. Coarsely grind coffee, use a ~1:8 ratio (e.g., 40g coffee to 320g cold water).\n2. Stir grounds into cold water in the press.\n3. Steep 12–18 hours at room temp or in the fridge.\n4. Press the plunger and pour off. Done—smooth, low-acid concentrate.\n\n* monk fruit w/allulose: straight allulose will be less sweet gram-for-gram—you'll likely need more. Start by roughly doubling the amount (~10g) and taste \n\n* hazelnut syrup substitute (not rescaled):\n1/4 tsp Hazelnut extract (start here—it's potent; taste and add a drop more if needed)\nExtra sweetener:  Add ~3–5g to replace the syrup's sweetness\nMix it in with everything else, then taste the base before spinning and adjust to your liking.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coffee",
+        "chocolate",
+        "protein"
+      ],
+      "createdAt": "2026-07-02T11:28:30.134Z",
+      "updatedAt": "2026-07-02T15:24:40.633Z"
+    },
+    {
+      "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
+      "title": "Raspberry Lemonade Sorbet",
+      "servings": "delux tub",
+      "source": "@LizzieLifts2707 reddit",
+      "ingredients": [
+        "Raspberries",
+        "Lemonade (fill to the line)"
+      ],
+      "instructions": [
+        "Add raspberries and lemonade to the tub, filling to the max line.",
+        "Freeze",
+        "Process using the sorbet option.",
+        "Run 1 respin for the best texture."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sorbet",
+        "raspberry"
+      ],
+      "createdAt": "2026-07-02T11:27:59.554Z",
+      "updatedAt": "2026-07-02T17:26:24.486Z"
+    },
+    {
+      "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
+      "title": "Pistachio Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1 ½ cup half-and-half",
+        "⅓ cup pistachio cream",
+        "⅓ cup condensed milk",
+        "½ cup cottage cheese",
+        "1 teaspoon vanilla extract",
+        "A drop of green food coloring",
+        "2 tablespoons pistachio nuts (chopped)"
+      ],
+      "instructions": [
+        "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth.",
+        "Freeze – Pour into tub, cover, and freeze for 24 hours on a level surface.",
+        "Spin – use the “Ice Cream” setting.",
+        "Respin if needed – If crumbly, add 1-2 tablespoons of milk and respin.",
+        "Add Mix-Ins – Stir in chopped pistachios, and select the Mix-In function."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "pistachio"
+      ],
+      "createdAt": "2026-07-02T11:27:35.610Z",
+      "updatedAt": "2026-07-02T11:41:10.890Z"
+    },
+    {
+      "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
+      "title": "Old-Fashioned Chocolate Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1½ cup Half and Half",
+        "4 tablespoons cocoa powder",
+        "½ cup hot water",
+        "½ cup condensed milk",
+        "1 teaspoon Espresso Instant Coffee",
+        "½ cup Cottage Cheese",
+        "1 teaspoon Vanilla extract or vanilla bean paste"
+      ],
+      "instructions": [
+        "Dissolve Cocoa Powder: In a small bowl, mix the cocoa powder with a few tablespoons of hot water until smooth. Let it cool slightly.",
+        "Blend: Add all ingredients to a blender and blend until smooth.",
+        "Freeze: Pour into a container and freeze for 24 hours.",
+        "Spin: select the Ice Cream function.",
+        "Respin if needed: If crumbly, add 1-2 tablespoons of milk and respin."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-02T11:27:14.489Z",
+      "updatedAt": "2026-07-02T11:43:26.591Z"
+    },
+    {
+      "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
+      "title": "Chocolate Brownie Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1¼ cups half and half",
+        "3 tablespoons cocoa powder",
+        "½ cup hot water",
+        "½ cup sweetened condensed milk",
+        "1 teaspoon instant espresso powder",
+        "½ cup cottage cheese",
+        "1 teaspoon vanilla extract or vanilla bean paste",
+        "¾ cup brownie chunks (for mix-in)"
+      ],
+      "instructions": [
+        "Whisk cocoa powder with hot water until smooth.",
+        "Blend cocoa mixture with all remaining ingredients (except brownies) until fully smooth.",
+        "Pour into a tub and freeze 24 hours.",
+        "Spin on Ice Cream.",
+        "Respin once until creamy.",
+        "Add brownie chunks and run Mix-In cycle."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-02T11:26:42.818Z",
+      "updatedAt": "2026-07-02T11:47:35.512Z"
+    },
+    {
+      "id": "a6da4888-e7e5-44f9-802b-91f74e991d49",
+      "title": "Pumpkin Spice Latte Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "¾ cup half and half ((equal parts milk and heavy cream))",
+        "½ cup sweetened condensed milk",
+        "½ cup cottage cheese",
+        "¾ cup pumpkin puree",
+        "2 tablespoon brown sugar or allulose",
+        "2 teaspoon instant espresso instant coffee mix",
+        "1 teaspoon pumpkin spice",
+        "1 teaspoon  vanilla extract"
+      ],
+      "instructions": [
+        "Blend the base: Add half &amp; half, sweetened condensed milk, cottage cheese, pumpkin purée, brown sugar (or allulose), espresso powder, pumpkin spice, and vanilla extract to a blender. Blend on high until completely smooth and creamy — no lumps or grainy bits.",
+        "Freeze the pint: Pour the mixture into a tub, stopping just below the max fill line. Freeze flat for at least 24 hours.",
+        "Spin Select the Ice Cream function and let it run through the full cycle.",
+        "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half &amp; half before respinning for extra creaminess.",
+        "Add mix-ins (optional): Once you’ve hit your ideal texture, add any mix-ins — like crushed gingersnaps, caramel bits, or toasted pecans — and run the Mix-In cycle.",
+        "Serve &amp; enjoy: Scoop it right away for soft-serve texture or refreeze for 30 minutes if you prefer it firmer."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "unique",
+        "pumpkin"
+      ],
+      "createdAt": "2026-07-02T11:26:32.083Z",
+      "updatedAt": "2026-07-02T11:53:02.444Z"
+    },
+    {
+      "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
+      "title": "Pumpkin Cheesecake Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1 cup half and half",
+        "2 ounce cream cheese",
+        "½  cup equivalent sweetened condensed milk",
+        "¾ cup pumpkin puree",
+        "1 teaspoon pumpkin spice",
+        "1 teaspoon vanilla extract",
+        "1 sheets  graham cracker"
+      ],
+      "instructions": [
+        "Blend all but the graham crackers until ultra smooth.",
+        "Pour into tub, freeze 24 hours",
+        "Remove, spin on Ice Cream mode.",
+        "Create a small well, add 1 Tbsp extra liquid if needed, respin.",
+        "Add graham cracker crumbs to the well, hit mix-in mode or stir gently.",
+        "Serve immediately or level and freeze for future respinning."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "pumpkin",
+        "cheesecake"
+      ],
+      "createdAt": "2026-07-02T11:25:56.719Z",
+      "updatedAt": "2026-07-02T11:54:25.445Z"
+    },
+    {
+      "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
+      "title": "Maple Walnut Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1 cup half and half",
+        "¼ cup sweetened condensed milk",
+        "2 ounces full-fat cream cheese",
+        "3 Tablespoons pure maple syrup",
+        "1 teaspoon vanilla bean paste or extract",
+        "½ cup chopped candied maple walnuts",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Blend half and half, condensed milk, cream cheese, maple syrup, vanilla, and salt until smooth.",
+        "Pour into a tub and freeze 24 hours.",
+        "Spin using Ice Cream setting.",
+        "If crumbly, add 1 Tbsp half-and-half and Respin.",
+        "Add candied walnuts using Mix-In cycle."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "maple",
+        "walnut"
+      ],
+      "createdAt": "2026-07-02T11:25:38.473Z",
+      "updatedAt": "2026-07-02T12:31:00.971Z"
+    },
+    {
+      "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
+      "title": "Ninja Creami Apple Cinnamon Pie Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup half and half",
+        "½ cup cottage cheese",
+        "¼ cup sweetened condensed milk",
+        "¼ cup brown sugar",
+        "1 teaspoon vanilla extract",
+        "½ teaspoon cinnamon",
+        "Pinch of sea salt",
+        "½ cup canned apples (chopped (for mix-in))",
+        "2 pieces graham crackers (crushed (for mix-in))"
+      ],
+      "instructions": [
+        "Add cottage cheese, sweetened condensed milk, apples, half and half, brown sugar, vanilla, cinnamon, and sea salt to a blender.",
+        "Blend until completely smooth. This matters.",
+        "Pour the mixture into a 24 oz Deluxe Ninja Creami pint.",
+        "Freeze on a flat surface for at least 24 hours.",
+        "Spin on Ice Cream. If crumbly, respin.",
+        "Add  graham crackers using the Mix-In cycle."
+      ],
+      "prepNotes": "This apple cinnamon pie Ninja Creami ice cream is rich, cozy, and packed with real pie flavor. Made with half and half, cottage cheese, and brown sugar, it spins up creamy with classic graham cracker crunch.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-apple-cinnamon-pie-ice-cream/",
+      "createdAt": "2026-07-02T11:25:19.392Z",
+      "updatedAt": "2026-07-02T11:25:19.392Z"
+    },
+    {
+      "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
+      "title": "Ninja Creami Chai Tea Latte Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "4  chai tea bags (any brand)",
+        "½ cup hot water",
+        "1 cup half and half",
+        "½ cup cottage cheese (full-fat)",
+        "½ cup sweetened condensed milk",
+        "½ teaspoon vanilla extract",
+        "¼ teaspoon salt",
+        "¼ teaspoon ground cinnamon"
+      ],
+      "instructions": [
+        "Steep the tea: Add chai tea bags to 1/2 cup hot water. Steep 5-7 minutes until dark and concentrated. Remove tea bags and let cool to room temperature.",
+        "Blend the base: Add cooled tea, half and half, cottage cheese, sweetened condensed milk, vanilla extract, salt, and cinnamon to a blender. Blend on high for 30 seconds until completely smooth.",
+        "Freeze: Pour into Ninja Creami pint container (don&#39;t exceed max fill line). Freeze on a flat surface for 24 hours.",
+        "Spin: Remove pint from freezer. Take off lid and place in outer bowl. Attach paddle lid and select **Ice Cream**.",
+        "Check texture: If crumbly or powdery (normal for tea-based ice cream), make a small well in the center and add 1-2 tablespoons half and half or milk. Select **Respin**.",
+        "Serve: Scoop immediately for soft-serve texture, or freeze 20-30 minutes for firmer scoops."
+      ],
+      "prepNotes": "This chai tea latte ice cream is creamy, warmly spiced, and made with real chai tea bags - no pudding mix or protein powder needed.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "asian",
+        "Fall / Seasonal Dessert",
+        "Frozen Dessert"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-chai-tea-latte-ice-cream-recipe/",
+      "createdAt": "2026-07-02T11:25:03.069Z",
+      "updatedAt": "2026-07-02T11:25:03.069Z"
+    },
+    {
+      "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
+      "title": "Ninja CREAMi Plain Tart Frozen Yogurt",
+      "servings": "3",
+      "ingredients": [
+        "2 cups greek yogurt (Non-fat or Full-Fat)",
+        "3-4 tablespoon honey",
+        "squeeze lemon (optional)"
+      ],
+      "instructions": [
+        "Blend – In a blender, mix Greek yogurt, honey, and lemon juice. Blend until smooth.",
+        "Freeze – Pour into a Ninja CREAMi pint container and freeze for at least 24 hours.",
+        "Spin – Place in the Ninja CREAMi machine and select Lite Ice Cream or Yogurt",
+        "Check texture – If crumbly, add 1-2 tbsp milk and re-spin.",
+        "Enjoy! Serve as is or add your favorite mix-ins."
+      ],
+      "prepNotes": "Love frozen yogurt but want a healthier homemade version? This Ninja CREAMi Plain Tart Frozen Yogurt is creamy, tangy, and so easy to make!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-plain-tart-frozen-yogurt-recipe/",
+      "createdAt": "2026-07-02T11:24:43.449Z",
+      "updatedAt": "2026-07-02T11:24:43.449Z"
+    },
+    {
+      "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
+      "title": "Ninja Creami Classic Coffee Ice Cream (High Protein)",
+      "servings": "4",
+      "ingredients": [
+        "1 ½ cups half and half",
+        "1 tbsp espresso instant powder",
+        "½ cup cottage cheese",
+        "½ cup sweetened condensed milk",
+        "1 tsp vanilla extract"
+      ],
+      "instructions": [
+        "Blend half and half, espresso, cottage cheese, condensed milk, and vanilla until smooth",
+        "Freeze flat in a Ninja Creami pint container for 24 hours",
+        "Spin using “Lite Ice Cream”  function",
+        "Respin if crumbly—add 1-2 tbsp milk if needed",
+        "Serve & Enjoy—grab a spoon and dig in!"
+      ],
+      "prepNotes": "This high-protein Ninja Creami coffee ice cream is creamy, bold, and made with real espresso flavor. Cottage cheese adds protein and smooth texture — no gums, no pudding mix, no protein powder.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-classic-coffee-ice-cream/",
+      "createdAt": "2026-07-02T11:24:25.206Z",
+      "updatedAt": "2026-07-02T11:24:25.206Z"
+    },
+    {
+      "id": "5963c1e2-71d4-48b2-bcd6-a74a1aeb85a2",
+      "title": "Ninja Creami Maple Cinnamon Toast Crunch Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1¼ cup half and half",
+        "¼ cup sweetened condensed milk",
+        "¼ cup cottage cheese",
+        "2 tablespoon maple syrup",
+        "⅔ cup Cinnamon Toast Crunch cereal",
+        "1 teaspoon vanilla bean paste or extract",
+        "½ teaspoon cinnamon powder",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Add half and half, condensed milk, cottage cheese, maple syrup, vanilla, cinnamon powder, and salt to a blender. Blend until totally smooth.",
+        "Pour into a Deluxe pint up to the max fill line.",
+        "Freeze for 24 hours.",
+        "Spin on Ice Cream cycle.",
+        "If crumbly, Respin. Add 1–2 Tbsp half and half if needed.",
+        "Create a center tunnel, add Cinnamon Toast Crunch, and Mix-In.",
+        "Serve immediately or freeze briefly for a firmer scoop."
+      ],
+      "prepNotes": "A creamy, breakfast-inspired maple ice cream packed with cinnamon cereal crunch. Made with simple ingredients - no gums, no protein powder - and frozen to Ninja Creami perfection.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-maple-cinnamon-toast-crunch-ice-cream/",
+      "createdAt": "2026-07-02T11:24:07.283Z",
+      "updatedAt": "2026-07-02T11:24:07.283Z"
+    },
+    {
+      "id": "d44f4048-6f18-4287-9306-8ac097b6f958",
+      "title": "Ninja Creami Shamrock Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ½ cup Half and half",
+        "½ cup Sweetened condensed milk",
+        "½ cup Cottage cheese",
+        "½ teaspoon Mint chocolate chip flavor I used Lorann Oils Mint Chocolate Chip",
+        "1 teaspoon Vanilla extract or vanilla bean paste",
+        "2 drops  Green food color"
+      ],
+      "instructions": [
+        "Blend Ingredients – Combine everything in a blender until smooth.",
+        "Freeze for 24 Hours – Pour into a Ninja Creami pint and freeze on a level surface.",
+        "Spin on Ice Cream Mode – Let the Ninja Creami do its magic!",
+        "Respin if Needed – If it’s crumbly, respin for the perfect texture.",
+        "Serve and Enjoy – Scoop it up and enjoy a creamy, minty treat!"
+      ],
+      "prepNotes": "This Ninja Creami Shamrock Ice Cream is minty, creamy, and smooth with real ingredients — no pudding mix, no gums, and perfect for St. Patrick’s Day.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-shamrock-ice-cream/",
+      "createdAt": "2026-07-02T11:23:46.465Z",
+      "updatedAt": "2026-07-02T11:23:46.465Z"
+    },
+    {
+      "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
+      "title": "Ninja Creami Mint Cookies and Cream Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1½ cup Half and Half",
+        "½ cup Cottage Cheese",
+        "½ cup Sweetened Condensed Milk",
+        "2 teaspoons Vanilla Bean Extract",
+        "¼ teaspoon Mint chocolate chip flavor I used Lorann Oils Mint Chocolate Chip (add more if you want)",
+        "Crushed oreo cookies add more if you want"
+      ],
+      "instructions": [
+        "Blend: Add all the ingredients to a blender or food processor and blend until smooth.",
+        "Freeze: Pour the mixture into a Ninja Creami pint container. Freeze for 24 hours on a level surface.",
+        "Spin: Remove the lid and spin using the &quot;Ice Cream&quot; mode on your Ninja Creami.",
+        "Respin (if needed): If the texture is crumbly, add 1–2 tablespoons of milk and hit the &quot;Respin&quot; button.",
+        "Add mix-ins: If you didn’t already mix in crushed Oreos, now’s a great time. Fold them in and enjoy!"
+      ],
+      "prepNotes": "This Ninja Creami mint cookies and cream ice cream is creamy, cool, and loaded with Oreo chunks. No pudding mix, no gums, just a reliable base that spins smooth every time.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-mint-cookies-cream-ice-cream/",
+      "createdAt": "2026-07-02T11:22:14.920Z",
+      "updatedAt": "2026-07-02T11:22:14.920Z"
+    },
+    {
+      "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
+      "title": "Ninja Creami Mint Chocolate Chip Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ¼ cup Half and half",
+        "½ cup Sweetened condensed milk",
+        "½ cup Cottage cheese",
+        "½ teaspoon Mint chocolate chip flavor (I used Lorann Oils Mint Chocolate Chip)",
+        "1 teaspoon Vanilla extract or vanilla bean paste",
+        "2 drops Green food color",
+        "2 tablespoon Chocolate chips or mint chocolate chips (chopped)"
+      ],
+      "instructions": [
+        "In a blender, combine half and half, sweetened condensed milk, cottage cheese, vanilla, and mint flavoring. Blend until smooth and creamy.",
+        "Pour the mixture into a Ninja Creami pint container. Freeze for at least 24 hours.",
+        "Once frozen, place the container in the Ninja Creami machine. Select the Ice Cream setting and let it spin.",
+        "If too crumbly, add a splash of milk and respin.",
+        "Stir in chocolate chips or use Mix in function and enjoy!",
+        "Serve & Enjoy – Scoop into a bowl and dig in!"
+      ],
+      "prepNotes": "If you love mint chocolate chip ice cream but don’t want it to taste like you’re eating toothpaste, you’re in the right place! This homemade Ninja Creami mint chocolate chip ice cream is perfectly balanced—cool, creamy, and loaded with just the right amount of chocolatey goodness.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-mint-chocolate-chip-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:04:55.787Z",
+      "updatedAt": "2026-07-02T10:04:55.787Z"
+    },
+    {
+      "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
+      "title": "Hot Honey Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1¾ cup Half-and-Half",
+        "¼ cup Hot Honey",
+        "½ cup Cottage Cheese",
+        "1 teaspoon Vanilla Extract or vanilla bean paste",
+        "Pinch Salt"
+      ],
+      "instructions": [
+        "Blend the ingredients: In a blender, combine half-and-half, hot honey, cottage cheese, vanilla, and salt. Blend until smooth.",
+        "Freeze: Pour the mixture into a container. Freeze for 12-24 hours.",
+        "Spin on the “Ice Cream” setting.",
+        "Re-spin if needed: If the texture is crumbly, add 1-2 tbsp of milk and re-spin until creamy."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "honey",
+        "unique"
+      ],
+      "createdAt": "2026-07-02T10:04:07.714Z",
+      "updatedAt": "2026-07-02T11:37:24.077Z"
+    },
+    {
+      "id": "048300fd-295a-4a6f-9959-8434c262f37a",
+      "title": "Cookies and Cream Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1½ cups milk (2% or whole)",
+        "¼ cup heavy cream",
+        "½ cup sweetened condensed milk",
+        "2 teaspoons vanilla extract",
+        "1 pinch salt",
+        "4  –6 Oreo cookies (broken into chunks (for mix-in))"
+      ],
+      "instructions": [
+        "Add the milk, heavy cream, sweetened condensed milk, vanilla extract, and salt directly to the Ninja Creami pint container. Use a small whisk, milk frother, or spoon to mix until fully combined and smooth.",
+        "Freeze on a level surface for 24 hours until completely solid.",
+        "Remove the pint from the freezer and place it into the Ninja Creami outer bowl.",
+        "Process using the Ice Cream setting.",
+        "If the texture looks crumbly or powdery, add 1 tablespoon milk and run Respin once.",
+        "Create a hole in the center of the ice cream, add the broken Oreo cookies, and run the Mix-In cycle.",
+        "Scoop, serve, and try not to eat it straight from the pint standing at the counter."
+      ],
+      "prepNotes": "This Ninja Creami Cookies and Cream Ice Cream is rich, creamy, and packed with crunchy Oreo cookie pieces in every bite. No cream cheese, no pudding mix, and no weird extras—just a smooth homemade vanilla base with classic cookies and cream flavor. It tastes like the real deal and disappears fast in my house.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cookies and cream"
+      ],
+      "createdAt": "2026-07-02T10:03:44.820Z",
+      "updatedAt": "2026-07-02T11:44:35.796Z"
+    },
+    {
+      "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
+      "title": "Ninja Creami Peanut Butter Cup Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ½ cups milk",
+        "¼ cup heavy cream",
+        "¼ cup sweetened condensed milk",
+        "¼ cup creamy peanut butter",
+        "Pinch of salt",
+        "3 to 4  mini peanut butter cups"
+      ],
+      "instructions": [
+        "Blend the base. Add the milk, heavy cream, sweetened condensed milk, creamy peanut butter, and salt to a blender. Blend until completely smooth, about 45 to 60 seconds, making sure the peanut butter is fully incorporated with no streaks.",
+        "Pour and freeze. Pour the mixture into your Ninja Creami pint container, making sure it does not go past the max fill line. Cover with the lid and freeze for 24 hours, or until completely solid.",
+        "Thaw slightly, then spin. Remove the pint from the freezer and let it sit at room temperature for about 5 minutes. Process on the Ice Cream setting. If it looks crumbly after the first spin, run a Re-Spin.",
+        "Add the mix-ins. Make a hole in the center of the ice cream with a spoon. Chop the mini peanut butter cups and add them to the center. Process on the Mix-In setting.",
+        "Serve. Scoop and serve right away."
+      ],
+      "prepNotes": "This Ninja Creami peanut butter cup ice cream is creamy, rich, and packed with peanut butter flavor in every bite. The base comes together in minutes with milk, cream, sweetened condensed milk, and real peanut butter, then gets finished with chopped mini peanut butter cups for that classic candy-style mix-in.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-peanut-butter-cup-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:03:15.958Z",
+      "updatedAt": "2026-07-02T10:03:15.958Z"
+    },
+    {
+      "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
+      "title": "Ninja Creami Black Sesame Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup whole milk",
+        "½ cup heavy cream",
+        "2 tablespoons black sesame paste",
+        "½ cup white sugar",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Whisk the whole milk, heavy cream, sugar, black sesame paste, vanilla extract, and salt in a bowl or large measuring cup until the sugar dissolves and the sesame paste is fully blended. The mixture should look smooth and evenly dark gray.",
+        "Pour the mixture into a Ninja Creami pint container, making sure it stays below the max fill line.",
+        "Cover with the lid and freeze on a flat, level surface for at least 24 hours.",
+        "Remove the pint from the freezer and let it sit on the counter for 5 minutes before processing.",
+        "Place the pint into the Ninja Creami machine and run the Ice Cream cycle.",
+        "Check the texture after the first spin. If it looks crumbly, powdery, or uneven, run the Re-spin cycle. Add 1 tablespoon of milk before respinning if needed.",
+        "Serve right away for a softer texture, or freeze for 30 minutes if you want firmer, more classic ice cream scoops."
+      ],
+      "prepNotes": "This Ninja Creami black sesame ice cream is rich, creamy, nutty, and lightly toasty with a beautiful deep gray color. It uses a simple no-cook base and black sesame paste for smooth texture and bold flavor.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Asian-Inspired",
+        "Japanese-Inspired"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-black-sesame-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:02:24.009Z",
+      "updatedAt": "2026-07-02T10:02:24.010Z"
+    },
+    {
+      "id": "ff8fc458-0f22-4769-b466-8d63e7a24f03",
+      "title": "Ninja Creami Blackberry Cheesecake Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup Half and half",
+        "1 cup blackberries",
+        "¼ cup sweetened condensed milk",
+        "½ cup full-fat cream cheese",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Blend it up: Blend all ingredients in a blender or food processor until smooth.",
+        "Freeze: Pour the mixture into a Ninja Creami Deluxe pint and freeze on a level surface for at least 24 hours.",
+        "Spin: Use the “Lite Ice Cream” or “Gelato” mode to spin.",
+        "Re-spin: If crumbly, add 1–2 tbsp milk and re-spin until creamy.",
+        "Serve & enjoy: Scoop and devour!"
+      ],
+      "prepNotes": "This Ninja Creami Blackberry Cheesecake Ice Cream is creamy, tangy, and bursting with juicy berries. If you love cheesecake and blackberries, you’re about to meet your new favorite frozen treat!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-blackberry-cheesecake-ice-cream/",
+      "createdAt": "2026-07-02T10:01:56.378Z",
+      "updatedAt": "2026-07-02T10:01:56.378Z"
+    },
+    {
+      "id": "860d7119-6a2c-4e89-944c-8e7581ba0906",
+      "title": "Watermelon Ice Cream (2 ingredients)",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "2 cups fresh watermelon chunks",
+        "⅔ cup sweetened condensed milk"
+      ],
+      "instructions": [
+        "Blend watermelon and sweetened condensed milk until smooth.",
+        "Pour into a container.",
+        "Freeze on a level surface for 24 hours.",
+        "Spin using “Lite Ice Cream” mode.",
+        "Re-spin if crumbly.",
+        "Scoop and enjoy your creamy watermelon treat!"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sherbert",
+        "watermelon"
+      ],
+      "createdAt": "2026-07-02T10:01:35.905Z",
+      "updatedAt": "2026-07-02T11:50:41.810Z"
+    },
+    {
+      "id": "175ed17e-2caf-44bc-badf-91bd0b720bfc",
+      "title": "Ninja CREAMi Sugar Free Blackberry Sorbet",
+      "servings": "4",
+      "ingredients": [
+        "2 cups Fresh blackberries (You can use frozen ones too!)",
+        "2 teaspoon Lemon juice",
+        "1 cup Water",
+        "3 tablespoon monk fruit (adjust according to your taste)"
+      ],
+      "instructions": [
+        "Blend the Ingredients – In a blender or food processor, puree blackberries, monk fruit, water, and lemon juice until smooth.",
+        "Strain If Needed – If you want a seed-free sorbet, strain the mixture.",
+        "Freeze in a Pint Container – Pour into a Ninja CREAMi pint container and freeze for 24 hours.",
+        "Spin to Perfection – Place in the Ninja CREAMi machine, select the sorbet setting, and spin.",
+        "Respin If Needed – If it’s too crumbly, add a splash of water and spin again.",
+        "Enjoy! – Scoop and serve immediately!"
+      ],
+      "prepNotes": "If you love fresh berries and refreshing frozen treats, this Ninja CREAMi sugar free blackberry sorbet is a must-try! It’s simple, delicious, and made with just a few ingredients.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-sugar-free-blackberry-sorbet-recipe/",
+      "createdAt": "2026-07-02T10:01:16.727Z",
+      "updatedAt": "2026-07-02T10:01:16.727Z"
+    },
+    {
+      "id": "8e879d6b-38fe-496f-96cf-85b1a319bdad",
+      "title": "Creamy Strawberry Sorbet",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "10 large Strawberries",
+        "¾ cup water",
+        "½ cup Granulated Sugar"
+      ],
+      "instructions": [
+        "Blend the Ingredients: Start by blending strawberries, sugar, and water in a blender or food processor until smooth.",
+        "Heat the Mixture: Gently heat the blended mixture in a saucepan. Warm it without boiling. Stir in a slurry made from tapioca starch or cornstarch mixed with water, stirring continuously until slightly thickened.",
+        "Freeze Overnight: Pour your mixture into a Ninja Creami pint container. Freeze on a level surface for 24 hours for best results.",
+        "Spin to Creamy Perfection: Remove your pint from the freezer and spin using the sorbet setting on your Ninja Creami machine.",
+        "Respin if Needed: If it's not creamy enough, simply respin once more.",
+        "Serve and Enjoy: Scoop your creamy strawberry sorbet and enjoy immediately!"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "strawberry",
+        "sorbet"
+      ],
+      "createdAt": "2026-07-02T10:00:57.501Z",
+      "updatedAt": "2026-07-02T11:56:06.476Z"
+    },
+    {
+      "id": "e8094c91-f0eb-4de8-aff1-d3bbc3136a6e",
+      "title": "Blueberry Cheesecake Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1¼ cups half and half",
+        "¾ cup blueberries",
+        "½ cup sweetened condensed milk",
+        "½ cup cream cheese",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons sugar"
+      ],
+      "instructions": [
+        "Macerate – Sprinkle sugar over the blueberries and let them sit for about 10 minutes to release their natural juices and enhance the flavor.",
+        "Blend – Add the macerated blueberries and the remaining ingredients to a blender or food processor and blend until smooth.",
+        "Freeze – Pour into container, cover, and freeze for 24 hours on a level surface.",
+        "Spin – use the Ice Cream mode to churn.",
+        "Respin – If the texture is crumbly, respin until it’s smooth and creamy."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "blueberry",
+        "cheesecake",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-02T09:53:24.849Z",
+      "updatedAt": "2026-07-02T12:32:11.090Z"
+    },
+    {
+      "id": "0e335e37-7409-4fc5-8d87-ef0864f50dbe",
+      "title": "Cherry Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1 cup Maraschino cherries",
+        "1½ cup Half and half",
+        "6 tablespoon White sugar",
+        "½ cup Cottage cheese",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Blend: Add all ingredients to a blender or food processor. Blend until completely smooth.",
+        "Freeze: Pour the mixture into a container. Level the top, cover, and freeze for 24 hours on a flat surface.",
+        "Spin on the Ice Cream function.",
+        "Respin (If Needed): If the texture is crumbly, add 1–2 tablespoons of milk and use the Respin function."
+      ],
+      "prepNotes": "This is the cherry ice cream I kept wishing existed—creamy, and actually full of real cherry flavor. If you’ve been disappointed by bland or fake-tasting cherry recipes, this one’s about to change that.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "cherry",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-02T09:51:21.409Z",
+      "updatedAt": "2026-07-02T12:33:21.091Z"
+    },
+    {
+      "id": "c49a69ae-722f-455f-8213-8cfd48c198cf",
+      "title": "Mixed Berry Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "¾ cup half and half",
+        "½ cup cottage cheese",
+        "½ cup sweetened condensed milk",
+        "¾ cup mixed berries (strawberries, blueberries, raspberries)",
+        "½ teaspoon vanilla extract",
+        "⅛ teaspoon salt"
+      ],
+      "instructions": [
+        "Add the half and half, cottage cheese, sweetened condensed milk, mixed berries, vanilla, and salt to a blender. Blend until completely smooth.",
+        "Pour the mixture into a container",
+        "Freeze on a level surface for 24 hours.",
+        "Spin Select Ice Cream.",
+        "If the texture looks dry or crumbly after spinning, add a splash of half and half or milk and run Respin.",
+        "Serve right away for a softer texture, or freeze for 20 to 30 minutes for firmer scoops."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "blueberry",
+        "strawberry",
+        "raspberry"
+      ],
+      "createdAt": "2026-07-02T09:51:00.238Z",
+      "updatedAt": "2026-07-02T12:34:56.894Z"
+    },
+    {
+      "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
+      "title": "Ninja Creami Banana Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1  ripe banana",
+        "½ cup sweetened condensed milk",
+        "¾ cup whole milk or 2% milk",
+        "¼ cup heavy whipping cream",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Add the banana to your Ninja Creami pint container and mash with a fork until mostly smooth.",
+        "Pour in the sweetened condensed milk, milk, heavy cream, and vanilla extract. Stir until fully combined.",
+        "Freeze the pint on a flat surface for 24 hours.",
+        "Remove from freezer and let sit 1 to 2 minutes. Run warm water over the outside of the pint for 30 seconds.",
+        "Install pint in machine and run **Ice Cream** cycle.",
+        "If crumbly, add 1 tablespoon milk and run **Respin**.",
+        "Serve immediately for soft-serve texture or freeze 15 to 20 minutes for firmer scoops."
+      ],
+      "prepNotes": "Creamy, real-banana Ninja Creami ice cream made with five simple ingredients and sweetened condensed milk for the smoothest texture. No icy pint here, just rich banana flavor and scoop-shop vibes straight from your freezer.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-banana-ice-cream-recipe/",
+      "createdAt": "2026-07-02T09:50:39.244Z",
+      "updatedAt": "2026-07-02T09:50:39.244Z"
+    },
+    {
+      "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
+      "title": "Ninja Creami Strawberry Banana Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "½  ripe banana",
+        "1 cup strawberries (hulled)",
+        "½ cup heavy cream",
+        "1 cup whole milk",
+        "½ cup sweetened condensed milk",
+        "1 teaspoon vanilla extract",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "Add the banana, strawberries, heavy cream, milk, sweetened condensed milk, vanilla extract, and salt to a blender.",
+        "Blend until completely smooth, about 30 to 45 seconds.",
+        "Strain the base through a fine mesh strainer if you want a smoother, seed-free texture.",
+        "Pour the mixture into a Ninja Creami pint container, staying at or below the max fill line.",
+        "Seal the pint and freeze on a level surface for at least 24 hours.",
+        "Remove the pint from the freezer and let it sit on the counter for 2 to 3 minutes.",
+        "Spin using the Ice Cream function on the Ninja Creami.",
+        "Respin once if the texture looks crumbly after the first spin."
+      ],
+      "prepNotes": "This Ninja Creami strawberry banana ice cream is creamy, fruity, and naturally sweet with real strawberries and banana. It blends into a smooth pale pink base and spins into a soft, scoopable ice cream after freezing.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-strawberry-banana-ice-cream-recipe/",
+      "createdAt": "2026-07-02T09:48:32.859Z",
+      "updatedAt": "2026-07-02T09:48:32.859Z"
+    },
+    {
+      "id": "3f1256d2-01d2-48bd-8038-955ea0cdf352",
+      "title": "Ninja Creami Strawberry Protein Frozen Yogurt",
+      "servings": "4",
+      "ingredients": [
+        "1 cup strawberries (hulled, fresh or frozen and thawed)",
+        "½ cup whole milk or 2% milk",
+        "¾ cup full-fat or 2% Greek yogurt",
+        "½ cup cottage cheese",
+        "⅓ cup allulose",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Add the cottage cheese, strawberries, Greek yogurt, allulose, vanilla extract, and milk to a blender. Blend until completely smooth, with no visible cottage cheese curds or strawberry pieces.",
+        "Pour the mixture into a Ninja Creami pint container, keeping it at or below the max fill line.",
+        "Seal the pint and freeze on a level surface for 24 hours.",
+        "Remove the pint from the freezer and let it sit at room temperature for 2 to 3 minutes.",
+        "Process on the Lite Ice Cream setting for a lighter froyo texture, or use Ice Cream for a denser result.",
+        "Respin once if the texture is crumbly after the first spin.",
+        "Scoop and serve immediately, or refreeze for 20 to 30 minutes for firmer scoops."
+      ],
+      "prepNotes": "This Ninja Creami Strawberry Protein Frozen Yogurt is tangy, creamy, and packed with real strawberry flavor. Greek yogurt and cottage cheese add protein and body, while allulose keeps the texture smooth and scoopable.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-strawberry-protein-frozen-yogurt/",
+      "createdAt": "2026-07-02T09:47:56.373Z",
+      "updatedAt": "2026-07-02T09:47:56.373Z"
+    },
+    {
+      "id": "e81bf5d6-9676-4631-b883-b5ee038137a2",
+      "title": "Ninja Creami High Protein Strawberry Cheesecake Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup strawberries",
+        "½ cup cottage cheese",
+        "4 ounces cream cheese",
+        "½ cup milk",
+        "¼ cup allulose",
+        "1 teaspoon vanilla extract",
+        "Graham crackers (crushed or broken into small pieces)"
+      ],
+      "instructions": [
+        "Add the strawberries, cottage cheese, cream cheese, milk, allulose, and vanilla extract to a blender.",
+        "Blend until the mixture is completely smooth and creamy.",
+        "Pour the mixture into a Ninja Creami pint container, making sure it does not go past the max fill line.",
+        "Freeze on a level surface for 24 hours, or until completely solid.",
+        "Remove the pint from the freezer and place it into the Ninja Creami machine.",
+        "Spin on the  Ice Cream setting.",
+        "Respin if the texture looks crumbly or powdery. Add a small splash of milk before respinning if needed.",
+        "Add crushed graham crackers to the center of the pint.",
+        "Use the Mix-In setting to evenly incorporate the graham crackers.",
+        "Serve immediately and enjoy."
+      ],
+      "prepNotes": "This Ninja Creami High Protein Strawberry Cheesecake Ice Cream is creamy, fruity, and tangy with real strawberries, cottage cheese, and cream cheese. Graham crackers mixed in at the end give it that classic strawberry cheesecake flavor.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-high-protein-strawberry-cheesecake-ice-cream-recipe/",
+      "createdAt": "2026-07-02T09:47:31.717Z",
+      "updatedAt": "2026-07-02T09:47:31.718Z"
+    },
+    {
+      "id": "8a48d4f8-9888-463c-88a9-9f2edbf5d71e",
+      "title": "Olive Oil Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "2 cups half and half",
+        "3 tablespoon extra virgin olive oil",
+        "½ cup sweetened condensed milk (or adjust with condensed milk)",
+        "1 teaspoon vanilla extract",
+        "2 teaspoon lemon juice  (or zest of 1 lemon)"
+      ],
+      "instructions": [
+        "Blend: Combine half and half, olive oil, sweetened condensed milk, vanilla, and lemon in a blender. Blend until smooth and fully emulsified — meaning the olive oil is completely mixed in with no oily layer on top. It should look creamy and uniform, not separated.",
+        "Freeze for 24 hours on a level surface.",
+        "Spin: Run on “Ice Cream” mode",
+        "Respin: If the texture looks crumbly, make a small well in the center, add about 1 tablespoon of half and half, then respin until smooth.",
+        "Scoop &amp; Serve: Scoop and enjoy right away, or drizzle extra olive oil and add mix-ins like sea salt or nuts."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "unique"
+      ],
+      "createdAt": "2026-07-02T09:46:57.084Z",
+      "updatedAt": "2026-07-02T11:32:16.656Z"
+    },
+    {
+      "id": "41c74812-0fd3-4363-9dbb-f2482ed656e1",
+      "title": "Cinnamon Churro Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        "1½ cups half & half",
+        "⅓ cup sweetened condensed milk",
+        "⅓ cup cream cheese (softened)",
+        "2 tablespoons brown sugar",
+        "½ teaspoon cinnamon",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Add all ingredients to a blender and blend until completely smooth.",
+        "Pour into a 24 oz Ninja Creami Deluxe pint. Freeze 24 hours.",
+        "Spin using the Ice Cream setting.",
+        "If crumbly, press Respin. Add 1–2 tbsp half &half only if needed.",
+        "For add-ins, create a well in the center and run Mix-In.",
+        "Scoop and enjoy, or freeze 15 minutes to firm up."
+      ],
+      "prepNotes": "* Use softened cream cheese — cold blocks won’t blend smoothly.\n* For stronger churro flavor, add a pinch more cinnamon.\n* If your pint freezes rock hard, give it 5 minutes on the counter before spinning.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "unique"
+      ],
+      "createdAt": "2026-07-01T19:21:27.938Z",
+      "updatedAt": "2026-07-01T19:25:49.467Z"
+    },
+    {
+      "id": "b49b8bc7-edcd-4ec9-a058-46a79a19c006",
+      "title": "Snickerdoodle Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of BUM Snickerdoodle Whey Protein",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Cinnamon",
+        "¼ teaspoon of Vanilla Extract",
+        "Optional: ¼ teaspoon of Cream of Tartar (adds tang)"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Add mix-ins: Optional Snickerdoodle Cookie (Keto or store-bought), usually 1 serving per pint.",
+        "Top with Cool Whip and Cinnamon."
+      ],
+      "prepNotes": "A soft, cinnamon-sugar coating with a slight bit of tang. Cream of Tartar adds the tang used in Snickerdoodle cookies but tastes fine without it. For a cheesecake version, see Cinnamon Cookie Crumble.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T02:43:10.158Z"
+    },
+    {
+      "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
+      "title": "Lemon Bar Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of BUM Lemon Cake Whey Protein Powder OR Vanilla Ice Cream protein powder (but not as lemony)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Lemon Extract",
+        "¼ teaspoon of Cake Batter Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Optional mix-ins: For a more cake-like texture, use Bettergoods Lemon Chiffon Soft Baked Cookies or Lemon Bars (Keto/Regular or Quest Lemon Cake protein bars).",
+        "Make Lemon Icing: Mix 1 tablespoon of SF powdered sugar with 1/4 teaspoon of water and a couple drops of lemon juice/extract until an icing-like texture.",
+        "Drizzle icing over the top or mix with the Cool Whip first.",
+        "Optional: Top with Lemon Cookies or Lemon Bars."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "lemon"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T03:27:18.929Z"
+    },
+    {
+      "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
+      "title": "Caramel Frapachino Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "¾ cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Salted Caramel pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp SF Caramel beverage syrup Torani",
+        "¼ teaspoon of Vanilla",
+        "1 brewed shot of expresso/coffee (2 oz) OR 1 scoop of Nespresso (if using this option keep the Fairlife Milk at 1 Cup)"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Spin up on lite ice cream setting for extra fluffy smoothness.",
+        "Top with Non Fat Cool Whip and SF Caramel Syrup."
+      ],
+      "prepNotes": "Vanilla base with an expresso shot spun up on lite ice cream setting for extra fluffy smoothness and topped with cool whip and caramel syrup. No mix-ins.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "coffee",
+        "caramel"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:05:58.088Z"
+    },
+    {
+      "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
+      "title": "Chocolate Fudge Almond Toffee Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop Chocolate Protein powder OR 50/50 mix with Ryse Cosmic Brownie",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp of Dark Cocoa Powder OR Cocoa Powder",
+        "1 Tbsp PB2 Chocolate Chip Brownie Mix OR Brownie Mix",
+        "1/4 teaspoon of SF Skinny Girl Butter Toffee Syrup",
+        "¼ teaspoon of Vanilla",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven (breakup first).",
+        "Add mix-ins: 14 grams toasted almonds, Heath Bar Toffee Bits, optional crumbled Keto brownie bits.",
+        "Top with Cool Whip, toffee bits, SF chocolate syrup, and brownie crumble."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "almond",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T07:15:39.034Z"
+    },
+    {
+      "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
+      "title": "Almond Fudge Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop Chocolate Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ Tbsp of Dark Cocoa Powder (can use 1 Tbsp all dark if desired)",
+        "½ Tbsp Cocoa Powder",
+        "¼ teaspoon of Vanilla",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven (careful not to burn!).",
+        "Add mix-ins: 14 grams toasted almonds, 17 grams (1 inch square) Chocolate Fudge.",
+        "Optional: Squirt SF Chocolate Syrup in the bottom of the pint.",
+        "Optional toppings: Non Fat Cool Whip and SF Chocolate Syrup."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "chocolate",
+        "almond"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:10:12.765Z"
+    },
+    {
+      "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
+      "title": "Toasted Coconut Almond Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp Coconut Flakes (Toasted or not)",
+        "¼ teaspoon of Vanilla Extract",
+        "¼ teaspoon of Coconut Extract",
+        "¼ teaspoon Almond Extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Toast almonds in toaster oven, then crush (put in ziplock bag and crush with spoon).",
+        "Toast 2 Tbsp coconut flakes in toaster oven until slightly brown.",
+        "Add mix-ins: 14 grams toasted crushed almonds, 2 Tbsp toasted coconut flakes, Lilies Dark Chocolate Chips OR Regular Chocolate Chips, optional Almond Joy.",
+        "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. Optional: Non Fat Cool Whip."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "coconut",
+        "almond"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:15:19.108Z"
+    },
+    {
+      "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
+      "title": "Dulce De Leche Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Davinci SF Dulche De Leche Syrup AND/OR 100 grams Dulche de Leche Pudding (wet)",
+        "¼ teaspoon of Vanilla extract"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "No mix-ins.",
+        "Top with Non Fat Cool Whip (Optional: mix in bowl with 1 Tbsp of Dulche De Leche Syrup before adding) and SF Caramel Sauce."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "caramel"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:16:04.258Z"
+    },
+    {
+      "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
+      "title": "Cookies Over Texas Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Vanilla Extract",
+        "Mix ins: : Chocolate chip Cookie Dough, Oreo's (can remove the cream for fewer calories)."
+      ],
+      "instructions": [
+        "Mix all ingredients together. Freeze. Spin.",
+        "Add mix-ins",
+        "Optional toppings: Cool Whip, SF Chocolate Syrup, Chocolate Sprinkles, crumbled cookie bits."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T14:58:21.786Z",
+      "pinned": true
+    },
+    {
+      "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
+      "title": "Banana Nut Ice Cream - untested",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Banana Cream Pudding",
+        "1 scoop Vanilla Protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ of ripe banana",
+        "¼ teaspoon Banana Extract",
+        "¼ teaspoon of Vanilla"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Add mix-ins: Crushed Walnuts OR Pecans, optional Keto Banana Nut Bread/Muffins.",
+        "Optional toppings: Crushed Walnuts OR Pecans, Cool Whip, sliced banana."
+      ],
+      "prepNotes": "Untested. Straight from grandma's kitchen. A Banana cream base with smashed banana and mixed with earthy chopped walnuts. Similar to banana pudding but with nuts for crunch and banana bread.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "banana",
+        "untested"
+      ],
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:36:31.083Z"
+    },
+    {
+      "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
+      "title": "Cosmic Brownie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate OR White Chocolate pudding",
+        "1 scoop of Ryse Cosmic Brownie Protein Powder OR Optium Nutrition Extreme Chocolate Protein Powder (won't be as brownie flavored)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1 Tbsp Dark Cocoa Powder OR Cocoa Powder OR Half Tbsp of each as desired",
+        "Bulk Option: add 1 Tbsp of PB2 Chocolate Chip Brownie Mix OR Equivalent",
+        "Lower Calorie Non-Mixin Optional: Swap Little Debbie Cosmic Brownie with 1 Tbsp of Pillsbury Zero Sugar Brownie Mix OR Make Keto Fudge Brownie",
+        "Mix-ins: 1 Little Debbie's Cosmic Brownie diced up OR Keto Fudge Brownie",
+        "Mix-ins: 2 Tbsp Rainbow Sprinkles",
+        "Toppings: Rainbow Sprinkles",
+        "Toppings: Sugar Free Hershey Chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional dark chocolate ice cream.",
+        "Add the diced Cosmic Brownie and rainbow sprinkles during the mix-in cycle.",
+        "Top with rainbow sprinkles and sugar free Hershey chocolate syrup."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:25:37.577Z"
+    },
+    {
+      "id": "859c87d5-d30e-4d69-ac4f-89156bf7652f",
+      "title": "Oatmeal Cream Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free vanilla pudding",
+        "1 scoop of Ryse Jet Puff Marshmallow OR 1 Keto Iced Oatmeal Whey Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: Reduce each milk by 1/4 cup and replace with 1/4 cup of cooked oatmeal – rolled oats and water (Optional add cinnamon and honey)",
+        "Mix-ins: 1 Little Debbie's Oatmeal Cream Pie, broken up into smaller pieces",
+        "Cream Filling Topping: 1 tbsp room temp Butter, 15 gr Serve Powdered Sugar, 1/8 teaspoon vanilla extract, 4 ml heavy cream"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add broken up Oatmeal Cream Pie pieces during the mix-in cycle.",
+        "For cream filling topping: beat 1 tbsp room temp butter until fluffy (a few minutes), then add 15 gr powdered sugar and mix well, then add 1/8 teaspoon vanilla extract and 4 ml heavy cream and mix well. Add more heavy cream as needed until desired texture (like icing)."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:46:19.153Z"
+    },
+    {
+      "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
+      "title": "Star Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Caramel pudding",
+        "1 scoop of Vanilla Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 tbsp Caramel Syrup",
+        "Mix-ins: 1 Frozen Little Debbie's Star Crunch OR Optional healthier Alternative: Rice Crispies soaked with SF Chocolate Syrup hand stirred in",
+        "Toppings: Optional SF Chocolate AND/OR SF Caramel Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add the frozen Star Crunch (or soaked rice crispies) during the mix-in cycle.",
+        "Top with optional SF chocolate and/or SF caramel syrup."
+      ],
+      "prepNotes": "A traditionally vanilla ice cream with hints of caramel and chocolate-covered rice crisp. Edit: Still Trying to refine as of 3/17/26.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "caramel"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:26:18.285Z"
+    },
+    {
+      "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
+      "title": "Red Velvet Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Red Velvet Cupcake pudding (Sprinkles brand)",
+        "1 scoop of Vanilla Protein Powder",
+        "1/4 Tbsp of Cocoa Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: 2-4 drops of red food coloring (Just darkens the mix)",
+        "Mix-ins: 1 tbsp Cream cheese"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add cream cheese during the mix-in cycle: pre-freeze it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint."
+      ],
+      "prepNotes": "A traditional vanilla ice cream complemented with Red Velvet Pudding and cream cheese for that signature red velvet taste. Cream cheese can dial up the fat, so opt for Low Fat or Non Fat Cream Cheese if watching macros.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "unique"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T03:29:01.633Z"
+    },
+    {
+      "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
+      "title": "Cinnamon Toast Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free vanilla pudding",
+        "1 scoop of Ryse Cinnamon Toast Crunch Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1 tbsp Cinnamon",
+        "Mix-ins: 1 tbsp Cinnamon",
+        "Mix-ins: 1/2 cup of Cinnamon Toast Crunch Cereal, OR Catalina Crunch Protein Cereal, adjust as desired",
+        "Toppings: Cool Whip",
+        "Toppings: Cinnamon Toast Crunch Cereal",
+        "Toppings: Dash of Cinnamon"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add cinnamon and cereal during the mix-in cycle.",
+        "Top with Cool Whip, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "cinnamon"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T03:30:07.363Z"
+    },
+    {
+      "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
+      "title": "Sherbert (Lime, Orange, Raspberry, Strawberry)",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free JELLO (Stir/Whisk in 1/2 cup hot water until it dissolves or it will have a grainy texture)",
+        "1 scoop of Vanilla Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Flavored Extract of desired flavor (Lime, Lemon, Strawberry, ...)",
+        "1/4 Cup of desired Blended Fruit",
+        "Optional: Dash of Zest (Too much will make it bitter)",
+        "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float",
+        "Toppings: Cool Whip"
+      ],
+      "instructions": [
+        "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
+        "Combine all base ingredients and mix well.",
+        "Churn on the SHERBERT setting.",
+        "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
+        "Top with Cool Whip."
+      ],
+      "prepNotes": "Your favorite summertime treat of fruit infused ice cream. Make sure to RUN ON SHERBERT SETTING!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "protein",
+        "sherbert"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:33:15.840Z"
+    },
+    {
+      "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
+      "title": "Coconut Cream Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk (Optional: swap for Coconut Milk)",
+        "1 tbsp sugar-free Vanilla pudding OR Coconut Cream Pudding (I haven't found sugar free)",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "2 Tablespoons of coconut flakes, toasted if desired",
+        "1/4 teaspoon Coconut Extract",
+        "Optional: Reduce Almond Milk by up to 1/2 cup and replace with equal parts Coconut Milk/Coconut Water",
+        "Mix-ins: Coconut Flakes, toasted if desired",
+        "Mix-ins: Optional 1 Rectangle Graham Cracker",
+        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 1 Crumbled Graham Crackers",
+        "Toppings: Coconut Flakes"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional ice cream.",
+        "Add coconut flakes and optional graham cracker during the mix-in cycle.",
+        "Top with Cool Whip, crumbled graham crackers, and coconut flakes."
+      ],
+      "prepNotes": "This coconut cream pie recipe features a thick and creamy coconut base, with graham crackers and toasted coconut flakes.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "coconut"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:29:43.687Z"
+    },
+    {
+      "id": "56a3c6e9-7eb0-4a0d-a708-eb42b12d24de",
+      "title": "Pretzel Toffee Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Sugar Free Toffee Syrup (for Coffee) Skinny Girl or Torani",
+        "1/4 teaspoon Butter Extract",
+        "Mix-ins: Pretzels (Crushed)",
+        "Mix-ins: Heath Bar Toffee Bits",
+        "Mix-ins: Dark Chocolate Chips, Dark Chocolate or Cacao Nibs",
+        "Toppings: 2 tbsp Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a vanilla base ice cream.",
+        "Add crushed pretzels, Heath Bar toffee bits, and dark chocolate chips during the mix-in cycle.",
+        "Top with Cool Whip."
+      ],
+      "prepNotes": "This vanilla base features a buttery taste of toffee and crunch overload with pretzels and Heathbars and dark chocolate chips.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "toffee"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:28:44.940Z"
+    },
+    {
+      "id": "6708d926-e326-49d8-90e6-ba0cd1411281",
+      "title": "Dark Chocolate Oreo Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop of Chocolate protein powder",
+        "1 tbsp Allulose",
+        "1 tbsp Black Cocoa Powder (makes it darker) OR Cocoa Powder if can't find Dark",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon of Vanilla Extract",
+        "Mix-ins: 9 Oreo mini's or Oreo thins, approx. 28 grams, break up first; or equivalent",
+        "Toppings: Optional crumbled Oreo minis",
+        "Toppings: Optional Chocolate Sprinkles",
+        "Toppings: Optional Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a dark chocolate base ice cream.",
+        "Break up Oreos and add during the mix-in cycle. Tip: scrape the cream out of the Oreo to reduce sugar content greatly - the cookies are all that matters for the crunch.",
+        "Top with crumbled Oreo minis, chocolate sprinkles, and/or Cool Whip."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:31:20.008Z"
+    },
+    {
+      "id": "85183f50-1883-410d-91ce-5670ee6460f7",
+      "title": "Fat Elvis Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Banana Cream AND/OR Butterscotch pudding (Your choice)",
+        "1 scoop of Ryse Peanut Butter protein powder",
+        "1 tbsp Allulose",
+        "1 tbsp Peanut Butter Powder",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1 chopped ripe banana",
+        "1/4 teaspoon of Butter Extract",
+        "Mix-ins: 2 tbsp Sugar Free Peanut Butter chips OR spread Peanut Butter on parchment paper and freeze it, then break it up and mix in",
+        "Mix-ins: 1/4 slice Banana",
+        "Mix-ins: 2 c Sugar Free Chocolate Chips",
+        "Toppings: Optional: Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:35:22.002Z"
+    },
+    {
+      "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
+      "title": "Orange Creamsicle Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "1/2 Cup of fresh Squeezed orange juice. Real OJ, best from actual oranges (about 4)",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "Dash of Zest (too much will make it bitter, less is more here)",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: 1 drop red food coloring, 1 drop yellow food coloring",
+        "Toppings: Optional: Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "citrus",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:37:16.194Z"
+    },
+    {
+      "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
+      "title": "Key Lime Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding OR Margaritaville Coconut Key Lime Pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "1/2 Cup of fresh-squeezed Lime juice. Real limes are best, but you can use Concentrate. Probably 4-8, depending on size.",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "Dash of Lime Zest (Too much will make it bitter)",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: 1/4 teaspoon of Coconut Extract if you want Coconut Key Lime",
+        "Optional: 1 drop green food coloring",
+        "Mix-ins: Optional: 1 Rectangle Graham Cracker",
+        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 1 Crumbled Graham Crackers"
+      ],
+      "instructions": [],
+      "prepNotes": "Like limeade, this easy lime ice cream recipe is sweet and tangy, made with real lime juice and lime zest, and an ultra-refreshing treat for a hot summer day.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "citrus",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:38:38.694Z"
+    },
+    {
+      "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
+      "title": "Blackberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding OR Cheesecake Pudding for cheesecake flavor",
+        "1 scoop of Vanilla Ice Cream protein powder OR Keto Genics Blackberry Milkshakes",
+        "1 tbsp Allulose",
+        "1/2 Cup of fresh Blackberries",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1 Tbsp SF Blackberry Jam",
+        "1/4 teaspoon Vanilla Extract",
+        "Optional: 1 drop Red food coloring & 1 drop of Blue food coloring",
+        "Mix-ins: Alternatively: For Blueberry Cheesecake, swap the Vanilla Pudding for Cheesecake flavor. Add 2 Tablespoons of Cream cheese (Non or Low Fat or Regular) as a mix-in. (Dice into small pieces for ease of mixing)",
+        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 1 Crumbled Graham Crackers",
+        "Toppings: Optional: 2 tbsp White chocolate chips/shavings"
+      ],
+      "instructions": [],
+      "prepNotes": "A rich, luscious, and delicious treat that you can make at home using fresh or frozen berries blended with blackberry puree.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "blackberry"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:39:46.491Z",
+      "pinned": false
+    },
+    {
+      "id": "13d09918-9554-4751-936b-a6e426f7a72a",
+      "title": "Blueberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding – OR Cheesecake Pudding for cheesecake flavor",
+        "1 scoop of Vanilla Ice Cream protein powder OR Ryse Blueberry Muffin Protein powder",
+        "1 tbsp Allulose",
+        "1/2 Cup of fresh Blueberries",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1 Tbsp SF Blueberry Jam/Preserves",
+        "1/4 teaspoon of Vanilla Extract",
+        "Optional: 1 drop of blue food coloring",
+        "Mix-ins: Alternatively: For Blueberry Cheesecake, swap the Vanilla Pudding for Cheesecake flavor. Add 2 Tablespoons of Cream cheese (Non or Low Fat or Regular) as a mix in. (Dice into small pieces for ease of mixing)",
+        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 1 Crumbled Graham Crackers",
+        "Toppings: Optional: 2 tbsp White chocolate chips/shavings"
+      ],
+      "instructions": [],
+      "prepNotes": "This recipe brings together the velvety smoothness of cheesecake and the sweet burst of fresh blueberries. Crunchy bits of graham cracker cookies are the perfect touch!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "blueberry"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:42:04.937Z"
+    },
+    {
+      "id": "41d5484c-7925-4df6-a196-ca439c9903be",
+      "title": "Biscoff Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "1 tbsp OR 1 tbsp Cookie Butter Powder",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1/4 teaspoon of Butter Extract",
+        "Mix-ins: 2 Biscoff Cookies, crumbled",
+        "Toppings: Optional: 1-2 tbsp Frozen Biscoff Cookie Butter broken into small chunks",
+        "Toppings: Biscoff Cookie Butter drizzled on top"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "biscoff",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:32:23.865Z"
+    },
+    {
+      "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
+      "title": "Cherry Garcia Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free White Chocolate pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1/4 teaspoon Vanilla",
+        "2 Tbsp Organic SF Cherry Jam OR 1/4 cup Lucky Leaf No Sugar Added Cherry Pie filling",
+        "4 maraschino cherries, cut in half; (Or Dark cherries to cut back on the Sugar)",
+        "Optional: 1 tbsp maraschino cherry juice",
+        "Mix-ins: 1/4 cup diced maraschino cherries",
+        "Toppings: Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cherry",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:43:03.333Z"
+    },
+    {
+      "id": "6976588c-cad2-4933-b2b6-d03b855524aa",
+      "title": "Apple Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "1/2 Cup Apple Pie Filling OR Try 1/2 unsweetened Applesauce",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "1/4 teaspoon Vanilla Extract",
+        "1/4 Teaspoon of cinnamon",
+        "Pinch of Nutmeg",
+        "Optional: 2 tbsp Apple Cider",
+        "Mix-ins: 2 Biscoff Cookies",
+        "Toppings: Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "apples",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T15:01:08.232Z",
+      "pinned": true
+    },
+    {
+      "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
+      "title": "Watermelon Italian Ice",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1.5 cups deseeded Watermelon",
+        "1/2 cup water",
+        "1 tbsp Lime Juice",
+        "1 tbsp Allulose",
+        "Pinch of salt",
+        "Pinch of Xanthan gum"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sorbet",
+        "watermelon"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T07:37:36.792Z"
+    },
+    {
+      "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
+      "title": "Strawberry Italian Ice",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1.5 cups fresh strawberries, diced",
+        "1/2 cup water",
+        "1 tbsp Lime Juice",
+        "1 tbsp Allulose",
+        "Pinch of salt",
+        "Pinch of Xanthan gum",
+        "Optional: 1/4 teaspoon of Strawberry Extract",
+        "Mix-ins: Optional: Cool whip, Chocolate Chips"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "strawberry",
+        "sorbet"
+      ],
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:46:07.156Z"
+    },
+    {
+      "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
+      "title": "Toffee Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 Tbsp Sugar Free Toffee Syrup (for Coffee) Skinny Girl or Torani",
+        "¼ teaspoon Butter Extract",
+        "Mix-ins: 2 Toffee Chocolate Bars Ghirardelli OR Heath Bar",
+        "Optional: more Bars, Crushed almonds or walnuts"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add toffee chocolate bar mix-ins and run mix-in cycle."
+      ],
+      "prepNotes": "Vanilla base infused with English toffee syrup blended with brittle buttery texture and a hint of burnt sugar. Pretzel Toffee Crunch is later in this guide if you really like to amp up the crunchy factor (add pretzels and dark chocolate mixins).",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "toffee"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:47:07.644Z"
+    },
+    {
+      "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
+      "title": "Girl Scout Cookie Lemonades Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Lemon Pudding or Butterscotch pudding OR half of each",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ teaspoon Vanilla Extract",
+        "½ teaspoon Lemon Extract",
+        "Mix-ins: 2 Lemonades Girl Scout Cookies broken up",
+        "Optional toppings: Crumbled Cookies, Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Lemonades cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies and cool whip if desired."
+      ],
+      "prepNotes": "Vanilla butter base with a hint of lemon blended with your favorite Girl Scout Cookies.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "lemon",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:47:52.535Z"
+    },
+    {
+      "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
+      "title": "Girl Scout Cookie Thin Mint Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "1-2 DROPS of Mint extract",
+        "Mix-ins: 4 Thin Mint Girl Scout Cookies broken up",
+        "Optional: 2 Tablespoon Sugar Free Hershey Chocolate Syrup",
+        "Optional toppings: Crumbled Cookies, Cool Whip, SF chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Thin Mint cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
+      ],
+      "prepNotes": "Vanilla base blended with your favorite Girl Scout Cookies. Thin Mints, Samoa, and Tagalongs are favorites, but any cookie will do. A little mint extract goes a long way.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "mint",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:48:29.807Z"
+    },
+    {
+      "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
+      "title": "Girl Scout Cookie Do-Si-Dos Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 Tablespoon of Peanut Butter Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Butter Extract",
+        "Mix-ins: 2 Tagalongs or Do-Si-Do's Girl Scout Cookies broken up",
+        "Optional: SF Peanut Butter Chips",
+        "Optional toppings: Crumbled Cookies, Cool Whip"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken cookie mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies and cool whip if desired."
+      ],
+      "prepNotes": "Peanut Butter base blended with your favorite Girl Scout Cookies. any cookie will do.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "peanut butter"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T07:11:58.515Z"
+    },
+    {
+      "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
+      "title": "Girl Scout Cookie Samoa's Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "¾ cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "2 Tablespoons of Coconut Flakes",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Coconut Extract",
+        "1 Tablespoon of Sugar Free Caramel Syrup (Skinny Girl or Torani beverage Sauce)",
+        "Mix-ins: 2 Samoa's Girl Scout Cookies broken up",
+        "Mix-ins: 2 Tablespoons Coconut Flakes",
+        "Optional: Caramel Syrup",
+        "Optional toppings: Crumbled Cookies, Cool Whip, Hershey SF Chocolate Syrup"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add broken Samoa cookies and coconut flakes as mix-ins and run mix-in cycle.",
+        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
+      ],
+      "prepNotes": "Coconut base blended with hints of caramel and your favorite Girl Scout Cookies. Samoa's (or Caramel Delights) could be used.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coconut",
+        "caramel",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:53:56.514Z"
+    },
+    {
+      "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
+      "title": "Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Pistachio pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1/4 teaspoon Almond Extract",
+        "Mix-ins: 2 oz Shelled Pistachios or more as desired"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add shelled pistachios as mix-ins and run mix-in cycle."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "pistachio",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:52:05.247Z"
+    },
+    {
+      "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
+      "title": "Mississippi Mud Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate OR Chocolate deluxe pudding",
+        "1 scoop of Chocolate protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 tbsp Cocoa Powder",
+        "1/4 teaspoon Vanilla Extract",
+        "Mix-ins: Chocolate Fudge Sauce OR Sugar Free Hershey syrup",
+        "Mix-ins: ¼ cup Mini Oreos, about 9 cookies",
+        "Mix-ins: 2 tbsp Dark Chocolate Chips or Chocolate Bars",
+        "Optional toppings: SF Chocolate Syrup, SF Chocolate Chips"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze",
+        "Add mini Oreos, dark chocolate chips, and fudge sauce as mix-ins and run mix-in cycle.",
+        "Top with SF chocolate syrup and chips if desired."
+      ],
+      "prepNotes": "Holds all of the deliciousness you'd expect from a Mississippi Mud pie, including cookies, chocolate, coffee, and cream. You can remove the cream filling from the Oreos to reduce sugar and calorie intake.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "coffee",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T07:17:57.439Z"
+    },
+    {
+      "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
+      "title": "Turtle Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Vanilla Extract",
+        "1/4 teaspoon Almond Extract",
+        "Mix-ins: 1/4 cup chopped toasted Pecans",
+        "Mix-ins: SF Marshmallow JetPuff",
+        "Mix-ins: 2 tbsp Dark Chocolate Chips",
+        "Mix-ins: 2 tbsp Torani SF Caramel Beverage Sauce",
+        "Toppings: SF Caramel Sauce, chopped nuts"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add chopped toasted pecans, dark chocolate chips, caramel sauce, and marshmallow as mix-ins and run mix-in cycle.",
+        "Top with SF caramel sauce and chopped nuts."
+      ],
+      "prepNotes": "A traditionally churned vanilla almond ice cream packed with decadent chocolate chunks, toasted pecans, and swirled with caramel and chocolate fudge.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "caramel",
+        "chocolate",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T07:12:26.859Z"
+    },
+    {
+      "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
+      "title": "Baklava Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon of Cinnamon",
+        "1/4 teaspoon Vanilla Extract",
+        "Mix-ins: 1 tbsp Raw Honey, Local/organic preferred",
+        "Mix-ins: 1/4 cup chopped Walnuts",
+        "Mix-ins: 1-3 Phyllo Shells - Pepperidge Farm Puff Pastry, crumbled (cooked, not raw dough)",
+        "Toppings: Crumbled Phyllo shells, nuts, and honey drizzled on top"
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Freeze in Ninja Creami pint container.",
+        "Process in Creami machine.",
+        "Add raw honey, chopped walnuts, and crumbled phyllo shells as mix-ins and run mix-in cycle.",
+        "Top with crumbled phyllo shells, nuts, and drizzled honey."
+      ],
+      "prepNotes": "Flavored with honey, cinnamon, and vanilla. Mixed with crisp walnuts and flaky phyllo dough so that the flavor and texture of baklava are in every bite.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "honey",
+        "walnut",
+        "protein",
+        "unique"
+      ],
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T07:16:11.238Z"
+    },
+    {
+      "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
+      "title": "Candy Bar Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Butter Extract",
+        "Mix-ins: ½ Regular-size candy bar. Approx 1 oz"
+      ],
+      "instructions": [],
+      "prepNotes": "Classic vanilla base mixed with the crunchy salted buttery flavor of a Butterfinger candy bar. This is a solid base recipe for pretty much any candy bar (Snickers, Baby Ruth, Kit Kat, Reeses, etc). Make sure you refrigerate your bar so that the Mix-in setting doesn't obliterate your bar. The colder texture helps keep bits of crunchy goodness better than room temperature. You can opt for basic Vanilla/Chocolate recipe instead for other bars.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:19:17.755Z"
+    },
+    {
+      "id": "4d132a66-0f5d-456a-938f-e59221108a29",
+      "title": "Peach Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Peach Extract OR 1 Tbsp Peach Syrup Skinny Girl",
+        "2 drops of yellow food color, 1 drop red food coloring",
+        "Toppings: Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "peach"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:49:40.842Z"
+    },
+    {
+      "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
+      "title": "Banana Cream Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "Optional: ¼ Teaspoon of Banana Extract (Really dials up banana flavor, but not necessary)",
+        "1 ripe Medium Banana sliced up (The softer the better)",
+        "Mix-ins: Sliced bananas, Nilla Wafers",
+        "Toppings: Cool Whip, Nilla Wafers"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "banana"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:18:30.635Z"
+    },
+    {
+      "id": "74c47870-c201-4256-9ac4-2de561711ff6",
+      "title": "Pumpkin Spice Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract AND/OR ¼ Teaspoon Pumpkin Spice Extract",
+        "1/4 teaspoon of All Spice or Pumpkin Pie Spice",
+        "½ can Pumpkin Puree, about 8 oz",
+        "Mix-ins: 1 rectangle Graham Cracker",
+        "Toppings: Cool Whip, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "pumpkin"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:19:53.425Z"
+    },
+    {
+      "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
+      "title": "Chocolate Chocolate Chip Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop of Chocolate Deluxe protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "1 tbsp Cocoa powder",
+        "Mix-ins: 2 tbsp Sugar Free Chocolate chips or Chocolate Bars or Cocoa Nibs",
+        "Toppings: Chocolate Chips, SF Chocolate Syrup"
+      ],
+      "instructions": [],
+      "prepNotes": "To use simple syrup try: 2 tbsp syrup, decrease almond milk by 1 tbsp",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T15:03:49.246Z",
+      "pinned": true
+    },
+    {
+      "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
+      "title": "Mint Chocolate Chip Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free White Chocolate pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "1-2 drops of Mint Extract (Warning: A little goes a long way. Too much will taste like Toothpaste)",
+        "Optional: 1 drop green food coloring",
+        "Mix-ins: 2 tbsp SF chocolate chips. Can also try York Peppermint Patties or Thin Mints"
+      ],
+      "instructions": [],
+      "prepNotes": "Vanilla base fused with mint extract blended with plenty of sweet mini chocolate chips. Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "chocolate",
+        "mint"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:55:05.910Z"
+    },
+    {
+      "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
+      "title": "Maple Nut Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Maple Extract",
+        "2 tbsp Sugar-free Maple Syrup",
+        "Mix-ins: 2 tbsp crushed walnuts, 2 tbsp maple syrup",
+        "Toppings: Crushed walnuts"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "maple"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:50:27.443Z"
+    },
+    {
+      "id": "692de0de-76c0-4f86-8425-18006a49d547",
+      "title": "Peanut Butter Ice Cream 3",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop of Vanilla Ice Cream protein powder OR Ryse Peanut Butter Protein Powder (Preferred)",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Butter Extract",
+        "1 tbsp Peanut Butter Powder",
+        "Mix-ins: 2 tbsp Sugar Free Peanut Butter Chips"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "peanut butter"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:49:03.910Z"
+    },
+    {
+      "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
+      "title": "Tiramisu Ice Cream 2",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla Pudding",
+        "1 scoop of Vanilla Ice Cream Protein Powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/2 teaspoon Butter Extract",
+        "1/2 teaspoon Rum Extract",
+        "1 tbsp Cocoa Powder",
+        "1 tbsp Nestle Expresso Powder",
+        "2 oz Mascarpone Cheese",
+        "Optional: Brewed Shot of chilled Espresso",
+        "Mix-ins: 3 Ladyfingers Dry OR soak 3 Ladyfingers in a mixture of 4oz strong brewed coffee and 1/4 teaspoon rum extract, leave in the Fridge",
+        "Toppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder"
+      ],
+      "instructions": [],
+      "prepNotes": "Special Note: It's the most labor-intensive of all the Creami's. You also have options for additional caffeine and Mix-ins.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "coffee"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:14:14.972Z"
+    },
+    {
+      "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
+      "title": "Oreo Blast Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon Vanilla Extract",
+        "Mix-ins: 9 Oreo mini's, approx. 28 grams, break up first; or equivalent regular cookies",
+        "Toppings (Optional): Crumbled Oreo minis, Chocolate Sprinkles, Cool Whip"
+      ],
+      "instructions": [],
+      "prepNotes": "A classic vanilla-based mixed with a blast—or two—of America's favorite cookie for a bit of crunch. Tip: Can scrape the cream out of the Oreo to reduce the sugar content greatly! The cookies is really all that matters for the crunch!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:57:07.710Z"
+    },
+    {
+      "id": "5e9ef873-bf47-498a-8c2b-83e9c165a8f3",
+      "title": "Salted Caramel Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding OR SF Salted Caramel Pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp Skinny Girl Caramel Syrup",
+        "Mix-ins: 2 Tbsp Sugar Free Caramel Beverage Sauce (Torani), ¼ cup Caramel Crunch Granola (Naked Bear) OR another Granola (Vanilla Almond Granola)",
+        "Optional Mix-in (Kill Macros): 2 Ghirardelli Caramel Chocolate Squares - broken up first",
+        "Toppings (Optional, Kill Macros): Caramel Sundae Syrup. Alternative: Make your own Keto Caramel Sauce"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "caramel"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:26:09.709Z"
+    },
+    {
+      "id": "eafa4f67-d265-451a-a16d-58e72ea0cd2a",
+      "title": "Strawberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Cheesecake pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1/4 teaspoon Strawberry Extract",
+        "½ cup of fresh strawberries diced",
+        "Mix-ins: 2 Tbsp Philly Cream Cheese, 1 Rectangle of Graham Cracker",
+        "Toppings: 1 Rectangle of Graham Cracker, 2 Tbsp Cool Whip, Optional: Diced Strawberries"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "cheesecake",
+        "strawberry"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:26:42.833Z"
+    },
+    {
+      "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
+      "title": "Reese's Peanut Butter Explosion Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop Ryse Reese Peanut Butter Cup Protein Powder (Different than the Vanilla PB flavor and Skippy PB) OR Vanilla Ice Cream protein powder for less PB taste",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "1 Tbsp peanut butter powder",
+        "1/4 teaspoon Butter Extract",
+        "Mix-ins: 3–6 SF Mini Peanut Butter Cups Or 2 Regular Size Cups - break up first",
+        "Optional Mix-ins (Kill your macros!): Dark Chocolate Reese PB Thins, Regular Reese PB Cups, Reese's Pieces, or a combination",
+        "Toppings (Optional): More Reese candy - Reese Pieces add a nice color pop"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "peanut butter",
+        "chocolate"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:36:56.527Z"
+    },
+    {
+      "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
+      "title": "Carrot Cake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "2 oz Organic Carrot Juice",
+        "1/4 teaspoon Vanilla Extract (And/Or Coconut Extract)",
+        "Mix-ins: 2 Tbsp Crushed walnuts, 2 Tbsp Coconut shavings, 1 rectangle Cinnamon Graham Crackers broken up, 1/4 teaspoon nutmeg, 1/4 teaspoon cinnamon, Optional: 2 tbsp cream cheese",
+        "Toppings: 2 tbsp Cool Whip, 1 Rectangle Cinnamon Graham Crackers, sprinkle crushed nuts, coconut shavings, nutmeg"
+      ],
+      "instructions": [
+        "This has lots of mix-ins, make sure you eat a big hole out of the all the way to the bottom!"
+      ],
+      "prepNotes": "A sweet and spicy profile, much like a classic spice cake, rather than tasting strongly of carrots. The carrots add natural sweetness and moisture, but their flavor is subtle and overshadowed by the aromatic spices of cinnamon and nutmeg. Topped with Cool Whip and Cinnamon Graham Crackers.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:16:59.337Z"
+    },
+    {
+      "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+      "title": "Vanilla Ice Cream (Base Recipe)",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "¼ teaspoon Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Vanilla Extract"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "vanilla",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:10:16.588Z",
+      "updatedAt": "2026-07-01T18:40:33.864Z"
+    },
+    {
+      "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+      "title": "Chocolate Ice Cream (Base Recipe)",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Chocolate pudding",
+        "1 scoop of Chocolate protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Vanilla Extract",
+        "1 Tbsp Cocoa Powder"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-01T18:40:42.787Z"
+    },
+    {
+      "id": "46454ea2-398e-4a96-9212-3914db88ad16",
+      "title": "Strawberry Ice Cream (Base Recipe)",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding OR SF Strawberry Pudding (Simply Delish)",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "½ teaspoon of Strawberry Extract",
+        "½ cup of fresh diced strawberries"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "strawberry",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-02T02:41:33.086Z"
+    },
+    {
+      "id": "4aa4dd22-0b27-4ec7-834b-2b8d5daa7bf4",
+      "title": "Cookies & Cream Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        "1 cup of Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Vanilla pudding",
+        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "Pinch of Xanthan gum",
+        "Pinch of salt",
+        "¼ teaspoon of Vanilla Extract"
+      ],
+      "instructions": [
+        "Mix-ins: Mini Chips Ahoy Chocolate Chip Cookies"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cookies and cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T18:10:16.589Z",
+      "updatedAt": "2026-07-01T18:41:32.593Z"
+    },
+    {
+      "id": "e0e9ae3d-43e8-4b9c-bf11-488c01fc97af",
+      "title": "גלידת בייגלה מלוח 🍦🥨",
+      "servings": "creami tub",
+      "source": "raz_yahav",
+      "ingredients": [
+        "לרוטב בייגלה מלוח (שהוא חלק מבסיס הגלידה, לא רוטב להגשה):",
+        "1/2 כוס בייגלה (השתמשתי בשמיניות ללא מלח - בערך 25-30 גרם)",
+        "2 כפות (20 גרם) תחליף סוכר/סוכר לבן",
+        "100 גרם שמנת לבישול 9%",
+        "130 גרם חלב",
+        "רבע כפית מלח גס",
+        "לבסיס הגלידה:",
+        "גביע (200 גרם) יוגורט חלבון בטעם קרמל מלוח או טבעי",
+        "סקופ (30 גרם) אבקת חלבון בטעם וניל / קרמל מלוח (או 2 כפות אינסטנט פודינג)",
+        "100 גרם חלב",
+        "10 גרם אבקת חלב (משדרג)",
+        "1 גרם מייצב גלידה (משדרג)",
+        "תוספת (אופציונלי): חופן בייגלה (בערך 15 גרם)"
+      ],
+      "instructions": [
+        "מכינים את רוטב הבייגלה המלוח.",
+        "מפזרים את תחליף הסוכר על מחבת ומחממים על אש בינונית עד שהוא הופך נוזלי/מתקרמל.",
+        "מוסיפים את הבייגלה, המלח החלב והשמנת. מערבבים תוך כדי, מבשלים כ-4-5 דקות ומכבים את האש. מסננים את הרוטב מהבייגלה ומניחים בצד.",
+        "במיכל מערבבים את מצרכי הגלידה (השתמשתי ביוגורט טבעי) אפשר גם בקרמל מלוח. ובסוף מוסיפים את הרוטב שהכנו.",
+        "מכסים את המיכל ומקפיאים ל-24 שעות.",
+        "מפעילים את המכונה, מכניסים לערבול \"גלידה לייט\".",
+        "יוצרים חור במרכז, מוסיפים בייגלה (אופציונלי) ומכניסים לערבול \"תוספות\"."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "caramel"
+      ],
+      "createdAt": "2026-07-01T11:06:29.366Z",
+      "updatedAt": "2026-07-01T11:07:30.575Z"
+    },
+    {
+      "id": "b0a5fcb1-38d5-4e33-8cfd-c4534f5b989d",
+      "title": "Turkish Dondurma Ice Cream",
+      "servings": "creami tub",
+      "source": "Reddit",
+      "ingredients": [
+        "2 cups unsweetened almond milk or full fat milk",
+        "1 tsp salep powder",
+        "1/16 tsp mastic powder or crushed mastic tears",
+        "1 scoop Vanilla protein powder ",
+        "Sweeteners ",
+        "Cinnamon ",
+        "2 tsp Sugar free jello cheesecake pudding "
+      ],
+      "instructions": [
+        "Heat milk in saucepan, stirring constantly with whisk",
+        "Add salep. Keep whisking ",
+        "Add mastic. As you cook 10-15 minutes it will thicken.",
+        "Let cool. ",
+        "Add protein powder and sweetener. Add cinnamon and pudding",
+        "Freeze. Spin on Lite. Serve with crushed pistachios "
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "unique"
+      ],
+      "createdAt": "2026-07-01T07:34:08.593Z",
+      "updatedAt": "2026-07-01T19:24:53.318Z"
+    },
+    {
+      "id": "bf4df602-696c-4ac5-b82e-7896ff9f454f",
+      "title": "Black Raspberry Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free fairlife milk",
+        "40-45g Lakanto monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste",
+        "5g (1 tsp) lorannglobal Black Raspberry flavoring",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired consistency"
+      ],
+      "prepNotes": "Black Raspberry flavoring  - can sub with 40-50g of both raspberries and blackberries",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T06:59:50.327Z",
+      "updatedAt": "2026-07-01T07:01:40.651Z"
+    },
+    {
+      "id": "e8e15269-e641-4c37-8f3d-b2e52d828a30",
+      "title": "Lotus Speculoos Ice Cream",
+      "servings": "creami tub",
+      "source": "",
+      "ingredients": [
+        "300ml semi-skimmed milk",
+        "a little sweetener",
+        "20g Lotus/Biscoff spread ",
+        "2g xanthan gum (optional)"
+      ],
+      "instructions": [
+        "Mix all",
+        "12-24h in the freezer",
+        "light ice cream option",
+        "then add 1 crumbled Lotus & respin 1-2x"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "biscoff",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T06:58:44.952Z",
+      "updatedAt": "2026-07-01T06:58:44.952Z"
+    },
+    {
+      "id": "be9b806f-0834-4b05-8a42-9ca5b9f8bf78",
+      "title": "Peanut Butter & Chocolate Ice Cream",
+      "servings": "creami tub",
+      "source": "",
+      "ingredients": [
+        "300ml semi-skimmed milk",
+        "a little sweetener",
+        "15g PB2",
+        "2g xanthan gum (optional)"
+      ],
+      "instructions": [
+        "Mix all",
+        "12-24h in the freezer",
+        "light ice cream option",
+        "then add 15g peanut butter & 10g chocolate chips & respin 1-2x"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "peanut butter",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T06:56:13.389Z",
+      "updatedAt": "2026-07-01T06:56:13.389Z"
+    },
+    {
+      "id": "70f49cbc-cdd5-4faa-9736-995712a661af",
+      "title": "Peanut Butter & Jelly Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free ultra-filtered Milk",
+        "40-45g Lakanto Monk Fruit sweetener",
+        "8g (½ tbsp) Peanut Butter",
+        "16g (2 tbsp) Lakanto Peanut Butter Powder",
+        "1g (¼ tsp) salt",
+        "1g (¼ tsp) xanthan gum",
+        "Mix-ins: 2 tbsp sugar free strawberry jelly"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting",
+        "Respin again if powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the strawberry jelly",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "protein",
+        "ice cream",
+        "peanut butter",
+        "jelly"
+      ],
+      "createdAt": "2026-07-01T06:20:34.487Z",
+      "updatedAt": "2026-07-01T06:39:21.282Z"
+    },
+    {
+      "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
+      "title": "Vanilla Caramel Fudge Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free ultra-filtered milk",
+        "40-45g Lakanto Classic White Monk Fruit Sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (1/4 tsp) xanthan gum",
+        "15g Lakanto Sugar Free Chocolate Chips mixed with 2g of coconut oil (mix-in/topping)",
+        "7g caramel sauce (mix-in/topping)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the melted chocolate",
+        "Run the \"Mix-in\" cycle",
+        "Top with the caramel sauce"
+      ],
+      "prepNotes": "Right before the Mix-In cycle, combine the chocolate with the coconut oil, melt in the microwave (30 sec intervals, stirring in between), hollow out a hole in the center of the base, and pour in. After spinning on the Mix-In setting, it'll turn into perfect, creamy chocolate chips.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "protein",
+        "ice cream",
+        "caramel",
+        "vanilla"
+      ],
+      "createdAt": "2026-07-01T06:20:35.741Z",
+      "updatedAt": "2026-07-01T06:51:48.541Z"
+    },
+    {
+      "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
+      "title": "**Snickers Ice Cream 2",
+      "servings": "creami tub",
+      "source": "alex.new.life",
+      "ingredients": [
+        "100ml Milk 0,3 %",
+        "200g Quark",
+        "30g Protein Pudding Caramel",
+        "2 Scoop Chunky Flavour Hazelnut & MilkyCream",
+        "10g White Crazy Hazel (@ahead_nutrition)",
+        "Topping: chocolate sauce",
+        "Topping: peanuts"
+      ],
+      "instructions": [
+        "Add all ingredients (except toppings) to your container. Whisk until smooth, then freeze flat and level for 24 hours.",
+        "Mix on Ice Cream setting",
+        "Then add another splash of milk and press Re-Spin 1-2 times until you have a creamy consistency.",
+        "add the chocolate sauce and peanuts on top as a topping."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "snickers",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T06:20:36.073Z",
+      "updatedAt": "2026-07-01T06:33:51.954Z"
+    },
+    {
+      "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
+      "title": "Chocolate Chip Cookie Dough Ice Cream",
+      "servings": "creami tub",
+      "source": "",
+      "ingredients": [
+        "400g fat free ultra-filtered milk (or any fat free milk)",
+        "40-45g monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "½ of a package of the @fuulsnacks Chocolate Chip Cookie Dough bites"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Prep your chocolate ganache (ingredients above)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Respin again if very powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the ganache and half of the cookie dough bites",
+        "Run the \"Mix-in\" cycle",
+        "Top with the rest of the cookie dough bites"
+      ],
+      "prepNotes": "To make the ganache, combine 5g of unsweetened cocoa powder with 10g of sugar free syrup (I know this sounds like it wouldn't work, but trust me... it does).",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cookie dough"
+      ],
+      "createdAt": "2026-07-01T06:20:36.095Z",
+      "updatedAt": "2026-07-01T06:42:33.891Z"
+    },
+    {
+      "id": "e802904a-54fa-42b5-9892-05af3f3ddf59",
+      "title": "Healthy Watermelon Sorbet",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g chopped watermelon",
+        "35g Lakanto Classic Monk Fruit Sweetener",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Sorbet\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired consistency"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sorbet",
+        "watermelon"
+      ],
+      "createdAt": "2026-07-01T06:20:32.867Z",
+      "updatedAt": "2026-07-01T06:44:07.469Z"
+    },
+    {
+      "id": "e343e638-e84a-4a58-a108-9460dc3d4dee",
+      "title": "Cookies 'n Cream Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free ultra-filtered milk",
+        "22g (2 tbsp) whipped (or regular) cream cheese",
+        "40-45g Lakanto monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "Mix-in/toppings:",
+        "4 Oreo Thins (cream removed)",
+        "30g cheesecake bites (~100 calories worth of any cheesecake, chopped into bite size pieces)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "At the same time, put the cheesecake bites and Oreos into the freezer. This allows it to firm up and withstand the power of the Mix-in setting (so it doesn't get completely pulverized)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the frozen cheesecake bites and Oreos",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "355 calories 26g protein for the entire pint, toppings/mix-ins included. All recipe books (200+ flavors) are in the creator's bio.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "protein",
+        "ice cream",
+        "cookies and cream",
+        "cheesecake"
+      ],
+      "createdAt": "2026-07-01T06:20:36.701Z",
+      "updatedAt": "2026-07-01T06:36:37.396Z"
+    },
+    {
+      "id": "f026f9b2-3768-4118-a461-7e930580b845",
+      "title": "Chocolate Chip Cookie Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free Fairlife milk",
+        "22g (2 tbsp) whipped (or regular) cream cheese",
+        "5g (1 tsp)  vanilla bean paste",
+        "40-45g Lakanto monk fruit sweetener",
+        "A pinch of salt",
+        "1g (¼ tsp) xanthan gum",
+        "3 chocolate chip cookies (can sub with any crunchy chocolate chip cookies)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Place your cookies in a plastic bag and freeze alongside your pint (this allows them to firm up and not get pulverized by the Mix-in setting)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and add the frozen cookies",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "cheesecake",
+        "chocolate chip cookie"
+      ],
+      "createdAt": "2026-07-01T06:20:35.980Z",
+      "updatedAt": "2026-07-01T06:48:39.523Z"
+    },
+    {
+      "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
+      "title": "Chocolate Therapy",
+      "servings": "creami tub",
+      "source": "",
+      "ingredients": [
+        "400ml chocolate protein milkshake",
+        "10g Sugar Free Chocolate Pudding Mix",
+        "10g dark cocoa powder",
+        "1 scoop chocolate protein powder",
+        "20g sweetener (erythritol)",
+        "1g xanthan gum",
+        "Pinch of salt",
+        "2 x Oreo Thins (mix-in)"
+      ],
+      "instructions": [
+        "Blend all ingredients until smooth",
+        "Freeze for at least 24 hours without Lid",
+        "Leave tub to soften for 10-15 minutes",
+        "Warm tub edges under hot water briefly",
+        "Run \"Lite Ice Cream\" mode",
+        "Add 2 x Oreo thins",
+        "Run \"Mix-In\" mode (Re-spin if needed)"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:45.854Z",
+      "updatedAt": "2026-07-01T06:05:51.885Z"
+    },
+    {
+      "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
+      "title": "Chocolate Brownie Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
+      "ingredients": [
+        "15g Cookies & cream whey",
+        "50g 10% Fat greek yogurt",
+        "300ml Almond milk",
+        "10g Cocao powder",
+        "10g Agave",
+        "1g Xanthan gum",
+        "1 Brownie (mix in)"
+      ],
+      "instructions": [
+        "Combine the base ingredients: cookies & cream whey, greek yogurt, almond milk, cocao powder, agave, and xanthan gum.",
+        "Blend/freeze.",
+        "Mix in 1 brownie."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:44.520Z",
+      "updatedAt": "2026-07-01T06:14:16.408Z"
+    },
+    {
+      "id": "abf37ac4-ffb9-4765-a665-bbb8dc1b0fec",
+      "title": "Reese's Peanut Butter Ice Cream",
+      "servings": "creami tub",
+      "source": "@justinanderson_fit",
+      "ingredients": [
+        "1.25 cup milk",
+        "1 scoop vanilla protein",
+        "2 tbsp peanut butter powder",
+        "1 tbsp butterscotch pudding mix",
+        "1/4 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
+        "Mix well and pour into a pint container.",
+        "Freeze, then process until smooth and creamy."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "peanut butter",
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:45.329Z",
+      "updatedAt": "2026-07-01T06:03:16.812Z"
+    },
+    {
+      "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
+      "title": "Snickerdoodle Ice Cream",
+      "servings": "creami tub",
+      "source": "@jennaliveswell",
+      "ingredients": [
+        "1 cup unsweetened oat, almond, or milk of choice",
+        "1 scoop vanilla protein powder",
+        "1 scoop collagen powder (unflavored or vanilla)",
+        "1½–2 tsp ground cinnamon",
+        "¼ tsp ground nutmeg",
+        "¼ tsp ground cream of tartar (classic snickerdoodle tang)",
+        "1–2 tsp maple syrup",
+        "1 tsp vanilla extract",
+        "pinch of salt",
+        "1–2 tsp cashew or almond butter (optional, but goooood)"
+      ],
+      "instructions": [
+        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
+        "Pour into a tub, cover, and freeze 12–24 hours.",
+        "Spin on Lite Ice Cream.",
+        "Add 1–2 tbsp milk and \"Re-Spin\"."
+      ],
+      "prepNotes": "Cashew or almond butter is optional but recommended.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "snickerdoodle",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:45.654Z",
+      "updatedAt": "2026-07-01T06:08:38.552Z"
+    },
+    {
+      "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
+      "title": "Chocolate Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
+      "ingredients": [
+        "300g Fat free cottage cheese",
+        "160ml Almond milk",
+        "3-4 Medjool dates",
+        "15g Cocoa powder",
+        "Strawberries (topping)",
+        "Honey (topping)"
+      ],
+      "instructions": [
+        "Blend cottage cheese, almond milk, Medjool dates, and cocoa powder to form the base.",
+        "Freeze and spin",
+        "Top with strawberries and honey."
+      ],
+      "prepNotes": ".",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "cheesecake",
+        "chocolate",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T05:58:44.360Z",
+      "updatedAt": "2026-07-01T06:13:11.712Z"
+    },
+    {
+      "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
+      "title": "Chocolate Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
+      "ingredients": [
+        "25g White choc & Pistachio whey",
+        "300ml Whole milk",
+        "100ml Almond milk",
+        "10g Cocoa powder",
+        "M&S Pistachio bites (mix ins/toppings)"
+      ],
+      "instructions": [
+        "Combine base ingredients",
+        "Freeze",
+        "Process then add pistachio bites as mix-ins"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "pistachio",
+        "ice cream",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:43.724Z",
+      "updatedAt": "2026-07-01T06:17:37.892Z"
+    },
+    {
+      "id": "addb1f41-cd4d-415a-ae98-e45fea6bbc95",
+      "title": "Vanilla Biscoff Ice Cream",
+      "servings": "creami tub",
+      "source": "@katstaddon.fit",
+      "ingredients": [
+        "30g Vanilla whey",
+        "1/2 Banana",
+        "15g Oats",
+        "5-10g PB powder",
+        "50g 0% Greek yogurt",
+        "100ml Whole milk",
+        "100ml Almond milk",
+        "4 x Lotus biscuits (mix ins/toppings)"
+      ],
+      "instructions": [
+        "Combine base ingredients (vanilla whey, banana, oats, PB powder, Greek yogurt, whole milk, and almond milk) and blend.",
+        "Freeze the base",
+        "Process until smooth and creamy.",
+        "Add Lotus biscuits as mix-ins and re-spin if desired.",
+        "Top with crumbled Lotus biscuits and serve."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "biscoff",
+        "vanilla",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:58:45.862Z",
+      "updatedAt": "2026-07-01T06:15:31.977Z"
+    },
+    {
+      "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
+      "title": "Salted Maple Pecan Ice Cream",
+      "servings": "creami tub",
+      "source": "@ftvfitness92",
+      "ingredients": [
+        "1/2 cup unsweetened almond milk",
+        "1/2 cup organic coconut milk",
+        "1 serving vanilla whey protein",
+        "1 tbsp pure maple syrup",
+        "pinch of sea salt",
+        "10g pecans"
+      ],
+      "instructions": [
+        "Mix in: crushed up pecans"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "maple",
+        "pecan",
+        "protein"
+      ],
+      "createdAt": "2026-07-01T05:23:45.859Z",
+      "updatedAt": "2026-07-01T06:00:58.457Z"
+    },
+    {
+      "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
+      "title": "Tiramisu Ice Cream 1",
+      "servings": "creami tub",
+      "source": "@julzhealth",
+      "ingredients": [
+        "300ml full cream milk",
+        "100g yoghurt",
+        "20g instant pudding, vanilla",
+        "2 heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
+        "20g stevia",
+        "1 tsp cacao powder"
+      ],
+      "instructions": [
+        "Place all ingredients (apart from cacao) in pint & use hand mixer.",
+        "Freeze overnight.",
+        "When making, run pint under water for 10 seconds.",
+        "Press scoop, then Lite Icecream.",
+        "Dust with cacao powder, scoop & enjoy!"
+      ],
+      "prepNotes": "if icy just re-spin, do not add more liquid.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "tiramisu",
+        "coffee",
+        "ice cream",
+        "yogurt"
+      ],
+      "createdAt": "2026-07-01T05:23:46.495Z",
+      "updatedAt": "2026-07-02T07:14:05.622Z"
+    },
+    {
+      "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
+      "title": "Espresso Chip Ice Cream",
+      "servings": "creami tub",
+      "source": "@laurens.liftss",
+      "ingredients": [
+        "1 1/2 cups milk",
+        "2 shots of espresso",
+        "1 scoop vanilla protein",
+        "Chopped coffee beans",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "add milk, espresso, vanilla protein",
+        "Freeze for 12+ hours",
+        "Blend on \"lite ice cream\" setting and respin",
+        "Add chopped coffee beans and chocolate chips"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coffee"
+      ],
+      "createdAt": "2026-07-01T05:23:47.133Z",
+      "updatedAt": "2026-07-01T05:31:31.436Z"
+    },
+    {
+      "id": "4b8c1e18-d95e-4e47-a785-1f3a3f9d8aa5",
+      "title": "Caramel Pecan Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitfood_ae",
+      "ingredients": [
+        "200ml high protein skim milk",
+        "200ml unsweetened almond milk",
+        "15g PEScience snickerdoodle protein",
+        "15g brown Monkfruit sweetener",
+        "3g cinnamon",
+        "1g xanthan gum",
+        "4g fat free vanilla pudding mix",
+        "20g pecans",
+        "5g biscoff spread"
+      ],
+      "instructions": [
+        "Add all ingredients to a container except the last two, shake to combine, then freeze for 24 hours",
+        "Use the \"light ice cream\", then add a tbsp of unsweetened almond milk",
+        "Scoop the middle and add the pecans and biscoff, and use the \"re-spin\" setting"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "caramel",
+        "pecan"
+      ],
+      "createdAt": "2026-07-01T05:23:48.973Z",
+      "updatedAt": "2026-07-01T06:01:52.363Z"
+    },
+    {
+      "id": "fe33883a-1a06-41b5-bad9-17c691f525a5",
+      "title": "Peanut Butter Ice Cream 2",
+      "servings": "creami tub",
+      "source": "@mattsmagicmacros",
+      "ingredients": [
+        "120ml - 2% Fairlife Milk (1/2 cup)",
+        "120ml - Unsweetened Almond Milk (1/2 cup)",
+        "240ml - Water (1 cup)",
+        "20g - Peanut Butter Powder",
+        "40g - Zero Calorie Sweetener of Choice",
+        "5g - Protein Powder (casein works best)",
+        "1/4 tsp - Salt",
+        "1/4 tsp - Guar or Xantham Gum (optional)",
+        "Mix in - 1/4 Bar - Sea Salt Extra Dark Chocolate",
+        "Mix in- 1/4 Bar - Peanut Butter Madness"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 10-12 hours, depending on your freezer)",
+        "Spin on \"lite ice cream\" setting",
+        "Do ONE \"re-spin\" if necessary",
+        "Make a hole down to the bottom with a butter knife and fill with toppings",
+        "Run the \"mix-in\" cycle"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "peanut butter"
+      ],
+      "createdAt": "2026-07-01T05:23:49.695Z",
+      "updatedAt": "2026-07-01T05:57:24.962Z"
+    },
+    {
+      "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
+      "title": "Snickers Ice Cream 1",
+      "servings": "creami tub",
+      "source": "@ninja_creami_recipes",
+      "ingredients": [
+        "1 cup 2% milk",
+        "1 scoop chocolate whey protein",
+        "1 tbsp sugar free chocolate instant pudding mix",
+        "1 tbsp sugar free chocolate caramel coffee syrup",
+        "1.5 tbsp powdered peanut butter ",
+        "1/2 chopped snickers bar"
+      ],
+      "instructions": [
+        "Mix together all ingredients except Snickers ",
+        "Freeze 24 hours.",
+        "Spin on lite ice cream. Add 1 tbsp. milk and respin 1-2x.",
+        "Add in 1/2 chopped snickers bar.",
+        "Spin on mixin."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "snickers"
+      ],
+      "createdAt": "2026-07-01T05:23:47.138Z",
+      "updatedAt": "2026-07-01T06:33:46.341Z"
+    },
+    {
+      "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
+      "title": "Blueberry Vanilla Ice Cream",
+      "servings": "creami tub",
+      "source": "@ellies.fav.eats",
+      "ingredients": [
+        "3/4-1 cup whole milk",
+        "1 scoop vanilla protein powder",
+        "1/2 Tb sugar free vanilla jello pudding mix",
+        "Blueberries"
+      ],
+      "instructions": [
+        "Add milk, protein powder, and jello mix to container and blend until smooth.",
+        "Add blueberries and stir with spoon.",
+        "Put lid on and freeze for 12-24 hours.",
+        "I blend mine once using light ice cream and one more time using the mix in setting!"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "blueberry",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T05:23:47.453Z",
+      "updatedAt": "2026-07-01T05:50:59.288Z"
+    },
+    {
+      "id": "7a8b4c9d-19e2-41b8-9203-9f82ddd1b740",
+      "title": "Oreo McFlurry Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g Fat Free fairlife milk",
+        "45g Lakanto monk fruit sweetener",
+        "5g (1 tsp)  vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (¼ tsp)  xanthan gum",
+        "Mix-ins: 5 OREO Thins (cream removed)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the Oreos",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T19:15:57.123Z",
+      "updatedAt": "2026-07-01T02:16:36.408Z"
+    },
+    {
+      "id": "394074bf-c766-4f91-a18f-0dce012e35d7",
+      "title": "Ben and Jerry's Cake Batter Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g fat free ultra-filtered Milk",
+        "40-45g Lakanto Classic White Monk Fruit sweetener",
+        "5g (1 tsp) cake batter extract",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (1/4 tsp) xanthan gum",
+        "15g chocolate chips mixed with 2g of coconut oil (mix-in)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the melted chocolate",
+        "Run the \"Mix-in\" cycle",
+        "Top with the chocolate frosting"
+      ],
+      "prepNotes": "Right before the Mix-In cycle, combine the chocolate with the coconut oil, melt in the microwave (30 sec intervals, stirring in between), hollow out a hole in the center of the base, and pour in. After spinning on the Mix-In setting, it'll turn into perfect, creamy chocolate chips. To make the chocolate frosting, combine 15g of unsweetened cocoa powder with 30g of sugar free syrup (I know this sounds like it wouldn't work, but trust me... it does).",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cake batter"
+      ],
+      "createdAt": "2026-06-30T19:15:59.172Z",
+      "updatedAt": "2026-07-01T02:42:31.865Z"
+    },
+    {
+      "id": "5d33ce3d-94ec-424a-a676-6a4f09591773",
+      "title": "Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "@pursuitofhealth",
+      "ingredients": [
+        "1 1/2c milk",
+        "1/2c roasted pistachios",
+        "1 tbsp pistachio spread",
+        "1 tbsp sugar",
+        "3 tbsp vanilla protein",
+        "1/2 tsp salt",
+        "Mix Ins: Pistachios"
+      ],
+      "instructions": [
+        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the tub and freeze overnight.",
+        "Mix the on the Lite Ice Cream setting.",
+        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin.",
+        "Add in the pistachios and hit Mix In."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "pistachio",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T19:15:55.905Z",
+      "updatedAt": "2026-06-30T19:19:10.238Z"
+    },
+    {
+      "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
+      "title": "**Vanilla Bean FroYo",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g Vanilla OIKOS PRO",
+        "5g (1 tsp) vanilla bean paste",
+        "35-40g sugar substitute",
+        "A pinch of salt",
+        "1g (¼ tsp) binding agent"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired texture"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "frozen yogurt"
+      ],
+      "createdAt": "2026-06-30T19:15:57.506Z",
+      "updatedAt": "2026-07-01T02:49:48.764Z"
+    },
+    {
+      "id": "a6c1ff12-77b0-49f5-9642-d63a2e9072bb",
+      "title": "Chocolate Ice Cream 2",
+      "servings": "creami tub",
+      "source": "@fit_jumar",
+      "ingredients": [
+        "2 tbsp chocolate protein powder",
+        "2 tbsp unsweetened cocoa powder",
+        "150 ml high-protein almond milk",
+        "50 ml low fat milk",
+        "1 tsp date paste or honey (to taste)",
+        "0.5-1 tsp guar gum"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T19:15:54.776Z",
+      "updatedAt": "2026-07-01T02:13:40.174Z"
+    },
+    {
+      "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
+      "title": "Barebells Ice Cream",
+      "servings": "creami tub",
+      "source": "@fitnessproductfinder",
+      "ingredients": [
+        "400g Fat Free ultra-filtered Milk",
+        "40-45g Lakanto monk fruit sweetener",
+        "5g (1 tsp) vanilla bean paste (or extract)",
+        "A pinch of salt",
+        "1g (1/4 tsp) xanthan gum",
+        "1 Barebells protein bar (mix-in)"
+      ],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Right before the Mix-In cycle, microwave the Barebells bar for 10-20 seconds, hollow out a hole in the center of the base, and dump in.",
+        "Make a hole down to the bottom with a butter knife and fill with the melty Barebells",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T19:15:59.812Z",
+      "updatedAt": "2026-07-01T05:15:12.581Z"
+    },
+    {
+      "id": "a0d10156-8b43-476a-8eff-70be72a17ba3",
+      "title": "**Choc Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "@ninjacreamirecipes",
+      "ingredients": [
+        "1 Fairlife Vanilla Protein Shake",
+        "1 Tbsp SF Vanilla Pudding Mix",
+        "2 Shots Espresso",
+        "Chocolate (optional mix-in)"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coffee",
+        "chocolate"
+      ],
+      "createdAt": "2026-06-30T19:06:20.143Z",
+      "updatedAt": "2026-06-30T19:08:39.511Z"
+    },
+    {
+      "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
+      "title": "Cafe Latte",
+      "servings": "creami tub",
+      "source": "creami_delights",
+      "ingredients": [
+        "50 g low fat ricotta cheese",
+        "1 tsp instant coffee",
+        "60 g vanilla 0% Greek yogurt",
+        "300 ml vanilla protein shake"
+      ],
+      "instructions": [
+        "Mix all ingredients and pour into tub",
+        "Freeze x 24 hrs",
+        "Spin on light ice cream setting. Add 2 tbsp vanilla shake and re-spin"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "coffee",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T18:54:33.740Z",
+      "updatedAt": "2026-06-30T19:00:30.637Z"
+    },
+    {
+      "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
+      "title": "Frozen Yoghurt",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "400 g high protein sweetened yoghurt",
+        "25–50 g light agave syrup or pure maple syrup",
+        "0.5 g (lightly heaped 1/8 tsp) xanthan gum",
+        "100 g milk of choice"
+      ],
+      "instructions": [
+        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the tub.",
+        "Freeze 16–24 hours with the lid off.",
+        "Let sit on the bench 5–15 minutes before processing.",
+        "Process on the light ice cream function — generally needs two spins.",
+        "Store leftovers in the freezer with the lid on."
+      ],
+      "prepNotes": "Use a yoghurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yoghurt + high protein skim milk.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "frozen yoghurt"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T19:02:01.408Z",
+      "pinned": false
+    },
+    {
+      "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
+      "title": "Cookie Dough Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "200 g thickened cream",
+        "150 g sweetened condensed milk (not evaporated milk)",
+        "100 g full fat milk",
+        "1 tsp vanilla bean paste or extract",
+        "100 g butter",
+        "100 g light brown sugar",
+        "20–40 ml + 1–2 tbsp milk of choice, as needed",
+        "150–175 g heat-treated tapioca flour/starch",
+        "1 tsp vanilla bean paste or extract",
+        "Pinch of fine salt",
+        "100 g finely chopped dark chocolate"
+      ],
+      "instructions": [
+        "Vanilla ice cream: Whisk cream, condensed milk, milk, vanilla together in a bowl, let sit 5 minutes, whisk again.",
+        "Pour into a tub and freeze with the lid off, 16–24 hours.",
+        "Cookie dough (30–60 min before processing): Brown the butter in a saucepan over low-medium heat until golden and nutty-smelling.",
+        "Pour over brown sugar in a heatproof bowl; cool 5 minutes.",
+        "Add 1 tbsp milk and stir to a syrupy brown liquid.",
+        "Add tapioca flour in batches until it forms a non-oily, rollable dough (add more milk if it crumbles).",
+        "Cool, then stir in chopped chocolate. Roll into balls or leave as crumbles; chill at least 10 minutes.",
+        "To assemble: Process the frozen ice cream base on the ice cream function (re-spin if balled up).",
+        "Fold chilled cookie dough into the spun ice cream in a large bowl.",
+        "Pack back into the tub; freeze ~20 minutes until firm. Serve."
+      ],
+      "prepNotes": "Cookie dough should be prepared 30–60 minutes before processing the ice cream base.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cookie dough"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:46:27.868Z"
+    },
+    {
+      "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
+      "title": "Maple Pumpkin Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "200 g pumpkin puree",
+        "75–100 g pure maple syrup",
+        "150 g cream",
+        "75 g milk",
+        "1–2 tsp pumpkin spice",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; re-spin if needed.",
+        "Return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "pumpkin",
+        "maple"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-07-01T06:01:22.954Z"
+    },
+    {
+      "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
+      "title": "Sticky Date Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "100 g regular pitted dates, finely chopped",
+        "3–5 g baking soda",
+        "100 g boiling water",
+        "300 g milk of choice",
+        "Pinch of fine salt",
+        "1/2–1 tsp vanilla bean extract, to taste",
+        "30 g whey protein isolate with minimal sweetener"
+      ],
+      "instructions": [
+        "Place chopped dates in a heatproof bowl; sprinkle with baking soda and pour over boiling water. Stir and cool.",
+        "Transfer cooled date paste to a food processor with milk, salt, and vanilla; blend to desired consistency.",
+        "Return mixture to the bowl and whisk in the whey protein isolate (do not blend the protein — it gets too frothy).",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
+        "Process on the light ice cream function; re-spin if needed. Serve immediately; return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "3g baking soda for subtle flavour, 5g for a classic sticky date note. Do not substitute baking powder. Avoid high-sugar protein powders — too much sugar will prevent proper freezing.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "sticky date"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:28:54.514Z"
+    },
+    {
+      "id": "a7a16492-c48c-4ffa-af80-915b97b74919",
+      "title": "Watermelon Sorbet",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "400 g watermelon, chopped into small cubes",
+        "50–75 g agave syrup, to taste",
+        "25 g lime juice (or more, to taste)",
+        "Lime zest, to taste (optional)",
+        "Tiny pinch fine salt (optional)",
+        "1–1.5 g xanthan gum (optional)"
+      ],
+      "instructions": [
+        "Blend all ingredients (and optional add-ins) until completely smooth.",
+        "Pour into the tub (don't exceed fill line) and freeze with the lid off, 16–24 hours.",
+        "Process on the gelato function; re-spin once or twice as needed.",
+        "Return leftovers to the freezer with the lid on; re-spin on the gelato function before eating."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sorbet",
+        "watermelon"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:48:03.132Z"
+    },
+    {
+      "id": "ead8c3a9-2c44-48f8-acb2-533f692e997f",
+      "title": "Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "150 g sweetened condensed milk",
+        "50 g fresh espresso, cooled for 5 minutes",
+        "200 g full fat cream (35% butterfat)",
+        "100 g full fat milk (regular or lactose free)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together in a bowl until completely smooth.",
+        "Pour into the tub; optionally chill in the fridge 3 hours to minimize the hump, then freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; smooth a balled-up top with a spoon, or re-spin once if powdery (avoid over-processing — it can split the cream)."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coffee"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:46:40.652Z"
+    },
+    {
+      "id": "fb1ac5e1-e962-407b-a98f-dc3eafca0267",
+      "title": "Coconut Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "175–200 g full fat coconut cream",
+        "175–200 g full fat or light coconut milk",
+        "80–100 g coconut condensed milk",
+        "Pinch of salt",
+        "Dash of vanilla bean paste or extract (optional)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together; taste and adjust salt/vanilla.",
+        "Pour into the tub and freeze with the lid off, 12–24 hours.",
+        "Let thaw 10 minutes before processing (optional, reduces need to re-spin).",
+        "Process on the ice cream function; re-process (no added liquid) if powdery or balled up.",
+        "Store leftovers in the freezer with the lid on."
+      ],
+      "prepNotes": "Choose coconut cream with ~20–25g fat per 100g.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coconut"
+      ],
+      "createdAt": "2026-06-30T18:26:09.465Z",
+      "updatedAt": "2026-06-30T18:41:13.963Z"
+    },
+    {
+      "id": "76711da0-b3dc-435c-9660-1e174671a060",
+      "title": "Custard Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "3 extra large eggs (150g out of shell)",
+        "75 g caster/superfine sugar",
+        "75 g thickened cream (30–35% fat)",
+        "300 g full fat (high protein) milk",
+        "1 tsp vanilla bean extract",
+        "Pinch fine salt"
+      ],
+      "instructions": [
+        "Whisk eggs, sugar, and cream together in a heat-proof bowl.",
+        "Heat milk, vanilla, and salt in a saucepan until hot and just below a simmer.",
+        "Slowly pour the hot milk into the egg mixture while whisking.",
+        "Pour the combined mixture back into the saucepan and cook over low/medium heat, stirring constantly, until it thickens slightly (about 70°C, ~5 minutes).",
+        "If it starts to clump, remove from heat immediately and whisk vigorously; transfer out of the pot to stop cooking.",
+        "Cool slightly, then transfer to the tub and freeze 16–24 hours with the lid off.",
+        "Spin on the ice cream function — needs two full spins to be perfect."
+      ],
+      "prepNotes": "4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:43:57.247Z"
+    },
+    {
+      "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
+      "title": "Strawberry Ricotta Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "200 g ripe strawberries (weighed after de-hulling)",
+        "350 g smooth ricotta",
+        "50 g agave syrup",
+        "Pinch of fine salt"
+      ],
+      "instructions": [
+        "Blend strawberries to a smooth puree. Add remaining ingredients and pulse to combine until smooth and light pink.",
+        "Pour into the tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function — needs 3 spins for ideal texture."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "strawberry"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:46:48.268Z"
+    },
+    {
+      "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
+      "title": "Chocolate Caramel Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "10–15 g Dutch processed cocoa",
+        "60 g boiling water",
+        "200 g dulce de leche",
+        "125 g thickened cream (30–35% fat)",
+        "150 g milk",
+        "Pinch of fine salt"
+      ],
+      "instructions": [
+        "Whisk cocoa with boiling water in a saucepan to remove clumps.",
+        "Add remaining ingredients and whisk to combine; crush any caramel chunks.",
+        "Cook on low heat 2–5 minutes until caramel is dissolved. Cool slightly.",
+        "Pour into the tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function — may need two spins.",
+        "Mix in chopped chocolate caramel eggs by hand (not via the mix-in function).",
+        "Return leftovers to the freezer with the lid on."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "caramel"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:44:41.799Z"
+    },
+    {
+      "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
+      "title": "Sugar Free Strawberry Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "300 g fresh strawberries, weighed after hulling",
+        "100–125 g pure granulated allulose",
+        "125–150 g thickened cream, 35% milkfat",
+        "Optional: Tiny dash balsamic vinegar",
+        "Optional: Few cracks freshly cracked black pepper",
+        "Optional: Tiny pinch fine salt"
+      ],
+      "instructions": [
+        "Hull, chop, and mash strawberries in a pot to release liquid.",
+        "Add allulose and stir to combine.",
+        "Cook over medium heat 2–3 minutes until allulose dissolves and mixture is a vibrant red coulis. Stir in any flavour boosters, then cool 15 minutes.",
+        "Transfer cooled mixture to the tub.",
+        "Add cream and mix thoroughly.",
+        "Freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function — should be perfect on first spin with 100–125g allulose.",
+        "Return leftovers to the fridge with the lid on."
+      ],
+      "prepNotes": "Do not exceed 125g allulose — the mixture won't set. Less sweet strawberries may need more allulose; very sweet ones may need only 75–100g.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "strawberry"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:44:47.648Z"
+    },
+    {
+      "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
+      "title": "Sugar Free Lemon Sorbet",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "80–100 g pure allulose",
+        "0.5–1 g stevia powder",
+        "Zest of two lemons",
+        "325 g water",
+        "Pinch of fine salt",
+        "75–100 g lemon juice, to taste"
+      ],
+      "instructions": [
+        "Mix allulose and stevia in a saucepan; rub in lemon zest.",
+        "Add water and salt, then lemon juice to taste.",
+        "Cook 1–3 minutes until allulose dissolves. Cool slightly.",
+        "Pour into the tub and freeze with the lid off, 24 hours.",
+        "Process on the sorbet function; re-spin once if needed (avoid spinning twice — can make it too soft).",
+        "Return leftovers to the freezer with the lid on; re-process before eating."
+      ],
+      "prepNotes": "Use common sour lemons rather than Meyer/Lemonade lemons for the classic tart flavour.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sorbet",
+        "lemon"
+      ],
+      "createdAt": "2026-06-30T17:52:05.342Z",
+      "updatedAt": "2026-06-30T18:44:22.430Z"
+    },
+    {
+      "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
+      "title": "Healthier Orange Creamsicle Protein Ice Cream",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup orange juice",
+        "1/2 cup 2% milk",
+        "1 scoop vanilla whey protein"
+      ],
+      "instructions": [
+        "Combine ingredients and freeze 12–24 hours.",
+        "Spin on the Lite Ice Cream setting.",
+        "Add 1 tbsp milk and re-spin 1–2x until smooth."
+      ],
+      "prepNotes": "tastes like a copycat DQ Orange Julius",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T18:44:35.046Z"
+    },
+    {
+      "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
+      "title": "**Apple Butter Biscoff Protein Ice Cream",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup milk",
+        "1/2 scoop JI Salted Caramel protein",
+        "1/2 scoop LeanFit vanilla protein",
+        "1–2 tbsp apple butter or apple pie filling",
+        "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)",
+        "2 Biscoff cookies (mix-in)",
+        "1 tbsp apple butter (mix-in)"
+      ],
+      "instructions": [
+        "Mix base ingredients together in a Ninja Creami pint and freeze 24 hours.",
+        "Once frozen, spin on the Lite Ice Cream setting.",
+        "Respin if needed.",
+        "Add in apple butter and Biscoff cookies as mix-ins and spin on respin."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "apples",
+        "biscoff"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T18:44:17.247Z"
+    },
+    {
+      "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
+      "title": "Sweet Potato Ice Cream",
+      "servings": "creami tub",
+      "source": "georgeats.com",
+      "ingredients": [
+        "200 g sweet potato puree",
+        "150 g sweetened condensed milk (not evaporated milk)",
+        "100 g thickened cream (30–35% fat)",
+        "75 g full fat milk",
+        "Good pinch of fine salt",
+        "1/2–3/4 tsp pumpkin spice (optional)"
+      ],
+      "instructions": [
+        "Whisk all ingredients together until smooth and spices are integrated.",
+        "Pour into the tub and freeze 16–24 hours with the lid off.",
+        "Process on the ice cream function. Re-spin for a fluffier texture if desired."
+      ],
+      "prepNotes": "Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "sweet potato"
+      ],
+      "createdAt": "2026-06-30T17:29:44.270Z",
+      "updatedAt": "2026-06-30T18:45:11.025Z"
+    },
+    {
+      "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
+      "title": "Classic Ice Cream Base Recipe",
+      "servings": "creami tub",
+      "source": "insta: ninja_creami_recipes",
+      "ingredients": [
+        "1 cup 2% + milk",
+        "1 tbsp cream cheese (optional — makes the ice cream thicker)",
+        "1/4 cup heavy cream",
+        "1/4 cup granulated sugar"
+      ],
+      "instructions": [
+        "Mix all ingredients together in a pint tub and freeze 24 hours",
+        "Once frozen, spin on the ice cream setting.",
+        "The ice cream will come out slightly crumbly — add 1 tbsp milk and respin."
+      ],
+      "prepNotes": "For a thicker, still-creamy texture, freeze an additional 1–3 hours.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T17:10:58.648Z",
+      "updatedAt": "2026-06-30T18:44:59.499Z"
+    },
+    {
+      "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
+      "title": "Peanut Butter Ice Cream 1",
+      "servings": "1 tub",
+      "source": "",
+      "ingredients": [
+        "1/3 cup milk",
+        "2/3 cup cream",
+        "30g pb powder",
+        "5 tbsp sugar syrup",
+        "1/2 tsp vanilla"
+      ],
+      "instructions": [
+        "mix all and pour in tub"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": 4,
+      "tags": [
+        "peanut butter",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T16:43:37.207Z",
+      "updatedAt": "2026-07-01T05:57:19.035Z"
+    },
+    {
+      "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
+      "title": "Chocolate Ice Cream 1",
+      "servings": "1 tub",
+      "source": "",
+      "ingredients": [
+        "1/4 cup milk",
+        "1/2 cup cream",
+        "2 1/2 tsp sugar",
+        "2 tsp brown sugar",
+        "10g cocoa powder",
+        "1 tsp vanilla"
+      ],
+      "instructions": [
+        "Heat milk and sugar to melt",
+        "Add cream and vanilla",
+        "Pour into tub"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": 3,
+      "tags": [
+        "chocolate",
+        "ice cream"
+      ],
+      "createdAt": "2026-06-30T16:34:51.368Z",
+      "updatedAt": "2026-06-30T18:45:05.127Z"
+    }
+  ],
+  "pantry": [
+    "extra large eggs (150g out of shell)",
+    "fine salt",
+    "vanilla bean extract",
+    "full fat (high protein) milk",
+    "thickened cream (30–35% fat)",
+    "milk",
+    "cream",
+    "sugar",
+    "brown sugar",
+    "cocoa powder",
+    "vanilla",
+    "sugar syrup",
+    "pb powder",
+    "2% + milk",
+    "heavy cream",
+    "granulated sugar",
+    "full fat milk",
+    "good pinch of fine salt",
+    "orange juice",
+    "2% milk",
+    "scoop vanilla whey protein",
+    "of fine salt",
+    "boiling water",
+    "–150 g thickened cream, 35% milkfat",
+    "optional: few cracks freshly cracked black pepper",
+    "optional: tiny pinch fine salt",
+    "optional: tiny dash balsamic vinegar",
+    "water",
+    "–100 g lemon juice, to taste",
+    "–5 g baking soda",
+    "milk of choice",
+    "–100 g pure maple syrup",
+    "of salt",
+    "thickened cream",
+    "vanilla bean paste or extract",
+    "butter",
+    "light brown sugar",
+    "–50 g light agave syrup or pure maple syrup",
+    "(lightly heaped 1/8 tsp) xanthan gum",
+    "–1 g stevia powder",
+    "of vanilla bean paste or extract (optional)",
+    "fresh espresso, cooled for 5 minutes",
+    "full fat cream (35% butterfat)",
+    "full fat milk (regular or lactose free)",
+    "lime juice (or more, to taste)",
+    "lime zest, to taste (optional)",
+    "tiny pinch fine salt (optional)",
+    "–1.5 g xanthan gum (optional)",
+    "of cinnamon/nutmeg or apple pie spice (not too much!)",
+    "instant coffee",
+    "vanilla protein shake",
+    "full cream milk",
+    "yoghurt",
+    "instant pudding, vanilla",
+    "heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
+    "stevia",
+    "cacao powder",
+    "c milk",
+    "vanilla protein",
+    "salt",
+    "chocolate protein powder",
+    "unsweetened cocoa powder",
+    "high-protein almond milk",
+    "low fat milk",
+    "date paste or honey (to taste)",
+    "fat free fairlife milk",
+    "(1 tsp)  vanilla bean paste (or extract)",
+    "a pinch of salt",
+    "(¼ tsp)  xanthan gum",
+    "(1 tsp) vanilla bean paste (or extract)",
+    "(1/4 tsp) xanthan gum",
+    "chocolate chips mixed with 2g of coconut oil (mix-in)",
+    "(1 tsp) vanilla bean paste",
+    "sugar substitute",
+    "(¼ tsp) binding agent",
+    "fat free ultra-filtered milk",
+    "barebells protein bar (mix-in)",
+    "powdered peanut butter",
+    "scoop chocolate whey protein",
+    "shots of espresso",
+    "scoop vanilla protein",
+    "chopped coffee beans",
+    "chocolate chips",
+    "unsweetened almond milk",
+    "pure maple syrup",
+    "of sea salt",
+    "serving vanilla whey protein",
+    "scoop vanilla protein powder",
+    "whole milk",
+    "- unsweetened almond milk (1/2 cup)",
+    "- water (1 cup)",
+    "- peanut butter powder",
+    "- zero calorie sweetener of choice",
+    "- protein powder (casein works best)",
+    "- salt",
+    "- guar or xantham gum (optional)",
+    "peanut butter powder",
+    "vanilla extract",
+    "butterscotch pudding mix",
+    "xanthan gum",
+    "sweetener (erythritol)",
+    "scoop chocolate protein powder",
+    "dark cocoa powder",
+    "unsweetened oat, almond, or milk of choice",
+    "–2 tsp ground cinnamon",
+    "ground nutmeg",
+    "–2 tsp maple syrup",
+    "fat free cottage cheese",
+    "honey (topping)",
+    "medjool dates",
+    "almond milk",
+    "cocao powder",
+    "10% fat greek yogurt",
+    "0% greek yogurt",
+    "oats",
+    "banana",
+    "(¼ tsp) xanthan gum",
+    "(½ tbsp) peanut butter",
+    "(2 tbsp) lakanto peanut butter powder",
+    "(¼ tsp) salt",
+    "fat free ultra-filtered milk (or any fat free milk)",
+    "(1 tsp)  vanilla bean paste",
+    "a little sweetener",
+    "semi-skimmed milk",
+    "pb2",
+    "xanthan gum (optional)",
+    "כפות (20 גרם) תחליף סוכר/סוכר לבן",
+    "גרם שמנת לבישול 9%",
+    "גרם חלב",
+    "רבע כפית מלח גס",
+    "לבסיס הגלידה:",
+    "גביע (200 גרם) יוגורט חלבון בטעם קרמל מלוח או טבעי",
+    "סקופ (30 גרם) אבקת חלבון בטעם וניל / קרמל מלוח (או 2 כפות אינסטנט פודינג)",
+    "גרם מייצב גלידה (משדרג)",
+    "תוספת (אופציונלי): חופן בייגלה (בערך 15 גרם)",
+    "unsweetened vanilla almond milk",
+    "scoop of vanilla ice cream protein powder",
+    "pinch of xanthan gum",
+    "of vanilla extract",
+    "of xanthan gum",
+    "scoop of chocolate protein powder",
+    "cinnamon",
+    "sweeteners",
+    "unsweetened almond milk or full fat milk",
+    "of cinnamon",
+    "scoop of vanilla protein powder",
+    "of cocoa powder",
+    "optional: 2-4 drops of red food coloring (just darkens the mix)",
+    "mix-ins: 1 tbsp cinnamon",
+    "toppings: dash of cinnamon",
+    "of vanilla",
+    "brewed shot of expresso/coffee (2 oz) or 1 scoop of nespresso (if using this option keep the fairlife milk at 1 cup)",
+    "of dark cocoa powder or cocoa powder",
+    "of dark cocoa powder (can use 1 tbsp all dark if desired)",
+    "of fairlife skim milk",
+    "scoop vanilla ice cream protein powder",
+    "of nutmeg"
+  ]
+}
