@@ -1,6 +1,38 @@
 {
   "recipes": [
     {
+      "id": "e8094c91-f0eb-4de8-aff1-d3bbc3136a6e",
+      "title": "Ninja Creami Blueberry Cheesecake Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1¼ cups half and half",
+        "¾ cup blueberries",
+        "½ cup sweetened condensed milk",
+        "½ cup cream cheese",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons sugar"
+      ],
+      "instructions": [
+        "Macerate – Sprinkle sugar over the blueberries and let them sit for about 10 minutes to release their natural juices and enhance the flavor.",
+        "Blend – Add the macerated blueberries and the remaining ingredients to a blender or food processor and blend until smooth.",
+        "Freeze – Pour into a Ninja Creami pint container, cover, and freeze for 24 hours on a level surface.",
+        "Spin – Place in the Ninja Creami and use the Ice Cream mode to churn.",
+        "Respin – If the texture is crumbly, respin until it’s smooth and creamy.",
+        "Serve & enjoy – Scoop into a bowl, add toppings, and dig in!"
+      ],
+      "prepNotes": "If you love blueberries and cheesecake, this Ninja Creami Blueberry Cheesecake Ice Cream is for you! It’s smooth, creamy, and packed with sweet blueberry flavor—all made easily in your Ninja Creami.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-blueberry-cheesecake-ice-cream/",
+      "createdAt": "2026-07-02T09:53:24.849Z",
+      "updatedAt": "2026-07-02T09:53:24.849Z"
+    },
+    {
       "id": "0e335e37-7409-4fc5-8d87-ef0864f50dbe",
       "title": "Ninja Creami Cherry Ice Cream Recpe",
       "servings": "4",
