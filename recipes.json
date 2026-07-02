@@ -805,12 +805,9 @@
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Blueberry Pie/Blueberry Cheesecake",
+      "title": "Blueberry Cheesecake",
       "servings": "",
+      "source": "",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -830,6 +827,8 @@
       ],
       "instructions": [],
       "prepNotes": "This recipe brings together the velvety smoothness of cheesecake and the sweet burst of fresh blueberries. Crunchy bits of graham cracker cookies are the perfect touch!",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -839,7 +838,8 @@
         "frozen",
         "fruit"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:40:25.505Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
