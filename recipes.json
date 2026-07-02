@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-02T11:28:30.134Z",
-      "updatedAt": "2026-07-02T11:28:30.134Z",
-      "title": "Hazelnut Chocolate Coffee",
-      "servings": "1",
+      "title": "Hazelnut Chocolate Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "@karavasis reddit",
       "ingredients": [
         "225g fat free Fairlife",
         "200 unsweetened vanilla almond milk",
@@ -27,17 +24,17 @@
         "One spin on lite ice cream setting.",
         "Top with TJs dark chocolate covered espresso beans."
       ],
-      "prepNotes": "One spin on lite ice cream and that's it.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high protein",
         "coffee",
         "chocolate",
-        "ninja creami",
-        "low sugar"
+        "protein"
       ],
-      "source": "r/ninjacreami by karavasis (https://www.reddit.com/r/ninjacreami/comments/1uh2sqs/hazelnut_chocolate_coffee/)"
+      "createdAt": "2026-07-02T11:28:30.134Z",
+      "updatedAt": "2026-07-02T11:33:34.049Z"
     },
     {
       "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
