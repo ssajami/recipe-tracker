@@ -908,12 +908,9 @@
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
       "title": "Biscoff Ice Cream",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -929,16 +926,16 @@
         "Toppings: Biscoff Cookie Butter drizzled on top"
       ],
       "instructions": [],
-      "prepNotes": "Rich, creamy, and delightful Biscoff Ice Cream is made with plenty of crunchy Biscoff cookies and a generous swirl of sweet cookie butter.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen"
+        "biscoff",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:32:23.865Z"
     },
     {
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
