@@ -1199,12 +1199,9 @@
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Mississippi Mud",
-      "servings": "1",
+      "title": "Mississippi Mud Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1222,22 +1219,21 @@
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
+        "Freeze",
         "Add mini Oreos, dark chocolate chips, and fudge sauce as mix-ins and run mix-in cycle.",
         "Top with SF chocolate syrup and chips if desired."
       ],
       "prepNotes": "Holds all of the deliciousness you'd expect from a Mississippi Mud pie, including cookies, chocolate, coffee, and cream. You can remove the cream filling from the Oreos to reduce sugar and calorie intake.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
         "chocolate",
-        "coffee"
+        "coffee",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T07:17:57.439Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
