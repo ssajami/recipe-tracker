@@ -63,8 +63,9 @@
     },
     {
       "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
-      "title": "Ninja CREAMi Pistachio Ice Cream",
-      "servings": "4",
+      "title": "Pistachio Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 ½ cup half-and-half",
         "⅓ cup pistachio cream",
@@ -76,23 +77,20 @@
       ],
       "instructions": [
         "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth.",
-        "Freeze – Pour into a Ninja CREAMi pint, cover, and freeze for 24 hours on a level surface.",
-        "Spin – Insert into the Ninja CREAMi and use the “Ice Cream” setting.",
+        "Freeze – Pour into tub, cover, and freeze for 24 hours on a level surface.",
+        "Spin – use the “Ice Cream” setting.",
         "Respin if needed – If crumbly, add 1-2 tablespoons of milk and respin.",
-        "Add Mix-Ins – Stir in chopped pistachios, then return the pint to the Ninja Creami and select the Mix-In function.",
-        "Serve & Enjoy – Scoop, top with extras, and indulge!"
+        "Add Mix-Ins – Stir in chopped pistachios, and select the Mix-In function."
       ],
-      "prepNotes": "If you love creamy, nutty, and rich ice cream, this homemade pistachio ice cream is for you! With simple ingredients and the Ninja CREAMi, you can make this luscious treat easily at home.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "ice cream",
+        "pistachio"
       ],
-      "source": "https://thecreameri.com/ninja-creami-pistachio-ice-cream-recipe/",
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-02T11:27:35.610Z"
+      "updatedAt": "2026-07-02T11:41:10.890Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
