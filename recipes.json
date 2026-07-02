@@ -611,12 +611,9 @@
     },
     {
       "id": "56a3c6e9-7eb0-4a0d-a708-eb42b12d24de",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Pretzel Toffee Crunch",
-      "servings": "1 pint",
+      "title": "Pretzel Toffee Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -639,15 +636,15 @@
         "Top with Cool Whip."
       ],
       "prepNotes": "This vanilla base features a buttery taste of toffee and crunch overload with pretzels and Heathbars and dark chocolate chips.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
         "toffee"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:28:44.940Z"
     },
     {
       "id": "6708d926-e326-49d8-90e6-ba0cd1411281",
