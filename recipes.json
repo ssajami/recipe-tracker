@@ -346,12 +346,9 @@
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Cosmic Brownie",
-      "servings": "1 pint",
+      "title": "Cosmic Brownie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -375,16 +372,16 @@
         "Add the diced Cosmic Brownie and rainbow sprinkles during the mix-in cycle.",
         "Top with rainbow sprinkles and sugar free Hershey chocolate syrup."
       ],
-      "prepNotes": "This is a traditionally churned dark chocolate ice cream packed with decadent Little Debbie Cosmic Brownie snacks.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
         "chocolate"
       ],
-      "source": "https://www.youtube.com/watch?v=wUOcU8VDDMQ&list=PL4qtMlW9Grwnl4xfVp9Ki61y4461icOK5&index=34"
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:25:37.577Z"
     },
     {
       "id": "859c87d5-d30e-4d69-ac4f-89156bf7652f",
