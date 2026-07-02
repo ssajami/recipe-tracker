@@ -935,12 +935,9 @@
     },
     {
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
       "title": "Watermelon Italian Ice",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1.5 cups deseeded Watermelon",
         "1/2 cup water",
@@ -950,18 +947,15 @@
         "Pinch of Xanthan gum"
       ],
       "instructions": [],
-      "prepNotes": "A light summertime sweetness, refreshing and cool. No mix-ins or toppings. Note: Macros are much lower than the standard recipe. Maybe 100 calories total.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "Italian ice",
-        "frozen",
-        "low-calorie",
-        "sugar-free",
-        "vegan",
-        "fruit",
-        "quick"
+        "sorbet"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:44:31.009Z"
     },
     {
       "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
