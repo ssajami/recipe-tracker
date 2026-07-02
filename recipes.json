@@ -1577,12 +1577,9 @@
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Tiramisu",
-      "servings": "",
+      "title": "Tiramisu Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -1601,17 +1598,16 @@
         "Toppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder"
       ],
       "instructions": [],
-      "prepNotes": "This creamy and decadent recipe is the perfect treat for any coffee lover! Has all the classic flavors of the famous Italian dessert, including espresso-soaked ladyfingers, mascarpone cheese, and a topping of cocoa powder. Special Note: It's the most labor-intensive of all the Creami's. You also have options for additional caffeine and Mix-ins.",
+      "prepNotes": "Special Note: It's the most labor-intensive of all the Creami's. You also have options for additional caffeine and Mix-ins.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "Italian",
-        "coffee",
-        "frozen"
+        "coffee"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:13:23.392Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
