@@ -1678,12 +1678,9 @@
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Reese's Peanut Butter Explosion",
-      "servings": "",
+      "title": "Reese's Peanut Butter Explosion Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1699,18 +1696,17 @@
         "Toppings (Optional): More Reese candy - Reese Pieces add a nice color pop"
       ],
       "instructions": [],
-      "prepNotes": "One of my personal favorites, Peanut butter base ice cream infused with butter extract and butterscotch to enhance that buttery goodness of this hearty flavor infused with Reese's Peanut Butter cups or Reese's pieces for a bit of color—or why not both!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "peanut butter",
-        "chocolate",
-        "candy",
-        "frozen"
+        "chocolate"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:36:56.527Z"
     },
     {
       "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
