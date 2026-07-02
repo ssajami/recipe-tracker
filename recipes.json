@@ -734,8 +734,9 @@
     },
     {
       "id": "8e879d6b-38fe-496f-96cf-85b1a319bdad",
-      "title": "Ninja Creami Creamy Strawberry Sorbet",
-      "servings": "4",
+      "title": "Creamy Strawberry Sorbet",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "10 large Strawberries",
         "¾ cup water",
@@ -749,17 +750,15 @@
         "Respin if Needed: If it's not creamy enough, simply respin once more.",
         "Serve and Enjoy: Scoop your creamy strawberry sorbet and enjoy immediately!"
       ],
-      "prepNotes": "Forget everything you know about classic sorbet—this creamy  strawberry sorbet made in your Ninja Creami takes it to a whole new level! Just one taste, and you&#39;ll never settle for ordinary sorbet again.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "strawberry",
+        "sorbet"
       ],
-      "source": "https://thecreameri.com/ninja-creami-creamy-strawberry-sorbet/",
       "createdAt": "2026-07-02T10:00:57.501Z",
-      "updatedAt": "2026-07-02T10:00:57.501Z"
+      "updatedAt": "2026-07-02T11:56:06.476Z"
     },
     {
       "id": "e8094c91-f0eb-4de8-aff1-d3bbc3136a6e",
