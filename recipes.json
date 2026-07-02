@@ -1,6 +1,39 @@
 {
   "recipes": [
     {
+      "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
+      "title": "Ninja Creami Pumpkin Cheesecake Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup half and half",
+        "2 ounce cream cheese",
+        "½  cup equivalent sweetened condensed milk",
+        "¾ cup pumpkin puree",
+        "1 teaspoon pumpkin spice",
+        "1 teaspoon vanilla extract",
+        "1 sheets  graham cracker"
+      ],
+      "instructions": [
+        "Blend all but the graham crackers until ultra smooth.",
+        "Pour into Ninja Creami pint, close lid, freeze 24 hours on level surface.",
+        "Remove, spin on Ice Cream mode.",
+        "Create a small well, add 1 Tbsp extra liquid if needed, respin.",
+        "Add graham cracker crumbs to the well, hit mix-in mode or stir gently.",
+        "Serve immediately or level and freeze for future respinning."
+      ],
+      "prepNotes": "This Ninja Creami Pumpkin Cheesecake Ice Cream is thick, creamy, and packed with cozy fall flavor. It tastes like real cheesecake filling with pumpkin spice and spins smooth without pudding mix or gums.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-pumpkin-cheesecake-ice-cream/",
+      "createdAt": "2026-07-02T11:25:56.719Z",
+      "updatedAt": "2026-07-02T11:25:56.719Z"
+    },
+    {
       "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
       "title": "Ninja Creami Maple Walnut Ice Cream",
       "servings": "4",
