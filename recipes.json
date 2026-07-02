@@ -483,12 +483,9 @@
     },
     {
       "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Red Velvet",
-      "servings": "1 pint",
+      "title": "Red Velvet Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -508,14 +505,15 @@
         "Add cream cheese during the mix-in cycle: pre-freeze it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint."
       ],
       "prepNotes": "A traditional vanilla ice cream complemented with Red Velvet Pudding and cream cheese for that signature red velvet taste. Cream cheese can dial up the fat, so opt for Low Fat or Non Fat Cream Cheese if watching macros.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein"
+        "unique"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T03:29:01.633Z"
     },
     {
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
