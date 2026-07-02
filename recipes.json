@@ -1017,12 +1017,9 @@
     },
     {
       "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Girl Scout Cookie Lemonades",
-      "servings": "1",
+      "title": "Girl Scout Cookie Lemonades Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -1043,16 +1040,16 @@
         "Add broken Lemonades cookie mix-ins and run mix-in cycle.",
         "Top with crumbled cookies and cool whip if desired."
       ],
-      "prepNotes": "Vanilla butter base with a hint of lemon blended with your favorite Girl Scout Cookies. Experiment with lemon and butterscotch pudding ratios to find your preference. These mix-ins will kill your macros!",
+      "prepNotes": "Vanilla butter base with a hint of lemon blended with your favorite Girl Scout Cookies.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
-        "lemon"
+        "lemon",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:47:52.535Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
