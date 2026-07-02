@@ -1,6 +1,36 @@
 {
   "recipes": [
     {
+      "id": "0e335e37-7409-4fc5-8d87-ef0864f50dbe",
+      "title": "Ninja Creami Cherry Ice Cream Recpe",
+      "servings": "4",
+      "ingredients": [
+        "1 cup Maraschino cherries",
+        "1½ cup Half and half",
+        "6 tablespoon White sugar",
+        "½ cup Cottage cheese",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Blend: Add all ingredients to a blender or food processor. Blend until completely smooth.",
+        "Freeze: Pour the mixture into a Ninja Creami pint container. Level the top, cover, and freeze for 24 hours on a flat surface.",
+        "Spin: Remove the lid and insert the pint into the Ninja Creami Deluxe machine. Select the Ice Cream function.",
+        "Respin (If Needed): If the texture is crumbly, add 1–2 tablespoons of milk and use the Respin function.",
+        "Serve: Scoop and enjoy immediately or transfer to a container for later."
+      ],
+      "prepNotes": "This is the cherry ice cream I kept wishing existed—creamy, and actually full of real cherry flavor. If you’ve been disappointed by bland or fake-tasting cherry recipes, this one’s about to change that.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-cherry-ice-cream/",
+      "createdAt": "2026-07-02T09:51:21.409Z",
+      "updatedAt": "2026-07-02T09:51:21.409Z"
+    },
+    {
       "id": "c49a69ae-722f-455f-8213-8cfd48c198cf",
       "title": "Ninja Creami Mixed Berry Ice Cream",
       "servings": "4",
