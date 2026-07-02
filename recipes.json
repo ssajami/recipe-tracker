@@ -246,12 +246,9 @@
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Dulce De Leche",
-      "servings": "1 pint",
+      "title": "Dulce De Leche Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -268,18 +265,16 @@
         "No mix-ins.",
         "Top with Non Fat Cool Whip (Optional: mix in bowl with 1 Tbsp of Dulche De Leche Syrup before adding) and SF Caramel Sauce."
       ],
-      "prepNotes": "Dulce de Leche is a rich, sweet confection of milk and sugar with a creamy, caramel-like sauce, popular across Latin America.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "caramel",
-        "Latin American",
-        "low-sugar",
-        "keto-friendly"
+        "caramel"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:16:04.258Z"
     },
     {
       "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
