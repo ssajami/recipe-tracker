@@ -676,47 +676,6 @@
       "updatedAt": "2026-07-02T06:31:20.008Z"
     },
     {
-      "id": "53390bcd-c6c4-41ff-9a2a-e04198432bf4",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Rice Crispy Treat",
-      "servings": "1 pint",
-      "ingredients": [
-        "1 cup of Fairlife Skim Milk",
-        "3/4 cup unsweetened vanilla almond milk",
-        "1 tbsp sugar-free Vanilla pudding",
-        "1 scoop of Ryse Jett Puff Protein Powder OR (Vanilla Ice Cream-Not quite as good)",
-        "1 tbsp Allulose",
-        "Pinch of Xanthan gum",
-        "Pinch of salt",
-        "1/2 teaspoon of Marshmallow Extract (Needs more than normal to achieve the flavor)",
-        "Mix-ins: Rice Crispy Treat Square OR HAND STIR Plain Rice Krispies for less calories",
-        "Mix-ins: Jet Puff marshmallow swirls (hand stirred)",
-        "Toppings: Rice Crispy Sprinkled on top",
-        "Toppings: Optional Mini Marshmallows",
-        "Toppings: Optional Cool Whip"
-      ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Churn as a vanilla base ice cream.",
-        "Hand stir in the mix-ins to keep the Rice Krispies crunchy and the Jet Puff marshmallows soft. Running them on mixin setting will pulverize them.",
-        "Add marshmallow swirls by hand stirring in Jet Puff (actual marshmallows get hard from the cold; freeze dried marshmallows have a Lucky Charm cereal texture; for soft mallow use Jet Puff).",
-        "Top with Rice Crispy sprinkled on top, optional mini marshmallows (try kitchen blow torch toasting), and optional Cool Whip."
-      ],
-      "prepNotes": "Vanilla base with marshmallow extract and rice crispy mixins. This one needs hand stirring for the mixins to keep the Rice Crispys crunchy and the Jet Puff Marshmallows soft.",
-      "tags": [
-        "dessert",
-        "ice cream",
-        "protein",
-        "sugar-free",
-        "high-protein",
-        "marshmallow"
-      ],
-      "source": ""
-    },
-    {
       "id": "85183f50-1883-410d-91ce-5670ee6460f7",
       "afterPrepNotes": "",
       "rating": null,
