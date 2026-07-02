@@ -1,6 +1,36 @@
 {
   "recipes": [
     {
+      "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
+      "title": "Ninja Creami Hot Honey Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1¾ cup Half-and-Half",
+        "¼ cup Hot Honey",
+        "½ cup Cottage Cheese",
+        "1 teaspoon Vanilla Extract or vanilla bean paste",
+        "Pinch Salt"
+      ],
+      "instructions": [
+        "Blend the ingredients: In a blender, combine half-and-half, hot honey, cottage cheese, vanilla, and salt. Blend until smooth.",
+        "Freeze: Pour the mixture into a Ninja CREAMi pint container. Freeze for 12-24 hours.",
+        "Spin in Ninja CREAMi: Insert the pint into the Ninja CREAMi Deluxe and select the “Ice Cream” setting.",
+        "Re-spin if needed: If the texture is crumbly, add 1-2 tbsp of milk and re-spin until creamy.",
+        "Enjoy! Serve plain or with fun toppings!"
+      ],
+      "prepNotes": "Sweet, creamy, and with a spicy kick—this Hot Honey Ice Cream made in the Ninja Creami is the ultimate sweet-heat treat! With just the right balance of rich dairy and a drizzle of spicy honey, this easy recipe will keep you coming back for more.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-hot-honey-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:04:07.714Z",
+      "updatedAt": "2026-07-02T10:04:07.714Z"
+    },
+    {
       "id": "048300fd-295a-4a6f-9959-8434c262f37a",
       "title": "Ninja Creami Cookies and Cream Ice Cream",
       "servings": "4",
