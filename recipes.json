@@ -555,8 +555,9 @@
     },
     {
       "id": "048300fd-295a-4a6f-9959-8434c262f37a",
-      "title": "Ninja Creami Cookies and Cream Ice Cream",
-      "servings": "4",
+      "title": "Cookies and Cream Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1½ cups milk (2% or whole)",
         "¼ cup heavy cream",
@@ -578,13 +579,11 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "snacks",
-        "American"
+        "ice cream",
+        "cookies and cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-cookies-and-cream-ice-cream-recipe/",
       "createdAt": "2026-07-02T10:03:44.820Z",
-      "updatedAt": "2026-07-02T10:03:44.820Z"
+      "updatedAt": "2026-07-02T11:44:35.796Z"
     },
     {
       "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
