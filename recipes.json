@@ -517,12 +517,9 @@
     },
     {
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Cinnamon Toast Crunch",
-      "servings": "1 pint",
+      "title": "Cinnamon Toast Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -545,16 +542,16 @@
         "Add cinnamon and cereal during the mix-in cycle.",
         "Top with Cool Whip, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
       ],
-      "prepNotes": "Your favorite cinnamon cereal transformed into a smooth, creamy texture, complemented with bits of crunchy goodness.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
         "cinnamon"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T03:30:07.363Z"
     },
     {
       "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
