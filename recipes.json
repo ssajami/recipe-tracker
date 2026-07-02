@@ -1,6 +1,36 @@
 {
   "recipes": [
     {
+      "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
+      "title": "Ninja Creami Peanut Butter Cup Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 ½ cups milk",
+        "¼ cup heavy cream",
+        "¼ cup sweetened condensed milk",
+        "¼ cup creamy peanut butter",
+        "Pinch of salt",
+        "3 to 4  mini peanut butter cups"
+      ],
+      "instructions": [
+        "Blend the base. Add the milk, heavy cream, sweetened condensed milk, creamy peanut butter, and salt to a blender. Blend until completely smooth, about 45 to 60 seconds, making sure the peanut butter is fully incorporated with no streaks.",
+        "Pour and freeze. Pour the mixture into your Ninja Creami pint container, making sure it does not go past the max fill line. Cover with the lid and freeze for 24 hours, or until completely solid.",
+        "Thaw slightly, then spin. Remove the pint from the freezer and let it sit at room temperature for about 5 minutes. Process on the Ice Cream setting. If it looks crumbly after the first spin, run a Re-Spin.",
+        "Add the mix-ins. Make a hole in the center of the ice cream with a spoon. Chop the mini peanut butter cups and add them to the center. Process on the Mix-In setting.",
+        "Serve. Scoop and serve right away."
+      ],
+      "prepNotes": "This Ninja Creami peanut butter cup ice cream is creamy, rich, and packed with peanut butter flavor in every bite. The base comes together in minutes with milk, cream, sweetened condensed milk, and real peanut butter, then gets finished with chopped mini peanut butter cups for that classic candy-style mix-in.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-peanut-butter-cup-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:03:15.958Z",
+      "updatedAt": "2026-07-02T10:03:15.958Z"
+    },
+    {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
       "title": "Ninja Creami Black Sesame Ice Cream",
       "servings": "4",
