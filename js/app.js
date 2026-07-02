@@ -155,6 +155,8 @@ const App = {
     editInstructions = recipe ? [...(recipe.instructions || [''])] : [''];
     editTags = recipe ? [...(recipe.tags || [])] : [];
     editRating = recipe ? (recipe.rating || null) : null;
+    state.chatMessages = [];
+    state.chatOpen = false;
     state.view = 'edit';
     render();
   },
@@ -392,7 +394,7 @@ const App = {
     const text = input?.value.trim();
     if (!text || state.chatLoading) return;
 
-    const r = state.recipes.find(x => x.id === state.detailId);
+    const r = state.recipes.find(x => x.id === (state.detailId || state.editId));
     state.chatMessages.push({ role: 'user', content: text });
     input.value = '';
     state.chatLoading = true;
@@ -923,7 +925,7 @@ function renderIngredientChecklist(ingredients) {
 
 // ── Render Functions ────────────────────────────────────────────────────────
 function render() {
-  if (state.view !== 'detail') cleanupDetailView();
+  if (state.view !== 'detail' && state.view !== 'edit') cleanupDetailView();
   switch (state.view) {
     case 'list':     renderList();         break;
     case 'detail':   renderDetail();       break;
@@ -1098,6 +1100,8 @@ function renderEdit() {
     <button class="btn-primary" style="padding:8px 16px" onclick="App.saveEdit()">Save</button>
   `);
 
+  if (!isNew) document.getElementById('app-main').classList.add('detail-wide');
+
   document.getElementById('app-main').innerHTML = `
     <div class="edit-view">
       <div class="form-group">
@@ -1152,6 +1156,25 @@ function renderEdit() {
         <button class="btn-secondary" onclick="App.goBack()">Cancel</button>
       </div>
     </div>
+
+    ${!isNew ? `
+    <aside class="chat-panel${state.chatOpen ? ' open' : ''}" id="chat-panel">
+      <div class="chat-header">
+        <span>💬 Recipe Assistant</span>
+        <button class="chat-close-btn" onclick="App.toggleChat()">✕</button>
+      </div>
+      <div class="chat-messages" id="chat-messages">
+        <p class="chat-empty">Ask about substitutions, techniques, or anything about this recipe.</p>
+      </div>
+      <div class="chat-input-area">
+        <input type="text" id="chat-input" placeholder="e.g. substitute for cream…"
+               onkeydown="App.handleChatKey(event)" autocomplete="off">
+        <button class="chat-send-btn" onclick="App.sendChatMessage()">&#9650;</button>
+      </div>
+    </aside>
+
+    <button class="chat-fab" onclick="App.toggleChat()" title="Ask about this recipe">💬</button>
+    ` : ''}
   `;
 }
 
