@@ -736,12 +736,9 @@
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Key Lime Pie",
-      "servings": "",
+      "title": "Key Lime Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -761,16 +758,15 @@
       ],
       "instructions": [],
       "prepNotes": "Like limeade, this easy lime ice cream recipe is sweet and tangy, made with real lime juice and lime zest, and an ultra-refreshing treat for a hot summer day.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "citrus"
+        "citrus",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:38:38.694Z"
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
