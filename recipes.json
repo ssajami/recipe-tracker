@@ -705,12 +705,9 @@
     },
     {
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Orange Creamsicle",
-      "servings": "",
+      "title": "Orange Creamsicle Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -726,17 +723,16 @@
         "Toppings: Optional: Cool Whip"
       ],
       "instructions": [],
-      "prepNotes": "Tastes just like your favorite vanilla and orange popsicles. The sweet and tangy flavor of this orange creamsicle ice cream. No mix-ins.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "citrus"
+        "citrus",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:37:16.194Z"
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
