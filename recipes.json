@@ -158,8 +158,9 @@
     },
     {
       "id": "a6da4888-e7e5-44f9-802b-91f74e991d49",
-      "title": "Ninja Creami Pumpkin Spice Latte Ice Cream",
-      "servings": "4",
+      "title": "Pumpkin Spice Latte Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "¾ cup half and half ((equal parts milk and heavy cream))",
         "½ cup sweetened condensed milk",
@@ -172,24 +173,22 @@
       ],
       "instructions": [
         "Blend the base: Add half &amp; half, sweetened condensed milk, cottage cheese, pumpkin purée, brown sugar (or allulose), espresso powder, pumpkin spice, and vanilla extract to a blender. Blend on high until completely smooth and creamy — no lumps or grainy bits.",
-        "Freeze the pint: Pour the mixture into a Ninja Creami pint, stopping just below the max fill line. Freeze flat for at least 24 hours.",
-        "Spin the base: Remove the pint from the freezer, take off the lid, and install it into your Ninja Creami bowl assembly. Select the Ice Cream function and let it run through the full cycle.",
+        "Freeze the pint: Pour the mixture into a tub, stopping just below the max fill line. Freeze flat for at least 24 hours.",
+        "Spin Select the Ice Cream function and let it run through the full cycle.",
         "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half &amp; half before respinning for extra creaminess.",
         "Add mix-ins (optional): Once you’ve hit your ideal texture, add any mix-ins — like crushed gingersnaps, caramel bits, or toasted pecans — and run the Mix-In cycle.",
         "Serve &amp; enjoy: Scoop it right away for soft-serve texture or refreeze for 30 minutes if you prefer it firmer."
       ],
-      "prepNotes": "Creamy pumpkin spice ice cream with a subtle coffee kick, made in the Ninja Creami with simple ingredients and no gums or pudding mix.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
         "ice cream",
-        "snacks",
-        "American"
+        "unique",
+        "pumpkin"
       ],
-      "source": "https://thecreameri.com/ninja-creami-pumpkin-spice-latte-ice-cream/",
       "createdAt": "2026-07-02T11:26:32.083Z",
-      "updatedAt": "2026-07-02T11:26:32.083Z"
+      "updatedAt": "2026-07-02T11:53:02.444Z"
     },
     {
       "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
