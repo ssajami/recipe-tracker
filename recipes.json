@@ -959,12 +959,9 @@
     },
     {
       "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
       "title": "Strawberry Italian Ice",
       "servings": "",
+      "source": "",
       "ingredients": [
         "1.5 cups fresh strawberries, diced",
         "1/2 cup water",
@@ -976,18 +973,15 @@
         "Mix-ins: Optional: Cool whip, Chocolate Chips"
       ],
       "instructions": [],
-      "prepNotes": "A light summertime sweetness, refreshing and cool. No toppings. Note: Macros are much lower than the standard recipe. Maybe 150 calories total.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
-        "Italian ice",
-        "frozen",
-        "low-calorie",
-        "sugar-free",
-        "vegan",
-        "fruit",
-        "quick"
+        "strawberry",
+        "sorbet"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:45:01.115Z"
     },
     {
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
