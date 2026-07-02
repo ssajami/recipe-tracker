@@ -240,6 +240,7 @@ const App = {
       afterPrepNotes: document.getElementById('edit-after-notes')?.value.trim() || '',
       rating:         editRating,
       tags:           editTags,
+      pinned:         existing?.pinned || false,
       createdAt:      existing?.createdAt || new Date().toISOString(),
       updatedAt:      new Date().toISOString(),
     };
