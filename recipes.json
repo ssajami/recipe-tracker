@@ -1012,8 +1012,9 @@
     },
     {
       "id": "8a48d4f8-9888-463c-88a9-9f2edbf5d71e",
-      "title": "Ninja Creami Olive Oil Ice Cream",
-      "servings": "4",
+      "title": "Olive Oil Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "2 cups half and half",
         "3 tablespoon extra virgin olive oil",
@@ -1023,21 +1024,20 @@
       ],
       "instructions": [
         "Blend: Combine half and half, olive oil, sweetened condensed milk, vanilla, and lemon in a blender. Blend until smooth and fully emulsified — meaning the olive oil is completely mixed in with no oily layer on top. It should look creamy and uniform, not separated.",
-        "Freeze: Pour into a Ninja Creami pint and freeze for 24 hours on a level surface.",
-        "Spin: Run the “Ice Cream” mode on your Ninja Creami.",
+        "Freeze for 24 hours on a level surface.",
+        "Spin: Run on “Ice Cream” mode",
         "Respin: If the texture looks crumbly, make a small well in the center, add about 1 tablespoon of half and half, then respin until smooth.",
         "Scoop &amp; Serve: Scoop and enjoy right away, or drizzle extra olive oil and add mix-ins like sea salt or nuts."
       ],
-      "prepNotes": "This Ninja Creami olive oil ice cream is smooth, rich, and subtly fruity with a clean finish. Olive oil and lemon keep the texture creamy without feeling heavy.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "ice cream",
+        "unique"
       ],
-      "source": "https://thecreameri.com/ninja-creami-olive-oil-ice-cream/",
       "createdAt": "2026-07-02T09:46:57.084Z",
-      "updatedAt": "2026-07-02T09:46:57.092Z"
+      "updatedAt": "2026-07-02T11:32:16.656Z"
     },
     {
       "id": "41c74812-0fd3-4363-9dbb-f2482ed656e1",
