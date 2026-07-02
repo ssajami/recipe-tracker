@@ -1090,12 +1090,9 @@
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Girl Scout Cookie Do-Si-Dos or Tagalongs",
-      "servings": "1",
+      "title": "Girl Scout Cookie Do-Si-Dos Ice t",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -1117,16 +1114,15 @@
         "Add broken cookie mix-ins and run mix-in cycle.",
         "Top with crumbled cookies and cool whip if desired."
       ],
-      "prepNotes": "Peanut Butter base blended with your favorite Girl Scout Cookies. Tagalongs are favorites, but any cookie will do. These mix-ins will kill your macros! Support your local troop!",
+      "prepNotes": "Peanut Butter base blended with your favorite Girl Scout Cookies. any cookie will do.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
         "peanut butter"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:51:21.073Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
