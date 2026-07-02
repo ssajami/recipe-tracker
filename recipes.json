@@ -1,6 +1,38 @@
 {
   "recipes": [
     {
+      "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
+      "title": "Ninja Creami Banana Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1  ripe banana",
+        "½ cup sweetened condensed milk",
+        "¾ cup whole milk or 2% milk",
+        "¼ cup heavy whipping cream",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Add the banana to your Ninja Creami pint container and mash with a fork until mostly smooth.",
+        "Pour in the sweetened condensed milk, milk, heavy cream, and vanilla extract. Stir until fully combined.",
+        "Freeze the pint on a flat surface for 24 hours.",
+        "Remove from freezer and let sit 1 to 2 minutes. Run warm water over the outside of the pint for 30 seconds.",
+        "Install pint in machine and run **Ice Cream** cycle.",
+        "If crumbly, add 1 tablespoon milk and run **Respin**.",
+        "Serve immediately for soft-serve texture or freeze 15 to 20 minutes for firmer scoops."
+      ],
+      "prepNotes": "Creamy, real-banana Ninja Creami ice cream made with five simple ingredients and sweetened condensed milk for the smoothest texture. No icy pint here, just rich banana flavor and scoop-shop vibes straight from your freezer.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-banana-ice-cream-recipe/",
+      "createdAt": "2026-07-02T09:50:39.244Z",
+      "updatedAt": "2026-07-02T09:50:39.244Z"
+    },
+    {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
       "title": "Ninja Creami Strawberry Banana Ice Cream",
       "servings": "4",
