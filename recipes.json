@@ -1,6 +1,40 @@
 {
   "recipes": [
     {
+      "id": "3f1256d2-01d2-48bd-8038-955ea0cdf352",
+      "title": "Ninja Creami Strawberry Protein Frozen Yogurt",
+      "servings": "4",
+      "ingredients": [
+        "1 cup strawberries (hulled, fresh or frozen and thawed)",
+        "½ cup whole milk or 2% milk",
+        "¾ cup full-fat or 2% Greek yogurt",
+        "½ cup cottage cheese",
+        "⅓ cup allulose",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Add the cottage cheese, strawberries, Greek yogurt, allulose, vanilla extract, and milk to a blender. Blend until completely smooth, with no visible cottage cheese curds or strawberry pieces.",
+        "Pour the mixture into a Ninja Creami pint container, keeping it at or below the max fill line.",
+        "Seal the pint and freeze on a level surface for 24 hours.",
+        "Remove the pint from the freezer and let it sit at room temperature for 2 to 3 minutes.",
+        "Process on the Lite Ice Cream setting for a lighter froyo texture, or use Ice Cream for a denser result.",
+        "Respin once if the texture is crumbly after the first spin.",
+        "Scoop and serve immediately, or refreeze for 20 to 30 minutes for firmer scoops."
+      ],
+      "prepNotes": "This Ninja Creami Strawberry Protein Frozen Yogurt is tangy, creamy, and packed with real strawberry flavor. Greek yogurt and cottage cheese add protein and body, while allulose keeps the texture smooth and scoopable.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "ice cream",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-strawberry-protein-frozen-yogurt/",
+      "createdAt": "2026-07-02T09:47:56.373Z",
+      "updatedAt": "2026-07-02T09:47:56.373Z"
+    },
+    {
       "id": "e81bf5d6-9676-4631-b883-b5ee038137a2",
       "title": "Ninja Creami High Protein Strawberry Cheesecake Ice Cream",
       "servings": "4",
