@@ -1738,12 +1738,9 @@
     },
     {
       "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Carrot Cake",
-      "servings": "",
+      "title": "Carrot Cake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -1761,16 +1758,14 @@
         "This has lots of mix-ins, make sure you eat a big hole out of the all the way to the bottom!"
       ],
       "prepNotes": "A sweet and spicy profile, much like a classic spice cake, rather than tasting strongly of carrots. The carrots add natural sweetness and moisture, but their flavor is subtle and overshadowed by the aromatic spices of cinnamon and nutmeg. Topped with Cool Whip and Cinnamon Graham Crackers.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "high-protein",
-        "cake",
-        "spice",
-        "frozen"
+        "protein"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:16:59.337Z"
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
