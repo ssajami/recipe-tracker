@@ -1404,12 +1404,9 @@
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Pumpkin Spice",
-      "servings": "",
+      "title": "Pumpkin Spice Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -1425,17 +1422,16 @@
         "Toppings: Cool Whip, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top"
       ],
       "instructions": [],
-      "prepNotes": "A favorite Autumn seasonal treat! Packed with pumpkin and allspice, with crunchy graham crackers 'crust' and topped with cool whip.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "seasonal",
-        "autumn",
-        "frozen"
+        "pumpkin"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:19:53.425Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
