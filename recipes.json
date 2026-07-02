@@ -528,12 +528,9 @@
     },
     {
       "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
       "title": "Sherbert (Lime, Orange, Raspberry, Strawberry)",
-      "servings": "1 pint",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -556,16 +553,14 @@
         "Top with Cool Whip."
       ],
       "prepNotes": "Your favorite summertime treat of fruit infused ice cream. Make sure to RUN ON SHERBERT SETTING!",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
-        "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
-        "fruit",
         "sherbert"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:33:15.840Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
