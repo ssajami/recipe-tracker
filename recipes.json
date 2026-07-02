@@ -45,12 +45,12 @@
         "Lemonade (fill to the line)"
       ],
       "instructions": [
-        "Add raspberries and lemonade to the 24 oz deluxe pint, filling to the max line.",
-        "Freeze according to Ninja Creami instructions.",
+        "Add raspberries and lemonade to the tub, filling to the max line.",
+        "Freeze",
         "Process using the sorbet option.",
         "Run 1 respin for the best texture."
       ],
-      "prepNotes": "Recipe is for the 24 oz deluxe pint. Fill the lemonade to the max line (not a specific large measured amount). Used the sorbet setting with 1 respin.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -58,7 +58,7 @@
         "raspberry"
       ],
       "createdAt": "2026-07-02T11:27:59.554Z",
-      "updatedAt": "2026-07-02T11:38:34.786Z"
+      "updatedAt": "2026-07-02T17:26:24.486Z"
     },
     {
       "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
