@@ -278,12 +278,9 @@
     },
     {
       "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Cookies Over Texas",
-      "servings": "1 pint",
+      "title": "Cookies Over Texas Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -299,16 +296,15 @@
         "Add mix-ins: Chocolate chip Cookie Dough (Keto or Regular), Oreo's (SF Oreos or Oreo Thins/Minis/Regular, can remove the cream for fewer calories).",
         "Optional toppings: Cool Whip, SF Chocolate Syrup, Chocolate Sprinkles, crumbled cookie bits."
       ],
-      "prepNotes": "One of my favorites hailing from my home state Texas. Classic vanilla base ice cream loaded with big chunks of chocolate chip cookie dough and Oreo cookies. It's all about the mixins! Hard to keep macro friendly as the mix-ins can double or triple total calories; possible with SF Oreos or Oreo Thins with cream removed and homemade Keto Cookie Dough.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "high-protein",
-        "cookies",
-        "low-sugar"
+        "protein"
       ],
-      "source": "BUM Whey Protein recipe collection (Keto cookie dough: https://alldayidreamaboutfood.com/keto-chocolate-chip-cookies/#recipe)"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:24:13.280Z"
     },
     {
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
