@@ -1,6 +1,39 @@
 {
   "recipes": [
     {
+      "id": "048300fd-295a-4a6f-9959-8434c262f37a",
+      "title": "Ninja Creami Cookies and Cream Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1½ cups milk (2% or whole)",
+        "¼ cup heavy cream",
+        "½ cup sweetened condensed milk",
+        "2 teaspoons vanilla extract",
+        "1 pinch salt",
+        "4  –6 Oreo cookies (broken into chunks (for mix-in))"
+      ],
+      "instructions": [
+        "Add the milk, heavy cream, sweetened condensed milk, vanilla extract, and salt directly to the Ninja Creami pint container. Use a small whisk, milk frother, or spoon to mix until fully combined and smooth.",
+        "Freeze on a level surface for 24 hours until completely solid.",
+        "Remove the pint from the freezer and place it into the Ninja Creami outer bowl.",
+        "Process using the Ice Cream setting.",
+        "If the texture looks crumbly or powdery, add 1 tablespoon milk and run Respin once.",
+        "Create a hole in the center of the ice cream, add the broken Oreo cookies, and run the Mix-In cycle.",
+        "Scoop, serve, and try not to eat it straight from the pint standing at the counter."
+      ],
+      "prepNotes": "This Ninja Creami Cookies and Cream Ice Cream is rich, creamy, and packed with crunchy Oreo cookie pieces in every bite. No cream cheese, no pudding mix, and no weird extras—just a smooth homemade vanilla base with classic cookies and cream flavor. It tastes like the real deal and disappears fast in my house.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "snacks",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-cookies-and-cream-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:03:44.820Z",
+      "updatedAt": "2026-07-02T10:03:44.820Z"
+    },
+    {
       "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
       "title": "Ninja Creami Peanut Butter Cup Ice Cream",
       "servings": "4",
