@@ -1,6 +1,36 @@
 {
   "recipes": [
     {
+      "id": "175ed17e-2caf-44bc-badf-91bd0b720bfc",
+      "title": "Ninja CREAMi Sugar Free Blackberry Sorbet",
+      "servings": "4",
+      "ingredients": [
+        "2 cups Fresh blackberries (You can use frozen ones too!)",
+        "2 teaspoon Lemon juice",
+        "1 cup Water",
+        "3 tablespoon monk fruit (adjust according to your taste)"
+      ],
+      "instructions": [
+        "Blend the Ingredients – In a blender or food processor, puree blackberries, monk fruit, water, and lemon juice until smooth.",
+        "Strain If Needed – If you want a seed-free sorbet, strain the mixture.",
+        "Freeze in a Pint Container – Pour into a Ninja CREAMi pint container and freeze for 24 hours.",
+        "Spin to Perfection – Place in the Ninja CREAMi machine, select the sorbet setting, and spin.",
+        "Respin If Needed – If it’s too crumbly, add a splash of water and spin again.",
+        "Enjoy! – Scoop and serve immediately!"
+      ],
+      "prepNotes": "If you love fresh berries and refreshing frozen treats, this Ninja CREAMi sugar free blackberry sorbet is a must-try! It’s simple, delicious, and made with just a few ingredients.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-sugar-free-blackberry-sorbet-recipe/",
+      "createdAt": "2026-07-02T10:01:16.727Z",
+      "updatedAt": "2026-07-02T10:01:16.727Z"
+    },
+    {
       "id": "8e879d6b-38fe-496f-96cf-85b1a319bdad",
       "title": "Ninja Creami Creamy Strawberry Sorbet",
       "servings": "4",
