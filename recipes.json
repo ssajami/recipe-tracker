@@ -814,8 +814,9 @@
     },
     {
       "id": "c49a69ae-722f-455f-8213-8cfd48c198cf",
-      "title": "Ninja Creami Mixed Berry Ice Cream",
-      "servings": "4",
+      "title": "Mixed Berry Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "¾ cup half and half",
         "½ cup cottage cheese",
@@ -826,23 +827,23 @@
       ],
       "instructions": [
         "Add the half and half, cottage cheese, sweetened condensed milk, mixed berries, vanilla, and salt to a blender. Blend until completely smooth.",
-        "Pour the mixture into a Ninja Creami pint container, making sure not to go past the max fill line.",
-        "Cover with the lid and freeze on a level surface for 24 hours.",
-        "Remove the lid, place the pint in the outer bowl, secure the outer bowl lid, and lock it into the machine. Select Ice Cream.",
+        "Pour the mixture into a container",
+        "Freeze on a level surface for 24 hours.",
+        "Spin Select Ice Cream.",
         "If the texture looks dry or crumbly after spinning, add a splash of half and half or milk and run Respin.",
         "Serve right away for a softer texture, or freeze for 20 to 30 minutes for firmer scoops."
       ],
-      "prepNotes": "Creamy, fruity, and easy to make, this Ninja Creami Mixed Berry Ice Cream blends strawberries, blueberries, and raspberries into one sweet-tart homemade ice cream with a smooth texture and real berry flavor.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "snacks",
-        "American"
+        "ice cream",
+        "blueberry",
+        "strawberry",
+        "raspberry"
       ],
-      "source": "https://thecreameri.com/ninja-creami-mixed-berry-ice-cream/",
       "createdAt": "2026-07-02T09:51:00.238Z",
-      "updatedAt": "2026-07-02T09:51:00.238Z"
+      "updatedAt": "2026-07-02T12:34:56.894Z"
     },
     {
       "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
