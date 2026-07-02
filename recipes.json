@@ -569,12 +569,9 @@
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Coconut Cream Pie",
-      "servings": "1 pint",
+      "title": "Coconut Cream Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk (Optional: swap for Coconut Milk)",
@@ -599,15 +596,15 @@
         "Top with Cool Whip, crumbled graham crackers, and coconut flakes."
       ],
       "prepNotes": "This coconut cream pie recipe features a thick and creamy coconut base, with graham crackers and toasted coconut flakes.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
         "coconut"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:29:43.687Z"
     },
     {
       "id": "56a3c6e9-7eb0-4a0d-a708-eb42b12d24de",
