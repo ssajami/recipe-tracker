@@ -100,12 +100,9 @@
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Caramel Frapachino",
-      "servings": "1 pint",
+      "title": "Caramel Frapachino Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "¾ cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -124,17 +121,16 @@
         "Top with Non Fat Cool Whip and SF Caramel Syrup."
       ],
       "prepNotes": "Vanilla base with an expresso shot spun up on lite ice cream setting for extra fluffy smoothness and topped with cool whip and caramel syrup. No mix-ins.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "coffee",
-        "caramel",
-        "low-sugar",
-        "keto-friendly"
+        "caramel"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:05:58.088Z"
     },
     {
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
