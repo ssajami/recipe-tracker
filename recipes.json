@@ -805,9 +805,9 @@
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
-      "title": "Blueberry Cheesecake",
-      "servings": "",
-      "source": "",
+      "title": "Blueberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -830,16 +830,12 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "fruit"
+        "protein",
+        "blueberry"
       ],
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:40:25.505Z"
+      "updatedAt": "2026-07-02T06:42:04.937Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
