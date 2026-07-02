@@ -381,12 +381,9 @@
     },
     {
       "id": "859c87d5-d30e-4d69-ac4f-89156bf7652f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Oatmeal Cream Pie",
-      "servings": "1 pint",
+      "title": "Oatmeal Cream Pie Ice t",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -406,15 +403,15 @@
         "Add broken up Oatmeal Cream Pie pieces during the mix-in cycle.",
         "For cream filling topping: beat 1 tbsp room temp butter until fluffy (a few minutes), then add 15 gr powdered sugar and mix well, then add 1/8 teaspoon vanilla extract and 4 ml heavy cream and mix well. Add more heavy cream as needed until desired texture (like icing)."
       ],
-      "prepNotes": "A traditional vanilla ice cream complemented with oatmeal, and Little Debbie's Oatmeal Cream Pie. Edit: Updated 3/30/26 & 4/2/26 still not right. Trying something else. Cream filling: 115 cal, 15 carb, 14 fat.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "sugar-free",
-        "high-protein"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:45:36.730Z"
     },
     {
       "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
