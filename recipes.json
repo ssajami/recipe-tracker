@@ -902,12 +902,9 @@
     },
     {
       "id": "6976588c-cad2-4933-b2b6-d03b855524aa",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Apple Pie",
-      "servings": "",
+      "title": "Apple Pie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -925,17 +922,16 @@
         "Toppings: Cool Whip"
       ],
       "instructions": [],
-      "prepNotes": "Relishing the sweet warmth of apple pie with a hint of nutmeg and cinnamon.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "fruit"
+        "apples",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:43:54.397Z"
     },
     {
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
