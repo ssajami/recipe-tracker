@@ -1,6 +1,40 @@
 {
   "recipes": [
     {
+      "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
+      "title": "Ninja Creami Strawberry Banana Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "½  ripe banana",
+        "1 cup strawberries (hulled)",
+        "½ cup heavy cream",
+        "1 cup whole milk",
+        "½ cup sweetened condensed milk",
+        "1 teaspoon vanilla extract",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "Add the banana, strawberries, heavy cream, milk, sweetened condensed milk, vanilla extract, and salt to a blender.",
+        "Blend until completely smooth, about 30 to 45 seconds.",
+        "Strain the base through a fine mesh strainer if you want a smoother, seed-free texture.",
+        "Pour the mixture into a Ninja Creami pint container, staying at or below the max fill line.",
+        "Seal the pint and freeze on a level surface for at least 24 hours.",
+        "Remove the pint from the freezer and let it sit on the counter for 2 to 3 minutes.",
+        "Spin using the Ice Cream function on the Ninja Creami.",
+        "Respin once if the texture looks crumbly after the first spin."
+      ],
+      "prepNotes": "This Ninja Creami strawberry banana ice cream is creamy, fruity, and naturally sweet with real strawberries and banana. It blends into a smooth pale pink base and spins into a soft, scoopable ice cream after freezing.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-strawberry-banana-ice-cream-recipe/",
+      "createdAt": "2026-07-02T09:48:32.859Z",
+      "updatedAt": "2026-07-02T09:48:32.859Z"
+    },
+    {
       "id": "3f1256d2-01d2-48bd-8038-955ea0cdf352",
       "title": "Ninja Creami Strawberry Protein Frozen Yogurt",
       "servings": "4",
