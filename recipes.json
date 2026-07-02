@@ -172,12 +172,9 @@
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Almond Fudge",
-      "servings": "1 pint",
+      "title": "Almond Fudge Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -198,17 +195,17 @@
         "Optional: Squirt SF Chocolate Syrup in the bottom of the pint.",
         "Optional toppings: Non Fat Cool Whip and SF Chocolate Syrup."
       ],
-      "prepNotes": "A rich Chocolate base blended with toasted almonds and chewy Fudge.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "chocolate",
-        "low-sugar",
-        "keto-friendly"
+        "almond"
       ],
-      "source": "BUM Whey Protein recipe collection"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:10:12.765Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
