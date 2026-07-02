@@ -1940,7 +1940,8 @@
         "protein"
       ],
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T15:00:54.306Z"
+      "updatedAt": "2026-07-02T15:01:08.232Z",
+      "pinned": true
     },
     {
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
