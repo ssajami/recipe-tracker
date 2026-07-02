@@ -94,8 +94,9 @@
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
-      "title": "Ninja Creami Old-Fashioned Chocolate Ice Cream Recipe",
-      "servings": "4",
+      "title": "Old-Fashioned Chocolate Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1½ cup Half and Half",
         "4 tablespoons cocoa powder",
@@ -108,22 +109,19 @@
       "instructions": [
         "Dissolve Cocoa Powder: In a small bowl, mix the cocoa powder with a few tablespoons of hot water until smooth. Let it cool slightly.",
         "Blend: Add all ingredients to a blender and blend until smooth.",
-        "Freeze: Pour into a Ninja Creami pint container and freeze for 24 hours.",
-        "Spin: Place in the Ninja Creami machine and select the Ice Cream function.",
-        "Respin if needed: If crumbly, add 1-2 tablespoons of milk and respin.",
-        "Enjoy: Scoop into a bowl and savor your homemade treat!"
+        "Freeze: Pour into a container and freeze for 24 hours.",
+        "Spin: select the Ice Cream function.",
+        "Respin if needed: If crumbly, add 1-2 tablespoons of milk and respin."
       ],
-      "prepNotes": "If you love rich, creamy, old-fashioned chocolate ice cream, this recipe is for you! With simple ingredients and the Ninja Creami, making it at home is easier than ever.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "ice cream",
+        "chocolate"
       ],
-      "source": "https://thecreameri.com/ninja-creami-old-fashioned-chocolate-ice-cream-recipe/",
       "createdAt": "2026-07-02T11:27:14.489Z",
-      "updatedAt": "2026-07-02T11:27:14.489Z"
+      "updatedAt": "2026-07-02T11:43:26.591Z"
     },
     {
       "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
