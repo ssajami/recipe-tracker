@@ -770,12 +770,9 @@
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Blackberry Pie/Blackberry Cheesecake",
-      "servings": "",
+      "title": "Blackberry Cheesecake Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "1/2 cup unsweetened vanilla almond milk",
@@ -795,16 +792,15 @@
       ],
       "instructions": [],
       "prepNotes": "A rich, luscious, and delicious treat that you can make at home using fresh or frozen berries blended with blackberry puree.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "fruit"
+        "protein",
+        "blackberry"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:39:33.423Z"
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
