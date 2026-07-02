@@ -1169,12 +1169,9 @@
     },
     {
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Pistachio",
-      "servings": "1",
+      "title": "Pistachio Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1193,17 +1190,16 @@
         "Process in Creami machine.",
         "Add shelled pistachios as mix-ins and run mix-in cycle."
       ],
-      "prepNotes": "An inviting color with a nutty, creamy taste of pistachios blended in for a bite of crunch.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
         "pistachio",
-        "nutty"
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:52:05.247Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
