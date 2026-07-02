@@ -1,6 +1,39 @@
 {
   "recipes": [
     {
+      "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
+      "title": "Ninja Creami Black Sesame Ice Cream",
+      "servings": "4",
+      "ingredients": [
+        "1 cup whole milk",
+        "½ cup heavy cream",
+        "2 tablespoons black sesame paste",
+        "½ cup white sugar",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Whisk the whole milk, heavy cream, sugar, black sesame paste, vanilla extract, and salt in a bowl or large measuring cup until the sugar dissolves and the sesame paste is fully blended. The mixture should look smooth and evenly dark gray.",
+        "Pour the mixture into a Ninja Creami pint container, making sure it stays below the max fill line.",
+        "Cover with the lid and freeze on a flat, level surface for at least 24 hours.",
+        "Remove the pint from the freezer and let it sit on the counter for 5 minutes before processing.",
+        "Place the pint into the Ninja Creami machine and run the Ice Cream cycle.",
+        "Check the texture after the first spin. If it looks crumbly, powdery, or uneven, run the Re-spin cycle. Add 1 tablespoon of milk before respinning if needed.",
+        "Serve right away for a softer texture, or freeze for 30 minutes if you want firmer, more classic ice cream scoops."
+      ],
+      "prepNotes": "This Ninja Creami black sesame ice cream is rich, creamy, nutty, and lightly toasty with a beautiful deep gray color. It uses a simple no-cook base and black sesame paste for smooth texture and bold flavor.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Asian-Inspired",
+        "Japanese-Inspired"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-black-sesame-ice-cream-recipe/",
+      "createdAt": "2026-07-02T10:02:24.009Z",
+      "updatedAt": "2026-07-02T10:02:24.010Z"
+    },
+    {
       "id": "ff8fc458-0f22-4769-b466-8d63e7a24f03",
       "title": "Ninja Creami Blackberry Cheesecake Ice Cream",
       "servings": "4",
