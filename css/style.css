@@ -689,11 +689,25 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   text-decoration: underline; text-underline-offset: 2px;
 }
 .btn-text-sm:hover { opacity: 0.7; }
+.shop-collapsible { border: none; margin-bottom: 4px; }
+.shop-section-summary {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 2px 8px; cursor: pointer; user-select: none;
+  font-size: 0.85rem; font-weight: 600; color: var(--text-muted);
+  list-style: none;
+}
+.shop-section-summary::-webkit-details-marker { display: none; }
+.shop-section-summary::marker { display: none; }
+.shop-section-summary::before { content: '▶'; font-size: 0.65rem; margin-right: 6px; transition: transform 0.18s; display: inline-block; }
+.shop-collapsible[open] > .shop-section-summary::before { transform: rotate(90deg); }
+.shop-section-count { font-weight: 400; }
+.shop-have-collapsible { margin-top: 12px; }
+.shop-have-summary { color: var(--text-muted); }
 .shopping-recipe-picker {
   background: var(--surface);
   border-radius: var(--radius);
   border: 1.5px solid var(--border);
-  margin-bottom: 16px;
+  margin-bottom: 4px;
   overflow: hidden;
 }
 .recipe-pick-row {

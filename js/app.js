@@ -18,6 +18,8 @@ const state = {
   pantry: new Set(),
   shoppingContext: 'single',
   shoppingSelected: new Set(),
+  shopPickerOpen: true,
+  shopHaveOpen: false,
   chatMessages: [],
   chatOpen: false,
   chatLoading: false,
@@ -449,6 +451,9 @@ Answer questions about substitutions, techniques, or anything related to this re
     state.shoppingSelected.clear();
     renderShoppingList();
   },
+
+  onShopPickerToggle(isOpen) { state.shopPickerOpen = isOpen; },
+  onShopHaveToggle(isOpen)   { state.shopHaveOpen   = isOpen; },
 
   selectPinnedRecipes() {
     state.shoppingSelected = new Set(state.recipes.filter(r => r.pinned).map(r => r.id));
@@ -1424,23 +1429,27 @@ function renderShoppingList() {
   `);
 
   if (isMulti) {
+    const nSel = state.shoppingSelected.size;
     document.getElementById('app-main').innerHTML = `
       <div class="shopping-view">
-        <div class="shop-picker-header">
-          <span class="help-text">Select recipes to include:</span>
-          <div class="shop-picker-actions">
-            <button class="btn-text-sm" onclick="App.deselectAllRecipes()">Deselect all</button>
-            <button class="btn-text-sm" onclick="App.selectPinnedRecipes()">Pinned only</button>
+        <details class="shop-collapsible" ${state.shopPickerOpen ? 'open' : ''}
+                 ontoggle="App.onShopPickerToggle(this.open)">
+          <summary class="shop-section-summary">
+            <span>Recipes&nbsp;<span class="shop-section-count">(${nSel} selected)</span></span>
+            <div class="shop-picker-actions" onclick="event.stopPropagation()">
+              <button class="btn-text-sm" onclick="App.deselectAllRecipes()">Deselect all</button>
+              <button class="btn-text-sm" onclick="App.selectPinnedRecipes()">Pinned only</button>
+            </div>
+          </summary>
+          <div class="shopping-recipe-picker">
+            ${state.recipes.map(r => `
+              <label class="recipe-pick-row">
+                <input type="checkbox" ${state.shoppingSelected.has(r.id) ? 'checked' : ''}
+                       onchange="App.toggleShoppingRecipe('${r.id}')">
+                <span>${r.pinned ? '📌 ' : ''}${esc(r.title)}</span>
+              </label>`).join('')}
           </div>
-        </div>
-        <div class="shopping-recipe-picker">
-          ${state.recipes.map(r => `
-            <label class="recipe-pick-row">
-              <input type="checkbox" ${state.shoppingSelected.has(r.id) ? 'checked' : ''}
-                     onchange="App.toggleShoppingRecipe('${r.id}')">
-              <span>${r.pinned ? '📌 ' : ''}${esc(r.title)}</span>
-            </label>`).join('')}
-        </div>
+        </details>
         <div id="shopping-content">${renderShoppingContent()}</div>
       </div>`;
   } else {
@@ -1490,11 +1499,20 @@ function renderShoppingContent() {
     }).join('');
 
     const totalMissing = missing.length;
-    const summary = totalMissing === 0
+    const statusLine = totalMissing === 0
       ? '<p class="shopping-all-good">You have everything! 🎉</p>'
       : `<p class="shop-summary">${totalMissing} item${totalMissing > 1 ? 's' : ''} to buy &mdash; tap to mark as available</p>`;
 
-    return summary + `<ul class="shop-list">${missingRows}${haveRows}</ul>`;
+    const haveSection = haveItems.length ? `
+      <details class="shop-collapsible shop-have-collapsible" ${state.shopHaveOpen ? 'open' : ''}
+               ontoggle="App.onShopHaveToggle(this.open)">
+        <summary class="shop-section-summary shop-have-summary">
+          Available <span class="shop-section-count">(${haveItems.length})</span>
+        </summary>
+        <ul class="shop-list">${haveRows}</ul>
+      </details>` : '';
+
+    return statusLine + `<ul class="shop-list">${missingRows}</ul>` + haveSection;
   }
 
   // Single recipe mode
@@ -1520,11 +1538,20 @@ function renderShoppingContent() {
   }).join('');
 
   const totalMissing = missing.length;
-  const summary = totalMissing === 0
+  const statusLine = totalMissing === 0
     ? '<p class="shopping-all-good">You have everything! 🎉</p>'
     : `<p class="shop-summary">${totalMissing} item${totalMissing > 1 ? 's' : ''} to buy &mdash; tap to mark as available</p>`;
 
-  return summary + `<ul class="shop-list">${missingRows}${haveRows}</ul>`;
+  const haveSection = have.length ? `
+    <details class="shop-collapsible shop-have-collapsible" ${state.shopHaveOpen ? 'open' : ''}
+             ontoggle="App.onShopHaveToggle(this.open)">
+      <summary class="shop-section-summary shop-have-summary">
+        Available <span class="shop-section-count">(${have.length})</span>
+      </summary>
+      <ul class="shop-list">${haveRows}</ul>
+    </details>` : '';
+
+  return statusLine + `<ul class="shop-list">${missingRows}</ul>` + haveSection;
 }
 
 // ── Init ────────────────────────────────────────────────────────────────────
