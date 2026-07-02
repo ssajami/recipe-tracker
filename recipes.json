@@ -645,12 +645,9 @@
     },
     {
       "id": "6708d926-e326-49d8-90e6-ba0cd1411281",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Dark Chocolate Oreo/Starry Night of Texas",
-      "servings": "1 pint",
+      "title": "Dark Chocolate Oreo Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -672,16 +669,16 @@
         "Break up Oreos and add during the mix-in cycle. Tip: scrape the cream out of the Oreo to reduce sugar content greatly - the cookies are all that matters for the crunch.",
         "Top with crumbled Oreo minis, chocolate sprinkles, and/or Cool Whip."
       ],
-      "prepNotes": "Similar to Oreo blast, but instead of a base vanilla recipe, we start with a Dark Chocolate base with a blast of America's favorite cookie for a bit of crunch.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "sugar-free",
-        "high-protein",
-        "chocolate"
+        "chocolate",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:31:20.008Z"
     },
     {
       "id": "53390bcd-c6c4-41ff-9a2a-e04198432bf4",
