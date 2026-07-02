@@ -1377,12 +1377,9 @@
     },
     {
       "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Banana Cream",
-      "servings": "",
+      "title": "Banana Cream Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1398,16 +1395,16 @@
         "Toppings: Cool Whip, Nilla Wafers"
       ],
       "instructions": [],
-      "prepNotes": "Channel your inner monkey, thick and creamy 'nice cream' will have you swinging from the trees.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "fruit",
-        "frozen"
+        "banana"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:18:30.635Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
