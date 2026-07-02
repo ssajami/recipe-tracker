@@ -870,12 +870,9 @@
     },
     {
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-01T19:04:57.229Z",
-      "title": "Cherry Garcia",
-      "servings": "",
+      "title": "Cherry Garcia Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -892,17 +889,16 @@
         "Toppings: Cool Whip"
       ],
       "instructions": [],
-      "prepNotes": "A sweet and colorful adaptation of one of Ben and Jerry's most popular flavors. Cherry-infused ice cream with bits of blended maraschino cherries.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "frozen",
-        "fruit"
+        "cherry",
+        "protein"
       ],
-      "source": "Ben and Jerry's (inspired by)"
+      "createdAt": "2026-07-01T19:04:57.229Z",
+      "updatedAt": "2026-07-02T06:43:03.333Z"
     },
     {
       "id": "6976588c-cad2-4933-b2b6-d03b855524aa",
