@@ -422,12 +422,9 @@
     },
     {
       "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-01T19:07:16.074Z",
-      "title": "Star Crunch",
-      "servings": "1 pint",
+      "title": "Star Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -447,15 +444,15 @@
         "Top with optional SF chocolate and/or SF caramel syrup."
       ],
       "prepNotes": "A traditionally vanilla ice cream with hints of caramel and chocolate-covered rice crisp. Edit: Still Trying to refine as of 3/17/26.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "sugar-free",
-        "high-protein",
         "caramel"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-02T06:26:18.285Z"
     },
     {
       "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
