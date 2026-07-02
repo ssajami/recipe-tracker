@@ -982,12 +982,9 @@
     },
     {
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Toffee Crunch",
-      "servings": "1",
+      "title": "Toffee Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -1008,14 +1005,15 @@
         "Add toffee chocolate bar mix-ins and run mix-in cycle."
       ],
       "prepNotes": "Vanilla base infused with English toffee syrup blended with brittle buttery texture and a hint of burnt sugar. Pretzel Toffee Crunch is later in this guide if you really like to amp up the crunchy factor (add pretzels and dark chocolate mixins).",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami"
+        "protein",
+        "toffee"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:47:07.644Z"
     },
     {
       "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
