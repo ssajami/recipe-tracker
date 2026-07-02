@@ -1778,12 +1778,9 @@
     },
     {
       "id": "4f69b71a-11fc-4ef3-8544-e88b1c5131b3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "White Chocolate Raspberry Truffle",
-      "servings": "",
+      "title": "White Chocolate Raspberry Truffle Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1801,16 +1798,17 @@
       ],
       "instructions": [],
       "prepNotes": "Lusciously creamy white chocolate ice cream mixed with fresh raspberries and bejeweled with white chocolate chunks!",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "chocolate",
         "fruit",
         "frozen"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T07:15:12.418Z"
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
