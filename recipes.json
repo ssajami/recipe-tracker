@@ -308,12 +308,9 @@
     },
     {
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-01T19:10:07.257Z",
-      "title": "Banana Nut/Banana Nut Bread",
-      "servings": "1 pint",
+      "title": "Banana Nut Ice Cream - untested",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "3/4 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -332,17 +329,16 @@
         "Optional toppings: Crushed Walnuts OR Pecans, Cool Whip, sliced banana."
       ],
       "prepNotes": "Untested. Straight from grandma's kitchen. A Banana cream base with smashed banana and mixed with earthy chopped walnuts. Similar to banana pudding but with nuts for crunch and banana bread.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
         "banana",
-        "low-sugar",
-        "keto-friendly",
         "untested"
       ],
-      "source": "BUM Whey Protein recipe collection (Keto banana bread: https://healthyrecipesblogs.com/paleo-banana-bread/#recipe, https://www.sugarfreemom.com/recipes/sugar-free-keto-banana-bread-nut-free-low-carb-gluten-free/)"
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-02T06:36:31.083Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
