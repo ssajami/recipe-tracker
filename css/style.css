@@ -464,6 +464,7 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 
 /* ── Edit Form ── */
 .edit-view { padding-bottom: 40px; }
+.detail-layout .edit-view { flex: 1; min-width: 0; }
 .form-group { margin-bottom: 20px; display: flex; flex-direction: column; gap: 6px; }
 .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .editable-list { display: flex; flex-direction: column; gap: 6px; margin-bottom: 8px; }

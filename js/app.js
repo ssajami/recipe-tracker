@@ -1103,7 +1103,8 @@ function renderEdit() {
   if (!isNew) document.getElementById('app-main').classList.add('detail-wide');
 
   document.getElementById('app-main').innerHTML = `
-    <div class="edit-view">
+    <div class="${isNew ? 'edit-view' : 'detail-layout'}">
+    ${!isNew ? '<div class="edit-view">' : ''}
       <div class="form-group">
         <label>Title *</label>
         <input type="text" id="edit-title" value="${esc(r?.title || '')}" placeholder="Recipe name…" autocomplete="off">
@@ -1155,7 +1156,7 @@ function renderEdit() {
         <button class="btn-primary" onclick="App.saveEdit()">Save Recipe</button>
         <button class="btn-secondary" onclick="App.goBack()">Cancel</button>
       </div>
-    </div>
+    ${!isNew ? '</div>' : '</div>'}
 
     ${!isNew ? `
     <aside class="chat-panel${state.chatOpen ? ' open' : ''}" id="chat-panel">
@@ -1174,6 +1175,7 @@ function renderEdit() {
     </aside>
 
     <button class="chat-fab" onclick="App.toggleChat()" title="Ask about this recipe">💬</button>
+    </div>
     ` : ''}
   `;
 }
