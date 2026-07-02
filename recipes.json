@@ -1616,12 +1616,9 @@
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Peanut Butter",
-      "servings": "",
+      "title": "Peanut Butter Ice Cream 3",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1635,16 +1632,16 @@
         "Mix-ins: 2 tbsp Sugar Free Peanut Butter Chips"
       ],
       "instructions": [],
-      "prepNotes": "A nutty peanut butter based ice cream infused with butter extract and butterscotch to enhance that buttery goodness of this hearty flavor infused with peanut butter chips.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
         "protein",
-        "high-protein",
-        "peanut butter",
-        "frozen"
+        "peanut butter"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:49:03.910Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
