@@ -225,8 +225,9 @@
     },
     {
       "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
-      "title": "Ninja Creami Maple Walnut Ice Cream",
-      "servings": "4",
+      "title": "Maple Walnut Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 cup half and half",
         "¼ cup sweetened condensed milk",
@@ -238,29 +239,21 @@
       ],
       "instructions": [
         "Blend half and half, condensed milk, cream cheese, maple syrup, vanilla, and salt until smooth.",
-        "Pour into a Ninja Creami Deluxe pint and freeze 24 hours.",
+        "Pour into a tub and freeze 24 hours.",
         "Spin using Ice Cream setting.",
         "If crumbly, add 1 Tbsp half-and-half and Respin.",
-        "Add candied walnuts using Mix-In cycle.",
-        "Enjoy immediately or freeze 10–15 minutes for a firmer texture."
+        "Add candied walnuts using Mix-In cycle."
       ],
-      "prepNotes": "Creamy maple-sweet ice cream with crunchy candied walnuts — made with half-and-half (no eggs or gums!) for a no-fail fall frozen treat.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Breakfast",
-        "Dessert",
         "ice cream",
-        "Snack",
-        "American",
-        "Comfort Food",
-        "Fall / Seasonal Dessert",
-        "Frozen Dessert",
-        "Homemade Ice Cream"
+        "maple",
+        "walnut"
       ],
-      "source": "https://thecreameri.com/ninja-creami-maple-walnut-ice-cream/",
       "createdAt": "2026-07-02T11:25:38.473Z",
-      "updatedAt": "2026-07-02T11:25:38.473Z"
+      "updatedAt": "2026-07-02T12:31:00.971Z"
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
