@@ -1619,12 +1619,9 @@
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-01T18:46:54.057Z",
-      "title": "Oreo Blast",
-      "servings": "",
+      "title": "Oreo Blast Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
@@ -1639,15 +1636,14 @@
       ],
       "instructions": [],
       "prepNotes": "A classic vanilla-based mixed with a blast—or two—of America's favorite cookie for a bit of crunch. Tip: Can scrape the cream out of the Oreo to reduce the sugar content greatly! The cookies is really all that matters for the crunch!",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "protein",
-        "high-protein",
-        "cookies",
-        "frozen"
+        "protein"
       ],
-      "source": "Ninja Creami recipe collection"
+      "createdAt": "2026-07-01T18:46:54.057Z",
+      "updatedAt": "2026-07-02T06:57:07.710Z"
     },
     {
       "id": "5e9ef873-bf47-498a-8c2b-83e9c165a8f3",
