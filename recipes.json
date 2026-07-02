@@ -1053,12 +1053,9 @@
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Girl Scout Cookie Thin Mint",
-      "servings": "1",
+      "title": "Girl Scout Cookie Thin Mint Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -1080,17 +1077,16 @@
         "Add broken Thin Mint cookie mix-ins and run mix-in cycle.",
         "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
       ],
-      "prepNotes": "Vanilla base blended with your favorite Girl Scout Cookies. Thin Mints, Samoa, and Tagalongs are favorites, but any cookie will do. A little mint extract goes a long way. These mix-ins will kill your macros! Support your local troop!",
+      "prepNotes": "Vanilla base blended with your favorite Girl Scout Cookies. Thin Mints, Samoa, and Tagalongs are favorites, but any cookie will do. A little mint extract goes a long way.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
         "mint",
         "chocolate"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:48:29.807Z"
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
