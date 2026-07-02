@@ -1126,12 +1126,9 @@
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-01T19:02:52.993Z",
-      "title": "Girl Scout Cookie Samoa's",
-      "servings": "1",
+      "title": "Girl Scout Cookie Samoa's Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
       "ingredients": [
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
@@ -1155,17 +1152,17 @@
         "Add broken Samoa cookies and coconut flakes as mix-ins and run mix-in cycle.",
         "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
       ],
-      "prepNotes": "Coconut base blended with hints of caramel and your favorite Girl Scout Cookies. Samoa's (or Caramel Delights) could be used. These mix-ins will kill your macros! Support your local troop!",
+      "prepNotes": "Coconut base blended with hints of caramel and your favorite Girl Scout Cookies. Samoa's (or Caramel Delights) could be used.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "sugar-free",
-        "Ninja Creami",
         "coconut",
-        "caramel"
+        "caramel",
+        "protein"
       ],
-      "source": ""
+      "createdAt": "2026-07-01T19:02:52.993Z",
+      "updatedAt": "2026-07-02T06:53:56.514Z"
     },
     {
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
