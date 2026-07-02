@@ -1,6 +1,34 @@
 {
   "recipes": [
     {
+      "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
+      "title": "Ninja CREAMi Plain Tart Frozen Yogurt",
+      "servings": "3",
+      "ingredients": [
+        "2 cups greek yogurt (Non-fat or Full-Fat)",
+        "3-4 tablespoon honey",
+        "squeeze lemon (optional)"
+      ],
+      "instructions": [
+        "Blend – In a blender, mix Greek yogurt, honey, and lemon juice. Blend until smooth.",
+        "Freeze – Pour into a Ninja CREAMi pint container and freeze for at least 24 hours.",
+        "Spin – Place in the Ninja CREAMi machine and select Lite Ice Cream or Yogurt",
+        "Check texture – If crumbly, add 1-2 tbsp milk and re-spin.",
+        "Enjoy! Serve as is or add your favorite mix-ins."
+      ],
+      "prepNotes": "Love frozen yogurt but want a healthier homemade version? This Ninja CREAMi Plain Tart Frozen Yogurt is creamy, tangy, and so easy to make!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "Snack",
+        "American"
+      ],
+      "source": "https://thecreameri.com/ninja-creami-plain-tart-frozen-yogurt-recipe/",
+      "createdAt": "2026-07-02T11:24:43.449Z",
+      "updatedAt": "2026-07-02T11:24:43.449Z"
+    },
+    {
       "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
       "title": "Ninja Creami Classic Coffee Ice Cream (High Protein)",
       "servings": "4",
