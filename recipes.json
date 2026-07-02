@@ -2560,7 +2560,7 @@
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
-      "title": "Tiramisu Ice Cream",
+      "title": "Tiramisu Ice Cream 1",
       "servings": "creami tub",
       "source": "@julzhealth",
       "ingredients": [
@@ -2584,10 +2584,11 @@
       "tags": [
         "tiramisu",
         "coffee",
-        "ice cream"
+        "ice cream",
+        "yogurt"
       ],
       "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-01T05:52:29.434Z"
+      "updatedAt": "2026-07-02T07:14:05.622Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
