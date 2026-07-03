@@ -30,10 +30,12 @@
         "ice cream",
         "coffee",
         "chocolate",
-        "protein"
+        "protein",
+        "hazelnul"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T11:28:30.134Z",
-      "updatedAt": "2026-07-02T15:24:40.633Z"
+      "updatedAt": "2026-07-03T03:54:59.167Z"
     },
     {
       "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
