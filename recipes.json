@@ -149,15 +149,16 @@
         "Respin once until creamy.",
         "Add brownie chunks and run Mix-In cycle."
       ],
-      "prepNotes": "",
+      "prepNotes": "* Respin is expected — this isn’t a failure, it’s the process\n* Add mix-ins only using the Mix-In cycle",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "chocolate"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T11:26:42.818Z",
-      "updatedAt": "2026-07-02T11:47:35.512Z"
+      "updatedAt": "2026-07-03T03:58:34.697Z"
     },
     {
       "id": "a6da4888-e7e5-44f9-802b-91f74e991d49",
