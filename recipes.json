@@ -217,7 +217,7 @@
         "Add graham cracker crumbs to the well, hit mix-in mode or stir gently.",
         "Serve immediately or level and freeze for future respinning."
       ],
-      "prepNotes": "",
+      "prepNotes": "* Use full-fat half and half and cream cheese for better texture\n* Let the pint rest 2–3 minutes before spinning if extremely firm\n* Graham cracker substitution: Lotus Biscoff, Petit Beurre, Digestive biscuits",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -225,8 +225,9 @@
         "pumpkin",
         "cheesecake"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T11:25:56.719Z",
-      "updatedAt": "2026-07-02T11:54:25.445Z"
+      "updatedAt": "2026-07-03T05:23:44.546Z"
     },
     {
       "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
