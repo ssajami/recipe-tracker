@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "62b265a5-acf4-49fb-883b-089738f5d58c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-03T11:31:47.462Z",
-      "updatedAt": "2026-07-03T11:31:47.462Z",
       "title": "Beef Jerky",
       "servings": "For 1 kg meat",
+      "source": "Me",
       "ingredients": [
         "¼ cup low sodium soy sauce",
         "2 Tbsp. Worcestershire sauce",
@@ -22,14 +19,15 @@
         "Keep door a little open"
       ],
       "prepNotes": "For a hotter taste, add red pepper flakes or hot sauce. To add a hint of sweetness, include a Tbsp. of honey.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "recipes",
         "beef",
-        "jerky",
-        "snack",
-        "dehydrated"
+        "snack"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-03T11:31:47.462Z",
+      "updatedAt": "2026-07-03T11:34:37.175Z"
     },
     {
       "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
