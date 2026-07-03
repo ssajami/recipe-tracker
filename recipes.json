@@ -1,6 +1,35 @@
 {
   "recipes": [
     {
+      "id": "e995b047-6fec-45ed-a80f-10fc96eb5a92",
+      "title": "Candied Maple Walnuts",
+      "servings": "",
+      "source": "me",
+      "ingredients": [
+        "½ cup walnut halves/pieces",
+        " 2 Tablespoons pure maple syrup",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Toast walnuts in a dry skillet over medium heat, 3-5 minutes, until fragrant.",
+        "Add maple syrup and salt. Stir constantly as it bubbles and coats the nuts, 2-3 minutes, until the syrup thickens and clings.\n",
+        "Spread on parchment paper in a single layer. Separate any clumps.",
+        "Let cool completely—they'll harden and get crisp.",
+        "Chop once cool."
+      ],
+      "prepNotes": "- Watch closely at the end; maple burns fast.\n- Add a pinch of cinnamon or cayenne for extra flavor.\n- Make sure they're fully cooled and crisp before mixing into the ice cream, so they stay crunchy.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "walnut",
+        "snacks",
+        "toppings"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-03T05:38:22.343Z",
+      "updatedAt": "2026-07-03T05:38:22.343Z"
+    },
+    {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
       "title": "Hazelnut Chocolate Coffee Ice Cream",
       "servings": "creami tub",
