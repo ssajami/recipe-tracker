@@ -391,8 +391,9 @@
     },
     {
       "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
-      "title": "Ninja CREAMi Plain Tart Frozen Yogurt",
-      "servings": "3",
+      "title": "Plain Tart Frozen Yogurt",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "2 cups greek yogurt (Non-fat or Full-Fat)",
         "3-4 tablespoon honey",
@@ -400,22 +401,19 @@
       ],
       "instructions": [
         "Blend – In a blender, mix Greek yogurt, honey, and lemon juice. Blend until smooth.",
-        "Freeze – Pour into a Ninja CREAMi pint container and freeze for at least 24 hours.",
-        "Spin – Place in the Ninja CREAMi machine and select Lite Ice Cream or Yogurt",
-        "Check texture – If crumbly, add 1-2 tbsp milk and re-spin.",
-        "Enjoy! Serve as is or add your favorite mix-ins."
+        "Freeze – Pour into a container and freeze for at least 24 hours.",
+        "Spin – select Lite Ice Cream or Yogurt",
+        "Check texture – If crumbly, add 1-2 tbsp milk and re-spin."
       ],
-      "prepNotes": "Love frozen yogurt but want a healthier homemade version? This Ninja CREAMi Plain Tart Frozen Yogurt is creamy, tangy, and so easy to make!",
+      "prepNotes": "Substitution and Additions\n* Swap Greek yogurt → Use plain yogurt or full-fat yogurt for creaminess.\n* Replace honey → Try maple syrup or monk fruit sweetener.\n* Extra flavor → Add vanilla extract or peanut butter.\n\nWhat Goes Well With Plain Tart Frozen Yogurt\n* Build a Froyo Bowl: Start with 2 scoops, add fresh berries, a sprinkle of granola, and a drizzle of honey. Pinkberry at home.\n* Make an Affogato: Pour a shot of hot espresso over a scoop of plain tart froyo. The hot-cold contrast is incredible.\n* Top Warm Desserts: Serve alongside warm apple crisp, berry cobbler, or brownies. The tanginess cuts through the sweetness perfectly.\n* Breakfast Frozen Yogurt: Top with nuts, seeds, and fresh fruit for a protein-packed breakfast treat.\n* Sundae Style: Layer with fresh fruit, chocolate sauce, and whipped cream for a healthier sundae.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "frozen yogurt"
       ],
-      "source": "https://thecreameri.com/ninja-creami-plain-tart-frozen-yogurt-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:24:43.449Z",
-      "updatedAt": "2026-07-02T11:24:43.449Z"
+      "updatedAt": "2026-07-03T18:27:37.592Z"
     },
     {
       "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
