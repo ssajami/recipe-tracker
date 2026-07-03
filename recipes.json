@@ -250,7 +250,7 @@
         "If crumbly, add 1 Tbsp half-and-half and Respin.",
         "Add candied walnuts using Mix-In cycle."
       ],
-      "prepNotes": "",
+      "prepNotes": "* Half-and-half prevents the “butter problem” heavy cream can cause.\n* Always blend cream cheese fully for a silky base.\n* Add nuts after spinning to keep them crisp.\n* Works great with toasted walnuts if you don’t have candied ones.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -258,8 +258,9 @@
         "maple",
         "walnut"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T11:25:38.473Z",
-      "updatedAt": "2026-07-02T12:31:00.971Z"
+      "updatedAt": "2026-07-03T05:33:16.254Z"
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
