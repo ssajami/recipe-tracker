@@ -113,15 +113,16 @@
         "Spin: select the Ice Cream function.",
         "Respin if needed: If crumbly, add 1-2 tablespoons of milk and respin."
       ],
-      "prepNotes": "",
+      "prepNotes": "* If the ice cream turns out crumbly, add 1-2 tablespoons of milk and respin.\n* For a rich chocolate flavor, use high-quality cocoa powder and dissolve it in hot water first. Blending cocoa powder directly with other ingredients may take longer and create excess bubbles in the mixture.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "chocolate"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T11:27:14.489Z",
-      "updatedAt": "2026-07-02T11:43:26.591Z"
+      "updatedAt": "2026-07-03T03:54:20.880Z"
     },
     {
       "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
