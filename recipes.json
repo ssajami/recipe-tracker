@@ -1,6 +1,34 @@
 {
   "recipes": [
     {
+      "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
+      "title": "Simple Cooked Apples",
+      "servings": "",
+      "source": "me",
+      "ingredients": [
+        "1 medium apple (peeled, cored, chopped)",
+        "1 tbsp butter",
+        "1–2 tbsp brown sugar",
+        "Splash of water (1–2 tbsp)",
+        "Optional: pinch of cinnamon"
+      ],
+      "instructions": [
+        "Melt butter in a small pan over medium heat.",
+        "Add chopped apples, brown sugar, and water.",
+        "Cook 8–10 minutes, stirring occasionally, until apples are soft and fork-tender.",
+        "Let cool completely before blending."
+      ],
+      "prepNotes": "- Chop small so they soften evenly and blend smoothly.\n- Softer varieties like Fuji, Gala, or Golden Delicious break down nicely",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "apples"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-03T05:55:41.342Z",
+      "updatedAt": "2026-07-03T05:55:41.342Z"
+    },
+    {
       "id": "e995b047-6fec-45ed-a80f-10fc96eb5a92",
       "title": "Candied Maple Walnuts",
       "servings": "",
