@@ -357,8 +357,9 @@
     },
     {
       "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
-      "title": "Ninja Creami Chai Tea Latte Ice Cream",
-      "servings": "4",
+      "title": "Chai Tea Latte Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "4  chai tea bags (any brand)",
         "½ cup hot water",
@@ -372,24 +373,21 @@
       "instructions": [
         "Steep the tea: Add chai tea bags to 1/2 cup hot water. Steep 5-7 minutes until dark and concentrated. Remove tea bags and let cool to room temperature.",
         "Blend the base: Add cooled tea, half and half, cottage cheese, sweetened condensed milk, vanilla extract, salt, and cinnamon to a blender. Blend on high for 30 seconds until completely smooth.",
-        "Freeze: Pour into Ninja Creami pint container (don&#39;t exceed max fill line). Freeze on a flat surface for 24 hours.",
-        "Spin: Remove pint from freezer. Take off lid and place in outer bowl. Attach paddle lid and select **Ice Cream**.",
+        "Freeze: Pour into container. Freeze on a flat surface for 24 hours.",
+        "Spin: select **Ice Cream**.",
         "Check texture: If crumbly or powdery (normal for tea-based ice cream), make a small well in the center and add 1-2 tablespoons half and half or milk. Select **Respin**.",
         "Serve: Scoop immediately for soft-serve texture, or freeze 20-30 minutes for firmer scoops."
       ],
-      "prepNotes": "This chai tea latte ice cream is creamy, warmly spiced, and made with real chai tea bags - no pudding mix or protein powder needed.",
+      "prepNotes": "Substitutions:\nHalf and half: Equal parts heavy cream and whole milk if you don't have it\nCottage cheese: Greek yogurt (thicker texture) or cream cheese (richer but harder to blend)\nSugar-free: Use sugar-free sweetened condensed milk\nExtra spicy: Add ¼ teaspoon ground cardamom or ginger\nDirty chai: Add 1 teaspoon instant espresso powder to the base before freezing\n\nMix-ins\nCandied pecans - Adds crunch and a caramel note\nCinnamon graham cracker pieces - Like having chai with a cookie\nChocolate chunks - Because chai + chocolate is a classic pairing\n\nToppings\nWhipped cream - Classic chai latte topping\nCinnamon stick - Makes it look fancy\nCaramel drizzle - Adds sweetness and visual appeal\nExtra cinnamon dusting - Reinforces the spice\nChopped pistachios - Adds color and a subtle nuttiness\n\nFlavor Variations You Should Try\nDirty Chai. Add 1 teaspoon instant espresso powder or 2 tablespoon cooled strong espresso to the base before freezing. The coffee + chai combo is unreal. If you love coffee ice cream, you'll love this.\nVanilla Chai. Double the vanilla extract (use 1 teaspoon total). This makes it taste more like a vanilla chai latte - mellower on the spice, heavier on the sweet vanilla notes.\nExtra Spiced Chai. Add ¼ teaspoon ground cardamom and ¼ teaspoon ground ginger to the base. Or steep the tea for the full 7 minutes and add a pinch of black pepper for heat. Great if you like your chai seriously spicy.\nMaple Chai. Replace the sweetened condensed milk with ⅓ cup pure maple syrup + ¼ cup heavy cream. Gives it a fall flavor twist similar to maple walnut but with chai spices.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "asian",
-        "Fall / Seasonal Dessert",
-        "Frozen Dessert"
+        "unique",
+        "ice cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-chai-tea-latte-ice-cream-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:25:03.069Z",
-      "updatedAt": "2026-07-02T11:25:03.069Z"
+      "updatedAt": "2026-07-03T12:51:03.680Z"
     },
     {
       "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
