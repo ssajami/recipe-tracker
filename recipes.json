@@ -293,8 +293,9 @@
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
-      "title": "Ninja Creami Apple Cinnamon Pie Ice Cream",
-      "servings": "4",
+      "title": "Apple Cinnamon Pie Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 cup half and half",
         "½ cup cottage cheese",
@@ -309,22 +310,21 @@
       "instructions": [
         "Add cottage cheese, sweetened condensed milk, apples, half and half, brown sugar, vanilla, cinnamon, and sea salt to a blender.",
         "Blend until completely smooth. This matters.",
-        "Pour the mixture into a 24 oz Deluxe Ninja Creami pint.",
+        "Pour the mixture into a container",
         "Freeze on a flat surface for at least 24 hours.",
         "Spin on Ice Cream. If crumbly, respin.",
         "Add  graham crackers using the Mix-In cycle."
       ],
-      "prepNotes": "This apple cinnamon pie Ninja Creami ice cream is rich, cozy, and packed with real pie flavor. Made with half and half, cottage cheese, and brown sugar, it spins up creamy with classic graham cracker crunch.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
         "ice cream",
-        "American"
+        "apples"
       ],
-      "source": "https://thecreameri.com/ninja-creami-apple-cinnamon-pie-ice-cream/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:25:19.392Z",
-      "updatedAt": "2026-07-02T11:25:19.392Z"
+      "updatedAt": "2026-07-03T05:44:09.234Z"
     },
     {
       "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
