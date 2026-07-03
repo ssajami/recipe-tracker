@@ -1,6 +1,37 @@
 {
   "recipes": [
     {
+      "id": "62b265a5-acf4-49fb-883b-089738f5d58c",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-03T11:31:47.462Z",
+      "updatedAt": "2026-07-03T11:31:47.462Z",
+      "title": "Beef Jerky",
+      "servings": "For 1 kg meat",
+      "ingredients": [
+        "¼ cup low sodium soy sauce",
+        "2 Tbsp. Worcestershire sauce",
+        "1 Tbsp. liquid smoke",
+        "3 minced or crushed garlic cloves",
+        "2 ½ tsp. onion powder",
+        "2 tsp. hot chili powder",
+        "½-1 tsp. each of salt and black pepper"
+      ],
+      "instructions": [
+        "Place on wire rack in 65deg C heat till dry.",
+        "Keep door a little open"
+      ],
+      "prepNotes": "For a hotter taste, add red pepper flakes or hot sauce. To add a hint of sweetness, include a Tbsp. of honey.",
+      "tags": [
+        "recipes",
+        "beef",
+        "jerky",
+        "snack",
+        "dehydrated"
+      ],
+      "source": ""
+    },
+    {
       "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
       "title": "Simple Cooked Apples",
       "servings": "",
