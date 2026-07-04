@@ -2499,7 +2499,7 @@
         "Optional: ¼ Teaspoon of Banana Extract (Really dials up banana flavor, but not necessary)",
         "1 ripe Medium Banana sliced up (The softer the better)",
         "Mix-ins: Sliced bananas, Nilla Wafers",
-        "Toppings: Cool Whip, Nilla Wafers"
+        "Toppings: Whipped Cream, Nilla Wafers"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -2510,8 +2510,9 @@
         "protein",
         "banana"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:18:30.635Z"
+      "updatedAt": "2026-07-04T11:40:51.640Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
