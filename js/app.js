@@ -941,6 +941,7 @@ function renderIngredientChecklist(ingredients) {
 // ── Render Functions ────────────────────────────────────────────────────────
 function render() {
   if (state.view !== 'detail' && state.view !== 'edit') cleanupDetailView();
+  if (state.view !== 'list') document.getElementById('app-main').classList.remove('list-wide');
   switch (state.view) {
     case 'list':     renderList();         break;
     case 'detail':   renderDetail();       break;
@@ -951,6 +952,7 @@ function render() {
 }
 
 function renderList() {
+  document.getElementById('app-main').classList.add('list-wide');
   updateHeader('My Recipes', false, `
     <span id="sync-dot" class="sync-dot" title="Synced"></span>
     <button class="icon-btn" title="Notes" onclick="App.toggleNotes()">&#128221;</button>

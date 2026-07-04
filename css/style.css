@@ -921,6 +921,9 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   .chat-close-btn { display: none; }
   .chat-fab { display: none; }
 
+  #app-main.list-wide { max-width: 1000px; }
+  #app-main.list-wide .recipe-grid { grid-template-columns: 1fr 1fr; }
+
   .list-layout { display: flex; align-items: flex-start; gap: 20px; }
   .list-main { flex: 1; min-width: 0; }
   .notes-sidebar {
