@@ -1276,7 +1276,7 @@
         "1 cup of Fairlife Skim Milk",
         "¾ cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free Chocolate pudding",
-        "1 scoop Chocolate Protein powder OR 50/50 mix with Ryse Cosmic Brownie",
+        "1 scoop Chocolate Protein powder",
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
         "Pinch of salt",
@@ -1290,7 +1290,7 @@
         "Mix all ingredients together.",
         "Toast almonds in toaster oven (breakup first).",
         "Add mix-ins: 14 grams toasted almonds, Heath Bar Toffee Bits, optional crumbled Keto brownie bits.",
-        "Top with Cool Whip, toffee bits, SF chocolate syrup, and brownie crumble."
+        "Top with whipped cream, toffee bits, SF chocolate syrup, and brownie crumble."
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -1301,8 +1301,9 @@
         "almond",
         "chocolate"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T07:15:39.034Z"
+      "updatedAt": "2026-07-04T14:48:32.166Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
