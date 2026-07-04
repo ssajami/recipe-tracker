@@ -911,8 +911,9 @@
     },
     {
       "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
-      "title": "Ninja Creami Banana Ice Cream",
-      "servings": "4",
+      "title": "Banana Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1  ripe banana",
         "½ cup sweetened condensed milk",
@@ -921,25 +922,24 @@
         "1 teaspoon vanilla extract"
       ],
       "instructions": [
-        "Add the banana to your Ninja Creami pint container and mash with a fork until mostly smooth.",
+        "Add the banana to your container and mash with a fork until mostly smooth.",
         "Pour in the sweetened condensed milk, milk, heavy cream, and vanilla extract. Stir until fully combined.",
         "Freeze the pint on a flat surface for 24 hours.",
         "Remove from freezer and let sit 1 to 2 minutes. Run warm water over the outside of the pint for 30 seconds.",
-        "Install pint in machine and run **Ice Cream** cycle.",
+        "Run **Ice Cream** cycle.",
         "If crumbly, add 1 tablespoon milk and run **Respin**.",
         "Serve immediately for soft-serve texture or freeze 15 to 20 minutes for firmer scoops."
       ],
-      "prepNotes": "Creamy, real-banana Ninja Creami ice cream made with five simple ingredients and sweetened condensed milk for the smoothest texture. No icy pint here, just rich banana flavor and scoop-shop vibes straight from your freezer.",
+      "prepNotes": "* Wait for a spotty banana. A yellow banana with no spots will give you a bland, starchy result. Brown spots mean the starches have converted to sugar - that's what gives you deep banana flavor and a naturally sweeter base.\n* Mash the banana well. Take an extra minute with the fork to get it as smooth as possible. Chunks of frozen banana don't fully process in the machine and can leave fibrous bits in the final texture.\n\nSubstitutions:\n* Dairy-free - Use full-fat coconut milk in place of the milk and cream, and a dairy-free sweetened condensed milk. The texture will be slightly different but still creamy.\n* Extra banana flavor - Add a drop of banana extract to the base alongside the vanilla. A little goes a long way.\n* Lower sugar - Reduce the condensed milk to 3 tablespoons and add 2 tablespoons of allulose to compensate. Your base may freeze a touch harder.\n* Peanut butter banana - Stir 2 tablespoons of peanut butter into the base before freezing. \n* Banana foster - Add a pinch of cinnamon and a pinch of brown sugar to the base, then mix in caramel sauce after spinning.\n* Chocolate banana - Add 1 tablespoon of cocoa powder to the base for a chocolate-banana twist, or use the mix-in cycle to add mini chocolate chips.\n\nMix-In and Topping Ideas\n* Mini chocolate chips (mix-in cycle or sprinkled on top)\n* Crushed graham crackers for a banana cream pie vibe\n* Sliced fresh banana and a drizzle of caramel sauce\n* Chopped walnuts or pecans\n* A swirl of peanut butter pressed into the top\n* Hot fudge drizzled over the scoop",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "snacks",
-        "American"
+        "banana",
+        "ice cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-banana-ice-cream-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T09:50:39.244Z",
-      "updatedAt": "2026-07-02T09:50:39.244Z"
+      "updatedAt": "2026-07-04T04:17:10.399Z"
     },
     {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
