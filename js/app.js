@@ -23,6 +23,8 @@ const state = {
   chatMessages: [],
   chatOpen: false,
   chatLoading: false,
+  notes: '',
+  notesOpen: false,
 };
 
 // Edit-specific mutable state (avoids full re-render on each keystroke)
@@ -83,6 +85,7 @@ function filterRecipes() {
 // ── Toast & Loading ────────────────────────────────────────────────────────
 let toastTimer = null;
 let _pantryTimer = null;
+let _notesTimer = null;
 function toast(msg, type = 'info', ms = 3000) {
   const el = document.getElementById('toast');
   el.textContent = msg;
@@ -213,7 +216,7 @@ const App = {
     updateSyncDot();
     try {
       const latest = await Storage.loadRecipes();
-      state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], latest.sha);
+      state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], state.notes, latest.sha);
       state.syncStatus = 'idle';
       toast('Saved', 'success');
     } catch (err) {
@@ -457,6 +460,18 @@ Answer questions about substitutions, techniques, or anything related to this re
 
   onShopPickerToggle(isOpen) { state.shopPickerOpen = isOpen; },
   onShopHaveToggle(isOpen)   { state.shopHaveOpen   = isOpen; },
+
+  toggleNotes() {
+    state.notesOpen = !state.notesOpen;
+    renderList();
+    if (state.notesOpen) setTimeout(() => document.getElementById('notes-textarea')?.focus(), 50);
+  },
+
+  onNotesInput(value) {
+    state.notes = value;
+    clearTimeout(_notesTimer);
+    _notesTimer = setTimeout(() => this._syncSave().catch(() => {}), 2000);
+  },
 
   selectPinnedRecipes() {
     state.shoppingSelected = new Set(state.recipes.filter(r => r.pinned).map(r => r.id));
@@ -938,6 +953,7 @@ function render() {
 function renderList() {
   updateHeader('My Recipes', false, `
     <span id="sync-dot" class="sync-dot" title="Synced"></span>
+    <button class="icon-btn" title="Notes" onclick="App.toggleNotes()">&#128221;</button>
     <button class="icon-btn" title="Shopping list" onclick="App.showGlobalShoppingList()">&#128722;</button>
     <button class="icon-btn" title="Import" onclick="App.showImport()">&#8675;</button>
     <button class="icon-btn" title="Settings" onclick="App.showSettings()">&#9881;</button>
@@ -959,6 +975,17 @@ function renderList() {
     </div>
     <div id="recipe-grid">${renderGrid()}</div>
     <button class="fab" onclick="App.showAdd()" title="Add recipe">+</button>
+
+    <div class="notes-panel${state.notesOpen ? ' open' : ''}" id="notes-panel">
+      <div class="notes-panel-header">
+        <span>📝 General Notes</span>
+        <button class="notes-close-btn" onclick="App.toggleNotes()">✕</button>
+      </div>
+      <textarea class="notes-textarea" id="notes-textarea"
+                placeholder="Shopping reminders, dietary notes, favourite substitutions…"
+                oninput="App.onNotesInput(this.value)">${esc(state.notes)}</textarea>
+    </div>
+    ${state.notesOpen ? '<div class="notes-backdrop" onclick="App.toggleNotes()"></div>' : ''}
   `;
 
   updateSyncDot();
@@ -1604,9 +1631,10 @@ async function init() {
 
   setLoading(true, 'Loading recipes…');
   try {
-    const { recipes, pantry, sha } = await Storage.loadRecipes();
+    const { recipes, pantry, notes, sha } = await Storage.loadRecipes();
     state.recipes = recipes;
     state.pantry = new Set(pantry);
+    state.notes = notes || '';
     state.sha = sha;
   } catch (err) {
     toast(err.message, 'error', 6000);
