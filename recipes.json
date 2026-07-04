@@ -896,7 +896,7 @@
         "If the texture looks dry or crumbly after spinning, add a splash of half and half or milk and run Respin.",
         "Serve right away for a softer texture, or freeze for 20 to 30 minutes for firmer scoops."
       ],
-      "prepNotes": "",
+      "prepNotes": "Fresh berries have the brightest flavor, but they cost more and need prep. Frozen berries are cheaper, easy to keep on hand, and great year-round. The flavor may be slightly less bright, but once blended and spun, the difference is pretty small.\n\nMy pick is fresh when berries are in season and frozen the rest of the year. If using frozen, thaw them first before blending.\n\nSubstitutions:\n* Mixed berries: Any combination of strawberries, blueberries, raspberries, blackberries\n* Extra berry flavor: Add 1-2 tablespoons berry jam or preserves\n* Dairy-free: Use full-fat coconut milk + coconut cream (skip cottage cheese)\n* Sweeter: Add 2 tablespoons honey or sugar if your berries are tart\n* Less sweet: Reduce sweetened condensed milk to ⅓ cup",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -905,8 +905,9 @@
         "strawberry",
         "raspberry"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T09:51:00.238Z",
-      "updatedAt": "2026-07-02T12:34:56.894Z"
+      "updatedAt": "2026-07-04T04:12:20.532Z"
     },
     {
       "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
