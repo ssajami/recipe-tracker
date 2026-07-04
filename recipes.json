@@ -3566,7 +3566,7 @@
       "source": "@julzhealth",
       "ingredients": [
         "300ml full cream milk",
-        "100g yoghurt",
+        "100g yogurt",
         "20g instant pudding, vanilla",
         "2 heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
         "20g stevia",
@@ -3588,8 +3588,9 @@
         "ice cream",
         "yogurt"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-02T07:14:05.622Z"
+      "updatedAt": "2026-07-04T04:27:29.387Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
