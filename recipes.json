@@ -1925,12 +1925,12 @@
         "1/4 teaspoon of Vanilla Extract",
         "Optional: 1 drop of blue food coloring",
         "Mix-ins: Alternatively: For Blueberry Cheesecake, swap the Vanilla Pudding for Cheesecake flavor. Add 2 Tablespoons of Cream cheese (Non or Low Fat or Regular) as a mix in. (Dice into small pieces for ease of mixing)",
-        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 2 tbsp Whipped Cream",
         "Toppings: 1 Crumbled Graham Crackers",
         "Toppings: Optional: 2 tbsp White chocolate chips/shavings"
       ],
       "instructions": [],
-      "prepNotes": "This recipe brings together the velvety smoothness of cheesecake and the sweet burst of fresh blueberries. Crunchy bits of graham cracker cookies are the perfect touch!",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -1938,8 +1938,9 @@
         "protein",
         "blueberry"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:42:04.937Z"
+      "updatedAt": "2026-07-04T11:42:15.396Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
