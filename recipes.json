@@ -639,8 +639,9 @@
     },
     {
       "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
-      "title": "Ninja Creami Peanut Butter Cup Ice Cream",
-      "servings": "4",
+      "title": "Peanut Butter Cup Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 ½ cups milk",
         "¼ cup heavy cream",
@@ -651,21 +652,20 @@
       ],
       "instructions": [
         "Blend the base. Add the milk, heavy cream, sweetened condensed milk, creamy peanut butter, and salt to a blender. Blend until completely smooth, about 45 to 60 seconds, making sure the peanut butter is fully incorporated with no streaks.",
-        "Pour and freeze. Pour the mixture into your Ninja Creami pint container, making sure it does not go past the max fill line. Cover with the lid and freeze for 24 hours, or until completely solid.",
+        "Pour and freeze. Pour the mixture into your container. Cover with the lid and freeze for 24 hours, or until completely solid.",
         "Thaw slightly, then spin. Remove the pint from the freezer and let it sit at room temperature for about 5 minutes. Process on the Ice Cream setting. If it looks crumbly after the first spin, run a Re-Spin.",
-        "Add the mix-ins. Make a hole in the center of the ice cream with a spoon. Chop the mini peanut butter cups and add them to the center. Process on the Mix-In setting.",
-        "Serve. Scoop and serve right away."
+        "Add the mix-ins. Make a hole in the center of the ice cream with a spoon. Chop the mini peanut butter cups and add them to the center. Process on the Mix-In setting."
       ],
-      "prepNotes": "This Ninja Creami peanut butter cup ice cream is creamy, rich, and packed with peanut butter flavor in every bite. The base comes together in minutes with milk, cream, sweetened condensed milk, and real peanut butter, then gets finished with chopped mini peanut butter cups for that classic candy-style mix-in.",
+      "prepNotes": "Use standard creamy peanut butter, not natural. Natural peanut butter separates and can make the base oily or uneven after freezing. Jif, Skippy, or any standard creamy peanut butter works best here.\n\nFlavor Variations to Try\n* Extra chocolate: Add a tablespoon of cocoa powder to the base before blending for a chocolate peanut butter cup situation.\n* Peanut butter swirl: After the first spin, drop an extra tablespoon of peanut butter into the well before adding your mix-ins. Run the mix-in setting and you'll get a peanut butter ribbon through the whole pint.\n\nDifferent mix-ins: Reese's Pieces, chocolate chips, or crushed chocolate cookies, Peanut butter cups plus mini chocolate chips together is especially good.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "ice cream",
+        "peanut butter"
       ],
-      "source": "https://thecreameri.com/ninja-creami-peanut-butter-cup-ice-cream-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T10:03:15.958Z",
-      "updatedAt": "2026-07-02T10:03:15.958Z"
+      "updatedAt": "2026-07-04T03:45:19.617Z"
     },
     {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
