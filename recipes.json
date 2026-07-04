@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-04T11:22:08.228Z",
-      "updatedAt": "2026-07-04T11:22:08.228Z",
       "title": "Air Fryer Chicken Meatballs",
-      "servings": "4",
+      "servings": "",
+      "source": "claude",
       "ingredients": [
         "500 grams ground chicken",
         "1 large egg",
@@ -28,17 +25,14 @@
         "Check: Confirm internal temp hits 74°C (or cut one open — no pink, juices run clear). Rest 2 minutes before serving."
       ],
       "prepNotes": "Ground chicken is wetter than beef — if the mix feels too loose to roll, add breadcrumbs 1 tbsp at a time. No breadcrumbs? Swap in rolled oats or almond flour (almond flour keeps it lower-carb). They keep 4 days refrigerated and freeze well cooked. ~28 g protein per serving. Don't overmix — main failure mode with poultry meatballs; they get rubbery fast. Temp check matters more than time — chicken dries out past 74°C, so pull them right at target.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high-protein",
-        "air fryer",
-        "chicken",
-        "meal prep",
-        "batch-friendly",
-        "quick",
-        "gluten-free option",
-        "low-carb option"
+        "chicken"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-04T11:22:08.228Z",
+      "updatedAt": "2026-07-04T11:24:43.910Z"
     },
     {
       "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
