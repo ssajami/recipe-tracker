@@ -1611,7 +1611,7 @@
         "Combine all base ingredients and mix well.",
         "Churn as a traditional vanilla ice cream.",
         "Add cinnamon and cereal during the mix-in cycle.",
-        "Top with Cool Whip, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
+        "Top with Whipped cream, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -1621,8 +1621,9 @@
         "protein",
         "cinnamon"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T03:30:07.363Z"
+      "updatedAt": "2026-07-04T11:38:43.219Z"
     },
     {
       "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
