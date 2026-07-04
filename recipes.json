@@ -1009,8 +1009,9 @@
     },
     {
       "id": "e81bf5d6-9676-4631-b883-b5ee038137a2",
-      "title": "Ninja Creami High Protein Strawberry Cheesecake Ice Cream",
-      "servings": "4",
+      "title": "High Protein Strawberry Cheesecake Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 cup strawberries",
         "½ cup cottage cheese",
@@ -1023,26 +1024,22 @@
       "instructions": [
         "Add the strawberries, cottage cheese, cream cheese, milk, allulose, and vanilla extract to a blender.",
         "Blend until the mixture is completely smooth and creamy.",
-        "Pour the mixture into a Ninja Creami pint container, making sure it does not go past the max fill line.",
-        "Freeze on a level surface for 24 hours, or until completely solid.",
-        "Remove the pint from the freezer and place it into the Ninja Creami machine.",
+        "Pour the mixture into a container. Freeze on a level surface for 24 hours, or until completely solid.",
         "Spin on the  Ice Cream setting.",
         "Respin if the texture looks crumbly or powdery. Add a small splash of milk before respinning if needed.",
-        "Add crushed graham crackers to the center of the pint.",
-        "Use the Mix-In setting to evenly incorporate the graham crackers.",
-        "Serve immediately and enjoy."
+        "Add crushed graham crackers to the center of the pint. Use the Mix-In setting to evenly incorporate the graham crackers."
       ],
-      "prepNotes": "This Ninja Creami High Protein Strawberry Cheesecake Ice Cream is creamy, fruity, and tangy with real strawberries, cottage cheese, and cream cheese. Graham crackers mixed in at the end give it that classic strawberry cheesecake flavor.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "cheesecake",
+        "ice cream",
+        "strawberry"
       ],
-      "source": "https://thecreameri.com/ninja-creami-high-protein-strawberry-cheesecake-ice-cream-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T09:47:31.717Z",
-      "updatedAt": "2026-07-02T09:47:31.718Z"
+      "updatedAt": "2026-07-04T04:24:57.819Z"
     },
     {
       "id": "8a48d4f8-9888-463c-88a9-9f2edbf5d71e",
