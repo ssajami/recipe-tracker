@@ -1020,6 +1020,12 @@ function renderDetail() {
           ${r.source ? `<div class="detail-source">Source: ${esc(r.source)}</div>` : ''}
         </div>
 
+        ${r.afterPrepNotes ? `
+          <div class="detail-section after-notes">
+            <h2>Notes After Making</h2>
+            <p class="notes-text">${nl2br(r.afterPrepNotes)}</p>
+          </div>` : ''}
+
         ${r.prepNotes ? `
           <div class="detail-section">
             <h2>Preparation Notes</h2>
@@ -1052,12 +1058,6 @@ function renderDetail() {
               </li>`).join('')}
           </ol>
         </div>
-
-        ${r.afterPrepNotes ? `
-          <div class="detail-section after-notes">
-            <h2>Notes After Making</h2>
-            <p class="notes-text">${nl2br(r.afterPrepNotes)}</p>
-          </div>` : ''}
 
         <div class="detail-actions">
           <button class="reset-checks-btn" onclick="App.clearCookingChecks()">Reset checks</button>
