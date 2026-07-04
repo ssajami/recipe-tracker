@@ -2022,7 +2022,7 @@
         "Pinch of Nutmeg",
         "Optional: 2 tbsp Apple Cider",
         "Mix-ins: 2 Biscoff Cookies",
-        "Toppings: Cool Whip"
+        "Toppings: Whipped Cream"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -2033,9 +2033,9 @@
         "apples",
         "protein"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T15:01:08.232Z",
-      "pinned": true
+      "updatedAt": "2026-07-04T11:39:05.376Z"
     },
     {
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
