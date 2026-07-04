@@ -1,6 +1,33 @@
 {
   "recipes": [
     {
+      "id": "27cb51e0-ef1a-4b06-b8f8-c0dfebc577a5",
+      "title": "Sugar Free Whipped Cream",
+      "servings": "2 cups",
+      "source": "claude",
+      "ingredients": [
+        "1 cup heavy whipping cream (cold)",
+        "1–2 tbsp allulose or powdered erythritol (to taste)",
+        "½ tsp vanilla extract",
+        "Optional:* pinch of xanthan gum (helps it hold longer)"
+      ],
+      "instructions": [
+        "Chill your bowl and beaters in the freezer for ~10 min (helps it whip faster).\n",
+        "Pour in cold cream, sweetener, and vanilla.",
+        "Beat on medium-high until soft peaks form, then continue to stiff peaks (about 2–4 min). Don't overbeat or it'll turn to butter.",
+        "If using xanthan gum, sprinkle it in near the end while beating.\n"
+      ],
+      "prepNotes": "Keeps in the fridge 2–3 days; re-whip gently if it deflates.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "toppings"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-04T14:50:13.039Z",
+      "updatedAt": "2026-07-04T14:50:13.039Z"
+    },
+    {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
       "title": "Vanilla Ice Cream (Base Recipe) - 2",
       "servings": "creami tub",
