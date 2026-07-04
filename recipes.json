@@ -1642,24 +1642,25 @@
         "1/4 Cup of desired Blended Fruit",
         "Optional: Dash of Zest (Too much will make it bitter)",
         "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float",
-        "Toppings: Cool Whip"
+        "Toppings: Whipped Cream"
       ],
       "instructions": [
         "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
         "Combine all base ingredients and mix well.",
         "Churn on the SHERBERT setting.",
         "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
-        "Top with Cool Whip."
+        "Top with Whipped Cream"
       ],
-      "prepNotes": "Your favorite summertime treat of fruit infused ice cream. Make sure to RUN ON SHERBERT SETTING!",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "protein",
         "sherbert"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T06:33:15.840Z"
+      "updatedAt": "2026-07-04T11:39:56.564Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
