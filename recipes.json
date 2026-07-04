@@ -417,8 +417,9 @@
     },
     {
       "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
-      "title": "Ninja Creami Classic Coffee Ice Cream (High Protein)",
-      "servings": "4",
+      "title": "Classic Coffee Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 ½ cups half and half",
         "1 tbsp espresso instant powder",
@@ -428,22 +429,21 @@
       ],
       "instructions": [
         "Blend half and half, espresso, cottage cheese, condensed milk, and vanilla until smooth",
-        "Freeze flat in a Ninja Creami pint container for 24 hours",
+        "Freeze flat in a container for 24 hours",
         "Spin using “Lite Ice Cream”  function",
         "Respin if crumbly—add 1-2 tbsp milk if needed",
         "Serve & Enjoy—grab a spoon and dig in!"
       ],
-      "prepNotes": "This high-protein Ninja Creami coffee ice cream is creamy, bold, and made with real espresso flavor. Cottage cheese adds protein and smooth texture — no gums, no pudding mix, no protein powder.",
+      "prepNotes": "Substitutions\n* Half & half - Use 50/50 whole milk + heavy cream\n* Instant espresso - Brewed espresso concentrate or cold brew concentrate works too\n* Cottage cheese - Try cream cheese or Greek yogurt (texture will vary)\n* Sugar - Use unsweetened condensed coconut milk or a sugar-free version\n\nMix-Ins and Topping Ideas\n* Mini chocolate chips – Classic combo with coffee, adds texture and sweetness\n* Crushed Oreos or Biscoff – Like a dirty coffee float—so good\n* Toffee bits or caramel chips – Sweetens and complements the coffee richness\n* Chopped almonds or walnuts – Nutty crunch with a grown-up vibe\n* Sea salt + chocolate drizzle – Sweet and salty fans, this one's for you",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "coffee",
+        "ice cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-classic-coffee-ice-cream/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:24:25.206Z",
-      "updatedAt": "2026-07-02T11:24:25.206Z"
+      "updatedAt": "2026-07-04T03:05:24.602Z"
     },
     {
       "id": "5963c1e2-71d4-48b2-bcd6-a74a1aeb85a2",
