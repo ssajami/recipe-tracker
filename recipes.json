@@ -513,34 +513,35 @@
     },
     {
       "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
-      "title": "Ninja Creami Mint Cookies and Cream Ice Cream",
-      "servings": "4",
+      "title": "Mint Cookies and Cream Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1½ cup Half and Half",
         "½ cup Cottage Cheese",
         "½ cup Sweetened Condensed Milk",
         "2 teaspoons Vanilla Bean Extract",
-        "¼ teaspoon Mint chocolate chip flavor I used Lorann Oils Mint Chocolate Chip (add more if you want)",
+        "¼ teaspoon Mint chocolate chip flavor (add more if you want)",
         "Crushed oreo cookies add more if you want"
       ],
       "instructions": [
         "Blend: Add all the ingredients to a blender or food processor and blend until smooth.",
-        "Freeze: Pour the mixture into a Ninja Creami pint container. Freeze for 24 hours on a level surface.",
-        "Spin: Remove the lid and spin using the &quot;Ice Cream&quot; mode on your Ninja Creami.",
-        "Respin (if needed): If the texture is crumbly, add 1–2 tablespoons of milk and hit the &quot;Respin&quot; button.",
-        "Add mix-ins: If you didn’t already mix in crushed Oreos, now’s a great time. Fold them in and enjoy!"
+        "Freeze: Pour the mixture into a container. Freeze for 24 hours on a level surface.",
+        "Spin: Ice Cream mode",
+        "Respin (if needed): If the texture is crumbly, add 1–2 tablespoons of milk",
+        "Add mix-ins: mix in crushed Oreos"
       ],
-      "prepNotes": "This Ninja Creami mint cookies and cream ice cream is creamy, cool, and loaded with Oreo chunks. No pudding mix, no gums, just a reliable base that spins smooth every time.",
+      "prepNotes": "Substitutions:\n* Half & half - Mix equal parts heavy cream + whole milk\n* Cottage cheese - Try Greek yogurt\n\nFun Mix-Ins and Topping Ideas\n* Crushed Oreos for extra crunch\n* Mini chocolate chips for classic texture\n* Brownie bits if you want it extra rich",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "Snack",
-        "American"
+        "ice cream",
+        "mint",
+        "cookies and cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-mint-cookies-cream-ice-cream/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:22:14.920Z",
-      "updatedAt": "2026-07-02T11:22:14.920Z"
+      "updatedAt": "2026-07-04T03:34:29.856Z"
     },
     {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
