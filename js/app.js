@@ -963,17 +963,29 @@ function renderList() {
   const filtered = filterRecipes();
 
   document.getElementById('app-main').innerHTML = `
-    <div class="search-container">
-      <input type="search" class="search-input" placeholder="Search recipes, ingredients, tags…"
-             value="${esc(state.search)}"
-             oninput="App.onSearch(this.value)"
-             onfocus="App.updateSearchSuggestions(this.value)"
-             onblur="App.hideSearchSuggestions()"
-             onkeydown="App.onSearchKey(event)"
-             autocomplete="off">
-      <div id="search-suggestions" class="search-suggestions hidden"></div>
+    <div class="list-layout">
+      <div class="list-main">
+        <div class="search-container">
+          <input type="search" class="search-input" placeholder="Search recipes, ingredients, tags…"
+                 value="${esc(state.search)}"
+                 oninput="App.onSearch(this.value)"
+                 onfocus="App.updateSearchSuggestions(this.value)"
+                 onblur="App.hideSearchSuggestions()"
+                 onkeydown="App.onSearchKey(event)"
+                 autocomplete="off">
+          <div id="search-suggestions" class="search-suggestions hidden"></div>
+        </div>
+        <div id="recipe-grid">${renderGrid()}</div>
+      </div>
+
+      <aside class="notes-sidebar">
+        <div class="notes-sidebar-header">📝 Notes</div>
+        <textarea class="notes-sidebar-textarea"
+                  placeholder="Shopping reminders, dietary notes, favourite substitutions…"
+                  oninput="App.onNotesInput(this.value)">${esc(state.notes)}</textarea>
+      </aside>
     </div>
-    <div id="recipe-grid">${renderGrid()}</div>
+
     <button class="fab" onclick="App.showAdd()" title="Add recipe">+</button>
 
     <div class="notes-panel${state.notesOpen ? ' open' : ''}" id="notes-panel">
