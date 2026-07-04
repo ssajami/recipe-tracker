@@ -943,8 +943,9 @@
     },
     {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
-      "title": "Ninja Creami Strawberry Banana Ice Cream",
-      "servings": "4",
+      "title": "Strawberry Banana Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "½  ripe banana",
         "1 cup strawberries (hulled)",
@@ -955,25 +956,24 @@
         "1 pinch salt"
       ],
       "instructions": [
-        "Add the banana, strawberries, heavy cream, milk, sweetened condensed milk, vanilla extract, and salt to a blender.",
-        "Blend until completely smooth, about 30 to 45 seconds.",
+        "Add the banana, strawberries, heavy cream, milk, sweetened condensed milk, vanilla extract, and salt to a blender. Blend until completely smooth, about 30 to 45 seconds.",
         "Strain the base through a fine mesh strainer if you want a smoother, seed-free texture.",
-        "Pour the mixture into a Ninja Creami pint container, staying at or below the max fill line.",
-        "Seal the pint and freeze on a level surface for at least 24 hours.",
+        "Pour the mixture into a container. Freeze on a level surface for at least 24 hours.",
         "Remove the pint from the freezer and let it sit on the counter for 2 to 3 minutes.",
-        "Spin using the Ice Cream function on the Ninja Creami.",
+        "Spin using the Ice Cream function",
         "Respin once if the texture looks crumbly after the first spin."
       ],
-      "prepNotes": "This Ninja Creami strawberry banana ice cream is creamy, fruity, and naturally sweet with real strawberries and banana. It blends into a smooth pale pink base and spins into a soft, scoopable ice cream after freezing.",
+      "prepNotes": "Banana - Use ripe or overripe banana for the sweetest, strongest flavor. Frozen and thawed banana works too.\nStrawberries - Fresh or frozen both work. If using frozen, thaw and drain them first so the base doesn’t get watery. Hull the strawberries before blending and taste one first. If they’re not very sweet, add a little sugar or honey before freezing since the flavor mellows once frozen.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "banana",
+        "strawberry",
+        "ice cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-strawberry-banana-ice-cream-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-02T09:48:32.859Z",
-      "updatedAt": "2026-07-02T09:48:32.859Z"
+      "updatedAt": "2026-07-04T04:19:35.678Z"
     },
     {
       "id": "3f1256d2-01d2-48bd-8038-955ea0cdf352",
