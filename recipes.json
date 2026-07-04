@@ -447,8 +447,9 @@
     },
     {
       "id": "5963c1e2-71d4-48b2-bcd6-a74a1aeb85a2",
-      "title": "Ninja Creami Maple Cinnamon Toast Crunch Ice Cream",
-      "servings": "4",
+      "title": "Maple Cinnamon Toast Crunch Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1¼ cup half and half",
         "¼ cup sweetened condensed milk",
@@ -461,24 +462,23 @@
       ],
       "instructions": [
         "Add half and half, condensed milk, cottage cheese, maple syrup, vanilla, cinnamon powder, and salt to a blender. Blend until totally smooth.",
-        "Pour into a Deluxe pint up to the max fill line.",
+        "Pour into a container up to the max fill line.",
         "Freeze for 24 hours.",
         "Spin on Ice Cream cycle.",
         "If crumbly, Respin. Add 1–2 Tbsp half and half if needed.",
         "Create a center tunnel, add Cinnamon Toast Crunch, and Mix-In.",
         "Serve immediately or freeze briefly for a firmer scoop."
       ],
-      "prepNotes": "A creamy, breakfast-inspired maple ice cream packed with cinnamon cereal crunch. Made with simple ingredients - no gums, no protein powder - and frozen to Ninja Creami perfection.",
+      "prepNotes": "Substitutions\n* Swap for Cinnamon Squares, or even granola.\n* Add a swirl of extra maple syrup after the Mix-In for a ribbons effect.\n* Fold in crushed pecans or walnuts for a maple-nutty vibe.\n* Sub half the half-and-half with milk for a lighter base.\n\nTopping & Mix-In Ideas\n* Extra crushed cinnamon cereal after the Mix-In cycle\n* A drizzle of warm maple syrup on top\n* Toasted walnuts or pecans\n* A sprinkle of cinnamon sugar\n* Whipped cream (because why not?)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "snacks",
-        "American"
+        "ice cream",
+        "cinnamon"
       ],
-      "source": "https://thecreameri.com/ninja-creami-maple-cinnamon-toast-crunch-ice-cream/",
+      "pinned": false,
       "createdAt": "2026-07-02T11:24:07.283Z",
-      "updatedAt": "2026-07-02T11:24:07.283Z"
+      "updatedAt": "2026-07-04T03:29:17.208Z"
     },
     {
       "id": "d44f4048-6f18-4287-9306-8ac097b6f958",
