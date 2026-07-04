@@ -1206,19 +1206,20 @@
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free Vanilla pudding",
-        "1 scoop of BUM Lemon Cake Whey Protein Powder OR Vanilla Ice Cream protein powder (but not as lemony)",
+        "1 scoop  Vanilla Ice Cream protein powder",
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
         "Pinch of salt",
         "¼ teaspoon of Lemon Extract",
-        "¼ teaspoon of Cake Batter Extract"
+        "¼ teaspoon of Cake Batter Extract",
+        "icing: Sugar free powdered sugar",
+        "icing: lemon juice / extract"
       ],
       "instructions": [
         "Mix all ingredients together.",
         "Optional mix-ins: For a more cake-like texture, use Bettergoods Lemon Chiffon Soft Baked Cookies or Lemon Bars (Keto/Regular or Quest Lemon Cake protein bars).",
         "Make Lemon Icing: Mix 1 tablespoon of SF powdered sugar with 1/4 teaspoon of water and a couple drops of lemon juice/extract until an icing-like texture.",
-        "Drizzle icing over the top or mix with the Cool Whip first.",
-        "Optional: Top with Lemon Cookies or Lemon Bars."
+        "Drizzle icing over the top or mix with the whipped cream first."
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -1228,8 +1229,9 @@
         "protein",
         "lemon"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T03:27:18.929Z"
+      "updatedAt": "2026-07-04T14:46:31.731Z"
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
