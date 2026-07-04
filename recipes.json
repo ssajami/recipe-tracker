@@ -2530,7 +2530,7 @@
         "1/4 teaspoon of All Spice or Pumpkin Pie Spice",
         "½ can Pumpkin Puree, about 8 oz",
         "Mix-ins: 1 rectangle Graham Cracker",
-        "Toppings: Cool Whip, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top"
+        "Toppings: Whipped Cream, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -2541,8 +2541,9 @@
         "protein",
         "pumpkin"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:19:53.425Z"
+      "updatedAt": "2026-07-04T11:40:41.748Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
