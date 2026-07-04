@@ -1421,15 +1421,17 @@ function combinedMissingItems(recipes) {
       const key = normalizeIngredient(ing);
       if (!groups.has(key)) groups.set(key, []);
       const { qty, unit } = parseQtyAndUnit(ing);
-      groups.get(key).push({ qty, unit, original: ing, recipeTitle: r.title });
+      groups.get(key).push({ qty, unit, original: ing, recipeId: r.id, recipeTitle: r.title });
     }
   }
 
   const result = [];
   for (const [key, entries] of groups) {
-    const recipeNames = [...new Set(entries.map(e => e.recipeTitle))];
+    const seen = new Map();
+    entries.forEach(e => seen.set(e.recipeId, e.recipeTitle));
+    const recipeRefs = [...seen.entries()].map(([id, title]) => ({ id, title }));
     if (entries.length === 1) {
-      result.push({ display: entries[0].original, recipes: recipeNames, key });
+      result.push({ display: entries[0].original, recipes: recipeRefs, key });
       continue;
     }
     const firstUnit = entries[0].unit;
@@ -1438,9 +1440,9 @@ function combinedMissingItems(recipes) {
     if (allHaveQty && allSameUnit) {
       const total = entries.reduce((s, e) => s + e.qty, 0);
       const unitStr = firstUnit ? `${firstUnit} ` : '';
-      result.push({ display: `${formatQty(total)} ${unitStr}${key}`, recipes: recipeNames, key, combined: true });
+      result.push({ display: `${formatQty(total)} ${unitStr}${key}`, recipes: recipeRefs, key, combined: true });
     } else {
-      for (const e of entries) result.push({ display: e.original, recipes: [e.recipeTitle], key });
+      for (const e of entries) result.push({ display: e.original, recipes: [{ id: e.recipeId, title: e.recipeTitle }], key });
     }
   }
   return result;
@@ -1511,7 +1513,9 @@ function renderShoppingContent() {
         <span class="shop-check">☐</span>
         <div class="shop-text">
           <span>${esc(item.display)}</span>
-          <span class="shop-recipe-tag">${esc(item.recipes.join(', '))}</span>
+          <span class="shop-recipe-tag">${item.recipes.map(r =>
+            `<button class="shop-recipe-link" onclick="event.stopPropagation();App.showDetail('${r.id}')">${esc(r.title)}</button>`
+          ).join(', ')}</span>
         </div>
       </li>`
     ).join('');
