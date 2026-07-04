@@ -594,7 +594,7 @@
         "Spin on the “Ice Cream” setting.",
         "Re-spin if needed: If the texture is crumbly, add 1-2 tbsp of milk and re-spin until creamy."
       ],
-      "prepNotes": "",
+      "prepNotes": "Substitution\n* Cottage Cheese for Greek Yogurt – Similar protein boost, different tangy flavor.\n* Heavy Cream Instead of Half-and-Half – For an extra rich texture.\n* Add a Dash of Cinnamon – Enhances the warmth of the hot honey.\n\nFlavor Variations to Try\n* Honey Lavender – Add dried lavender for a floral touch.\n* Chili Chocolate Honey – Mix in cocoa powder and extra chili.\n* Hot Honey & Cinnamon Swirl – Swirl in cinnamon sugar.\n* Spicy Peanut Butter Honey – Add peanut butter for a nutty kick.\n* Maple Hot Honey – Replace honey with maple syrup.\n* Lemon Honey Spice – Add a touch of lemon zest.\n* Chai Honey – Infuse with chai spices like cardamom and cloves.\n* Hot Honey Espresso – A coffee-infused twist!\n\nWhat Goes Well with Hot Honey Ice Cream?\n* Warm Apple Pie – A spicy-sweet contrast.\n* Grilled Peaches – Smoky and caramelized goodness.\n* Buttermilk Waffles – Perfect sweet-savory breakfast treat.\n* Dark Chocolate Brownies – Deep, rich flavors complement the spice.\n* Chili-Spiced Nuts – Extra crunch and heat.\n* Vanilla Bean Shortbread Cookies – Buttery balance to the spice.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -602,8 +602,9 @@
         "honey",
         "unique"
       ],
+      "pinned": false,
       "createdAt": "2026-07-02T10:04:07.714Z",
-      "updatedAt": "2026-07-02T11:37:24.077Z"
+      "updatedAt": "2026-07-04T03:39:27.487Z"
     },
     {
       "id": "048300fd-295a-4a6f-9959-8434c262f37a",
