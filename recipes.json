@@ -702,8 +702,9 @@
     },
     {
       "id": "ff8fc458-0f22-4769-b466-8d63e7a24f03",
-      "title": "Ninja Creami Blackberry Cheesecake Ice Cream",
-      "servings": "4",
+      "title": "Blackberry Cheesecake Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
       "ingredients": [
         "1 cup Half and half",
         "1 cup blackberries",
@@ -713,22 +714,20 @@
       ],
       "instructions": [
         "Blend it up: Blend all ingredients in a blender or food processor until smooth.",
-        "Freeze: Pour the mixture into a Ninja Creami Deluxe pint and freeze on a level surface for at least 24 hours.",
+        "Freeze: Pour the mixture into a container and freeze on a level surface for at least 24 hours.",
         "Spin: Use the “Lite Ice Cream” or “Gelato” mode to spin.",
-        "Re-spin: If crumbly, add 1–2 tbsp milk and re-spin until creamy.",
-        "Serve & enjoy: Scoop and devour!"
+        "Re-spin: If crumbly, add 1–2 tbsp milk and re-spin until creamy."
       ],
-      "prepNotes": "This Ninja Creami Blackberry Cheesecake Ice Cream is creamy, tangy, and bursting with juicy berries. If you love cheesecake and blackberries, you’re about to meet your new favorite frozen treat!",
+      "prepNotes": "Substitution\n* Replace half and half with equal parts heavy cream + whole milk.\n* Add Lemon zest for a citrusy pop\n* Add Graham cracker crumbs mixed in after spinning for true cheesecake vibes\n\nMix-Ins and Topping Ideas\n* Fresh Blackberries: Pile them on for extra berry goodness.\n* Lemon Zest: Brightens the creamy base.\n* Graham Cracker Crumbs: Total cheesecake-in-a-cone moment.\n* Mini Chocolate Chips: Adds a little indulgence.\n* Honey Drizzle: Enhances the fruit’s natural sweetness.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "snacks",
-        "American"
+        "blackberry",
+        "ice cream"
       ],
-      "source": "https://thecreameri.com/ninja-creami-blackberry-cheesecake-ice-cream/",
+      "pinned": false,
       "createdAt": "2026-07-02T10:01:56.378Z",
-      "updatedAt": "2026-07-02T10:01:56.378Z"
+      "updatedAt": "2026-07-04T03:51:41.950Z"
     },
     {
       "id": "860d7119-6a2c-4e89-944c-8e7581ba0906",
