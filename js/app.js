@@ -86,6 +86,7 @@ function filterRecipes() {
 let toastTimer = null;
 let _pantryTimer = null;
 let _notesTimer = null;
+let _dragState = null; // { type, fromIndex, touchEl, touchClone }
 function toast(msg, type = 'info', ms = 3000) {
   const el = document.getElementById('toast');
   el.textContent = msg;
@@ -296,6 +297,79 @@ const App = {
     reRenderIngredients();
   },
   updateIngredient(i, v) { editIngredients[i] = v; },
+
+  // ── Drag-to-reorder ───────────────────────────────────────────────────────
+  dragStart(e, index, type) {
+    _dragState = { type, fromIndex: index };
+    e.dataTransfer.effectAllowed = 'move';
+    e.currentTarget.closest('.editable-item').classList.add('dragging');
+  },
+  dragOver(e, index, type) {
+    if (!_dragState || _dragState.type !== type) return;
+    e.preventDefault();
+    document.querySelectorAll('.editable-item.drag-over').forEach(el => el.classList.remove('drag-over'));
+    e.currentTarget.closest('.editable-item').classList.add('drag-over');
+  },
+  dragDrop(e, index, type) {
+    if (!_dragState || _dragState.type !== type) return;
+    e.preventDefault();
+    const arr = type === 'ing' ? editIngredients : editInstructions;
+    const [item] = arr.splice(_dragState.fromIndex, 1);
+    arr.splice(index, 0, item);
+    _dragState = null;
+    type === 'ing' ? reRenderIngredients() : reRenderInstructions();
+  },
+  dragEnd(e) {
+    document.querySelectorAll('.editable-item.dragging, .editable-item.drag-over')
+      .forEach(el => el.classList.remove('dragging', 'drag-over'));
+    _dragState = null;
+  },
+
+  // Touch drag support
+  touchDragStart(e, index, type) {
+    const handle = e.currentTarget;
+    const item = handle.closest('.editable-item');
+    const rect = item.getBoundingClientRect();
+    const clone = item.cloneNode(true);
+    clone.style.cssText = `position:fixed;left:${rect.left}px;top:${rect.top}px;width:${rect.width}px;opacity:0.85;pointer-events:none;z-index:9999;background:var(--surface);box-shadow:0 4px 16px rgba(0,0,0,0.2);border-radius:8px;`;
+    document.body.appendChild(clone);
+    item.classList.add('dragging');
+    _dragState = { type, fromIndex: index, touchEl: item, touchClone: clone, startY: e.touches[0].clientY };
+    e.preventDefault();
+  },
+  touchDragMove(e) {
+    if (!_dragState?.touchClone) return;
+    e.preventDefault();
+    const touch = e.touches[0];
+    const dy = touch.clientY - _dragState.startY;
+    const origRect = _dragState.touchEl.getBoundingClientRect();
+    _dragState.touchClone.style.top = (origRect.top + dy) + 'px';
+    // Highlight target row
+    document.querySelectorAll('.editable-item.drag-over').forEach(el => el.classList.remove('drag-over'));
+    const el = document.elementFromPoint(touch.clientX, touch.clientY)?.closest('.editable-item');
+    if (el && el !== _dragState.touchEl) el.classList.add('drag-over');
+  },
+  touchDragEnd(e) {
+    if (!_dragState) return;
+    const touch = e.changedTouches[0];
+    const targetItem = document.elementFromPoint(touch.clientX, touch.clientY)?.closest('.editable-item');
+    _dragState.touchClone?.remove();
+    document.querySelectorAll('.editable-item.dragging, .editable-item.drag-over')
+      .forEach(el => el.classList.remove('dragging', 'drag-over'));
+    if (targetItem) {
+      const list = _dragState.type === 'ing' ? '#ingredients-list' : '#instructions-list';
+      const items = [...document.querySelectorAll(`${list} .editable-item`)];
+      const toIndex = items.indexOf(targetItem);
+      if (toIndex !== -1 && toIndex !== _dragState.fromIndex) {
+        const arr = _dragState.type === 'ing' ? editIngredients : editInstructions;
+        const [item] = arr.splice(_dragState.fromIndex, 1);
+        arr.splice(toIndex, 0, item);
+        _dragState.type === 'ing' ? reRenderIngredients() : reRenderInstructions();
+      }
+    }
+    _dragState = null;
+  },
+
   handleIngredientKey(e, i) {
     if (e.key === 'Enter') { e.preventDefault(); this.addIngredient(); }
     if (e.key === 'Backspace' && editIngredients[i] === '' && editIngredients.length > 1) {
@@ -1240,7 +1314,15 @@ function renderTagChips() {
 
 function renderIngredientsList() {
   return editIngredients.map((ing, i) => `
-    <div class="editable-item">
+    <div class="editable-item" draggable="true"
+         ondragstart="App.dragStart(event,${i},'ing')"
+         ondragover="App.dragOver(event,${i},'ing')"
+         ondrop="App.dragDrop(event,${i},'ing')"
+         ondragend="App.dragEnd(event)">
+      <span class="drag-handle"
+            ontouchstart="App.touchDragStart(event,${i},'ing')"
+            ontouchmove="App.touchDragMove(event)"
+            ontouchend="App.touchDragEnd(event)">⠿</span>
       <input type="text" value="${esc(ing)}" placeholder="Ingredient…"
              oninput="App.updateIngredient(${i}, this.value)"
              onkeydown="App.handleIngredientKey(event, ${i})">
@@ -1250,7 +1332,15 @@ function renderIngredientsList() {
 
 function renderInstructionsList() {
   return editInstructions.map((step, i) => `
-    <div class="editable-item">
+    <div class="editable-item" draggable="true"
+         ondragstart="App.dragStart(event,${i},'ins')"
+         ondragover="App.dragOver(event,${i},'ins')"
+         ondrop="App.dragDrop(event,${i},'ins')"
+         ondragend="App.dragEnd(event)">
+      <span class="drag-handle"
+            ontouchstart="App.touchDragStart(event,${i},'ins')"
+            ontouchmove="App.touchDragMove(event)"
+            ontouchend="App.touchDragEnd(event)">⠿</span>
       <span class="step-num">${i + 1}</span>
       <textarea placeholder="Step ${i + 1}…"
                 oninput="App.updateInstruction(${i}, this.value)">${esc(step)}</textarea>
