@@ -1385,14 +1385,17 @@
         "1 Tbsp Coconut Flakes (Toasted or not)",
         "¼ teaspoon of Vanilla Extract",
         "¼ teaspoon of Coconut Extract",
-        "¼ teaspoon Almond Extract"
+        "¼ teaspoon Almond Extract",
+        "Mixin: 14 Grams Toasted Almonds",
+        "Mixin: 2 Tbsp Toasted Coconut flakes",
+        "Mixin: Chocolate Chips"
       ],
       "instructions": [
-        "Mix all ingredients together.",
+        "Mix all ingredients together. Freeze.",
         "Toast almonds in toaster oven, then crush (put in ziplock bag and crush with spoon).",
         "Toast 2 Tbsp coconut flakes in toaster oven until slightly brown.",
-        "Add mix-ins: 14 grams toasted crushed almonds, 2 Tbsp toasted coconut flakes, Lilies Dark Chocolate Chips OR Regular Chocolate Chips, optional Almond Joy.",
-        "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. Optional: Non Fat Cool Whip."
+        "Add mix-ins: toasted crushed almonds,toasted coconut flakes, Chocolate Chips",
+        "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. "
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -1403,8 +1406,9 @@
         "coconut",
         "almond"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T06:15:19.108Z"
+      "updatedAt": "2026-07-05T16:56:11.236Z"
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
