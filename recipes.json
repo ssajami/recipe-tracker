@@ -1547,23 +1547,26 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "1 cup of Fairlife Skim Milk",
-        "3/4 cup unsweetened vanilla almond milk",
+        "3/4 cup of Fairlife Skim Milk",
+        "1/2 cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free vanilla pudding",
-        "1 scoop of Ryse Jet Puff Marshmallow OR 1 Keto Iced Oatmeal Whey Protein Powder",
+        "1 scoop of vanilla Protein Powder",
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
-        "Pinch of salt",
+        "Pinch of salt, 1/4 tsp cinnamon, 1/16 tsp nutmeg",
         "1/4 teaspoon Vanilla Extract",
-        "Optional: Reduce each milk by 1/4 cup and replace with 1/4 cup of cooked oatmeal – rolled oats and water (Optional add cinnamon and honey)",
-        "Mix-ins: 1 Little Debbie's Oatmeal Cream Pie, broken up into smaller pieces",
-        "Cream Filling Topping: 1 tbsp room temp Butter, 15 gr Serve Powdered Sugar, 1/8 teaspoon vanilla extract, 4 ml heavy cream"
+        "1/4 cup of cooked oatmeal – rolled oats and water (Optional add cinnamon and honey)",
+        "Mix-ins: oatmeal cookies OR Oatmeal crunch (see recipe)",
+        "Cream Filling Topping: 1 tbsp room temp Butter",
+        "Cream Filling Topping: 15 gr  Powdered allulose ",
+        "Cream Filling Topping: 1/8 teaspoon vanilla extract",
+        "Cream Filling Topping: 4 ml heavy cream"
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
         "Churn as a traditional vanilla ice cream.",
         "Add broken up Oatmeal Cream Pie pieces during the mix-in cycle.",
-        "For cream filling topping: beat 1 tbsp room temp butter until fluffy (a few minutes), then add 15 gr powdered sugar and mix well, then add 1/8 teaspoon vanilla extract and 4 ml heavy cream and mix well. Add more heavy cream as needed until desired texture (like icing)."
+        "For cream filling topping: beat butter until fluffy (a few minutes), then add powdered sugar and mix well, then add vanilla extract and heavy cream and mix well. Add more heavy cream as needed until desired texture (like icing)."
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -1572,8 +1575,9 @@
         "ice cream",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T06:46:19.153Z"
+      "updatedAt": "2026-07-05T07:01:43.806Z"
     },
     {
       "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
