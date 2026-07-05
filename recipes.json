@@ -2744,9 +2744,9 @@
         "protein",
         "chocolate"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-05T18:30:46.274Z"
+      "updatedAt": "2026-07-05T18:30:50.249Z"
     },
     {
       "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
