@@ -201,6 +201,18 @@ const App = {
     toast('Settings saved', 'success');
   },
 
+  backupRecipes() {
+    const data = { recipes: state.recipes, pantry: [...state.pantry], notes: state.notes };
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    const date = new Date().toISOString().slice(0, 10);
+    a.href = url;
+    a.download = `recipes-backup-${date}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  },
+
   // ── Confirm Dialog ───────────────────────────────────────────────────────
   hideConfirm() { document.getElementById('modal-confirm').classList.add('hidden'); },
 
