@@ -1,6 +1,45 @@
 {
   "recipes": [
     {
+      "id": "9f55fc60-1fd3-469e-8090-30271185d2fe",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-05T18:20:18.152Z",
+      "updatedAt": "2026-07-05T18:20:18.152Z",
+      "title": "Chicken Cutlets",
+      "servings": "",
+      "ingredients": [
+        "2lb chicken breast",
+        "4 eggs",
+        "2 cups panko bread crumbs",
+        "1/2 cup grated parmesan",
+        "2 tsp salt",
+        "2 tsp Italian seasoning",
+        "1 tsp garlic powder",
+        "1 tsp fresh ground black pepper",
+        "Flaky salt to taste",
+        "1/2 cup olive oil, divided"
+      ],
+      "instructions": [
+        "Cut the chicken breast in half, lengthwise. Use the smooth edge of a meat tenderizer to flatten the chicken until the thickness of the chicken is even.",
+        "Whisk the eggs in a shallow bowl and set aside.",
+        "In a separate shallow bowl, whisk together the panko, grated Parmesan, salt, Italian seasoning, garlic powder and pepper.",
+        "Dip each chicken breast into the egg and then into the panko mixture. Ensure both sides are evenly coated. Place on a plate or platter as you repeat the process with all the chicken.",
+        "In a 10-inch skillet heat 4 tbsp of oil over medium heat. To test the oil you can dip the back of a wooden spoon into the oil and if bubbles form immediately, the oil is ready.",
+        "Place a prepared chicken cutlet in the hot oil for 2–3 minutes on each side. If you notice the oil getting too hot and the chicken browning too quickly, simply turn the heat down to medium-low. Don't overcrowd the pan. I fry 2 cutlets at a time.",
+        "Transfer the cooked chicken to a paper towel lined plate to absorb any excess oil. And sprinkle with flaky salt. Repeat with all the chicken cutlets."
+      ],
+      "prepNotes": "To test the oil, dip the back of a wooden spoon into the oil; if bubbles form immediately, the oil is ready. Don't overcrowd the pan — fry 2 cutlets at a time. Turn heat to medium-low if browning too quickly.",
+      "tags": [
+        "chicken",
+        "main course",
+        "Italian",
+        "fried",
+        "dinner"
+      ],
+      "source": ""
+    },
+    {
       "id": "4d80865e-7e7c-42a5-8707-d6989ec1086c",
       "title": "Keto Fudge Brownie",
       "servings": "",
