@@ -1580,9 +1580,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-05T07:01:43.806Z"
+      "updatedAt": "2026-07-05T17:03:07.205Z"
     },
     {
       "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
