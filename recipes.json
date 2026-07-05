@@ -4104,17 +4104,17 @@
       "servings": "creami tub",
       "source": "georgeats.com",
       "ingredients": [
-        "200 g thickened cream",
+        "200 g heavy cream",
         "150 g sweetened condensed milk (not evaporated milk)",
         "100 g full fat milk",
         "1 tsp vanilla bean paste or extract",
-        "100 g butter",
-        "100 g light brown sugar",
-        "20–40 ml + 1–2 tbsp milk of choice, as needed",
-        "150–175 g heat-treated tapioca flour/starch",
-        "1 tsp vanilla bean paste or extract",
-        "Pinch of fine salt",
-        "100 g finely chopped dark chocolate"
+        "For dough: 100 g butter",
+        "For dough: 100 g light brown sugar",
+        "For dough: 20–40 ml + 1–2 tbsp milk of choice, as needed",
+        "For dough: 150–175 g heat-treated tapioca flour/starch",
+        "For dough: 1 tsp vanilla bean paste or extract",
+        "For dough: Pinch of fine salt",
+        "For dough: 100 g finely chopped dark chocolate"
       ],
       "instructions": [
         "Vanilla ice cream: Whisk cream, condensed milk, milk, vanilla together in a bowl, let sit 5 minutes, whisk again.",
@@ -4135,8 +4135,9 @@
         "ice cream",
         "cookie dough"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:46:27.868Z"
+      "updatedAt": "2026-07-05T10:51:50.635Z"
     },
     {
       "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
