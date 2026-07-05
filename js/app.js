@@ -465,6 +465,13 @@ const App = {
     document.getElementById('chat-panel')?.classList.toggle('open', state.chatOpen);
     if (state.chatOpen) document.getElementById('chat-input')?.focus();
   },
+  copyChat() {
+    if (!state.chatMessages.length) return;
+    const text = state.chatMessages
+      .map(m => `${m.role === 'user' ? 'You' : 'Assistant'}: ${m.content}`)
+      .join('\n\n');
+    navigator.clipboard.writeText(text).then(() => toast('Chat copied', 'success', 1500));
+  },
 
   async sendChatMessage() {
     const input = document.getElementById('chat-input');
@@ -1184,6 +1191,7 @@ function renderDetail() {
       <aside class="chat-panel${state.chatOpen ? ' open' : ''}" id="chat-panel">
         <div class="chat-header">
           <span>💬 Recipe Assistant</span>
+          <button class="icon-btn chat-copy-btn" title="Copy chat" onclick="App.copyChat()">&#128203;</button>
           <button class="chat-close-btn" onclick="App.toggleChat()">✕</button>
         </div>
         <div class="chat-messages" id="chat-messages">
