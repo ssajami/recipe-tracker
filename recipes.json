@@ -1921,14 +1921,14 @@
         "Pinch of Xanthan gum",
         "Dash of Lime Zest (Too much will make it bitter)",
         "1/4 teaspoon Vanilla Extract",
-        "Optional: 1/4 teaspoon of Coconut Extract if you want Coconut Key Lime",
+        "Optional: 1/4 teaspoon Coconut Extract if you want Coconut Key Lime",
         "Optional: 1 drop green food coloring",
         "Mix-ins: Optional: 1 Rectangle Graham Cracker",
-        "Toppings: 2 tbsp Cool Whip",
+        "Toppings: 2 tbsp Whipped cream",
         "Toppings: 1 Crumbled Graham Crackers"
       ],
       "instructions": [],
-      "prepNotes": "Like limeade, this easy lime ice cream recipe is sweet and tangy, made with real lime juice and lime zest, and an ultra-refreshing treat for a hot summer day.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -1936,8 +1936,9 @@
         "citrus",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:38:38.694Z"
+      "updatedAt": "2026-07-05T16:57:16.304Z"
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
