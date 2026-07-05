@@ -1419,7 +1419,7 @@
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
         "Pinch of salt",
-        "2 Tbsp Davinci SF Dulche De Leche Syrup AND/OR 100 grams Dulche de Leche Pudding (wet)",
+        "2 Tbsp Davinci SF Dulche De Leches Syrup AND/OR 100 grams Dulche de Leche Pudding (wet)",
         "¼ teaspoon of Vanilla extract"
       ],
       "instructions": [
@@ -1435,8 +1435,9 @@
         "protein",
         "caramel"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T06:16:04.258Z"
+      "updatedAt": "2026-07-05T11:02:56.640Z"
     },
     {
       "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
