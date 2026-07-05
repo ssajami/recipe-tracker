@@ -4468,15 +4468,15 @@
       "source": "insta: ninja_creami_recipes",
       "ingredients": [
         "1 cup milk",
-        "1/2 scoop JI Salted Caramel protein",
-        "1/2 scoop LeanFit vanilla protein",
+        "1/2 scoop Salted Caramel protein",
+        "1/2 scoop vanilla protein",
         "1–2 tbsp apple butter or apple pie filling",
         "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)",
         "2 Biscoff cookies (mix-in)",
         "1 tbsp apple butter (mix-in)"
       ],
       "instructions": [
-        "Mix base ingredients together in a Ninja Creami pint and freeze 24 hours.",
+        "Mix base ingredients together in a container and freeze 24 hours.",
         "Once frozen, spin on the Lite Ice Cream setting.",
         "Respin if needed.",
         "Add in apple butter and Biscoff cookies as mix-ins and spin on respin."
@@ -4489,8 +4489,9 @@
         "apples",
         "biscoff"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-06-30T18:44:17.247Z"
+      "updatedAt": "2026-07-05T09:11:18.942Z"
     },
     {
       "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
