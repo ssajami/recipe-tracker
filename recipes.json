@@ -2862,15 +2862,15 @@
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free Butterscotch pudding",
-        "1 scoop Ryse Reese Peanut Butter Cup Protein Powder (Different than the Vanilla PB flavor and Skippy PB) OR Vanilla Ice Cream protein powder for less PB taste",
+        "1 scoop Peanut Butter Cup Protein Powder (Different than the Vanilla PB flavor and Skippy PB) OR Vanilla Ice Cream protein powder for less PB taste",
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
         "Pinch of salt",
         "1 Tbsp peanut butter powder",
         "1/4 teaspoon Butter Extract",
         "Mix-ins: 3–6 SF Mini Peanut Butter Cups Or 2 Regular Size Cups - break up first",
-        "Optional Mix-ins (Kill your macros!): Dark Chocolate Reese PB Thins, Regular Reese PB Cups, Reese's Pieces, or a combination",
-        "Toppings (Optional): More Reese candy - Reese Pieces add a nice color pop"
+        "Optional Mix-ins: Dark Chocolate Reese PB Thins, Regular Reese PB Cups, Reese's Pieces, or a combination",
+        "Toppings: More Reese candy - Reese Pieces add a nice color pop"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -2882,8 +2882,9 @@
         "peanut butter",
         "chocolate"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:36:56.527Z"
+      "updatedAt": "2026-07-05T10:58:56.185Z"
     },
     {
       "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
