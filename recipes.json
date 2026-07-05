@@ -2709,7 +2709,7 @@
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free Butterscotch pudding",
-        "1 scoop of Vanilla Ice Cream protein powder OR Ryse Peanut Butter Protein Powder (Preferred)",
+        "1 scoop of Vanilla Ice Cream protein powder OR Peanut Butter Protein Powder (Preferred)",
         "1 tbsp Allulose",
         "Pinch of Xanthan gum",
         "Pinch of salt",
@@ -2726,8 +2726,9 @@
         "protein",
         "peanut butter"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T06:49:03.910Z"
+      "updatedAt": "2026-07-05T10:56:30.911Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
