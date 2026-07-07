@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
-      "title": "Butterscotch Ice Cream (Base Recipe)",
+      "title": "Butterscotch Ice Cream (Base Recipe) - Dynas",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -24,7 +24,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-07T07:09:52.591Z",
-      "updatedAt": "2026-07-07T07:09:52.591Z"
+      "updatedAt": "2026-07-07T16:57:59.159Z"
     },
     {
       "id": "9f55fc60-1fd3-469e-8090-30271185d2fe",
