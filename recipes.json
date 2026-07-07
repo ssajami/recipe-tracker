@@ -1,6 +1,32 @@
 {
   "recipes": [
     {
+      "id": "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
+      "title": "Butterscotch Ice Cream (Base Recipe)",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        "1 cup Fairlife Skim Milk",
+        "3/4 cup unsweetened vanilla almond milk",
+        "1 tbsp sugar-free Butterscotch pudding",
+        "1 scoop vanilla Ice Cream protein powder",
+        "1 tbsp Allulose",
+        "⅛ teaspoon Xanthan gum",
+        "Pinch of salt"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "butterscotch"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-07T07:09:52.591Z",
+      "updatedAt": "2026-07-07T07:09:52.591Z"
+    },
+    {
       "id": "9f55fc60-1fd3-469e-8090-30271185d2fe",
       "title": "Chicken Cutlets",
       "servings": "",
