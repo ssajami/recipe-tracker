@@ -1383,7 +1383,7 @@ function renderTagChips() {
 }
 
 function renderIngredientsList() {
-  const others = state.recipes.filter(r => r.id !== state.editId);
+  const others = state.recipes.filter(r => r.id !== state.editId).sort((a, b) => a.title.localeCompare(b.title));
   return editIngredients.map((ing, i) => {
     const linkedId = editIngredientLinks[i] || null;
     const linkedRecipe = linkedId ? state.recipes.find(r => r.id === linkedId) : null;
