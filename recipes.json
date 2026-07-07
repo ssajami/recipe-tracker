@@ -2771,14 +2771,8 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "1 cup of Fairlife Skim Milk",
-        "3/4 cup unsweetened vanilla almond milk",
-        "1 tbsp sugar-free Vanilla pudding",
-        "1 scoop of Vanilla Ice Cream protein powder",
-        "1 tbsp Allulose",
-        "Pinch of Xanthan gum",
-        "Pinch of salt",
-        "¼ teaspoon Maple Extract",
+        "Vanilla base (see recipe)",
+        "⅛ teaspoon Maple Extract",
         "2 tbsp Sugar-free Maple Syrup",
         "Mix-ins: 2 tbsp crushed walnuts, 2 tbsp maple syrup",
         "Toppings: Crushed walnuts"
@@ -2792,8 +2786,9 @@
         "protein",
         "maple"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T06:50:27.443Z"
+      "updatedAt": "2026-07-07T08:14:49.700Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
