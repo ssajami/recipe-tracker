@@ -7,6 +7,7 @@ const state = {
   editId: null,         // null = new recipe
   search: '',
   tagFilter: null,
+  ratingFilter: null,
   cookChecked: { ingredients: new Set(), instructions: new Set() },
   qtyMultiplier: 1,
   importTab: 'text',
@@ -70,6 +71,7 @@ function getAllTags() {
 function filterRecipes() {
   let list = [...state.recipes];
   if (state.tagFilter) list = list.filter(r => (r.tags || []).includes(state.tagFilter));
+  if (state.ratingFilter) list = list.filter(r => (r.rating || 0) >= state.ratingFilter);
   if (state.search.trim()) {
     const q = state.search.toLowerCase();
     list = list.filter(r =>
@@ -727,6 +729,15 @@ Answer questions about substitutions, techniques, or anything related to this re
     render();
   },
 
+  setRatingFilter(n) {
+    state.ratingFilter = state.ratingFilter === n ? null : n;
+    document.getElementById('recipe-grid').innerHTML = renderGrid();
+    // Update active state on buttons
+    document.querySelectorAll('.rating-filter-btn').forEach(btn => {
+      btn.classList.toggle('active', Number(btn.dataset.rating) === state.ratingFilter);
+    });
+  },
+
   // ── Import: Tab ───────────────────────────────────────────────────────────
   setImportTab(tab) {
     state.importTab = tab;
@@ -1069,6 +1080,15 @@ function renderList() {
                  onkeydown="App.onSearchKey(event)"
                  autocomplete="off">
           <div id="search-suggestions" class="search-suggestions hidden"></div>
+        </div>
+        <div class="rating-filter-row">
+          ${[5,4,3,2,1].map(n => `
+            <button class="rating-filter-btn${state.ratingFilter === n ? ' active' : ''}"
+                    data-rating="${n}"
+                    onclick="App.setRatingFilter(${n})"
+                    title="${n}★ and above">
+              ${'★'.repeat(n)}${'☆'.repeat(5-n)}
+            </button>`).join('')}
         </div>
         <div id="recipe-grid">${renderGrid()}</div>
       </div>

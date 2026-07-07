@@ -191,8 +191,27 @@ code { background: #f0ede8; padding: 1px 4px; border-radius: 3px; font-size: 0.8
 }
 .fab:hover { background: var(--accent-dark); }
 
-/* ── Search ── */
-.search-container { margin-bottom: 16px; position: relative; }
+/* ── Search & Rating Filter ── */
+.search-container { margin-bottom: 10px; position: relative; }
+.rating-filter-row {
+  display: flex; gap: 6px; flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.rating-filter-btn {
+  font-size: 0.82rem; letter-spacing: 1px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.rating-filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.rating-filter-btn.active {
+  background: var(--accent); color: #fff; border-color: var(--accent);
+}
 .search-input {
   width: 100%;
   padding: 12px 16px 12px 42px;
