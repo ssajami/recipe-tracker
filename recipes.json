@@ -2510,6 +2510,13 @@
         "Mix-ins: 2 tbsp Dark Chocolate Chips or Chocolate Bars",
         "Optional toppings: SF Chocolate Syrup, SF Chocolate Chips"
       ],
+      "ingredientLinks": [
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        null,
+        null,
+        null,
+        null
+      ],
       "instructions": [
         "Combine all base ingredients and mix well.",
         "Freeze",
@@ -2527,7 +2534,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-07T06:17:55.796Z"
+      "updatedAt": "2026-07-07T17:04:25.847Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
