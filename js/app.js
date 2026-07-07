@@ -1082,7 +1082,7 @@ function renderList() {
           <div id="search-suggestions" class="search-suggestions hidden"></div>
         </div>
         <div class="rating-filter-row">
-          ${[5,4,3,2,1].map(n => `
+          ${[5,4].map(n => `
             <button class="rating-filter-btn${state.ratingFilter === n ? ' active' : ''}"
                     data-rating="${n}"
                     onclick="App.setRatingFilter(${n})"
