@@ -30,6 +30,7 @@ const state = {
 
 // Edit-specific mutable state (avoids full re-render on each keystroke)
 let editIngredients = [];
+let editIngredientLinks = []; // parallel array: recipeId or null per ingredient
 let editInstructions = [];
 let editTags = [];
 let editRating = null;
@@ -158,6 +159,7 @@ const App = {
     state.editId = id || null;
     const recipe = id ? state.recipes.find(r => r.id === id) : null;
     editIngredients = recipe ? [...(recipe.ingredients || [''])] : [''];
+    editIngredientLinks = recipe ? [...(recipe.ingredientLinks || [])] : [];
     editInstructions = recipe ? [...(recipe.instructions || [''])] : [''];
     editTags = recipe ? [...(recipe.tags || [])] : [];
     editRating = recipe ? (recipe.rating || null) : null;
@@ -255,6 +257,11 @@ const App = {
       servings:       document.getElementById('edit-servings')?.value.trim() || '',
       source:         document.getElementById('edit-source')?.value.trim() || '',
       ingredients:    editIngredients.filter(s => s.trim()),
+      ingredientLinks: (() => {
+        const kept = editIngredients.map((s, i) => s.trim() ? editIngredientLinks[i] || null : null)
+                                    .filter((_, i) => editIngredients[i].trim());
+        return kept.some(Boolean) ? kept : undefined;
+      })(),
       instructions:   editInstructions.filter(s => s.trim()),
       prepNotes:      document.getElementById('edit-prep-notes')?.value.trim() || '',
       afterPrepNotes: document.getElementById('edit-after-notes')?.value.trim() || '',
@@ -301,16 +308,22 @@ const App = {
 
   addIngredient() {
     editIngredients.push('');
+    editIngredientLinks.push(null);
     reRenderIngredients();
     const inputs = document.querySelectorAll('#ingredients-list input');
     inputs[inputs.length - 1]?.focus();
   },
   removeIngredient(i) {
     editIngredients.splice(i, 1);
-    if (editIngredients.length === 0) editIngredients.push('');
+    editIngredientLinks.splice(i, 1);
+    if (editIngredients.length === 0) { editIngredients.push(''); editIngredientLinks.push(null); }
     reRenderIngredients();
   },
   updateIngredient(i, v) { editIngredients[i] = v; },
+  setIngredientLink(i, recipeId) {
+    editIngredientLinks[i] = recipeId || null;
+    reRenderIngredients();
+  },
 
   // ── Drag-to-reorder ───────────────────────────────────────────────────────
   dragStart(e, index, type) {
@@ -330,6 +343,10 @@ const App = {
     const arr = type === 'ing' ? editIngredients : editInstructions;
     const [item] = arr.splice(_dragState.fromIndex, 1);
     arr.splice(index, 0, item);
+    if (type === 'ing') {
+      const [link] = editIngredientLinks.splice(_dragState.fromIndex, 1);
+      editIngredientLinks.splice(index, 0, link);
+    }
     _dragState = null;
     type === 'ing' ? reRenderIngredients() : reRenderInstructions();
   },
@@ -378,6 +395,10 @@ const App = {
         const arr = _dragState.type === 'ing' ? editIngredients : editInstructions;
         const [item] = arr.splice(_dragState.fromIndex, 1);
         arr.splice(toIndex, 0, item);
+        if (_dragState.type === 'ing') {
+          const [link] = editIngredientLinks.splice(_dragState.fromIndex, 1);
+          editIngredientLinks.splice(toIndex, 0, link);
+        }
         _dragState.type === 'ing' ? reRenderIngredients() : reRenderInstructions();
       }
     }
@@ -628,7 +649,7 @@ Answer questions about substitutions, techniques, or anything related to this re
     state.qtyMultiplier = m;
     const r = state.recipes.find(x => x.id === state.detailId);
     if (!r) return;
-    document.getElementById('ingredient-list').innerHTML = renderIngredientChecklist(r.ingredients || []);
+    document.getElementById('ingredient-list').innerHTML = renderIngredientChecklist(r.ingredients || [], r);
     document.querySelectorAll('.qty-btn').forEach(btn => {
       btn.classList.toggle('active', Math.abs(Number(btn.dataset.m) - m) < 0.001);
     });
@@ -1033,13 +1054,22 @@ function scaleIngredient(text, multiplier) {
   return scaleParens(text);
 }
 
-function renderIngredientChecklist(ingredients) {
-  return ingredients.map((ing, i) => `
+function renderIngredientChecklist(ingredients, recipe) {
+  const links = recipe?.ingredientLinks || [];
+  return ingredients.map((ing, i) => {
+    const linkedId = links[i];
+    const linked = linkedId ? state.recipes.find(r => r.id === linkedId) : null;
+    const linkBtn = linked
+      ? `<button class="ing-recipe-link" onclick="event.stopPropagation();App.showDetail('${linked.id}')"
+                title="Open: ${esc(linked.title)}">↗ ${esc(linked.title)}</button>`
+      : '';
+    return `
     <li class="checklist-item${state.cookChecked.ingredients.has(i) ? ' checked' : ''}"
         onclick="App.toggleIngredient(${i})">
       <div class="check-box"></div>
-      <span class="check-text">${esc(scaleIngredient(ing, state.qtyMultiplier))}</span>
-    </li>`).join('');
+      <span class="check-text">${esc(scaleIngredient(ing, state.qtyMultiplier))}${linkBtn}</span>
+    </li>`;
+  }).join('');
 }
 
 // ── Render Functions ────────────────────────────────────────────────────────
@@ -1197,7 +1227,7 @@ function renderDetail() {
             </div>
           </div>
           <ul class="cooking-checklist" id="ingredient-list">
-            ${renderIngredientChecklist(r.ingredients || [])}
+            ${renderIngredientChecklist(r.ingredients || [], r)}
           </ul>
         </div>
 
@@ -1353,7 +1383,17 @@ function renderTagChips() {
 }
 
 function renderIngredientsList() {
-  return editIngredients.map((ing, i) => `
+  const others = state.recipes.filter(r => r.id !== state.editId);
+  return editIngredients.map((ing, i) => {
+    const linkedId = editIngredientLinks[i] || null;
+    const linkedRecipe = linkedId ? state.recipes.find(r => r.id === linkedId) : null;
+    const selectHtml = `
+      <select class="ing-link-select" onchange="App.setIngredientLink(${i}, this.value)"
+              title="Link to a recipe">
+        <option value="">— no link —</option>
+        ${others.map(r => `<option value="${r.id}"${r.id === linkedId ? ' selected' : ''}>${esc(r.title)}</option>`).join('')}
+      </select>`;
+    return `
     <div class="editable-item" draggable="true"
          ondragstart="App.dragStart(event,${i},'ing')"
          ondragover="App.dragOver(event,${i},'ing')"
@@ -1363,11 +1403,15 @@ function renderIngredientsList() {
             ontouchstart="App.touchDragStart(event,${i},'ing')"
             ontouchmove="App.touchDragMove(event)"
             ontouchend="App.touchDragEnd(event)">⠿</span>
-      <input type="text" value="${esc(ing)}" placeholder="Ingredient…"
-             oninput="App.updateIngredient(${i}, this.value)"
-             onkeydown="App.handleIngredientKey(event, ${i})">
+      <div class="ing-with-link">
+        <input type="text" value="${esc(ing)}" placeholder="Ingredient…"
+               oninput="App.updateIngredient(${i}, this.value)"
+               onkeydown="App.handleIngredientKey(event, ${i})">
+        ${selectHtml}
+      </div>
       <button type="button" class="btn-remove" onclick="App.removeIngredient(${i})">×</button>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 }
 
 function renderInstructionsList() {

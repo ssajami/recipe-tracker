@@ -494,6 +494,21 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   transition: opacity 0.15s;
 }
 .editable-item input { flex: 1; }
+.ing-with-link { flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.ing-with-link input { width: 100%; }
+.ing-link-select {
+  font-size: 0.8rem; color: var(--text-muted);
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  background: var(--bg); padding: 2px 6px; width: 100%;
+}
+.ing-recipe-link {
+  display: inline-block; margin-left: 8px;
+  font-size: 0.78rem; color: var(--accent);
+  background: none; border: none; padding: 0;
+  cursor: pointer; text-decoration: underline;
+  vertical-align: middle;
+}
+.ing-recipe-link:hover { color: var(--accent-dark); }
 .editable-item textarea {
   flex: 1;
   min-height: 60px;
