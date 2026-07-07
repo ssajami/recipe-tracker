@@ -2476,15 +2476,7 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "1 cup of Fairlife Skim Milk",
-        "3/4 cup unsweetened vanilla almond milk",
-        "1 tbsp sugar-free Chocolate OR Chocolate deluxe pudding",
-        "1 scoop of Chocolate protein powder",
-        "1 tbsp Allulose",
-        "Pinch of Xanthan gum",
-        "Pinch of salt",
-        "1 tbsp Cocoa Powder",
-        "1/4 teaspoon Vanilla Extract",
+        "Chocolate base (see recipe)",
         "Mix-ins: Chocolate Fudge Sauce OR Sugar Free Hershey syrup",
         "Mix-ins: ¼ cup Mini Oreos, about 9 cookies",
         "Mix-ins: 2 tbsp Dark Chocolate Chips or Chocolate Bars",
@@ -2496,7 +2488,7 @@
         "Add mini Oreos, dark chocolate chips, and fudge sauce as mix-ins and run mix-in cycle.",
         "Top with SF chocolate syrup and chips if desired."
       ],
-      "prepNotes": "Holds all of the deliciousness you'd expect from a Mississippi Mud pie, including cookies, chocolate, coffee, and cream. You can remove the cream filling from the Oreos to reduce sugar and calorie intake.",
+      "prepNotes": "You can remove the cream filling from the Oreos to reduce sugar and calorie intake.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2505,9 +2497,9 @@
         "coffee",
         "protein"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-05T17:02:19.418Z",
-      "pinned": true
+      "updatedAt": "2026-07-07T06:17:55.796Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
