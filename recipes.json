@@ -2746,20 +2746,13 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "1 cup of Fairlife Skim Milk",
-        "3/4 cup unsweetened vanilla almond milk",
-        "1 tbsp sugar-free White Chocolate pudding",
-        "1 scoop of Vanilla Ice Cream protein powder",
-        "1 tbsp Allulose",
-        "Pinch of Xanthan gum",
-        "Pinch of salt",
-        "¼ teaspoon Vanilla Extract",
+        "Vanilla base (see recipe)",
         "1-2 drops of Mint Extract (Warning: A little goes a long way. Too much will taste like Toothpaste)",
         "Optional: 1 drop green food coloring",
         "Mix-ins: 2 tbsp SF chocolate chips. Can also try York Peppermint Patties or Thin Mints"
       ],
       "instructions": [],
-      "prepNotes": "Vanilla base fused with mint extract blended with plenty of sweet mini chocolate chips. Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
+      "prepNotes": "Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2768,8 +2761,9 @@
         "chocolate",
         "mint"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T06:55:05.910Z"
+      "updatedAt": "2026-07-07T07:52:34.011Z"
     },
     {
       "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
