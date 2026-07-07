@@ -2622,12 +2622,17 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "Butterscotch ice cream (see recipe)",
+        "Butterscotch Base",
         "¼ teaspoon Butter Extract",
         "Mix-ins: ½ Regular-size candy bar. Approx 1 oz"
       ],
+      "ingredientLinks": [
+        "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
+        null,
+        null
+      ],
       "instructions": [],
-      "prepNotes": "This is a solid base recipe for pretty much any candy bar (Snickers, Baby Ruth, Kit Kat, Reeses, etc). Make sure you refrigerate your bar so that the Mix-in setting doesn't obliterate your bar. The colder texture helps keep bits of crunchy goodness better than room temperature. You can opt for basic Vanilla/Chocolate recipe instead for other bars.",
+      "prepNotes": "This is a solid base recipe for pretty much any candy bar (Snickers, Kit Kat, Reeses, etc). Make sure you refrigerate your bar so that the Mix-in setting doesn't obliterate your bar. The colder texture helps keep bits of crunchy goodness better than room temperature. You can opt for basic Vanilla/Chocolate recipe instead for other bars.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2636,7 +2641,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T07:11:06.428Z"
+      "updatedAt": "2026-07-07T17:12:45.519Z"
     },
     {
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
