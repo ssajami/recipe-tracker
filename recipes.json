@@ -3006,11 +3006,11 @@
         "1 cup of Fairlife Skim Milk",
         "3/4 cup unsweetened vanilla almond milk",
         "1 tbsp sugar-free Vanilla pudding",
-        "1 scoop of Vanilla Ice Cream protein powder",
+        "1 scoop vanilla Ice Cream protein powder",
         "1 tbsp Allulose",
-        "¼ teaspoon Pinch of Xanthan gum",
+        "⅛ teaspoon Xanthan gum",
         "Pinch of salt",
-        "¼ teaspoon of Vanilla Extract"
+        "⅛ teaspoon Vanilla Extract"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -3021,8 +3021,9 @@
         "vanilla",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-01T18:40:33.864Z"
+      "updatedAt": "2026-07-07T06:25:48.187Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
