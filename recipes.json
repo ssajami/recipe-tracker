@@ -2142,6 +2142,14 @@
         "Toppings: Optional: 1-2 tbsp Frozen Biscoff Cookie Butter broken into small chunks",
         "Toppings: Biscoff Cookie Butter drizzled on top"
       ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "instructions": [],
       "prepNotes": "If using real cookie butter - reduce almond milk by 1tbsp",
       "afterPrepNotes": "",
@@ -2153,7 +2161,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-07T06:29:12.751Z"
+      "updatedAt": "2026-07-07T17:00:49.411Z"
     },
     {
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
