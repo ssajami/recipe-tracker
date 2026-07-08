@@ -432,12 +432,12 @@
       "source": "me",
       "ingredients": [
         {
-          "qty": "",
-          "name": "½ cup walnut halves/pieces"
+          "qty": "½ cup",
+          "name": " walnut halves/pieces"
         },
         {
-          "qty": "2 Tablespoons",
-          "name": "pure maple syrup"
+          "qty": "2 tbsp",
+          "name": "maple syrup"
         },
         {
           "qty": "",
@@ -461,7 +461,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-03T05:38:22.343Z",
-      "updatedAt": "2026-07-03T05:42:48.205Z"
+      "updatedAt": "2026-07-08T18:17:10.211Z"
     },
     {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
