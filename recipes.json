@@ -2767,14 +2767,20 @@
     },
     {
       "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
-      "title": "Mint Chocolate Chip Ice Cream",
+      "title": "Mint Chocolate Chip Ice Cream - Dynas",
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "Vanilla base (see recipe)",
+        "Vanilla base",
         "1-2 drops of Mint Extract (Warning: A little goes a long way. Too much will taste like Toothpaste)",
         "Optional: 1 drop green food coloring",
         "Mix-ins: 2 tbsp SF chocolate chips. Can also try York Peppermint Patties or Thin Mints"
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null
       ],
       "instructions": [],
       "prepNotes": "Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
@@ -2788,7 +2794,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T07:52:34.011Z"
+      "updatedAt": "2026-07-08T02:34:49.741Z"
     },
     {
       "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
