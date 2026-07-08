@@ -5452,21 +5452,21 @@
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-      "title": "Vanilla Ice Cream (Base Recipe) - Dynas",
+      "title": "Vanilla Ice Cream (Base Recipe)",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free Vanilla pudding"
         },
         {
           "qty": "1 scoop",
@@ -5477,16 +5477,16 @@
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
           "qty": "",
           "name": "Pinch of salt"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "Vanilla Extract"
         }
       ],
       "instructions": [],
@@ -5500,7 +5500,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-07T16:57:26.444Z"
+      "updatedAt": "2026-07-08T18:48:23.909Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
