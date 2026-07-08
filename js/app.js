@@ -55,8 +55,31 @@ function tagHtml(t) { return `<span class="tag">${esc(t)}</span>`; }
 
 function uuid() { return crypto.randomUUID(); }
 
+// ── Ingredient object helpers ────────────────────────────────────────────────
+function migrateIngredient(s) {
+  if (s && typeof s === 'object') return s;
+  const raw = (s || '').trim();
+  // Strip leading number (integer, decimal, fraction, mixed fraction)
+  const numRe = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d+\.?\d*)/;
+  const nm = raw.match(numRe);
+  if (!nm) return { qty: '', name: raw };
+  let rest = raw.slice(nm[0].length).trim();
+  const unitRe = /^(cups?|tbsps?|tablespoons?|tsps?|teaspoons?|g\b|grams?|kg\b|ml\b|l\b|lbs?\b|oz\b|ounces?|pounds?|pinch(?:es)?|dash(?:es)?|cloves?|slices?|pieces?|cans?|jars?|stalks?|sprigs?|heads?|bunches?|scoops?|handfuls?|quarts?|pints?)\b/i;
+  const um = rest.match(unitRe);
+  const qty = um ? `${nm[0]} ${um[0]}` : nm[0];
+  if (um) rest = rest.slice(um[0].length).trim();
+  return { qty, name: rest || raw };
+}
+
+function ingDisplay(ing) {
+  if (!ing) return '';
+  if (typeof ing === 'string') return ing;
+  return [ing.qty, ing.name].filter(Boolean).join(' ');
+}
+
 function normalizeIngredient(ing) {
-  return ing
+  if (ing && typeof ing === 'object') return ing.name.toLowerCase().trim();
+  return (ing || '')
     .replace(/^[\d¼½¾⅓⅔⅛⅜⅝⅞⅙⅚\s\/\.,-]+/, '')
     .replace(/^(cups?|tbsps?|tsps?|tablespoons?|teaspoons?|grams?|g\b|kg\b|ml\b|l\b|lbs?|oz\b|ounces?|pounds?|pinch(es)?|dash(es)?|handful|bunch(es)?|cloves?|slices?|pieces?|cans?|jars?|stalks?|sprigs?|heads?|quarts?|pints?)\s+/i, '')
     .toLowerCase()
@@ -77,7 +100,7 @@ function filterRecipes() {
     const q = state.search.toLowerCase();
     list = list.filter(r =>
       [r.title, r.servings, r.prepNotes, r.afterPrepNotes,
-       ...(r.ingredients || []), ...(r.instructions || []), ...(r.tags || [])]
+       ...(r.ingredients || []).map(ingDisplay), ...(r.instructions || []), ...(r.tags || [])]
         .some(f => f && String(f).toLowerCase().includes(q))
     );
   }
@@ -158,7 +181,7 @@ const App = {
     state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
     state.editId = id || null;
     const recipe = id ? state.recipes.find(r => r.id === id) : null;
-    editIngredients = recipe ? [...(recipe.ingredients || [''])] : [''];
+    editIngredients = recipe ? recipe.ingredients.map(migrateIngredient) : [{ qty: '', name: '' }];
     editIngredientLinks = recipe ? [...(recipe.ingredientLinks || [])] : [];
     editInstructions = recipe ? [...(recipe.instructions || [''])] : [''];
     editTags = recipe ? [...(recipe.tags || [])] : [];
@@ -256,10 +279,11 @@ const App = {
       title,
       servings:       document.getElementById('edit-servings')?.value.trim() || '',
       source:         document.getElementById('edit-source')?.value.trim() || '',
-      ingredients:    editIngredients.filter(s => s.trim()),
+      ingredients:    editIngredients.filter(ing => ing.name.trim()),
       ingredientLinks: (() => {
-        const kept = editIngredients.map((s, i) => s.trim() ? editIngredientLinks[i] || null : null)
-                                    .filter((_, i) => editIngredients[i].trim());
+        const kept = editIngredients
+          .map((ing, i) => ing.name.trim() ? editIngredientLinks[i] || null : null)
+          .filter((_, i) => editIngredients[i].name.trim());
         return kept.some(Boolean) ? kept : undefined;
       })(),
       instructions:   editInstructions.filter(s => s.trim()),
@@ -307,19 +331,19 @@ const App = {
   },
 
   addIngredient() {
-    editIngredients.push('');
+    editIngredients.push({ qty: '', name: '' });
     editIngredientLinks.push(null);
     reRenderIngredients();
-    const inputs = document.querySelectorAll('#ingredients-list input');
+    const inputs = document.querySelectorAll('#ingredients-list .ing-name-input');
     inputs[inputs.length - 1]?.focus();
   },
   removeIngredient(i) {
     editIngredients.splice(i, 1);
     editIngredientLinks.splice(i, 1);
-    if (editIngredients.length === 0) { editIngredients.push(''); editIngredientLinks.push(null); }
+    if (editIngredients.length === 0) { editIngredients.push({ qty: '', name: '' }); editIngredientLinks.push(null); }
     reRenderIngredients();
   },
-  updateIngredient(i, v) { editIngredients[i] = v; },
+  updateIngredient(i, field, v) { editIngredients[i] = { ...editIngredients[i], [field]: v }; },
   setIngredientLink(i, recipeId) {
     editIngredientLinks[i] = recipeId || null;
     reRenderIngredients();
@@ -407,9 +431,10 @@ const App = {
 
   handleIngredientKey(e, i) {
     if (e.key === 'Enter') { e.preventDefault(); this.addIngredient(); }
-    if (e.key === 'Backspace' && editIngredients[i] === '' && editIngredients.length > 1) {
+    const ing = editIngredients[i];
+    if (e.key === 'Backspace' && !ing.qty && !ing.name && editIngredients.length > 1) {
       e.preventDefault(); this.removeIngredient(i);
-      const inputs = document.querySelectorAll('#ingredients-list input');
+      const inputs = document.querySelectorAll('#ingredients-list .ing-name-input');
       inputs[Math.max(0, i - 1)]?.focus();
     }
   },
@@ -524,7 +549,7 @@ const App = {
 Title: ${r.title}
 Servings: ${r.servings || 'not specified'}
 Ingredients:
-${(r.ingredients || []).map(i => `- ${i}`).join('\n')}
+${(r.ingredients || []).map(i => `- ${ingDisplay(i)}`).join('\n')}
 
 Instructions:
 ${(r.instructions || []).map((s, i) => `${i + 1}. ${s}`).join('\n')}
@@ -617,7 +642,7 @@ Answer questions about substitutions, techniques, or anything related to this re
       if (r) {
         (r.ingredients || [])
           .filter(ing => !state.pantry.has(normalizeIngredient(ing)))
-          .forEach(ing => lines.push(`• ${ing}`));
+          .forEach(ing => lines.push(`• ${ingDisplay(ing)}`));
       }
     }
 
@@ -683,7 +708,7 @@ Answer questions about substitutions, techniques, or anything related to this re
     outer: for (const r of state.recipes) {
       for (const ing of (r.ingredients || [])) {
         const name = normalizeIngredient(ing);
-        if (name.includes(lower) && !seenIng.has(name)) {
+        if (name && name.includes(lower) && !seenIng.has(name)) {
           seenIng.add(name);
           items.push({ type: 'ingredient', value: name });
           if (items.filter(i => i.type === 'ingredient').length >= 3) break outer;
@@ -871,6 +896,7 @@ Answer questions about substitutions, techniques, or anything related to this re
     const toAdd = state.importPreview.filter(p => p.include).map(p => {
       const recipe = { ...p.recipe };
       if (state.recipes.some(r => r.title === recipe.title)) recipe.title += ' - Copy';
+      recipe.ingredients = (recipe.ingredients || []).map(migrateIngredient);
       return recipe;
     });
     if (!toAdd.length) { toast('No recipes selected', 'error'); return; }
@@ -1067,7 +1093,7 @@ function renderIngredientChecklist(ingredients, recipe) {
     <li class="checklist-item${state.cookChecked.ingredients.has(i) ? ' checked' : ''}"
         onclick="App.toggleIngredient(${i})">
       <div class="check-box"></div>
-      <span class="check-text">${esc(scaleIngredient(ing, state.qtyMultiplier))}${linkBtn}</span>
+      <span class="check-text">${esc(scaleIngredient(ingDisplay(ing), state.qtyMultiplier))}${linkBtn}</span>
     </li>`;
   }).join('');
 }
@@ -1386,11 +1412,10 @@ function renderIngredientsList() {
   const others = state.recipes.filter(r => r.id !== state.editId).sort((a, b) => a.title.localeCompare(b.title));
   return editIngredients.map((ing, i) => {
     const linkedId = editIngredientLinks[i] || null;
-    const linkedRecipe = linkedId ? state.recipes.find(r => r.id === linkedId) : null;
     const selectHtml = `
       <select class="ing-link-select" onchange="App.setIngredientLink(${i}, this.value)"
               title="Link to a recipe">
-        <option value="">— no link —</option>
+        <option value="">— link to recipe —</option>
         ${others.map(r => `<option value="${r.id}"${r.id === linkedId ? ' selected' : ''}>${esc(r.title)}</option>`).join('')}
       </select>`;
     return `
@@ -1404,9 +1429,13 @@ function renderIngredientsList() {
             ontouchmove="App.touchDragMove(event)"
             ontouchend="App.touchDragEnd(event)">⠿</span>
       <div class="ing-with-link">
-        <input type="text" value="${esc(ing)}" placeholder="Ingredient…"
-               oninput="App.updateIngredient(${i}, this.value)"
-               onkeydown="App.handleIngredientKey(event, ${i})">
+        <div class="ing-fields">
+          <input class="ing-qty-input" type="text" value="${esc(ing.qty || '')}" placeholder="Qty"
+                 oninput="App.updateIngredient(${i},'qty',this.value)">
+          <input class="ing-name-input" type="text" value="${esc(ing.name || '')}" placeholder="Ingredient name…"
+                 oninput="App.updateIngredient(${i},'name',this.value)"
+                 onkeydown="App.handleIngredientKey(event,${i})">
+        </div>
         ${selectHtml}
       </div>
       <button type="button" class="btn-remove" onclick="App.removeIngredient(${i})">×</button>
@@ -1609,7 +1638,7 @@ function renderImportPreview() {
 
 // ── Shopping List helpers ────────────────────────────────────────────────────
 function parseQtyAndUnit(ing) {
-  let s = ing.trim();
+  let s = (typeof ing === 'object' ? (ing.qty || '') : ing).trim();
   let qty = null;
   const leadRe = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d+\.?\d*)/;
   const lm = s.match(leadRe);
@@ -1634,6 +1663,7 @@ function combinedMissingItems(recipes) {
     for (const ing of (r.ingredients || [])) {
       if (state.pantry.has(normalizeIngredient(ing))) continue;
       const key = normalizeIngredient(ing);
+      if (!key) continue;
       if (!groups.has(key)) groups.set(key, []);
       const { qty, unit } = parseQtyAndUnit(ing);
       groups.get(key).push({ qty, unit, original: ing, recipeId: r.id, recipeTitle: r.title });
@@ -1739,7 +1769,7 @@ function renderShoppingContent() {
       const k = normalizeIngredient(ing);
       return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(k)}')">
         <span class="shop-check">✓</span>
-        <span class="shop-text">${esc(ing)}</span>
+        <span class="shop-text">${esc(ingDisplay(ing))}</span>
       </li>`;
     }).join('');
 
@@ -1770,7 +1800,7 @@ function renderShoppingContent() {
     const k = normalizeIngredient(ing);
     return `<li class="shop-item shop-item--need" onclick="App.togglePantry('${esc(k)}')">
       <span class="shop-check">☐</span>
-      <span class="shop-text">${esc(ing)}</span>
+      <span class="shop-text">${esc(ingDisplay(ing))}</span>
     </li>`;
   }).join('');
 
@@ -1778,7 +1808,7 @@ function renderShoppingContent() {
     const k = normalizeIngredient(ing);
     return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(k)}')">
       <span class="shop-check">✓</span>
-      <span class="shop-text">${esc(ing)}</span>
+      <span class="shop-text">${esc(ingDisplay(ing))}</span>
     </li>`;
   }).join('');
 
@@ -1820,7 +1850,10 @@ async function init() {
   setLoading(true, 'Loading recipes…');
   try {
     const { recipes, pantry, notes, sha } = await Storage.loadRecipes();
-    state.recipes = recipes;
+    state.recipes = recipes.map(r => ({
+      ...r,
+      ingredients: (r.ingredients || []).map(migrateIngredient),
+    }));
     state.pantry = new Set(pantry);
     state.notes = notes || '';
     state.sha = sha;
