@@ -336,36 +336,36 @@
           "name": "breadcrumbs"
         },
         {
-          "qty": "2",
-          "name": "garlic cloves, minced"
+          "qty": "2 minced",
+          "name": "garlic cloves"
         },
         {
-          "qty": "0.5",
-          "name": "onion, finely grated"
+          "qty": "½ , finely grated",
+          "name": "onion"
         },
         {
-          "qty": "1 teaspoons",
+          "qty": "1 tsp",
           "name": "salt"
         },
         {
-          "qty": "0.5 teaspoons",
+          "qty": "½ tsp",
           "name": "black pepper"
         },
         {
-          "qty": "1 teaspoons",
+          "qty": "1 tsp",
           "name": "paprika"
         },
         {
-          "qty": "1 teaspoons",
+          "qty": "1 tsp",
           "name": "dried oregano"
         },
         {
-          "qty": "1 tablespoons",
-          "name": "olive oil, for spraying"
+          "qty": "1 tbsp, for spraying",
+          "name": "olive oil"
         }
       ],
       "instructions": [
-        "Mix: In a bowl, combine 500 grams ground chicken, 1 large egg, 40 grams breadcrumbs, 2 garlic cloves, minced, 0.5 onion, finely grated, 1 teaspoons salt, 0.5 teaspoons black pepper, 1 teaspoons paprika, and 1 teaspoons dried oregano. Mix with your hands just until combined — don't overwork or they turn dense.",
+        "Mix: In a bowl, combine 500 grams ground chicken, 1 large egg, 40 grams breadcrumbs, 2 garlic cloves, minced, ½ onion, finely grated, 1 teaspoons salt, ½ teaspoons black pepper, 1 teaspoons paprika, and 1 teaspoons dried oregano. Mix with your hands just until combined — don't overwork or they turn dense.",
         "Shape: Roll into balls about 3–4 cm across (roughly 16–18 meatballs). Wet hands slightly to stop sticking.",
         "Preheat: Preheat air fryer to 190°C.",
         "Cook: Arrange meatballs in a single layer, not touching. Lightly spray with 1 tablespoons olive oil, for spraying. Air fry at 190°C for 11–11 minutes, shaking the basket once halfway.",
@@ -379,7 +379,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T11:22:08.228Z",
-      "updatedAt": "2026-07-04T11:24:43.910Z"
+      "updatedAt": "2026-07-08T18:15:28.268Z"
     },
     {
       "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
