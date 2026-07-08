@@ -4775,52 +4775,56 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free Vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
+          "name": "Vanilla Ice Cream protein powder"
         },
         {
           "qty": "1 tbsp",
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
           "qty": "",
           "name": "Pinch of salt"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "Vanilla Extract"
         },
         {
-          "qty": "",
-          "name": "Optional: ¼ Teaspoon of Banana Extract (Really dials up banana flavor, but not necessary)"
+          "qty": "Optional: ¼ tsp",
+          "name": "Banana Extract"
         },
         {
-          "qty": "1",
-          "name": "ripe Medium Banana sliced up (The softer the better)"
+          "qty": "1 medium ripe, sliced up (The softer the better)",
+          "name": "Banana"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: Sliced bananas, Nilla Wafers"
+          "qty": "Mix-ins: ",
+          "name": "Sliced bananas"
         },
         {
-          "qty": "",
-          "name": "Toppings: Whipped Cream, Nilla Wafers"
+          "qty": "Topping:",
+          "name": "Whipped Cream"
+        },
+        {
+          "qty": "Topping:",
+          "name": "Nilla Wafers"
         }
       ],
       "instructions": [],
@@ -4834,7 +4838,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T07:43:48.317Z"
+      "updatedAt": "2026-07-08T18:52:40.148Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
