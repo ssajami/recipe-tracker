@@ -1690,6 +1690,7 @@ function combinedMissingItems(recipes) {
       for (const e of entries) result.push({ display: e.original, recipes: [{ id: e.recipeId, title: e.recipeTitle }], key });
     }
   }
+  result.sort((a, b) => a.key.localeCompare(b.key));
   return result;
 }
 
@@ -1793,8 +1794,8 @@ function renderShoppingContent() {
   // Single recipe mode
   const r = recipes[0];
   const ings = r.ingredients || [];
-  const missing = ings.filter(ing => !state.pantry.has(normalizeIngredient(ing)));
-  const have   = ings.filter(ing =>  state.pantry.has(normalizeIngredient(ing)));
+  const missing = ings.filter(ing => !state.pantry.has(normalizeIngredient(ing))).sort((a, b) => normalizeIngredient(a).localeCompare(normalizeIngredient(b)));
+  const have   = ings.filter(ing =>  state.pantry.has(normalizeIngredient(ing))).sort((a, b) => normalizeIngredient(a).localeCompare(normalizeIngredient(b)));
 
   const missingRows = missing.map(ing => {
     const k = normalizeIngredient(ing);
