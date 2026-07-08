@@ -66,8 +66,8 @@
           "name": "panko bread crumbs"
         },
         {
-          "qty": "1/2 cup",
-          "name": "grated parmesan"
+          "qty": "1/2 cup grated",
+          "name": "parmesan"
         },
         {
           "qty": "2 tsp",
@@ -90,8 +90,8 @@
           "name": "Flaky salt to taste"
         },
         {
-          "qty": "1/2 cup",
-          "name": "olive oil, divided"
+          "qty": "1/2 cup, divided",
+          "name": "olive oil"
         }
       ],
       "instructions": [
@@ -111,7 +111,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-05T18:20:18.152Z",
-      "updatedAt": "2026-07-05T18:21:56.842Z"
+      "updatedAt": "2026-07-08T17:32:56.769Z"
     },
     {
       "id": "4d80865e-7e7c-42a5-8707-d6989ec1086c",
