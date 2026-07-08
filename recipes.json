@@ -5504,7 +5504,7 @@
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
-      "title": "Chocolate Ice Cream (Base Recipe) - Dynas",
+      "title": "Chocolate Ice Cream (Base Recipe)",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -5513,12 +5513,12 @@
           "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Chocolate pudding"
+          "name": "sugar free Chocolate pudding"
         },
         {
           "qty": "1 scoop",
@@ -5529,16 +5529,16 @@
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
           "qty": "",
           "name": "Pinch of salt"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "Vanilla Extract"
         },
         {
           "qty": "1 Tbsp",
@@ -5556,7 +5556,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-07T16:59:41.700Z"
+      "updatedAt": "2026-07-08T18:49:17.701Z"
     },
     {
       "id": "46454ea2-398e-4a96-9212-3914db88ad16",
