@@ -191,11 +191,11 @@
           "name": "fresh strawberries"
         },
         {
-          "qty": "1/3 cup",
+          "qty": "⅓ cup",
           "name": "Greek yogurt"
         },
         {
-          "qty": "1/3 cup",
+          "qty": "⅓ cup",
           "name": "milk"
         },
         {
@@ -224,7 +224,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-05T17:11:58.230Z",
-      "updatedAt": "2026-07-08T18:08:58.990Z"
+      "updatedAt": "2026-07-08T18:13:38.304Z"
     },
     {
       "id": "27cb51e0-ef1a-4b06-b8f8-c0dfebc577a5",
