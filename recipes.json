@@ -388,24 +388,24 @@
       "source": "me",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "medium apple (peeled, cored, chopped)"
+          "qty": "1 medium,  (peeled, cored, chopped)",
+          "name": " apple"
         },
         {
           "qty": "1 tbsp",
           "name": "butter"
         },
         {
-          "qty": "1",
-          "name": "–2 tbsp brown sugar"
+          "qty": "1-2 tbsp",
+          "name": "brown sugar"
         },
         {
-          "qty": "",
-          "name": "Splash of water (1–2 tbsp)"
+          "qty": "1–2 tbsp",
+          "name": "water"
         },
         {
-          "qty": "",
-          "name": "Optional: pinch of cinnamon"
+          "qty": "Optional: pinch of ",
+          "name": "cinnamon"
         }
       ],
       "instructions": [
@@ -423,7 +423,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-03T05:55:41.342Z",
-      "updatedAt": "2026-07-03T05:55:56.447Z"
+      "updatedAt": "2026-07-08T18:16:39.339Z"
     },
     {
       "id": "e995b047-6fec-45ed-a80f-10fc96eb5a92",
