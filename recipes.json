@@ -120,23 +120,23 @@
       "source": "youtube",
       "ingredients": [
         {
-          "qty": "20 g",
-          "name": "(1/4 Cup) Oatmeal"
+          "qty": "20 g (¼ Cup)",
+          "name": "Oatmeal"
         },
         {
-          "qty": "96 g",
-          "name": "(1/2 Cup) Erythritol/Sugar Replacement Sweetener"
+          "qty": "96 g (½ Cup)",
+          "name": "Erythritol"
         },
         {
-          "qty": "40 g",
-          "name": "(1/2 Cup) Cocoa Powder"
+          "qty": "40 g (½ Cup)",
+          "name": "Cocoa Powder"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) Instant Coffee (optional)"
+          "qty": "5 g (1 tsp) - Optional",
+          "name": "Instant Coffee"
         },
         {
-          "qty": "1/2 tsp",
+          "qty": "½ tsp",
           "name": "Baking Powder"
         },
         {
@@ -148,16 +148,16 @@
           "name": "Egg Whites"
         },
         {
-          "qty": "170 g",
-          "name": "(3/4 Cup) Greek Yogurt"
+          "qty": "170 g (¾ Cup)",
+          "name": "Greek Yogurt"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) Vanilla Extract"
+          "qty": "5 g (1 tsp)",
+          "name": "Vanilla Extract"
         },
         {
-          "qty": "30 g",
-          "name": "(2 Tbs) Almond Milk or Water"
+          "qty": "30 g (2 Tbs)",
+          "name": "Almond Milk"
         }
       ],
       "instructions": [
@@ -169,7 +169,7 @@
         "Add topping (chocolate chips, pb chips, etc)",
         "Bake 190 deg for 18 minutes"
       ],
-      "prepNotes": "",
+      "prepNotes": "Can substitute water for almond milk",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -178,7 +178,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-05T18:09:11.692Z",
-      "updatedAt": "2026-07-05T18:18:33.372Z"
+      "updatedAt": "2026-07-08T17:44:22.085Z"
     },
     {
       "id": "0dc32d36-fd9a-4c3b-82da-1c7a4f07ec6c",
