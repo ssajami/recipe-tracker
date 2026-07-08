@@ -572,32 +572,32 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cup half-and-half"
+          "qty": "1½ cup ",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "⅓ cup pistachio cream"
+          "qty": "⅓ cup",
+          "name": "pistachio cream"
         },
         {
-          "qty": "",
-          "name": "⅓ cup condensed milk"
+          "qty": "⅓ cup ",
+          "name": "condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup ",
+          "name": "cottage cheese"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "A drop of green food coloring"
+          "qty": "A drop",
+          "name": "green food coloring"
         },
         {
-          "qty": "",
-          "name": "Mixin: 2 tablespoons pistachio nuts (chopped)"
+          "qty": "Mixin: 2 tablespoons, chopped",
+          "name": "pistachio nuts"
         }
       ],
       "instructions": [
@@ -616,7 +616,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-03T09:27:11.636Z"
+      "updatedAt": "2026-07-08T18:46:33.848Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
