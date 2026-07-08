@@ -4844,59 +4844,59 @@
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
       "title": "Pumpkin Spice Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free Vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
+          "name": "Vanilla Ice Cream protein powder"
         },
         {
           "qty": "1 tbsp",
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
           "qty": "",
           "name": "Pinch of salt"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Vanilla Extract AND/OR ⅛ Teaspoon Pumpkin Spice Extract"
+          "qty": "⅛ tsp",
+          "name": "Vanilla Extract"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "of All Spice or Pumpkin Pie Spice"
+          "qty": "AND/OR ⅛ tsp",
+          "name": "Pumpkin Spice Extract"
         },
         {
-          "qty": "",
-          "name": "½ can Pumpkin Puree, about 8 oz"
+          "qty": "¼ tsp",
+          "name": "Pumpkin Pie Spice"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1 rectangle Graham Cracker"
+          "qty": "½ can (about 8 oz)",
+          "name": "Pumpkin Puree"
         },
         {
-          "qty": "",
-          "name": "Toppings: Whipped Cream, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top"
+          "qty": "Mix-ins: 1 ",
+          "name": "Graham Cracker"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Toppings: Whipped Cream, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4906,7 +4906,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T07:46:08.069Z"
+      "updatedAt": "2026-07-08T18:57:14.687Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
