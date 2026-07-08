@@ -482,8 +482,8 @@
           "name": "Coldbrew"
         },
         {
-          "qty": "15 g",
-          "name": "Torani hazelnut syrup (see substitution)"
+          "qty": "15 g  (see substitution)",
+          "name": "Torani hazelnut syrup"
         },
         {
           "qty": "15 g",
@@ -494,24 +494,24 @@
           "name": "chocolate protein powder"
         },
         {
-          "qty": "1.5",
-          "name": "tbs cocoa powder"
+          "qty": "1 ½ tbsp",
+          "name": "cocoa powder"
         },
         {
-          "qty": "1/4 tsp",
+          "qty": "¼ tsp",
           "name": "Xantham gum"
         },
         {
           "qty": "5 g",
-          "name": "monk fruit w allulose"
+          "name": "monk fruit with allulose"
         },
         {
           "qty": "5 g",
           "name": "TJs bourbon vanilla paste"
         },
         {
-          "qty": "1.5 pinches",
-          "name": "of salt"
+          "qty": "1 ½ pinches",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -531,7 +531,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-02T11:28:30.134Z",
-      "updatedAt": "2026-07-07T16:18:11.550Z"
+      "updatedAt": "2026-07-08T18:18:36.235Z"
     },
     {
       "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
