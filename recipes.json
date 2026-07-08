@@ -233,20 +233,20 @@
       "source": "claude",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "heavy whipping cream (cold)"
+          "qty": "1 cup  (cold)",
+          "name": "heavy whipping cream"
         },
         {
-          "qty": "1",
-          "name": "–2 tbsp allulose or powdered erythritol (to taste)"
+          "qty": "1-2 tbsp",
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "½ tsp vanilla extract"
+          "qty": "½ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Optional:* pinch of xanthan gum (helps it hold longer)"
+          "qty": "Optional: pinch",
+          "name": "xanthan gum"
         }
       ],
       "instructions": [
@@ -263,7 +263,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T14:50:13.039Z",
-      "updatedAt": "2026-07-04T14:50:13.039Z"
+      "updatedAt": "2026-07-08T18:11:25.271Z"
     },
     {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
