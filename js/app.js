@@ -1200,7 +1200,7 @@ function renderCard(r) {
                 title="${r.pinned ? 'Unpin' : 'Pin to top'}">📌</button>
       </div>
       <div class="recipe-card-meta">
-        ${r.servings ? `<span>🍽 ${esc(r.servings)}</span>` : ''}
+        ${r.source ? `<span class="card-source">${esc(r.source)}</span>` : ''}
         ${r.rating ? stars(r.rating) : ''}
       </div>
       ${(r.tags || []).length ? `<div class="recipe-card-tags">${tagHtmls}${extra}</div>` : ''}
