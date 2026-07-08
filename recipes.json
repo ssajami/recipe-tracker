@@ -4676,19 +4676,19 @@
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
       "title": "Candy Bar Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "",
           "name": "Butterscotch Base"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon Butter Extract"
+          "qty": "¼ tsp",
+          "name": "Butter Extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: ½ Regular-size candy bar. Approx 1 oz"
+          "qty": "Mix-ins: (1oz) ½ ",
+          "name": "Regular-size candy bar"
         }
       ],
       "ingredientLinks": [
@@ -4706,7 +4706,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T17:12:45.519Z"
+      "updatedAt": "2026-07-08T18:50:32.780Z"
     },
     {
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
