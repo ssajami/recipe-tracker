@@ -761,7 +761,7 @@
     },
     {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
-      "title": "Mint Chocolate Chip Ice Cream",
+      "title": "Mint Chocolate Chip Ice Cream - 2",
       "servings": "delux tub",
       "source": "thecreameri.com",
       "ingredients": [
@@ -790,7 +790,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-02T10:04:55.787Z",
-      "updatedAt": "2026-07-08T02:35:05.597Z"
+      "updatedAt": "2026-07-07T07:50:01.100Z"
     },
     {
       "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
@@ -2743,14 +2743,9 @@
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "Chocolate base",
+        "Chocolate base (see recipe)",
         "Mix-ins: 2 tbsp Sugar Free Chocolate chips or Chocolate Bars or Cocoa Nibs",
         "Toppings: Chocolate Chips, SF Chocolate Syrup"
-      ],
-      "ingredientLinks": [
-        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
-        null,
-        null
       ],
       "instructions": [],
       "prepNotes": "To use simple syrup try: 2 tbsp syrup, decrease almond milk by 1 tbsp",
@@ -2763,24 +2758,18 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T18:05:31.847Z"
+      "updatedAt": "2026-07-07T06:13:22.785Z"
     },
     {
       "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
-      "title": "Mint Chocolate Chip Ice Cream - Dynas",
+      "title": "Mint Chocolate Chip Ice Cream",
       "servings": "creami tub",
       "source": "Dynas Reddit",
       "ingredients": [
-        "Vanilla base",
+        "Vanilla base (see recipe)",
         "1-2 drops of Mint Extract (Warning: A little goes a long way. Too much will taste like Toothpaste)",
         "Optional: 1 drop green food coloring",
         "Mix-ins: 2 tbsp SF chocolate chips. Can also try York Peppermint Patties or Thin Mints"
-      ],
-      "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-        null,
-        null,
-        null
       ],
       "instructions": [],
       "prepNotes": "Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
@@ -2794,7 +2783,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-08T02:34:49.741Z"
+      "updatedAt": "2026-07-07T07:52:34.011Z"
     },
     {
       "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
@@ -4955,7 +4944,12 @@
     "shots espresso",
     "sf vanilla pudding mix",
     "scoop peanut butter cup protein powder (different than the vanilla pb flavor and skippy pb) or vanilla ice cream protein powder for less pb taste",
-    "davinci sf dulche de leche syrup and/or 100 grams dulche de leche pudding (wet)"
+    "davinci sf dulche de leche syrup and/or 100 grams dulche de leche pudding (wet)",
+    "fresh ground black pepper",
+    "garlic powder",
+    "italian seasoning",
+    "grated parmesan",
+    "panko bread crumbs"
   ],
   "notes": "Ice cream:\n* Use Full fat milk\n!!!**** allulose. MORE than 1.5tsp\n* xantan gum 0.25-0.4g\n* Add a small amount of fat — even 5–10 g (a spoon of cream, egg yolk, or MCT/coconut)\n\n* Shorten the room-temp rest to 3–5 min, or skip it if your base wasn't rock-hard. This is the biggest heat input you control.\n* Front-load the liquid: add all of it before pass 1 rather than mid-way, so you need fewer total passes.\n* scrape sides after pass 1\n* Aim for 2 passes, not 3, if the base already softened enough during rest — every pass adds warmth.\n\n=========\n1.5 allulose, 8min thaw, 2 spins with 1tbsp  milk, 1 mixin - not so icy, but too soft\n\n1.5 allulose, 5min thaw, 2 spins 1 mixin, no extra milk - still icy"
 }
