@@ -5047,30 +5047,37 @@
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
-      "title": "Peanut Butter Ice Cream 3",
+      "title": "Peanut Butter Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "",
-          "name": "Butterscotch base (see recipe)"
+          "name": "Butterscotch base"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Butter Extract"
+          "qty": "⅛ tsp",
+          "name": "Butter Extract"
         },
         {
           "qty": "1 tbsp",
           "name": "Peanut Butter Powder"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp Sugar Free Peanut Butter Chips"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "Sugar Free Peanut Butter Chips"
         },
         {
-          "qty": "",
-          "name": "Optiona mixin:"
+          "qty": "Optiona mixin:",
+          "name": "Keto PB Fat Bombs"
         }
+      ],
+      "ingredientLinks": [
+        "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
+        null,
+        null,
+        null,
+        null
       ],
       "instructions": [],
       "prepNotes": "",
@@ -5083,7 +5090,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T08:33:21.085Z"
+      "updatedAt": "2026-07-09T16:04:09.001Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
