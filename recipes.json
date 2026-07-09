@@ -1,6 +1,45 @@
 {
   "recipes": [
     {
+      "id": "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38",
+      "title": "Ooey Gooey Chocolate",
+      "servings": "",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "24 gr",
+          "name": "cocoa powder"
+        },
+        {
+          "qty": "20 gr",
+          "name": "allulose"
+        },
+        {
+          "qty": "15 gr",
+          "name": "SF Maple syrup"
+        },
+        {
+          "qty": "15 gr ",
+          "name": "Splenda SF Multi use syrup"
+        },
+        {
+          "qty": "5 gr",
+          "name": "vegetable glycerine"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "topping"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-09T16:34:04.709Z",
+      "updatedAt": "2026-07-09T16:34:04.709Z"
+    },
+    {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
       "title": "Ooey Gooey Cinnamon Swirls",
       "servings": "2 (49 gr/mL)",
