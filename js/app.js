@@ -334,7 +334,7 @@ const App = {
     editIngredients.push({ qty: '', name: '' });
     editIngredientLinks.push(null);
     reRenderIngredients();
-    const inputs = document.querySelectorAll('#ingredients-list .ing-name-input');
+    const inputs = document.querySelectorAll('#ingredients-list .ing-qty-input');
     inputs[inputs.length - 1]?.focus();
   },
   removeIngredient(i) {
