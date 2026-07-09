@@ -5582,59 +5582,37 @@
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
       "title": "Oreo Blast Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "name": "Vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "Mix-ins: 9 (28grams)",
+          "name": "Oreo minis"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon Vanilla Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 9 Oreo mini's, approx. 28 grams, break up first; or equivalent regular cookies"
-        },
-        {
-          "qty": "",
-          "name": "Toppings (Optional): Crumbled Oreo minis, Chocolate Sprinkles, Cool Whip"
+          "qty": "Toppings: Crumbled ",
+          "name": "Oreo minis"
         }
       ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null
+      ],
       "instructions": [],
-      "prepNotes": "A classic vanilla-based mixed with a blast—or two—of America's favorite cookie for a bit of crunch. Tip: Can scrape the cream out of the Oreo to reduce the sugar content greatly! The cookies is really all that matters for the crunch!",
+      "prepNotes": "Break up cookies before.\nTip: Can scrape the cream out of the Oreo to reduce the sugar content greatly! The cookies is really all that matters for the crunch!",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T06:57:07.710Z"
+      "updatedAt": "2026-07-09T17:06:37.670Z"
     },
     {
       "id": "5e9ef873-bf47-498a-8c2b-83e9c165a8f3",
