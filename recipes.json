@@ -5862,14 +5862,14 @@
       "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
       "title": "Carrot Cake Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
@@ -5885,42 +5885,58 @@
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "Pinch",
+          "name": "Salt"
         },
         {
           "qty": "2 oz",
           "name": "Organic Carrot Juice"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract (And/Or Coconut Extract)"
+          "qty": "⅛ tsp",
+          "name": "Vanilla Extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 Tbsp Crushed walnuts, 2 Tbsp Coconut shavings, 1 rectangle Cinnamon Graham Crackers broken up, 1/4 teaspoon nutmeg, 1/4 teaspoon cinnamon, Optional: 2 tbsp cream cheese"
+          "qty": "⅛ tsp",
+          "name": "Cinnamon"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "Nutmeg"
+        },
+        {
+          "qty": "Mix-in: 2 Tbsp ",
+          "name": "Crushed walnuts"
         },
         {
           "qty": "",
           "name": "Toppings: 2 tbsp Cool Whip, 1 Rectangle Cinnamon Graham Crackers, sprinkle crushed nuts, coconut shavings, nutmeg"
+        },
+        {
+          "qty": "Mix-in: 2 Tbsp ",
+          "name": "Coconut shavings"
+        },
+        {
+          "qty": "Mix-in: , 1 rectangle broken up",
+          "name": "Graham Crackers"
         }
       ],
-      "instructions": [
-        "This has lots of mix-ins, make sure you eat a big hole out of the all the way to the bottom!"
-      ],
-      "prepNotes": "A sweet and spicy profile, much like a classic spice cake, rather than tasting strongly of carrots. The carrots add natural sweetness and moisture, but their flavor is subtle and overshadowed by the aromatic spices of cinnamon and nutmeg. Topped with Cool Whip and Cinnamon Graham Crackers.",
+      "instructions": [],
+      "prepNotes": "++ can add  ⅛ tsp Coconut Extract (instead of, or in addition to vanilla)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
-        "protein"
+        "protein",
+        "carrots"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:16:59.337Z"
+      "updatedAt": "2026-07-09T18:11:02.213Z"
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
