@@ -1,6 +1,37 @@
 {
   "recipes": [
     {
+      "id": "b9e73bfd-cab2-4b21-a730-6a4a856bdcba",
+      "title": "Soft chocolate chunks (Mixin)",
+      "servings": "",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "2 parts",
+          "name": "chocolate chips"
+        },
+        {
+          "qty": "1 part ",
+          "name": "coconut oil"
+        }
+      ],
+      "instructions": [
+        "Melt both, stirring together. Dig a hole off center and pour into ice cream after first spin. ",
+        "Refreeze 5-10 minutes",
+        "Respin on Mixin setting"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate",
+        "toppings"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-09T16:15:43.818Z",
+      "updatedAt": "2026-07-09T16:15:43.818Z"
+    },
+    {
       "id": "4cd439a7-4645-4e9b-8730-054b3781a151",
       "title": "Keto Peanut Butter Balls",
       "servings": "12 balls",
