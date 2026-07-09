@@ -5717,7 +5717,7 @@
       "id": "eafa4f67-d265-451a-a16d-58e72ea0cd2a",
       "title": "Strawberry Cheesecake Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "3/4 cup",
@@ -5774,8 +5774,9 @@
         "cheesecake",
         "strawberry"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:26:42.833Z"
+      "updatedAt": "2026-07-09T17:54:58.977Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
