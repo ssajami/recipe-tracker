@@ -5001,24 +5001,36 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Vanilla base (see recipe)"
+          "name": "Vanilla base"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon Maple Extract"
+          "qty": "⅛ tsp",
+          "name": "Maple Extract"
         },
         {
           "qty": "2 tbsp",
           "name": "Sugar-free Maple Syrup"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp crushed walnuts, 2 tbsp maple syrup"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "maple syrup"
         },
         {
-          "qty": "",
-          "name": "Toppings: Crushed walnuts"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "Crushed walnuts "
+        },
+        {
+          "qty": "Toppings: ",
+          "name": "Crushed walnuts"
         }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "instructions": [],
       "prepNotes": "",
@@ -5031,7 +5043,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-07T08:14:49.700Z"
+      "updatedAt": "2026-07-09T16:01:51.754Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
