@@ -5504,16 +5504,16 @@
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
-      "title": "Tiramisu Ice Cream 2",
+      "title": "Tiramisu Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
@@ -5522,26 +5522,26 @@
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream Protein Powder"
+          "name": "Vanilla Ice Cream Protein Powder"
         },
         {
           "qty": "1 tbsp",
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "Pinch",
+          "name": "Salt"
         },
         {
-          "qty": "1/2 teaspoon",
+          "qty": "½ teaspoon",
           "name": "Butter Extract"
         },
         {
-          "qty": "1/2 teaspoon",
+          "qty": "½ teaspoon",
           "name": "Rum Extract"
         },
         {
@@ -5553,24 +5553,20 @@
           "name": "Nestle Expresso Powder"
         },
         {
-          "qty": "2 oz",
+          "qty": "OR 1oz",
+          "name": "Brewed Shot of chilled Espresso"
+        },
+        {
+          "qty": "2 tbsp (28gr)",
           "name": "Mascarpone Cheese"
         },
         {
-          "qty": "",
-          "name": "Optional: Brewed Shot of chilled Espresso"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 3 Ladyfingers Dry OR soak 3 Ladyfingers in a mixture of 4oz strong brewed coffee and 1/4 teaspoon rum extract, leave in the Fridge"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder"
+          "qty": "Mix-ins: 3 ",
+          "name": "Ladyfingers Dry"
         }
       ],
       "instructions": [],
-      "prepNotes": "Special Note: It's the most labor-intensive of all the Creami's. You also have options for additional caffeine and Mix-ins.",
+      "prepNotes": "Option for mixin:  Soak 2 Ladyfingers in a mixture of 4oz strong brewed coffee and ¼ teaspoon rum extract. Leave in the fridge. Add as a mixin.\n\nToppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5578,8 +5574,9 @@
         "protein",
         "coffee"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:14:14.972Z"
+      "updatedAt": "2026-07-09T16:57:17.999Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
