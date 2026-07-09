@@ -5784,14 +5784,14 @@
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
       "title": "Reese's Peanut Butter Explosion Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
+          "name": "Fairlife Skim Milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
@@ -5800,43 +5800,52 @@
         },
         {
           "qty": "1 scoop",
-          "name": "Peanut Butter Cup Protein Powder OR Vanilla Ice Cream protein powder for less PB taste"
+          "name": "Peanut butter cup protein powder"
         },
         {
           "qty": "1 tbsp",
           "name": "Allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "Xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "Pinch",
+          "name": "Salt"
         },
         {
           "qty": "1 Tbsp",
-          "name": "peanut butter powder"
+          "name": "Peanut butter powder"
         },
         {
-          "qty": "1/4 teaspoon",
+          "qty": "⅛ teaspoon",
           "name": "Butter Extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 3–6 SF Mini Peanut Butter Cups Or 2 Regular Size Cups - break up first"
+          "qty": "Mix-in: 3–6 ",
+          "name": "Mini Peanut Butter Cups Or 2 Regular Size Cups - break up first"
         },
         {
-          "qty": "",
-          "name": "Optional Mix-ins: Dark Chocolate Reese PB Thins, Regular Reese PB Cups, Reese's Pieces, or a combination"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: More Reese candy - Reese Pieces add a nice color pop"
+          "qty": "Or Mix-in:",
+          "name": "Keto PB Fat Bombs"
         }
       ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4cd439a7-4645-4e9b-8730-054b3781a151"
+      ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Toppings: More Reese candy - Reese Pieces add a nice color pop",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5847,7 +5856,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-05T11:00:21.920Z"
+      "updatedAt": "2026-07-09T18:04:14.910Z"
     },
     {
       "id": "532fed5c-757f-4997-a3da-c6363f51b11c",
