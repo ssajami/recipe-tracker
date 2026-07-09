@@ -1,6 +1,77 @@
 {
   "recipes": [
     {
+      "id": "6d4a08c8-450e-47cf-b07e-60e98d8c8f11",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-09T16:45:50.217Z",
+      "updatedAt": "2026-07-09T16:45:50.217Z",
+      "title": "Ooey Gooey Peanut Butter",
+      "servings": "4 (28 gr/mL each, 114 gr total)",
+      "ingredients": [
+        {
+          "qty": "24",
+          "name": "gr Powder PB (Pbfit)"
+        },
+        {
+          "qty": "20",
+          "name": "gr allulose"
+        },
+        {
+          "qty": "15",
+          "name": "gr/mL SF Maple Syrup (Maple Grove)"
+        },
+        {
+          "qty": "15",
+          "name": "gr/mL Splenda SF Multi Use Syrup"
+        },
+        {
+          "qty": "5",
+          "name": "gr vegetable glycerin (optional, but helps with softness)"
+        },
+        {
+          "qty": "20",
+          "name": "gr/mL unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "",
+          "name": "¼ tsp vanilla extract"
+        },
+        {
+          "qty": "",
+          "name": "pinch of salt"
+        },
+        {
+          "qty": "",
+          "name": "pinch of xanthan gum"
+        }
+      ],
+      "instructions": [
+        "Whisk all dry ingredients together first.",
+        "Add Maple Syrup, Splenda Syrup/Vegetable Glycerin, vanilla extract.",
+        "Add almond milk gradually while whisking until it thickens to caramel consistency.",
+        "Let sit 5-10 minutes to thicken.",
+        "Chill 15-30 before use."
+      ],
+      "prepNotes": "Makes 4 servings (114 gr total). Vegetable glycerin is optional but helps with softness.",
+      "tags": [
+        "sugar-free",
+        "low-carb",
+        "peanut butter",
+        "dessert",
+        "sauce",
+        "keto"
+      ],
+      "source": "Maple Grove; Pbfit; Splenda",
+      "nutrition": {
+        "servings": "4 (28 gr/mL)",
+        "calories": 34,
+        "protein": 3,
+        "carbs": 7.5,
+        "fat": 0.8
+      }
+    },
+    {
       "id": "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
       "afterPrepNotes": "",
       "rating": null,
