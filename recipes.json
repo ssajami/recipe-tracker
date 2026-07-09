@@ -2,48 +2,45 @@
   "recipes": [
     {
       "id": "6d4a08c8-450e-47cf-b07e-60e98d8c8f11",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-09T16:45:50.217Z",
-      "updatedAt": "2026-07-09T16:45:50.217Z",
       "title": "Ooey Gooey Peanut Butter",
-      "servings": "4 (28 gr/mL each, 114 gr total)",
+      "servings": "4 servings",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "24",
-          "name": "gr Powder PB (Pbfit)"
+          "qty": "24 gr",
+          "name": "Powder PB"
         },
         {
-          "qty": "20",
-          "name": "gr allulose"
+          "qty": "20 gr",
+          "name": "Allulose"
         },
         {
-          "qty": "15",
-          "name": "gr/mL SF Maple Syrup (Maple Grove)"
+          "qty": "15 gr",
+          "name": "SF Maple Syrup"
         },
         {
-          "qty": "15",
-          "name": "gr/mL Splenda SF Multi Use Syrup"
+          "qty": "15 gr",
+          "name": "Splenda SF Multi Use Syrup"
         },
         {
-          "qty": "5",
-          "name": "gr vegetable glycerin (optional, but helps with softness)"
+          "qty": "5 gr (optional)",
+          "name": "Vegetable glycerin"
         },
         {
-          "qty": "20",
-          "name": "gr/mL unsweetened vanilla almond milk"
+          "qty": "20 gr",
+          "name": "Unsweetened vanilla almond milk"
         },
         {
-          "qty": "",
-          "name": "¼ tsp vanilla extract"
+          "qty": "¼ tsp",
+          "name": "Vanilla extract"
         },
         {
-          "qty": "",
-          "name": "pinch of salt"
+          "qty": "pinch",
+          "name": "Salt"
         },
         {
-          "qty": "",
-          "name": "pinch of xanthan gum"
+          "qty": "pinch",
+          "name": "Xanthan gum"
         }
       ],
       "instructions": [
@@ -53,23 +50,16 @@
         "Let sit 5-10 minutes to thicken.",
         "Chill 15-30 before use."
       ],
-      "prepNotes": "Makes 4 servings (114 gr total). Vegetable glycerin is optional but helps with softness.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "sugar-free",
-        "low-carb",
         "peanut butter",
-        "dessert",
-        "sauce",
-        "keto"
+        "toppings"
       ],
-      "source": "Maple Grove; Pbfit; Splenda",
-      "nutrition": {
-        "servings": "4 (28 gr/mL)",
-        "calories": 34,
-        "protein": 3,
-        "carbs": 7.5,
-        "fat": 0.8
-      }
+      "pinned": false,
+      "createdAt": "2026-07-09T16:45:50.217Z",
+      "updatedAt": "2026-07-09T16:49:42.286Z"
     },
     {
       "id": "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
