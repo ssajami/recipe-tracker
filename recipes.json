@@ -1,6 +1,51 @@
 {
   "recipes": [
     {
+      "id": "4cd439a7-4645-4e9b-8730-054b3781a151",
+      "title": "Keto Peanut Butter Balls",
+      "servings": "12 balls",
+      "source": "https://thatlowcarblife.com/",
+      "ingredients": [
+        {
+          "qty": "¼ cup",
+          "name": "peanut butter"
+        },
+        {
+          "qty": "¼ cup, room temperature",
+          "name": "butter"
+        },
+        {
+          "qty": "¼ - 1 cup ",
+          "name": "sweetener"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "½ cup",
+          "name": "chocolate chips"
+        }
+      ],
+      "instructions": [
+        "Add the peanut butter, butter, sweetener, and vanilla to a mixing bowl and beat on medium speed until well combined.",
+        "Stir in the chocolate chip by hand.",
+        "Use a small cookie scoop to scoop out 24 balls of dough. Roll the dough between your hands to shape into a ball.",
+        "Place on a baking sheet in the refrigerator to firm up for one hour.",
+        "Store tightly covered in the refrigerator."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "peanut butter",
+        "snacks"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-09T16:09:50.895Z",
+      "updatedAt": "2026-07-09T16:09:50.895Z"
+    },
+    {
       "id": "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
       "title": "Butterscotch Ice Cream (Base Recipe) - Dynas",
       "servings": "creami tub",
