@@ -344,6 +344,45 @@ const App = {
     reRenderIngredients();
   },
   updateIngredient(i, field, v) { editIngredients[i] = { ...editIngredients[i], [field]: v }; },
+
+  onIngNameInput(i, value) {
+    this.updateIngredient(i, 'name', value);
+    const sug = document.getElementById(`ing-sug-${i}`);
+    if (!sug) return;
+    const q = value.trim().toLowerCase();
+    if (q.length < 3) { sug.classList.add('hidden'); return; }
+    const names = new Map();
+    for (const r of state.recipes) {
+      for (const ing of (r.ingredients || [])) {
+        const n = (typeof ing === 'object' ? ing.name : normalizeIngredient(ing)).trim();
+        if (!n) continue;
+        const nl = n.toLowerCase();
+        if (nl.includes(q) && nl !== q) names.set(nl, n);
+      }
+    }
+    const items = [...names.values()]
+      .sort((a, b) => {
+        const al = a.toLowerCase(), bl = b.toLowerCase();
+        return (bl.startsWith(q) ? 1 : 0) - (al.startsWith(q) ? 1 : 0) || al.localeCompare(bl);
+      })
+      .slice(0, 8);
+    if (!items.length) { sug.classList.add('hidden'); return; }
+    sug.innerHTML = items.map(n =>
+      `<div class="ing-sug-item" onmousedown="App.applyIngSuggestion(${i},'${n.replace(/'/g, "\\'")}')">
+        ${esc(n)}
+      </div>`
+    ).join('');
+    sug.classList.remove('hidden');
+  },
+  applyIngSuggestion(i, name) {
+    editIngredients[i] = { ...editIngredients[i], name };
+    reRenderIngredients();
+    document.querySelectorAll('.ing-name-input')[i]?.focus();
+  },
+  hideIngSuggestions(i) {
+    document.getElementById(`ing-sug-${i}`)?.classList.add('hidden');
+  },
+
   setIngredientLink(i, recipeId) {
     editIngredientLinks[i] = recipeId || null;
     reRenderIngredients();
@@ -1432,9 +1471,14 @@ function renderIngredientsList() {
         <div class="ing-fields">
           <input class="ing-qty-input" type="text" value="${esc(ing.qty || '')}" placeholder="Qty"
                  oninput="App.updateIngredient(${i},'qty',this.value)">
-          <input class="ing-name-input" type="text" value="${esc(ing.name || '')}" placeholder="Ingredient name…"
-                 oninput="App.updateIngredient(${i},'name',this.value)"
-                 onkeydown="App.handleIngredientKey(event,${i})">
+          <div class="ing-name-wrap">
+            <input class="ing-name-input" type="text" value="${esc(ing.name || '')}" placeholder="Ingredient name…"
+                   oninput="App.onIngNameInput(${i},this.value)"
+                   onkeydown="App.handleIngredientKey(event,${i})"
+                   onblur="App.hideIngSuggestions(${i})"
+                   autocomplete="off">
+            <div class="ing-suggestions hidden" id="ing-sug-${i}"></div>
+          </div>
         </div>
         ${selectHtml}
       </div>

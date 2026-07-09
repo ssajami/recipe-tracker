@@ -501,7 +501,18 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 .ing-with-link { flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .ing-fields { display: flex; gap: 6px; }
 .ing-qty-input { width: 90px; flex-shrink: 0; }
-.ing-name-input { flex: 1; min-width: 0; }
+.ing-name-wrap { flex: 1; min-width: 0; position: relative; }
+.ing-name-input { width: 100%; }
+.ing-suggestions {
+  position: absolute; top: 100%; left: 0; right: 0; z-index: 200;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); box-shadow: var(--shadow-lg);
+  max-height: 200px; overflow-y: auto;
+}
+.ing-sug-item {
+  padding: 8px 12px; font-size: 0.9rem; cursor: pointer;
+}
+.ing-sug-item:hover { background: var(--hover); }
 .ing-link-select {
   font-size: 0.8rem; color: var(--text-muted);
   border: 1px solid var(--border); border-radius: var(--radius-sm);
