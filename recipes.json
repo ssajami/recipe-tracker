@@ -5665,52 +5665,40 @@
       "id": "5e9ef873-bf47-498a-8c2b-83e9c165a8f3",
       "title": "Salted Caramel Crunch Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding OR SF Salted Caramel Pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
+          "name": "Salted Caramel base"
         },
         {
           "qty": "1 Tbsp",
-          "name": "Skinny Girl Caramel Syrup"
+          "name": "Caramel Syrup"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 Tbsp Sugar Free Caramel Beverage Sauce (Torani), ¼ cup Caramel Crunch Granola (Naked Bear) OR another Granola (Vanilla Almond Granola)"
+          "qty": "Mix-in: 2 Tbsp ",
+          "name": "Caramel Beverage Sauce"
         },
         {
-          "qty": "",
-          "name": "Optional Mix-in (Kill Macros): 2 Ghirardelli Caramel Chocolate Squares - broken up first"
+          "qty": "Mix-in: ¼ cup ",
+          "name": "Caramel Crunch Granola "
         },
         {
-          "qty": "",
-          "name": "Toppings (Optional, Kill Macros): Caramel Sundae Syrup. Alternative: Make your own Keto Caramel Sauce"
+          "qty": "Optional Mix-in (Kill Macros):  (broken up)",
+          "name": "2 Ghirardelli Caramel Chocolate Squares"
+        },
+        {
+          "qty": "Topping:",
+          "name": "Caramel sauce"
         }
+      ],
+      "ingredientLinks": [
+        "3cce119c-f294-4007-9da8-a538561d3f99",
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "instructions": [],
       "prepNotes": "",
@@ -5721,8 +5709,9 @@
         "protein",
         "caramel"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-02T07:26:09.709Z"
+      "updatedAt": "2026-07-09T17:52:42.582Z"
     },
     {
       "id": "eafa4f67-d265-451a-a16d-58e72ea0cd2a",
