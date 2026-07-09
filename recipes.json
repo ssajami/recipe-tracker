@@ -1,6 +1,53 @@
 {
   "recipes": [
     {
+      "id": "3cce119c-f294-4007-9da8-a538561d3f99",
+      "title": "Salted Caramel Ice Cream Base",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "Fairlife Skim Milk"
+        },
+        {
+          "qty": "¾ cup",
+          "name": "Unsweetened almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "SF Salted caramel pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Vanilla Ice Cream protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "Xantham gum"
+        },
+        {
+          "qty": "Pinch",
+          "name": "Salt"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "caramel",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-09T17:46:23.479Z",
+      "updatedAt": "2026-07-09T17:46:23.479Z"
+    },
+    {
       "id": "6d4a08c8-450e-47cf-b07e-60e98d8c8f11",
       "title": "Ooey Gooey Peanut Butter",
       "servings": "4 servings",
