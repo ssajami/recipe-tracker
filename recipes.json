@@ -1,6 +1,61 @@
 {
   "recipes": [
     {
+      "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-09T16:27:57.858Z",
+      "updatedAt": "2026-07-09T16:27:57.858Z",
+      "title": "Ooey Gooey Cinnamon Swirls",
+      "servings": "2 (49 gr/mL)",
+      "ingredients": [
+        {
+          "qty": "48",
+          "name": "gr Swerve Brown Sugar"
+        },
+        {
+          "qty": "30",
+          "name": "gr Splenda Multi Use Allulose Syrup"
+        },
+        {
+          "qty": "5",
+          "name": "gr vegetable glycerin (optional, but helps with softness)"
+        },
+        {
+          "qty": "1/3 tsp",
+          "name": "ground cinnamon"
+        },
+        {
+          "qty": "1/3 tsp",
+          "name": "kosher salt"
+        },
+        {
+          "qty": "2 tsp",
+          "name": "unsweetened almond milk or water"
+        },
+        {
+          "qty": "",
+          "name": "pinch of xanthan gum"
+        }
+      ],
+      "instructions": [
+        "Whisk all dry ingredients together first.",
+        "Then add wet into bowl and stir well.",
+        "Let sit 5 minutes to thicken.",
+        "Chill 15-30 before use."
+      ],
+      "prepNotes": "Nutrition: Cals 13 (All from Vegetable Glycerin), Net Carbs 2.5, Pr 0, Sugar 0, Fat 0",
+      "tags": [
+        "dessert",
+        "low carb",
+        "keto",
+        "sugar free",
+        "cinnamon",
+        "topping"
+      ],
+      "source": "Dynas's Ultimate Ninja Creami"
+    },
+    {
       "id": "b62e3998-d7d8-44e7-8216-e12c65018a1a",
       "title": "Sugar Free Pecan Pralines",
       "servings": "",
