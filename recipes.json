@@ -3,16 +3,16 @@
     {
       "id": "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38",
       "title": "Ooey Gooey Chocolate",
-      "servings": "",
+      "servings": "4 servings",
       "source": "Dynas",
       "ingredients": [
         {
           "qty": "24 gr",
-          "name": "cocoa powder"
+          "name": "Cocoa powder"
         },
         {
           "qty": "20 gr",
-          "name": "allulose"
+          "name": "Allulose"
         },
         {
           "qty": "15 gr",
@@ -24,10 +24,32 @@
         },
         {
           "qty": "5 gr",
-          "name": "vegetable glycerine"
+          "name": "Vegetable glycerine"
+        },
+        {
+          "qty": "20 gr",
+          "name": "Unsweetened almond milk"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "Vanilla extract"
+        },
+        {
+          "qty": "pinch",
+          "name": "Salt"
+        },
+        {
+          "qty": "pinch",
+          "name": "Xantham gum"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Whisk all dry ingredients first.",
+        "Add maple, syrup, glycerine and vanilla.",
+        "Add almond milk gradually while whisking until it thickens to caramel consistency",
+        "Let sit 5-10 minutes to thicken.",
+        "Chill 15-30 minutes before use."
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -37,7 +59,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-09T16:34:04.709Z",
-      "updatedAt": "2026-07-09T16:34:04.709Z"
+      "updatedAt": "2026-07-09T16:43:35.681Z"
     },
     {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
