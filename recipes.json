@@ -1,6 +1,82 @@
 {
   "recipes": [
     {
+      "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
+      "title": "Samoa Cookies Recipe",
+      "servings": "24",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "c unsalted butter (softened)"
+        },
+        {
+          "qty": "",
+          "name": "½ c sugar"
+        },
+        {
+          "qty": "1",
+          "name": "t vanilla"
+        },
+        {
+          "qty": "2",
+          "name": "T milk"
+        },
+        {
+          "qty": "2",
+          "name": "½ c flour"
+        },
+        {
+          "qty": "",
+          "name": "½ t baking powder"
+        },
+        {
+          "qty": "1",
+          "name": "t salt"
+        },
+        {
+          "qty": "1",
+          "name": "- 14 oz bag coconut flakes"
+        },
+        {
+          "qty": "30 oz",
+          "name": "soft caramels (unwrapped)"
+        },
+        {
+          "qty": "",
+          "name": "½ c evaporated milk"
+        },
+        {
+          "qty": "1",
+          "name": "c dark chocolate melting wafers"
+        },
+        {
+          "qty": "1",
+          "name": "T vegetable oil"
+        }
+      ],
+      "instructions": [
+        "Start by preheating your oven to 350 degrees and lining a couple of baking sheets with parchment paper. In the bowl of your stand mixer, cream together the softened butter and sugar until the mixture is smooth and fluffy.",
+        "Add the vanilla and milk to the butter mixture and mix until everything is well combined. In a separate bowl, whisk together the flour, baking powder, and salt, then gradually add this to the wet ingredients, scraping down the sides often to ensure everything is incorporated.",
+        "Transfer your cookie dough to a lightly floured work surface and roll it out to about ¼ inch thickness. Cut out 2 ½ inch circles and place them on your prepared baking sheet, then use a 1 inch round cutter to remove the center of each cookie to create that classic ring shape. Pop the cookies in the freezer for about 10 minutes to firm up before baking.",
+        "Bake the cookies for approximately 10 minutes or until they're just set but not overly brown. While the cookies bake, toast your coconut in the oven for about 10 minutes, stirring several times to prevent burning.",
+        "In a large frying pan, combine the unwrapped caramels and evaporated milk over low heat, stirring frequently for about 10 minutes until smooth and melted.",
+        "Spread a thin layer of this caramel over each cooled cookie with a spatula.",
+        "Mix the toasted coconut into the remaining caramel until well coated, then working quickly with gloved hands, place about a tablespoon of the coconut mixture on top of each cookie and shape it to fit.",
+        "Melt the chocolate with the vegetable oil until smooth, dip the bottoms of the cookies in the chocolate, then drizzle the remaining melted chocolate over the tops in a zigzag pattern.",
+        "Leave the cookies to dry or enjoy them while the chocolate is still soft."
+      ],
+      "prepNotes": "This Samoa cookies recipe tastes just like the iconic Girl Scout treat with buttery shortbread, gooey caramel, toasted coconut, and chocolate drizzle!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Desserts",
+        "American"
+      ],
+      "source": "https://www.kimschob.com/samoa-cookies-recipe/",
+      "createdAt": "2026-07-10T19:40:32.824Z",
+      "updatedAt": "2026-07-10T19:40:32.824Z"
+    },
+    {
       "id": "318d11e9-1403-4902-9c41-f8a78600e7e1",
       "title": "Thin Mints Cookies",
       "servings": "48",
