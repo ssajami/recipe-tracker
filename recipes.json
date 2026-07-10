@@ -5188,52 +5188,51 @@
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Pistachio pudding"
+          "name": "sugar free pistachio pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Almond Extract"
+          "qty": "Optional: 3 drops",
+          "name": "almond extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 oz Shelled Pistachios or more as desired"
+          "qty": "Mix-ins: ",
+          "name": "shelled pistachios"
+        },
+        {
+          "qty": "Optional Mix-in:",
+          "name": "crushed almonds"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add shelled pistachios as mix-ins and run mix-in cycle."
-      ],
-      "prepNotes": "",
+      "instructions": [],
+      "prepNotes": "Variation: make Pistachio Almond by adding 3 drops of almond extract and almond slivers as mix-in",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5241,8 +5240,9 @@
         "pistachio",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T06:52:05.247Z"
+      "updatedAt": "2026-07-10T19:50:48.535Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
