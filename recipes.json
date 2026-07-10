@@ -2,56 +2,57 @@
   "recipes": [
     {
       "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
-      "title": "Samoa Cookies Recipe",
+      "title": "Girl Scout Samoa Cookies",
       "servings": "24",
+      "source": "www.kimschob.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "c unsalted butter (softened)"
+          "qty": "1 cup softened",
+          "name": "unsalted butter"
         },
         {
-          "qty": "",
-          "name": "½ c sugar"
+          "qty": "½ cup",
+          "name": "sugar"
         },
         {
-          "qty": "1",
-          "name": "t vanilla"
+          "qty": "1 tsp",
+          "name": "vanilla"
         },
         {
-          "qty": "2",
-          "name": "T milk"
+          "qty": "2 tbsp",
+          "name": "milk"
         },
         {
-          "qty": "2",
-          "name": "½ c flour"
+          "qty": "2½ cup",
+          "name": "flour"
         },
         {
-          "qty": "",
-          "name": "½ t baking powder"
+          "qty": "½ tsp",
+          "name": "baking powder"
         },
         {
-          "qty": "1",
-          "name": "t salt"
+          "qty": "1 tsp",
+          "name": "salt"
         },
         {
-          "qty": "1",
-          "name": "- 14 oz bag coconut flakes"
+          "qty": "14 oz bag",
+          "name": "coconut flakes"
         },
         {
           "qty": "30 oz",
-          "name": "soft caramels (unwrapped)"
+          "name": "soft caramels"
         },
         {
-          "qty": "",
-          "name": "½ c evaporated milk"
+          "qty": "½ cup",
+          "name": "evaporated milk"
         },
         {
-          "qty": "1",
-          "name": "c dark chocolate melting wafers"
+          "qty": "1 cup",
+          "name": "dark chocolate melting wafers"
         },
         {
-          "qty": "1",
-          "name": "T vegetable oil"
+          "qty": "1 tbsp",
+          "name": "vegetable oil"
         }
       ],
       "instructions": [
@@ -65,16 +66,17 @@
         "Melt the chocolate with the vegetable oil until smooth, dip the bottoms of the cookies in the chocolate, then drizzle the remaining melted chocolate over the tops in a zigzag pattern.",
         "Leave the cookies to dry or enjoy them while the chocolate is still soft."
       ],
-      "prepNotes": "This Samoa cookies recipe tastes just like the iconic Girl Scout treat with buttery shortbread, gooey caramel, toasted coconut, and chocolate drizzle!",
+      "prepNotes": "Chill the dough – Freezing the cut cookies for 10 minutes before baking helps them hold their shape and prevents spreading.\nWatch the coconut – Toasted coconut can go from golden to burnt in seconds, so stir it frequently and watch it closely.\nWork quickly with caramel – The coconut-caramel mixture hardens as it cools, so shape it onto the cookies while it’s still pliable.\nUse parchment paper – This makes cleanup a breeze and prevents the chocolate-dipped bottoms from sticking.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Desserts",
-        "American"
+        "caramel",
+        "coconut",
+        "chocolate"
       ],
-      "source": "https://www.kimschob.com/samoa-cookies-recipe/",
+      "pinned": false,
       "createdAt": "2026-07-10T19:40:32.824Z",
-      "updatedAt": "2026-07-10T19:40:32.824Z"
+      "updatedAt": "2026-07-10T19:43:36.635Z"
     },
     {
       "id": "318d11e9-1403-4902-9c41-f8a78600e7e1",
