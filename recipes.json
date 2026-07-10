@@ -5776,19 +5776,19 @@
       "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
       "title": "Maple Nut Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "",
-          "name": "Vanilla base"
+          "name": "vanilla base"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Maple Extract"
+          "name": "maple extract"
         },
         {
           "qty": "2 tbsp",
-          "name": "Sugar-free Maple Syrup"
+          "name": "sugar free maple syrup"
         },
         {
           "qty": "Mix-ins: 2 tbsp",
@@ -5796,11 +5796,11 @@
         },
         {
           "qty": "Mix-ins: 2 tbsp",
-          "name": "Crushed walnuts "
+          "name": "crushed walnuts "
         },
         {
           "qty": "Toppings: ",
-          "name": "Crushed walnuts"
+          "name": "crushed walnuts"
         }
       ],
       "ingredientLinks": [
@@ -5822,7 +5822,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T16:01:51.754Z"
+      "updatedAt": "2026-07-10T16:03:03.576Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
