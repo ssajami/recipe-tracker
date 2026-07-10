@@ -4553,49 +4553,22 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "1",
+          "name": "Vanilla base"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "½ tsp",
+          "name": "Lemon Extract"
         },
         {
-          "qty": "1 tbsp",
-          "name": "sugar-free Lemon Pudding or Butterscotch pudding OR half of each"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "½ teaspoon Vanilla Extract"
-        },
-        {
-          "qty": "",
-          "name": "½ teaspoon Lemon Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 Lemonades Girl Scout Cookies broken up"
-        },
-        {
-          "qty": "",
-          "name": "Optional toppings: Crumbled Cookies, Cool Whip"
+          "qty": "Mix-ins: 2",
+          "name": "Lemonades Cookies"
         }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
@@ -4604,7 +4577,7 @@
         "Add broken Lemonades cookie mix-ins and run mix-in cycle.",
         "Top with crumbled cookies and cool whip if desired."
       ],
-      "prepNotes": "Vanilla butter base with a hint of lemon blended with your favorite Girl Scout Cookies.",
+      "prepNotes": "* Use an extra ¼ vanilla extract\nVariation:\n* Use sugar-free Lemon Pudding OR half of each (for more lemon flavor)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4612,8 +4585,9 @@
         "lemon",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T06:47:52.535Z"
+      "updatedAt": "2026-07-10T10:09:43.837Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
