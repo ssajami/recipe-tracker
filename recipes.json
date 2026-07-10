@@ -4939,7 +4939,7 @@
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
       "title": "Girl Scout Cookie Do-Si-Dos Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 ",
@@ -4954,8 +4954,8 @@
           "name": "Butter Extract"
         },
         {
-          "qty": "Mix-ins: 2 ",
-          "name": "Tagalongs or Do-Si-Do's Girl Scout Cookies broken up"
+          "qty": "Mix-ins: 2 broken up",
+          "name": "Tagalongs"
         },
         {
           "qty": "",
@@ -4965,6 +4965,14 @@
           "qty": "",
           "name": "Optional toppings: Crumbled Cookies, Cool Whip"
         }
+      ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        "b1da497c-c152-4421-805e-442e17bfebda",
+        null,
+        null
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
@@ -4982,7 +4990,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T10:47:29.923Z"
+      "updatedAt": "2026-07-10T11:03:33.000Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
