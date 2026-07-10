@@ -108,51 +108,51 @@
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "Sugar"
+          "name": "sugar"
         },
         {
           "qty": "1 cup, firmly packed ",
-          "name": "Light brown sugar"
+          "name": "light brown sugar"
         },
         {
           "qty": "¾ cup",
-          "name": "Creamy peanut butter"
+          "name": "creamy peanut butter"
         },
         {
           "qty": "½ cup,  (softened)",
-          "name": "Butter"
+          "name": "butter"
         },
         {
           "qty": "2",
-          "name": "Eggs"
+          "name": "eggs"
         },
         {
           "qty": "2 tbsp",
-          "name": "Milk"
+          "name": "milk"
         },
         {
           "qty": "1 tsp",
-          "name": "Vanilla"
+          "name": "vanilla"
         },
         {
           "qty": "1 cup",
-          "name": "Flour"
+          "name": "flour"
         },
         {
           "qty": "1 tsp",
-          "name": "Baking powder"
+          "name": "baking powder"
         },
         {
           "qty": "1 tsp",
-          "name": "Baking soda"
+          "name": "baking soda"
         },
         {
           "qty": "1¾ cups",
-          "name": "Qquick-cooking oats"
+          "name": "quick-cooking oats"
         },
         {
           "qty": "1 cup",
-          "name": "Sweetened coconut"
+          "name": "sweetened coconut"
         },
         {
           "qty": "",
@@ -160,19 +160,19 @@
         },
         {
           "qty": "3 cups",
-          "name": "Confectioners sugar"
+          "name": "confectioners sugar"
         },
         {
           "qty": "¾ cup",
-          "name": "Creamy peanut butter"
+          "name": "creamy peanut butter"
         },
         {
           "qty": "⅓ cup",
-          "name": "Milk"
+          "name": "milk"
         },
         {
           "qty": "1 tsp",
-          "name": "Vanilla extract"
+          "name": "vanilla extract"
         }
       ],
       "instructions": [
@@ -193,7 +193,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-10T10:55:39.896Z",
-      "updatedAt": "2026-07-10T11:02:01.249Z"
+      "updatedAt": "2026-07-10T15:44:45.343Z"
     },
     {
       "id": "b1da497c-c152-4421-805e-442e17bfebda",
