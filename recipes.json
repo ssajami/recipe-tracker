@@ -5134,70 +5134,40 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "",
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "2 tbsp",
+          "name": "coconut flakes"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "coconut extract"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free caramel syrup"
         },
         {
-          "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "qty": "Mix-ins: 2 broken up",
+          "name": " Samoa's Girl Scout Cookies"
         },
         {
-          "qty": "2 Tablespoons",
-          "name": "of Coconut Flakes"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Coconut Extract"
-        },
-        {
-          "qty": "1 Tablespoon",
-          "name": "of Sugar Free Caramel Syrup (Skinny Girl or Torani beverage Sauce)"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 Samoa's Girl Scout Cookies broken up"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 Tablespoons Coconut Flakes"
-        },
-        {
-          "qty": "",
-          "name": "Optional: Caramel Syrup"
-        },
-        {
-          "qty": "",
-          "name": "Optional toppings: Crumbled Cookies, Cool Whip, Hershey SF Chocolate Syrup"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "coconut flakes"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add broken Samoa cookies and coconut flakes as mix-ins and run mix-in cycle.",
-        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        "57e927a1-ebf2-4752-8adb-0136bacce8cf",
+        null
       ],
-      "prepNotes": "Coconut base blended with hints of caramel and your favorite Girl Scout Cookies. Samoa's (or Caramel Delights) could be used.",
+      "instructions": [],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5206,8 +5176,9 @@
         "caramel",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T06:53:56.514Z"
+      "updatedAt": "2026-07-10T19:46:26.161Z"
     },
     {
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
