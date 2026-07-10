@@ -6186,7 +6186,7 @@
       "ingredients": [
         {
           "qty": "¾ cup",
-          "name": "Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "½ cup",
@@ -6194,59 +6194,59 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         },
         {
-          "qty": "Pinch",
-          "name": "Salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "2 oz",
-          "name": "Organic Carrot Juice"
+          "name": "organic carrot juice"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Vanilla Extract"
+          "name": "vanilla extract"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Cinnamon"
+          "name": "cinnamon"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Nutmeg"
+          "name": "nutmeg"
         },
         {
           "qty": "Mix-in: 2 Tbsp ",
-          "name": "Crushed walnuts"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Cool Whip, 1 Rectangle Cinnamon Graham Crackers, sprinkle crushed nuts, coconut shavings, nutmeg"
+          "name": "crushed walnuts"
         },
         {
           "qty": "Mix-in: 2 Tbsp ",
-          "name": "Coconut shavings"
+          "name": "coconut shavings"
         },
         {
-          "qty": "Mix-in: , 1 rectangle broken up",
-          "name": "Graham Crackers"
+          "qty": "Mix-in: 1 rectangle broken up",
+          "name": "graham crackers"
+        },
+        {
+          "qty": "Toppings: 2 tbsp",
+          "name": "whipped cream"
         }
       ],
       "instructions": [],
-      "prepNotes": "++ can add  ⅛ tsp Coconut Extract (instead of, or in addition to vanilla)",
+      "prepNotes": "++ can add  ⅛ tsp coconut extract (instead of, or in addition to vanilla)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -6256,7 +6256,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T18:11:02.213Z"
+      "updatedAt": "2026-07-10T15:56:49.934Z"
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
