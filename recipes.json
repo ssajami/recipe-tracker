@@ -952,44 +952,44 @@
       "source": "youtube",
       "ingredients": [
         {
-          "qty": "20 g (¼ Cup)",
-          "name": "Oatmeal"
+          "qty": "20 g (¼ cup)",
+          "name": "oatmeal"
         },
         {
-          "qty": "96 g (½ Cup)",
-          "name": "Erythritol"
+          "qty": "96 g (½ cup)",
+          "name": "erythritol"
         },
         {
-          "qty": "40 g (½ Cup)",
-          "name": "Cocoa Powder"
+          "qty": "40 g (½ cup)",
+          "name": "cocoa powder"
         },
         {
           "qty": "5 g (1 tsp) - Optional",
-          "name": "Instant Coffee"
+          "name": "instant coffee"
         },
         {
           "qty": "½ tsp",
-          "name": "Baking Powder"
+          "name": "baking powder"
         },
         {
-          "qty": "",
-          "name": "Pinch of Salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "3",
-          "name": "Egg Whites"
+          "name": "egg whites"
         },
         {
-          "qty": "170 g (¾ Cup)",
-          "name": "Greek Yogurt"
+          "qty": "170 g (¾ cup)",
+          "name": "greek yogurt"
         },
         {
           "qty": "5 g (1 tsp)",
-          "name": "Vanilla Extract"
+          "name": "vanilla extract"
         },
         {
-          "qty": "30 g (2 Tbs)",
-          "name": "Almond Milk"
+          "qty": "30 g (2 tbsp)",
+          "name": "almond milk"
         }
       ],
       "instructions": [
@@ -1010,7 +1010,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-05T18:09:11.692Z",
-      "updatedAt": "2026-07-08T17:44:22.085Z"
+      "updatedAt": "2026-07-10T19:28:08.837Z"
     },
     {
       "id": "0dc32d36-fd9a-4c3b-82da-1c7a4f07ec6c",
