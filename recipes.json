@@ -4754,44 +4754,20 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "1 ",
+          "name": "Butterscotch base"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Butterscotch pudding"
+          "name": "Peanut Butter Powder"
         },
         {
-          "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "qty": "⅛ tsp",
+          "name": "Butter Extract"
         },
         {
-          "qty": "1 Tablespoon",
-          "name": "of Peanut Butter Powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Butter Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 Tagalongs or Do-Si-Do's Girl Scout Cookies broken up"
+          "qty": "Mix-ins: 2 ",
+          "name": "Tagalongs or Do-Si-Do's Girl Scout Cookies broken up"
         },
         {
           "qty": "",
@@ -4816,8 +4792,9 @@
         "ice cream",
         "peanut butter"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T07:11:58.515Z"
+      "updatedAt": "2026-07-10T10:47:29.923Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
