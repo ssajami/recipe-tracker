@@ -2,72 +2,77 @@
   "recipes": [
     {
       "id": "318d11e9-1403-4902-9c41-f8a78600e7e1",
-      "title": "Homemade Thin Mints",
+      "title": "Thin Mints Cookies",
       "servings": "48",
+      "source": "krollskorner.com",
       "ingredients": [
         {
           "qty": "2 cups",
-          "name": "all purpose flour, spooned and leveled"
+          "name": "all purpose flour"
         },
         {
-          "qty": "2/3 cup",
-          "name": "dutch process unsweetened cocoa"
+          "qty": "⅔ cup",
+          "name": "unsweetened cocoa powder"
         },
         {
           "qty": "2 tsp",
-          "name": ". cornstarch"
+          "name": "cornstarch"
         },
         {
           "qty": "1 tsp",
-          "name": ". baking powder"
+          "name": "baking powder"
         },
         {
-          "qty": "3/4 tsp",
-          "name": ". kosher salt"
+          "qty": "¾ tsp",
+          "name": "kosher salt"
         },
         {
-          "qty": "1 cup",
-          "name": "unsalted butter, softened"
+          "qty": "1 cup, softened",
+          "name": "unsalted butter"
         },
         {
           "qty": "1 cup",
           "name": "granulated sugar"
         },
         {
-          "qty": "1/2 cup",
-          "name": "dark brown sugar, packed"
+          "qty": "½ cup",
+          "name": "dark brown sugar"
         },
         {
-          "qty": "1",
-          "name": "large egg, room temperature"
+          "qty": "1 room temperature",
+          "name": "large egg"
         },
         {
-          "qty": "1",
-          "name": "large egg yolk, room temperature"
+          "qty": "1 room temperature",
+          "name": "large egg yolk"
         },
         {
           "qty": "1 tsp",
-          "name": ". vanilla"
+          "name": "Vanilla"
         },
         {
-          "qty": "3/4",
-          "name": "- 1 tsp. peppermint extract (not mint extract) (use less or more depending on how peppermint-y you want your cookies)"
+          "qty": "¾ - 1 tsp",
+          "name": "peppermint extract"
+        },
+        {
+          "qty": "",
+          "name": "---COATING"
         },
         {
           "qty": "20 oz",
-          "name": ". dark chocolate melting wafers  (you can also use high quality semi sweet chocolate but I like how the wafers set up.)"
+          "name": "high quality semi sweet chocolate"
         },
         {
           "qty": "1 tsp",
-          "name": ". oil (canola or vegetable)"
+          "name": "vegetable oil"
         },
         {
-          "qty": "1/2",
-          "name": "-1 tsp. peppermint extract  (use less or more depending on how peppermint-y you want your cookies)"
+          "qty": "½-1 tsp",
+          "name": "peppermint extract"
         }
       ],
       "instructions": [
-        "*Note: you will need to chill the rolled out cookie dough for at least 3 hours in the fridge or 1 hour in the freezer. Make sure to clear a space in the fridge or freezer so once it&#39;s time to get chillin, the open space will be ready!",
+        "*Note: you will need to chill the rolled out cookie dough for at least 3 hours in the fridge or 1 hour in the freezer. Make sure to clear a space in the fridge or freezer so once it's time to get chillin, the open space will be ready!",
         "Whisk the flour, cocoa, cornstarch, baking powder, and salt in a mixing bowl. Set aside.",
         "Beat together the butter and sugars using a hand mixer or stand mixer fitted with the paddle attachment for 2-3 minutes until smooth.",
         "Add the egg, egg yolk, vanilla, and peppermint extract.",
@@ -82,17 +87,18 @@
         "Add the melting wafers and oil to a microwave safe bowl.",
         "Melt in 30 second intervals, stirring in between, until melted and smooth. Then add the peppermint extract and stir to combine.",
         "Using a fork, dunk cooled cookies into the chocolate being sure to coat the cookie completely. Gently tap off and excess chocolate and place the cookies back on a parchment lined baking sheet.",
-        "Allow the chocolate to set. To store, I like to place them in the freezer because I think they&#39;re best cold! 😍 Enjoy!"
+        "Allow the chocolate to set. To store, I like to place them in the freezer because I think they're best cold!"
       ],
-      "prepNotes": "My Homemade Thin Mints have a rich chocolate flavor, a crisp and crunchy texture, the perfect amount of peppermint in each bite and a smooth and velvety chocolate coating to finish. Dare I say they are better than the real deal!",
+      "prepNotes": "Note: use Peppermint Extract  (not mint extract) (use less or more depending on how peppermint-y you want your cookies)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert"
+        "cookies",
+        "mint"
       ],
-      "source": "https://krollskorner.com/recipes/desserts/homemade-thin-mints/",
+      "pinned": false,
       "createdAt": "2026-07-10T15:36:26.184Z",
-      "updatedAt": "2026-07-10T15:36:26.184Z"
+      "updatedAt": "2026-07-10T15:43:18.052Z"
     },
     {
       "id": "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
