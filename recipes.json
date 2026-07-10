@@ -5879,7 +5879,7 @@
       "ingredients": [
         {
           "qty": "¾ cup",
-          "name": "Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "½ cup",
@@ -5887,55 +5887,55 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla Pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream Protein Powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         },
         {
-          "qty": "Pinch",
-          "name": "Salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "½ teaspoon",
-          "name": "Butter Extract"
+          "qty": "½ tsp",
+          "name": "butter extract"
         },
         {
-          "qty": "½ teaspoon",
-          "name": "Rum Extract"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Cocoa Powder"
+          "qty": "½ tsp",
+          "name": "rum extract"
         },
         {
           "qty": "1 tbsp",
-          "name": "Nestle Expresso Powder"
+          "name": "cocoa powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Nestle espresso powder"
         },
         {
           "qty": "OR 1oz",
-          "name": "Brewed Shot of chilled Espresso"
+          "name": "brewed shot of chilled espresso"
         },
         {
           "qty": "2 tbsp (28gr)",
-          "name": "Mascarpone Cheese"
+          "name": "mascarpone cheese"
         },
         {
-          "qty": "Mix-ins: 3 ",
-          "name": "Ladyfingers Dry"
+          "qty": "Mix-ins: 3 dry",
+          "name": "ladyfingers"
         }
       ],
       "instructions": [],
-      "prepNotes": "Option for mixin:  Soak 2 Ladyfingers in a mixture of 4oz strong brewed coffee and ¼ teaspoon rum extract. Leave in the fridge. Add as a mixin.\n\nToppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder",
+      "prepNotes": "Option for mixin:  Soak 2 Lldyfingers in a mixture of 4oz strong brewed coffee and ¼ teaspoon rum extract. Leave in the fridge. Add as a mixin.\n\nToppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5945,7 +5945,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T16:57:17.999Z"
+      "updatedAt": "2026-07-10T16:02:25.613Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
