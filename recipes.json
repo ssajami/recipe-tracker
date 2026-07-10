@@ -1,6 +1,86 @@
 {
   "recipes": [
     {
+      "id": "78f6113e-31f0-4239-83e4-350c3b2c3136",
+      "title": "Copycat Girl Scout Lemonades Cookies",
+      "servings": "18",
+      "ingredients": [
+        {
+          "qty": "2 3/4 cup",
+          "name": "all-purpose flour"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "baking powder"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "salt"
+        },
+        {
+          "qty": "2",
+          "name": "sticks unsalted butter (softened at room temperature)"
+        },
+        {
+          "qty": "1 cup",
+          "name": "granulated sugar"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "lemon extract"
+        },
+        {
+          "qty": "1",
+          "name": "large egg"
+        },
+        {
+          "qty": "2 cups",
+          "name": "powdered sugar"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "lemon extract"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "water"
+        },
+        {
+          "qty": "",
+          "name": "yellow gel food coloring"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F and line 2 large baking sheets with parchment paper.",
+        "In a medium-sized mixing bowl, combine flour, baking powder and salt with a fork. Mix well and set aside.",
+        "In a separate mixing bowl, cream together the butter and sugar using an electric hand or stand mixer. Mix until smooth and fully combined.",
+        "Add egg and lemon extract. Mix again until smooth.",
+        "Add flour mixture in, half at a time, and mix until fully combined and dough-like.",
+        "Place cookie dough in the refrigerator for about 30 minutes before you roll out the cookie dough.",
+        "Remove dough from the bowl and place it on a flat, lightly floured surface.",
+        "Using your hands, flatten the dough pressing downward.",
+        "Use a rolling pin to roll out the dough to about 1/4 to 3/8 inch thick.",
+        "Using a 2-inch round cookie cutter, cut rounds from dough and place the cutouts on the prepared baking sheets at least 2 inches apart.",
+        "Using a lemon cookie stamp or an inspirational phrase cookie stamp, create your pattern on the top of the cutouts. Press the stamp firmly into the dough until the indentations make it at least half way through.",
+        "Bake for 10 to 12 minutes.",
+        "When done, allow the cookies to cool completely on the pan before making the icing.",
+        "In a small mixing bowl, combine the powdered sugar, lemon extract, water and about 2 inches of yellow gel food coloring. Mix with a fork until fully combined and smooth. It will be very thick at first.",
+        "When the icing is at the perfect consistency, spoon out about 1 tablespoon onto the back (non-pressed side) of the cookie. Use your spoon to push the icing around so it naturally levels and covers the entire surface.",
+        "Do this for each cookie, working one at a time.",
+        "When all of your cookies are covered in icing, allow them to sit at room temperature for 6 hours or overnight so that the icing completely hardens before serving."
+      ],
+      "prepNotes": "Crisp lemon shortbread cookies with a tangy lemon icing that sets firm. These copycat Girl Scout Lemonades taste bakery fresh year-round.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://copykat.com/girl-scout-lemonades/",
+      "createdAt": "2026-07-10T10:10:55.194Z",
+      "updatedAt": "2026-07-10T10:10:55.194Z"
+    },
+    {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
       "title": "Salted Caramel Ice Cream Base",
       "servings": "creami tub",
