@@ -5627,7 +5627,7 @@
       "ingredients": [
         {
           "qty": "¾ cup",
-          "name": "Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "½ cup",
@@ -5635,47 +5635,47 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Vanilla Extract"
+          "name": "vanilla extract"
         },
         {
           "qty": "AND/OR ⅛ tsp",
-          "name": "Pumpkin Spice Extract"
+          "name": "pumpkin spice extract"
         },
         {
           "qty": "¼ tsp",
-          "name": "Pumpkin Pie Spice"
+          "name": "pumpkin pie spice"
         },
         {
           "qty": "½ can (about 8 oz)",
-          "name": "Pumpkin Puree"
+          "name": "pumpkin puree"
         },
         {
           "qty": "Mix-ins: 1 ",
-          "name": "Graham Cracker"
+          "name": "graham cracker"
         }
       ],
       "instructions": [],
-      "prepNotes": "Toppings: Whipped Cream, Graham Crackers, Pumpkin Pie OR All Spice sprinkled on top",
+      "prepNotes": "Toppings: whipped cream, graham crackers, pumpkin pie OR allspice sprinkled on top",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5685,7 +5685,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-08T18:57:14.687Z"
+      "updatedAt": "2026-07-10T16:05:12.250Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
