@@ -2,12 +2,13 @@
   "recipes": [
     {
       "id": "b1da497c-c152-4421-805e-442e17bfebda",
-      "title": "Homemade Girl Scout Tagalongs",
+      "title": "Girl Scout Tagalongs",
       "servings": "24",
+      "source": "copykat.com",
       "ingredients": [
         {
-          "qty": "2",
-          "name": "½ cups all-purpose flour"
+          "qty": "2½ cups",
+          "name": "all-purpose flour"
         },
         {
           "qty": "2 pinches",
@@ -26,24 +27,32 @@
           "name": "large egg"
         },
         {
-          "qty": "1 tablespoon",
+          "qty": "1 tbsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "1",
-          "name": "½ cups creamy peanut butter"
+          "qty": "",
+          "name": "---FILLING"
+        },
+        {
+          "qty": "1½ cups",
+          "name": "creamy peanut butter"
         },
         {
           "qty": "1 cup",
           "name": "powdered sugar"
         },
         {
-          "qty": "2 tablespoons",
-          "name": "unsalted butter (softened at room temperature)"
+          "qty": "2 tbsp (softened at room temperature)",
+          "name": "unsalted butter"
         },
         {
-          "qty": "1",
-          "name": "11-ounce bag milk chocolate chips"
+          "qty": "",
+          "name": "---COATING"
+        },
+        {
+          "qty": "11-ounce bag",
+          "name": "milk chocolate chips"
         },
         {
           "qty": "1 tablespoon",
@@ -73,16 +82,16 @@
         "Do this one by one, placing each cookie back on the sheet of parchment paper after it’s covered.",
         "When all cookies are covered in chocolate, place them back in the refrigerator for at least 1 hour."
       ],
-      "prepNotes": "These copycat Girl Scout Tagalongs feature tender butter cookies topped with creamy peanut butter and enrobed in milk chocolate. Even better than the original!",
+      "prepNotes": "Store these cookies in the refrigerator when not serving. These cookies are best served chilled.\nPeanut Butter Texture: When you’re attempting to spread your peanut butter mixture onto the cookie, if the peanut butter does not adhere well or cracks, add a bit more butter (1 tablespoon at a time) to the overall mixture. However, it should spread well despite its thickness. Press the peanut butter mixture down onto the cookie with your fingers.\nPresentation Tip: After the cookies come out of the oven, they may spread a bit. Use a large cookie or biscuit cutter to ring the edges of the cookies, smoothing them out and tightening them up a bit. For perfect edges, you can also use a cookie cutter to cut the round of the cookie, throwing away the excess outer ring that may be grown while baking.\nCookie Texture: Once the cookies are at room temperature, they should be able to stand up on their own, without folding over. They will be a soft cookie but should still have a slight crunch and maintain their shape.\nChocolate Coating: Use the back of the spoon to push the chocolate over the cookie and around it. You want to pour a good bit over the cookie but then carefully shake the cookie side to side to evenly disperse the chocolate. Do not dip or dunk these cookies. The chocolate acts as the glue, holding the cookie and peanut butter together.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "dessert",
+        "cookies"
       ],
-      "source": "https://copykat.com/girl-scout-tagalongs/",
+      "pinned": false,
       "createdAt": "2026-07-10T10:47:52.274Z",
-      "updatedAt": "2026-07-10T10:47:52.274Z"
+      "updatedAt": "2026-07-10T10:53:30.627Z"
     },
     {
       "id": "78f6113e-31f0-4239-83e4-350c3b2c3136",
