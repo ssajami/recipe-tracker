@@ -4635,7 +4635,7 @@
       "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
       "title": "Girl Scout Cookie Lemonades Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1",
@@ -4653,7 +4653,7 @@
       "ingredientLinks": [
         "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         null,
-        null
+        "78f6113e-31f0-4239-83e4-350c3b2c3136"
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
@@ -4672,7 +4672,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T10:09:43.837Z"
+      "updatedAt": "2026-07-10T10:25:53.002Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
