@@ -5737,11 +5737,11 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Vanilla base"
+          "name": "vanilla base"
         },
         {
           "qty": "1-2 drops  (Warning: A little goes a long way. Too much will taste like Toothpaste)",
-          "name": "Mint Extract"
+          "name": "mint extract"
         },
         {
           "qty": "Optional: 1 drop",
@@ -5749,7 +5749,7 @@
         },
         {
           "qty": "Mix-ins: 2 tbsp",
-          "name": "Chocolate chips"
+          "name": "chocolate chips"
         }
       ],
       "ingredientLinks": [
@@ -5759,7 +5759,7 @@
         null
       ],
       "instructions": [],
-      "prepNotes": "Try mixing in Girl Scout Thin Mints or York Peppermint Patties for extra spunk.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5770,7 +5770,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T15:59:29.154Z"
+      "updatedAt": "2026-07-10T16:03:54.880Z"
     },
     {
       "id": "29a3676b-86dc-4e60-9a1d-632766fba5e6",
