@@ -5832,19 +5832,19 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Butterscotch base"
+          "name": "butterscotch base"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Butter Extract"
+          "name": "butter extract"
         },
         {
           "qty": "1 tbsp",
-          "name": "Peanut Butter Powder"
+          "name": "peanut butter powder"
         },
         {
           "qty": "Mix-ins: 2 tbsp",
-          "name": "Sugar Free Peanut Butter Chips"
+          "name": "sugar free peanut butter chips"
         },
         {
           "qty": "Optional mixin:",
@@ -5869,7 +5869,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T16:52:37.112Z"
+      "updatedAt": "2026-07-10T19:29:12.366Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
