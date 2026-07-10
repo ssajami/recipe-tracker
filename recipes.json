@@ -6266,7 +6266,7 @@
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "¾ cup",
@@ -6274,27 +6274,27 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Vanilla Extract"
+          "name": "vanilla extract"
         }
       ],
       "instructions": [],
@@ -6308,7 +6308,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-09T15:58:15.183Z"
+      "updatedAt": "2026-07-10T15:54:45.217Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
