@@ -5695,19 +5695,19 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Chocolate base"
+          "name": "chocolate base"
         },
         {
           "qty": "Mix-ins: 2 tbsp ",
-          "name": "Sugar Free Chocolate chips"
+          "name": "sugar free chocolate chips"
         },
         {
           "qty": "Topping: ",
-          "name": "Chocolate Chips"
+          "name": "chocolate chips"
         },
         {
           "qty": "Topping:",
-          "name": "SF Chocolate Syrup"
+          "name": "sugar free chocolate syrup"
         }
       ],
       "ingredientLinks": [
@@ -5727,7 +5727,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T15:56:50.593Z"
+      "updatedAt": "2026-07-10T19:29:49.417Z"
     },
     {
       "id": "33c5ad40-ec63-47e8-9352-0afb3112c27f",
