@@ -5555,7 +5555,7 @@
       "ingredients": [
         {
           "qty": "¾ cup",
-          "name": "Fairlife Skim Milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "¾ cup",
@@ -5563,47 +5563,47 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Vanilla Extract"
+          "name": "vanilla extract"
         },
         {
           "qty": "Optional: ¼ tsp",
-          "name": "Banana Extract"
+          "name": "banana extract"
         },
         {
           "qty": "1 medium ripe, sliced up (The softer the better)",
-          "name": "Banana"
+          "name": "banana"
         },
         {
           "qty": "Mix-ins: ",
-          "name": "Sliced bananas"
+          "name": "sliced bananas"
         },
         {
           "qty": "Topping:",
-          "name": "Whipped Cream"
+          "name": "whipped cream"
         },
         {
           "qty": "Topping:",
-          "name": "Nilla Wafers"
+          "name": "Nilla wafers"
         }
       ],
       "instructions": [],
@@ -5617,7 +5617,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-08T18:52:40.148Z"
+      "updatedAt": "2026-07-10T16:06:13.737Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
