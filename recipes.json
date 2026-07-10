@@ -5006,19 +5006,19 @@
       "ingredients": [
         {
           "qty": "1 ",
-          "name": "Butterscotch base"
+          "name": "butterscotch base"
         },
         {
           "qty": "1 tbsp",
-          "name": "Peanut Butter Powder"
+          "name": "peanut butter powder"
         },
         {
           "qty": "⅛ tsp",
-          "name": "Butter Extract"
+          "name": "butter extract"
         },
         {
           "qty": "Mix-in: 2 broken up",
-          "name": "Tagalongs"
+          "name": "Tagalong Cookies"
         },
         {
           "qty": "Mix-in: 2 broken up",
@@ -5026,23 +5026,18 @@
         },
         {
           "qty": "Mix-in: Optional",
-          "name": "SF Peanut Butter Chips"
+          "name": "sugar free peanut butter chips"
         }
       ],
       "ingredientLinks": [
-        null,
+        "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
         null,
         null,
         "b1da497c-c152-4421-805e-442e17bfebda",
         "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
         null
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add broken cookie mix-ins and run mix-in cycle."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -5052,7 +5047,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T11:05:33.494Z"
+      "updatedAt": "2026-07-10T19:39:30.837Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
