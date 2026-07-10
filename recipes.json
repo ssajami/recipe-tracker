@@ -35,6 +35,10 @@
           "name": "large egg"
         },
         {
+          "qty": "--------",
+          "name": "ICING"
+        },
+        {
           "qty": "2 cups",
           "name": "powdered sugar"
         },
@@ -79,7 +83,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-10T10:10:55.194Z",
-      "updatedAt": "2026-07-10T10:14:43.413Z"
+      "updatedAt": "2026-07-10T10:22:04.936Z"
     },
     {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
