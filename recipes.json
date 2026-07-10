@@ -6429,41 +6429,19 @@
       "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon of Vanilla Extract"
+          "qty": "Mix-ins: ",
+          "name": "Mini Chips Ahoy Chocolate Chip Cookies"
         }
       ],
-      "instructions": [
-        "Mix-ins: Mini Chips Ahoy Chocolate Chip Cookies"
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null
       ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -6472,8 +6450,9 @@
         "cookies and cream",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-01T18:41:32.593Z"
+      "updatedAt": "2026-07-10T15:49:26.954Z"
     },
     {
       "id": "e0e9ae3d-43e8-4b9c-bf11-488c01fc97af",
