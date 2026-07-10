@@ -429,44 +429,44 @@
       "ingredients": [
         {
           "qty": "24 gr",
-          "name": "Powder PB"
+          "name": "peanut butter powder"
         },
         {
           "qty": "20 gr",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "15 gr",
-          "name": "SF Maple Syrup"
+          "name": "sugar free maple syrup"
         },
         {
           "qty": "15 gr",
-          "name": "Splenda SF Multi Use Syrup"
+          "name": "Splenda sugar free  multi use syrup"
         },
         {
           "qty": "5 gr (optional)",
-          "name": "Vegetable glycerin"
+          "name": "vegetable glycerin"
         },
         {
           "qty": "20 gr",
-          "name": "Unsweetened vanilla almond milk"
+          "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "¼ tsp",
-          "name": "Vanilla extract"
+          "name": "vanilla extract"
         },
         {
           "qty": "pinch",
-          "name": "Salt"
+          "name": "salt"
         },
         {
           "qty": "pinch",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         }
       ],
       "instructions": [
         "Whisk all dry ingredients together first.",
-        "Add Maple Syrup, Splenda Syrup/Vegetable Glycerin, vanilla extract.",
+        "Add maple syrup, Splenda syrup/vegetable glycerin, vanilla extract.",
         "Add almond milk gradually while whisking until it thickens to caramel consistency.",
         "Let sit 5-10 minutes to thicken.",
         "Chill 15-30 before use."
@@ -480,7 +480,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-09T16:45:50.217Z",
-      "updatedAt": "2026-07-09T16:49:42.286Z"
+      "updatedAt": "2026-07-10T16:10:22.347Z"
     },
     {
       "id": "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
