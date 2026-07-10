@@ -5293,73 +5293,31 @@
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
       "title": "Turtle Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "Mix-ins: 2 tbsp chopped",
+          "name": "toasted pecans"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Almond Extract"
+          "qty": "Mix-in: 1 tbsp",
+          "name": "dark chocolate chips"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1/4 cup chopped toasted Pecans"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: SF Marshmallow JetPuff"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp Dark Chocolate Chips"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp Torani SF Caramel Beverage Sauce"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: SF Caramel Sauce, chopped nuts"
+          "qty": "Mix-in: 2 tbsp",
+          "name": "sugar free caramel syrup"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add chopped toasted pecans, dark chocolate chips, caramel sauce, and marshmallow as mix-ins and run mix-in cycle.",
-        "Top with SF caramel sauce and chopped nuts."
-      ],
-      "prepNotes": "A traditionally churned vanilla almond ice cream packed with decadent chocolate chunks, toasted pecans, and swirled with caramel and chocolate fudge.",
+      "instructions": [],
+      "prepNotes": "Toppings: SF Caramel Sauce, chopped nuts",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5368,8 +5326,9 @@
         "chocolate",
         "protein"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T07:12:26.859Z"
+      "updatedAt": "2026-07-10T20:07:56.201Z"
     },
     {
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
