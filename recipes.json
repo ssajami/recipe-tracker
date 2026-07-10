@@ -542,39 +542,39 @@
       "ingredients": [
         {
           "qty": "24 gr",
-          "name": "Cocoa powder"
+          "name": "cocoa powder"
         },
         {
           "qty": "20 gr",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "15 gr",
-          "name": "SF Maple syrup"
+          "name": "sugar free maple syrup"
         },
         {
           "qty": "15 gr ",
-          "name": "Splenda SF Multi use syrup"
+          "name": "Splenda sugar free multi use syrup"
         },
         {
           "qty": "5 gr",
-          "name": "Vegetable glycerine"
+          "name": "vegetable glycerine"
         },
         {
           "qty": "20 gr",
-          "name": "Unsweetened almond milk"
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "¼ tsp",
-          "name": "Vanilla extract"
+          "name": "vanilla extract"
         },
         {
           "qty": "pinch",
-          "name": "Salt"
+          "name": "salt"
         },
         {
           "qty": "pinch",
-          "name": "Xantham gum"
+          "name": "xantham gum"
         }
       ],
       "instructions": [
@@ -593,7 +593,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-09T16:34:04.709Z",
-      "updatedAt": "2026-07-09T17:53:04.967Z"
+      "updatedAt": "2026-07-10T16:11:08.749Z"
     },
     {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
