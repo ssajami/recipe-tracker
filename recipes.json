@@ -2,31 +2,32 @@
   "recipes": [
     {
       "id": "78f6113e-31f0-4239-83e4-350c3b2c3136",
-      "title": "Copycat Girl Scout Lemonades Cookies",
+      "title": "Girl Scout Lemonades Cookies",
       "servings": "18",
+      "source": "https://copykat.com/girl-scout-lemonades/",
       "ingredients": [
         {
-          "qty": "2 3/4 cup",
+          "qty": "2 ¾ cup",
           "name": "all-purpose flour"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "baking powder"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "salt"
         },
         {
-          "qty": "2",
-          "name": "sticks unsalted butter (softened at room temperature)"
+          "qty": "2  (softened at room temperature)",
+          "name": "sticks unsalted butter"
         },
         {
           "qty": "1 cup",
           "name": "granulated sugar"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "lemon extract"
         },
         {
@@ -38,11 +39,11 @@
           "name": "powdered sugar"
         },
         {
-          "qty": "1 tablespoon",
+          "qty": "1 tbsp",
           "name": "lemon extract"
         },
         {
-          "qty": "1 tablespoon",
+          "qty": "1 tbsp",
           "name": "water"
         },
         {
@@ -69,16 +70,16 @@
         "Do this for each cookie, working one at a time.",
         "When all of your cookies are covered in icing, allow them to sit at room temperature for 6 hours or overnight so that the icing completely hardens before serving."
       ],
-      "prepNotes": "Crisp lemon shortbread cookies with a tangy lemon icing that sets firm. These copycat Girl Scout Lemonades taste bakery fresh year-round.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "Dessert",
         "American"
       ],
-      "source": "https://copykat.com/girl-scout-lemonades/",
+      "pinned": false,
       "createdAt": "2026-07-10T10:10:55.194Z",
-      "updatedAt": "2026-07-10T10:10:55.194Z"
+      "updatedAt": "2026-07-10T10:14:25.370Z"
     },
     {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
