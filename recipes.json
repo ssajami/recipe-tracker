@@ -4927,15 +4927,15 @@
       "ingredients": [
         {
           "qty": "1",
-          "name": "Vanilla base"
+          "name": "vanilla base"
         },
         {
           "qty": "½ tsp",
-          "name": "Lemon Extract"
+          "name": "lemon extract"
         },
         {
           "qty": "Mix-ins: 2",
-          "name": "Lemonades Cookies"
+          "name": "lemonades cookies"
         }
       ],
       "ingredientLinks": [
@@ -4943,14 +4943,8 @@
         null,
         "78f6113e-31f0-4239-83e4-350c3b2c3136"
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add broken Lemonades cookie mix-ins and run mix-in cycle.",
-        "Top with crumbled cookies and cool whip if desired."
-      ],
-      "prepNotes": "* Use an extra ¼ vanilla extract\nVariation:\n* Use sugar-free Lemon Pudding OR half of each (for more lemon flavor)",
+      "instructions": [],
+      "prepNotes": "* Use an extra ¼ vanilla extract\nVariation:\n* Use sugar-free lemon pudding OR butterscotch pudding OR half of each (for more lemon flavor)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4960,7 +4954,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T10:25:53.002Z"
+      "updatedAt": "2026-07-10T19:34:50.592Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
