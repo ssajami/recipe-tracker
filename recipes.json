@@ -4937,7 +4937,7 @@
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
-      "title": "Girl Scout Cookie Do-Si-Dos Ice Cream",
+      "title": "Girl Scout Cookie DoSiDo Ice Cream",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -4954,16 +4954,16 @@
           "name": "Butter Extract"
         },
         {
-          "qty": "Mix-ins: 2 broken up",
+          "qty": "Mix-in: 2 broken up",
           "name": "Tagalongs"
         },
         {
-          "qty": "",
-          "name": "Optional: SF Peanut Butter Chips"
+          "qty": "Mix-in: 2 broken up",
+          "name": "DoSiDo Cookies"
         },
         {
-          "qty": "",
-          "name": "Optional toppings: Crumbled Cookies, Cool Whip"
+          "qty": "Mix-in: Optional",
+          "name": "SF Peanut Butter Chips"
         }
       ],
       "ingredientLinks": [
@@ -4971,17 +4971,16 @@
         null,
         null,
         "b1da497c-c152-4421-805e-442e17bfebda",
-        null,
+        "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
         null
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
         "Freeze in Ninja Creami pint container.",
         "Process in Creami machine.",
-        "Add broken cookie mix-ins and run mix-in cycle.",
-        "Top with crumbled cookies and cool whip if desired."
+        "Add broken cookie mix-ins and run mix-in cycle."
       ],
-      "prepNotes": "Peanut Butter base blended with your favorite Girl Scout Cookies. any cookie will do.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4990,7 +4989,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T11:03:33.000Z"
+      "updatedAt": "2026-07-10T11:05:33.494Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
