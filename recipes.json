@@ -4971,34 +4971,23 @@
           "name": "DROPS of Mint extract"
         },
         {
-          "qty": "Mix-ins: 4 ",
-          "name": "Thin Mint Girl Scout Cookies broken up"
+          "qty": "Mix-ins: 4  broken up",
+          "name": "Thin Mint Girl Scout Cookies"
         },
         {
-          "qty": "",
-          "name": "Optional: 2 Tablespoon Sugar Free Hershey Chocolate Syrup"
-        },
-        {
-          "qty": "",
-          "name": "Optional toppings: Crumbled Cookies, Cool Whip, SF chocolate Syrup"
+          "qty": "Optional: 2 tbsp",
+          "name": "sugar free hershey chocolate syrup"
         }
       ],
       "ingredientLinks": [
         "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         null,
-        null,
-        null,
+        "318d11e9-1403-4902-9c41-f8a78600e7e1",
         null
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add broken Thin Mint cookie mix-ins and run mix-in cycle.",
-        "Top with crumbled cookies, cool whip, or SF chocolate syrup if desired."
-      ],
-      "prepNotes": "Vanilla base blended with your favorite Girl Scout Cookies. Thin Mints, Samoa, and Tagalongs are favorites, but any cookie will do. A little mint extract goes a long way.",
-      "afterPrepNotes": "",
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "Optional toppings: Crumbled Cookies, Cool Whip, SF chocolate Syrup",
       "rating": null,
       "tags": [
         "ice cream",
@@ -5007,7 +4996,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T19:36:29.181Z"
+      "updatedAt": "2026-07-10T19:38:25.429Z"
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
