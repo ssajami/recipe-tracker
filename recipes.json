@@ -5459,15 +5459,15 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Butterscotch Base"
+          "name": "butterscotch base"
         },
         {
           "qty": "¼ tsp",
-          "name": "Butter Extract"
+          "name": "butter extract"
         },
         {
           "qty": "Mix-ins: (1oz) ½ ",
-          "name": "Regular-size candy bar"
+          "name": "regular-size candy bar"
         }
       ],
       "ingredientLinks": [
@@ -5485,7 +5485,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-08T18:50:32.780Z"
+      "updatedAt": "2026-07-10T16:07:21.858Z"
     },
     {
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
