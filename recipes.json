@@ -3712,64 +3712,78 @@
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
       "title": "Cosmic Brownie Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Chocolate pudding"
+          "name": "sugar free chocolate pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Optium Nutrition Extreme Chocolate Protein Powder"
+          "name": "chocolate protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "zero sugar brownie mix"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "1 tbsp",
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 Tbsp",
-          "name": "Dark Cocoa Powder OR Cocoa Powder OR Half Tbsp of each as desired"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Bulk Option: add 1 Tbsp of PB2 Chocolate Chip Brownie Mix"
+          "qty": "1 tbsp",
+          "name": "dark cocoa powder"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1 Keto Fudge Brownie (see recipe)"
+          "qty": "1 tbsp",
+          "name": "PB2 chocolate chip brownie mix"
         },
         {
-          "qty": "",
-          "name": "Toppings: Sugar Free Hershey Chocolate Syrup"
+          "qty": "Mix-in: 1 ",
+          "name": "Keto Fudge Brownie"
+        },
+        {
+          "qty": "Toppings: ",
+          "name": "sugar free hershey chocolate syrup"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Churn as a traditional dark chocolate ice cream.",
-        "Add the diced Keto Brownie during the mix-in cycle.",
-        "Top with r sugar free Hershey chocolate syrup."
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4d80865e-7e7c-42a5-8707-d6989ec1086c",
+        null
       ],
-      "prepNotes": "",
+      "instructions": [],
+      "prepNotes": "* if using Ryse cosmic brownie protein, no need for brownie mix also",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3779,7 +3793,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-04T15:02:57.356Z"
+      "updatedAt": "2026-07-11T17:34:16.249Z"
     },
     {
       "id": "859c87d5-d30e-4d69-ac4f-89156bf7652f",
