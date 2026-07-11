@@ -764,7 +764,7 @@
         },
         {
           "qty": "pinch",
-          "name": "xantham gum"
+          "name": "xanthan gum"
         }
       ],
       "instructions": [
@@ -783,7 +783,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-09T16:34:04.709Z",
-      "updatedAt": "2026-07-10T16:11:08.749Z"
+      "updatedAt": "2026-07-11T17:18:18.233Z"
     },
     {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
