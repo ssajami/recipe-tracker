@@ -1,6 +1,58 @@
 {
   "recipes": [
     {
+      "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
+      "title": "Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "¾",
+          "name": "unsweetened almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar free vanilla pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "coffee protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "allulose"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "instant coffee"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "coffee",
+        "protein",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-11T17:17:24.647Z",
+      "updatedAt": "2026-07-11T17:17:24.647Z"
+    },
+    {
       "id": "dd21c5b7-cf5c-4504-b333-359146371f65",
       "title": "Caramel Turtle Pecan",
       "servings": "creami tub",
