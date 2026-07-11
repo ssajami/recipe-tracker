@@ -4541,71 +4541,55 @@
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
       "title": "Blackberry Cheesecake Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding OR Cheesecake Pudding for cheesecake flavor"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder OR Keto Genics Blackberry Milkshakes"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/2 Cup",
-          "name": "of fresh Blackberries"
+          "qty": "½ cup",
+          "name": "fresh Blackberries"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "1 Tbsp",
-          "name": "SF Blackberry Jam"
+          "qty": "1 tbsp",
+          "name": "sugar free blackberry jam"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Optional: 1 drop Red food coloring & 1 drop of Blue food coloring"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Alternatively: For Blueberry Cheesecake, swap the Vanilla Pudding for Cheesecake flavor. Add 2 Tablespoons of Cream cheese (Non or Low Fat or Regular) as a mix-in. (Dice into small pieces for ease of mixing)"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Cool Whip"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 1 Crumbled Graham Crackers"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Optional: 2 tbsp White chocolate chips/shavings"
+          "qty": "Mix-in: 1 crumbled",
+          "name": "graham cracker"
         }
       ],
       "instructions": [],
-      "prepNotes": "A rich, luscious, and delicious treat that you can make at home using fresh or frozen berries blended with blackberry puree.",
+      "prepNotes": "Variation: use Cheesecake Pudding for cheesecake flavor and add 2 tbsp cream cheese as a mix-in. (Dice into small pieces for ease of mixing)\n\nOR Ketogenics Blackberry Milkshakes instead of protein powder",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4613,9 +4597,9 @@
         "protein",
         "blackberry"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:39:46.491Z",
-      "pinned": false
+      "updatedAt": "2026-07-11T15:37:36.849Z"
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
