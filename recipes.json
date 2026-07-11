@@ -4608,64 +4608,52 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding – OR Cheesecake Pudding for cheesecake flavor"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder OR Blueberry Muffin Protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/2 Cup",
-          "name": "of fresh Blueberries"
+          "qty": "½ cup",
+          "name": "fresh blueberries"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "1 Tbsp",
-          "name": "SF Blueberry Jam/Preserves"
+          "qty": "1 tbsp",
+          "name": "sugar free blueberry jam/preserves"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "of Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Optional: 1 drop of blue food coloring"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Alternatively: For Blueberry Cheesecake, swap the Vanilla Pudding for Cheesecake flavor. Add 2 Tablespoons of Cream cheese (Non or Low Fat or Regular) as a mix in. (Dice into small pieces for ease of mixing)"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Whipped Cream"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 1 Crumbled Graham Crackers"
+          "qty": "1 rectangle",
+          "name": "graham cracker"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Variation:  use cheesecake pudding for cheesecake flavor, blueberry muffin protein powder, mix-in add 2 tbsp cream cheese  (dice into small pieces for ease of mixing)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4675,7 +4663,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-05T08:07:41.585Z"
+      "updatedAt": "2026-07-11T16:38:47.277Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
