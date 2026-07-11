@@ -4405,55 +4405,47 @@
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
       "title": "Orange Creamsicle Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/2 Cup",
-          "name": "of fresh Squeezed orange juice. Real OJ, best from actual oranges (about 4)"
+          "qty": "½ cup",
+          "name": "fresh squeezed orange juice"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Dash of Zest (too much will make it bitter, less is more here)"
+          "qty": "dash (too much will make it bitter, less is more here)",
+          "name": "zest "
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
-        },
-        {
-          "qty": "",
-          "name": "Optional: 1 drop red food coloring, 1 drop yellow food coloring"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Optional: Cool Whip"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         }
       ],
       "instructions": [],
@@ -4462,11 +4454,12 @@
       "rating": null,
       "tags": [
         "ice cream",
-        "citrus",
-        "protein"
+        "protein",
+        "orange"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:37:16.194Z"
+      "updatedAt": "2026-07-11T14:28:19.625Z"
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
