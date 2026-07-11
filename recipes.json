@@ -4334,67 +4334,63 @@
       "id": "85183f50-1883-410d-91ce-5670ee6460f7",
       "title": "Fat Elvis Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Butterscotch pudding"
+          "name": "sugar free butterscotch pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Peanut Butter protein powder"
+          "name": "peanut butter protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "1 tbsp",
-          "name": "Peanut Butter Powder"
+          "name": "peanut butter powder"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "1",
-          "name": "chopped ripe banana"
+          "qty": "½ cup, sliced",
+          "name": "ripe banana"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "of Butter Extract"
+          "qty": "⅛ tsp",
+          "name": "butter extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp Sugar Free Peanut Butter chips OR spread Peanut Butter on parchment paper and freeze it, then break it up and mix in"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "sugar free peanut butter chips"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1/4 slice Banana"
+          "qty": "Mix-in: ¼ sliced",
+          "name": "banana"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 c Sugar Free Chocolate Chips"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Optional: whipped cream"
+          "qty": "Mix-ins: 1 tbsp",
+          "name": "sugar free chocolate chips"
         }
       ],
       "instructions": [],
-      "prepNotes": "Substitution \nPb protein powder \n*Bump up the PB powder: Add an extra 1-2 tbsp of Peanut Butter Powder to the base.\n*Add real peanut butter: Blend in 1 tbsp of natural peanut butter into the base.",
+      "prepNotes": "Substitutions:\n* Banana cream pudding instead of / in addition to butterscotch\n* Mix-in: spread peanut butter on parchment paper and freeze it, then break it up and mix in\n\nPb protein powder \n*Bump up the PB powder: Add an extra 1-2 tbsp of peanut butter powder to the base.\n*Add real peanut butter: blend in 1 tbsp of natural peanut butter into the base.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4403,7 +4399,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-05T07:40:22.914Z"
+      "updatedAt": "2026-07-11T14:18:49.804Z"
     },
     {
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
