@@ -4669,31 +4669,27 @@
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
       "title": "Biscoff Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "",
-          "name": "Vanilla base"
+          "name": "vanilla base"
         },
         {
           "qty": "1 tbsp",
-          "name": "Zero Sugar Cookie Butter Nestle Coffeemate OR 1 tbsp Cookie Butter Powder"
+          "name": "cookie butter powder"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Butter Extract"
+          "qty": "⅛ tsp",
+          "name": "butter extract"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 Biscoff Cookies, crumbled"
+          "qty": "Mix-in: 2 crumbled",
+          "name": "Biscoff cookies"
         },
         {
-          "qty": "",
-          "name": "Toppings: Optional: 1-2 tbsp Frozen Biscoff Cookie Butter broken into small chunks"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Biscoff Cookie Butter drizzled on top"
+          "qty": "Toppings: drizzle",
+          "name": "Biscoff cookie butter"
         }
       ],
       "ingredientLinks": [
@@ -4701,11 +4697,10 @@
         null,
         null,
         null,
-        null,
         null
       ],
       "instructions": [],
-      "prepNotes": "If using real cookie butter - reduce almond milk by 1tbsp",
+      "prepNotes": "Topping: Frozen Biscoff Cookie Butter broken into small chunks\n* If using real cookie butter - reduce almond milk by 1tbsp\n* can use cheesecake pudding",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4715,7 +4710,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-07T17:04:57.953Z"
+      "updatedAt": "2026-07-11T16:56:27.803Z"
     },
     {
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
