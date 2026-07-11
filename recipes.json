@@ -4788,67 +4788,67 @@
       "id": "6976588c-cad2-4933-b2b6-d03b855524aa",
       "title": "Apple Pie Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "",
-          "name": "¾ cup Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "½ cup unsweetened vanilla almond milk"
+          "qty": "½ cup",
+          "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "½ Cup Apple Pie Filling OR Try 1/2 unsweetened Applesauce"
+          "qty": "½ cup",
+          "name": "apple pie filling"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Xanthan gum"
+          "qty": "⅛ tsp ",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp Vanilla Extract"
+          "qty": "⅛ tsp ",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "¼ tsp cinnamon"
+          "qty": "¼ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Pinch Nutmeg"
+          "qty": "pinch",
+          "name": "nutmeg"
         },
         {
-          "qty": "",
-          "name": "Optional: 2 tbsp Apple Cider"
+          "qty": "2 tbsp",
+          "name": "apple cider"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 Biscoff Cookies"
+          "qty": "Mix-ins: 1 rectange ",
+          "name": "graham cracker"
         },
         {
-          "qty": "",
-          "name": "Toppings: Whipped Cream"
+          "qty": "Topping: dash",
+          "name": "cinnamon"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "* can use  ½ cup unsweetened applesauce",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4858,7 +4858,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-07T16:56:08.044Z"
+      "updatedAt": "2026-07-11T17:03:15.841Z"
     },
     {
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
