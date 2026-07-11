@@ -3863,59 +3863,55 @@
       "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
       "title": "Red Velvet Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Red Velvet Cupcake pudding (Sprinkles brand)"
+          "name": "sugar free red velvet cupcake pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Protein Powder"
+          "name": "vanilla protein powder"
         },
         {
-          "qty": "1/4 Tbsp",
-          "name": "of Cocoa Powder"
+          "qty": "1 tsp",
+          "name": "cocoa powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Optional: 2-4 drops of red food coloring (Just darkens the mix)"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 1 tbsp Cream cheese"
+          "qty": "Mix-in: 1 tbsp",
+          "name": "cream cheese"
         }
       ],
       "instructions": [
         "Combine all base ingredients and mix well.",
         "Churn as a traditional vanilla ice cream.",
-        "Add cream cheese during the mix-in cycle: pre-freeze it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint."
+        "Add cream cheese during the mix-in cycle: "
       ],
-      "prepNotes": "A traditional vanilla ice cream complemented with Red Velvet Pudding and cream cheese for that signature red velvet taste. Cream cheese can dial up the fat, so opt for Low Fat or Non Fat Cream Cheese if watching macros.",
+      "prepNotes": "Pre-freeze cream cheese it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3923,8 +3919,9 @@
         "protein",
         "unique"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T03:29:01.633Z"
+      "updatedAt": "2026-07-11T18:17:38.124Z"
     },
     {
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
