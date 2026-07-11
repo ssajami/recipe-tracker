@@ -7712,7 +7712,7 @@
         },
         {
           "qty": "1/4 tsp",
-          "name": "- Guar or Xantham Gum (optional)"
+          "name": "- Guar or Xanthan Gum (optional)"
         },
         {
           "qty": "",
@@ -7737,8 +7737,9 @@
         "ice cream",
         "peanut butter"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T05:23:49.695Z",
-      "updatedAt": "2026-07-01T05:57:24.962Z"
+      "updatedAt": "2026-07-11T17:19:01.475Z"
     },
     {
       "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
