@@ -1,6 +1,89 @@
 {
   "recipes": [
     {
+      "id": "dd21c5b7-cf5c-4504-b333-359146371f65",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-11T06:04:27.693Z",
+      "updatedAt": "2026-07-11T06:04:27.693Z",
+      "title": "Caramel Turtle Pecan",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "of Fairlife Fat Free Milk"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar-free Vanilla pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Vanilla Protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Xanthan Gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Vanilla"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: 1 Tbsp Roasted Pecans (Can soak in 1 tbsp melted butter first before toasting); OR just regular shelled pecan halves w/o butter for reduced calories (Save some for toppings)"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: Ooey Gooey Caramel Swirl (See Easy Mix-in's Recipes Section) [Hand Stirred at end]"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins (Optional): 1 Russell Stover Pecan Delights OR Whitmans Pecan Crowns OR DeMets Turtles Candy (Anything that has chocolate, caramel, and pecans) OR Ghirardelli Chocolate Caramel Squares."
+        },
+        {
+          "qty": "",
+          "name": "Toppings: Crumbled Pecans"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: 1 Tbsp SF Caramel Syrup, 1 Tbsp SF Chocolate Syrup"
+        }
+      ],
+      "instructions": [
+        "Combine base ingredients and process/churn as ice cream.",
+        "Add roasted pecans as a mix-in (soak in melted butter before toasting for buttery flavor, or use plain shelled pecans for reduced calories).",
+        "Hand stir the Ooey Gooey Caramel Swirl in at the end.",
+        "Optionally add chocolate/caramel/pecan candy mix-ins.",
+        "Top with crumbled pecans and drizzle with SF caramel and SF chocolate syrup."
+      ],
+      "prepNotes": "Indulge in the sweet, buttery taste of vanilla ice cream with thick swirls of caramel and buttery roasted pecans for a classic Turtle Candy taste. Note: Can Swap Chocolate Covered Pecans for Roasted Pecans for reduced calories.",
+      "tags": [
+        "ice cream",
+        "dessert",
+        "sugar-free",
+        "high-protein",
+        "low-calorie",
+        "turtle",
+        "caramel",
+        "pecan",
+        "chocolate"
+      ],
+      "source": ""
+    },
+    {
       "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
       "title": "Girl Scout Samoa Cookies",
       "servings": "24",
