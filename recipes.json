@@ -4465,81 +4465,77 @@
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
       "title": "Key Lime Pie Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding OR Margaritaville Coconut Key Lime Pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/2 Cup",
-          "name": "of fresh-squeezed Lime juice. Real limes are best, but you can use Concentrate. Probably 4-8, depending on size."
+          "qty": "½ cup fresh-squeezed",
+          "name": "lime juice"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Dash of Lime Zest (Too much will make it bitter)"
+          "qty": "dash (Too much will make it bitter)",
+          "name": "lime zest"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Optional: 1/4 teaspoon Coconut Extract if you want Coconut Key Lime"
+          "qty": "Optional: ¼ tsp",
+          "name": "coconut extract"
         },
         {
-          "qty": "",
-          "name": "Optional: 1 drop green food coloring"
+          "qty": "Mix-in: Optional: 1 rectangle",
+          "name": "graham crackers"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: Optional: 1 Rectangle Graham Cracker"
+          "qty": "Topping: 2 tbsp",
+          "name": "whipped cream"
         },
         {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Whipped cream"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 1 Crumbled Graham Crackers"
+          "qty": "Topping: 1 crumbled",
+          "name": "graham crackers"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Variation:  use Margaritaville Coconut Key Lime Pudding",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
-        "citrus",
-        "protein"
+        "protein",
+        "lime"
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-05T16:57:16.304Z"
+      "updatedAt": "2026-07-11T14:32:40.145Z"
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
