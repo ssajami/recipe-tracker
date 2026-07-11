@@ -4064,76 +4064,43 @@
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
       "title": "Coconut Cream Pie Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk (Optional: swap for Coconut Milk)"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding OR Coconut Cream Pudding (I haven't found sugar free)"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of salt"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "coconut extract"
         },
         {
-          "qty": "2 Tablespoons",
-          "name": "of coconut flakes, toasted if desired"
+          "qty": "Mix-in: 2 tbsp toasted",
+          "name": "coconut flakes"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Coconut Extract"
+          "qty": "Mix-in: Optional 1 rectangle",
+          "name": "graham cracker"
         },
         {
-          "qty": "",
-          "name": "Optional: Reduce Almond Milk by up to 1/2 cup and replace with equal parts Coconut Milk/Coconut Water"
+          "qty": "Topping: 1 crumbled",
+          "name": "graham crackers"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: Coconut Flakes, toasted if desired"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Optional 1 Rectangle Graham Cracker"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Cool Whip"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 1 Crumbled Graham Crackers"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Coconut Flakes"
+          "qty": "Topping: ",
+          "name": "coconut flakes"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Churn as a traditional ice cream.",
-        "Add coconut flakes and optional graham cracker during the mix-in cycle.",
-        "Top with Cool Whip, crumbled graham crackers, and coconut flakes."
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null,
+        null,
+        null
       ],
-      "prepNotes": "This coconut cream pie recipe features a thick and creamy coconut base, with graham crackers and toasted coconut flakes.",
+      "instructions": [],
+      "prepNotes": "Variation: Reduce almond milk by 1/2 cup and replace with equal parts coconut milk/coconut water.  Can also use coconut cream pudding",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4141,8 +4108,9 @@
         "protein",
         "coconut"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T06:29:43.687Z"
+      "updatedAt": "2026-07-11T18:24:58.839Z"
     },
     {
       "id": "56a3c6e9-7eb0-4a0d-a708-eb42b12d24de",
