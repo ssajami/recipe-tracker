@@ -1493,7 +1493,7 @@
       "ingredients": [
         {
           "qty": "225 g",
-          "name": "fat free Fairlife"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "200",
@@ -1521,7 +1521,7 @@
         },
         {
           "qty": "¼ tsp",
-          "name": "xantham gum"
+          "name": "xanthan gum"
         },
         {
           "qty": "5 g",
@@ -1553,7 +1553,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-02T11:28:30.134Z",
-      "updatedAt": "2026-07-10T15:45:48.751Z"
+      "updatedAt": "2026-07-11T17:18:50.093Z"
     },
     {
       "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
