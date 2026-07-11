@@ -3927,71 +3927,54 @@
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
       "title": "Cinnamon Toast Crunch Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of vanilla Protein Powder"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose + 1/2 tsp brown sugar allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1/2",
-          "name": "-1 teaspoon Vanilla Extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "1 tbsp",
-          "name": "Cinnamon"
+          "qty": "1 tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1 tbsp Cinnamon"
+          "qty": "Mix-in: 1 tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1/2 cup of Cinnamon Toast Crunch Cereal, OR Catalina Crunch Protein Cereal, adjust as desired"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Whipped Cream"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Cinnamon Toast Crunch Cereal"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Dash of Cinnamon"
+          "qty": "Mix-in: 1/2 cup",
+          "name": "Cinnamon Toast Crunch Cereal"
         }
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Churn as a traditional vanilla ice cream.",
-        "Add cinnamon and cereal during the mix-in cycle.",
-        "Top with Whipped Cream, Cinnamon Toast Crunch Cereal, and a dash of cinnamon."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -4002,7 +3985,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-05T07:15:37.463Z"
+      "updatedAt": "2026-07-11T18:20:20.561Z"
     },
     {
       "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
