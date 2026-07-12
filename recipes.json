@@ -2,16 +2,13 @@
   "recipes": [
     {
       "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-12T17:53:08.657Z",
-      "updatedAt": "2026-07-12T17:53:08.657Z",
       "title": "Dried Shrimp Fried Rice",
       "servings": "2 servings",
+      "source": "claude",
       "ingredients": [
         {
-          "qty": "150 grams",
-          "name": "jasmine rice (uncooked)"
+          "qty": "150 grams uncooked",
+          "name": "jasmine rice"
         },
         {
           "qty": "15 grams",
@@ -22,32 +19,32 @@
           "name": "large eggs"
         },
         {
-          "qty": "1",
-          "name": "carrot, finely diced"
+          "qty": "1 finely diced",
+          "name": "carrot"
         },
         {
-          "qty": "2",
-          "name": "garlic cloves, minced"
+          "qty": "2 minced",
+          "name": "garlic cloves"
         },
         {
-          "qty": "2",
-          "name": "scallions, sliced"
+          "qty": "2 sliced",
+          "name": "scallions"
         },
         {
           "qty": "2 tablespoons",
-          "name": "neutral oil"
+          "name": "vegetable oil"
         },
         {
-          "qty": "1.5 tablespoons",
+          "qty": "1 ½ tbsp",
           "name": "soy sauce"
         },
         {
-          "qty": "1 teaspoons",
+          "qty": "1 tsp",
           "name": "sesame oil"
         },
         {
-          "qty": "3 tablespoons",
-          "name": "warm water (for soaking shrimp)"
+          "qty": "3 tbsp  (for soaking shrimp)",
+          "name": "warm water"
         }
       ],
       "instructions": [
@@ -59,15 +56,14 @@
         "Season and finish: Return eggs to the pan. Add 1.5 tablespoons soy sauce and 1 teaspoons sesame oil, toss everything together for 1 minute. Stir in 2 scallions, sliced, taste, and adjust soy sauce if needed."
       ],
       "prepNotes": "Using fresh-cooked rice: spreading it thin to cool/dry (step 1) is the key move — skipping this is the #1 cause of clumpy, mushy fried rice. If you're short on time, spread it on a tray and pop in the fridge uncovered for 10 min instead of air-cooling. Key move since you're using fresh rice, not day-old: spread it thin and let it cool/dry for 10-15 min before frying (step 1) — that's what prevents mushy, clumpy fried rice. Fridge, uncovered, works if you're short on time.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "Asian",
-        "Chinese",
-        "fried rice",
-        "seafood",
-        "quick",
-        "main"
+        "fried rice"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-12T17:53:08.657Z",
+      "updatedAt": "2026-07-12T17:54:55.507Z"
     },
     {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
