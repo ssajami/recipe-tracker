@@ -2,52 +2,21 @@
   "recipes": [
     {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-12T17:48:09.091Z",
-      "updatedAt": "2026-07-12T17:48:09.091Z",
       "title": "Ben & Jerry's Caramel Chocolate Cheesecake",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Fat Free Milk"
-        },
-        {
           "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "name": "vanilla base"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Cheesecake pudding"
+          "name": "sugar free caramel syrup"
         },
         {
-          "qty": "1 scoop",
-          "name": "Gold Standard Vanilla Protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
-          "qty": "1/8 teaspoon",
-          "name": "of Xanthan Gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "1/8 teaspoon",
-          "name": "of Vanilla Extract"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "SF Torani Caramel Syrup OR Walden Farms SF Caramel Sauce"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins (hand stirred): 1 Tbsp Non-Fat Cream Cheese OR 1 Tbsp Frozen Cream Cheese/Cheesecake chunks"
+          "qty": "Mix-in (hand stirred): 1 tbsp frozen",
+          "name": "cream cheese"
         },
         {
           "qty": "",
@@ -68,18 +37,17 @@
         "Add toppings as desired."
       ],
       "prepNotes": "Spin on Lite Ice Cream setting and hand stir mix-in's afterward. Caramel cheesecake ice cream mixed with cream cheese or frozen cheesecake chunks and chocolate cookies.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "sugar-free",
-        "high protein",
-        "low sugar",
-        "ninja creami",
         "cheesecake",
         "caramel",
         "chocolate"
       ],
-      "source": "Ben & Jerry's (recipe #72)"
+      "pinned": false,
+      "createdAt": "2026-07-12T17:48:09.091Z",
+      "updatedAt": "2026-07-12T17:52:46.984Z"
     },
     {
       "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
