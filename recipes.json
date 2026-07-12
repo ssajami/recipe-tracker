@@ -1,6 +1,78 @@
 {
   "recipes": [
     {
+      "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-12T17:40:26.520Z",
+      "updatedAt": "2026-07-12T17:40:26.520Z",
+      "title": "Ben & Jerry's Cannoli",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "¾ cup of Fairlife Fat Free Milk"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar-free Vanilla pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Vanilla Protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Xanthan Gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon of Cinnamon"
+        },
+        {
+          "qty": "2 Tbsp",
+          "name": "of Mascarpone Cheese OR Ricotta OR Cannoli Filling (Traditional Cannoli uses Ricotta, modern cannoli uses the richer, smoother, Mascarpone; you can also try 50/50 mix)"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Vanilla Extract"
+        },
+        {
+          "qty": "1",
+          "name": "Large Cannoli Shells (Alessi) (*Can substitute Waffle Cones, but we're making a Cannoli here)"
+        }
+      ],
+      "instructions": [
+        "Spin on Lite Ice Cream setting and hand stir mix-in's afterward.",
+        "Hand stir in the cannoli shells.",
+        "Optional: Cover the Cannoli shell with SF chocolate Syrup and freeze for 5 minutes to harden before mixing in."
+      ],
+      "prepNotes": "Spin on Lite Ice Cream setting and hand stir mix-in's afterward. A classic vanilla ice cream with the traditional Sicilian tube pastry with accents of mascarpone/ricotta cheese and cinnamon.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "protein",
+        "low sugar",
+        "high protein",
+        "ninja creami",
+        "cannoli",
+        "italian"
+      ],
+      "source": "Ben & Jerry's (Recipe #68)"
+    },
+    {
       "id": "e7a10f0e-d5b3-4e87-9fd3-11a7511e88f9",
       "title": "Pecan Praline Ice Cream",
       "servings": "creami tub",
