@@ -3225,15 +3225,16 @@
         },
         {
           "qty": "Mix-in:",
-          "name": "keto lemon bars (see recipe)"
+          "name": "keto lemon bars"
         }
       ],
-      "instructions": [
-        "Mix all ingredients together.",
-        "Optional mix-ins: For a more cake-like texture, use Bettergoods Lemon Chiffon Soft Baked Cookies or Lemon Bars (Keto/Regular or Quest Lemon Cake protein bars).",
-        "Make Lemon Icing: Mix 1 tablespoon of SF powdered sugar with 1/4 teaspoon of water and a couple drops of lemon juice/extract until an icing-like texture.",
-        "Drizzle icing over the top or mix with the whipped cream first."
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe"
       ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -3244,7 +3245,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-12T03:43:03.944Z"
+      "updatedAt": "2026-07-12T16:26:46.772Z"
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
