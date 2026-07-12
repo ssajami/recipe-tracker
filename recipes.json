@@ -5101,69 +5101,34 @@
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
       "title": "Baklava Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "¼ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "of Cinnamon"
+          "qty": "Mix-in: 1 tbsp",
+          "name": "raw honey"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla Extract"
+          "qty": "Mix-in: ¼ cup chopped",
+          "name": "walnuts"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 1 tbsp Raw Honey, Local/organic preferred"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 1/4 cup chopped Walnuts"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 1-3 Phyllo Shells - Pepperidge Farm Puff Pastry, crumbled (cooked, not raw dough)"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Crumbled Phyllo shells, nuts, and honey drizzled on top"
+          "qty": "Mix-in: crumbled",
+          "name": "baklava"
         }
       ],
       "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add raw honey, chopped walnuts, and crumbled phyllo shells as mix-ins and run mix-in cycle.",
+        "Add raw honey, chopped walnuts, and crumbled baklava and run mix-in cycle.",
         "Top with crumbled phyllo shells, nuts, and drizzled honey."
       ],
-      "prepNotes": "Flavored with honey, cinnamon, and vanilla. Mixed with crisp walnuts and flaky phyllo dough so that the flavor and texture of baklava are in every bite.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5173,8 +5138,9 @@
         "protein",
         "unique"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-02T07:16:11.238Z"
+      "updatedAt": "2026-07-12T17:30:57.545Z"
     },
     {
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
