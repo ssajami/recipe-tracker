@@ -5182,51 +5182,19 @@
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
       "title": "Peach Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
-          "qty": "3/4 cup",
-          "name": "unsweetened vanilla almond milk"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
           "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Peach Extract OR 1 Tbsp Peach Syrup Skinny Girl"
-        },
-        {
-          "qty": "2",
-          "name": "drops of yellow food color, 1 drop red food coloring"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Whipped Cream"
+          "qty": "⅛ tsp",
+          "name": "peach extract"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "* no vanilla extract\n* can use 1 tbsp peach syrup skinny girl instead of extract",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -5236,7 +5204,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-04T11:40:32.734Z"
+      "updatedAt": "2026-07-12T17:33:20.084Z"
     },
     {
       "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
