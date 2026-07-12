@@ -1,6 +1,47 @@
 {
   "recipes": [
     {
+      "id": "e7a10f0e-d5b3-4e87-9fd3-11a7511e88f9",
+      "title": "Pecan Praline Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "cinnamon"
+        },
+        {
+          "qty": "Mix-in: 50 gr",
+          "name": "sugar free pecan pralines"
+        },
+        {
+          "qty": "1 tbsp (hand stirred)",
+          "name": "sugar free caramel syrup"
+        }
+      ],
+      "ingredientLinks": [
+        "98882322-91cf-4e31-b57b-fc28c5021828",
+        null,
+        "b62e3998-d7d8-44e7-8216-e12c65018a1a",
+        null
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "pecan",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-12T17:12:52.717Z",
+      "updatedAt": "2026-07-12T17:12:52.717Z"
+    },
+    {
       "id": "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e",
       "title": "Keto Cookie Dough",
       "servings": "",
