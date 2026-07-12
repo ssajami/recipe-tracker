@@ -3546,20 +3546,24 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Vanilla ice cream base (see recipe)"
+          "name": "vanilla base"
         },
         {
-          "qty": "",
-          "name": "Mix ins: Chocolate chip Cookie Dough, Oreo's (can remove the cream for fewer calories)."
+          "qty": "Mix in: ",
+          "name": "chocolate chip cookie dough"
         }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e"
       ],
       "instructions": [
         "Mix all ingredients together. Freeze. Spin.",
         "Add mix-ins",
-        "Optional toppings: Whipped Cream, SF Chocolate Syrup, Chocolate Sprinkles, crumbled cookie bits."
+        "Optional toppings:  chocolate syrup, crumbled cookie bits."
       ],
-      "prepNotes": "abc",
-      "afterPrepNotes": "Good - used 1 chocolate chip cookie. Try something chocolaty and add syrup?",
+      "prepNotes": "",
+      "afterPrepNotes": "Good - used 1 chocolate chip cookie. Try something cookie dough and add syrup?",
       "rating": 3,
       "tags": [
         "ice cream",
@@ -3567,7 +3571,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-07T06:15:07.534Z"
+      "updatedAt": "2026-07-12T17:06:03.017Z"
     },
     {
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
