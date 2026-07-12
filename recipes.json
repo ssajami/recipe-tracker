@@ -4471,63 +4471,55 @@
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
       "title": "Cherry Garcia Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free White Chocolate pudding"
+          "name": "sugar free white chocolate pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Vanilla"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "2 Tbsp",
-          "name": "Organic SF Cherry Jam OR 1/4 cup Lucky Leaf No Sugar Added Cherry Pie filling"
+          "qty": "2 tbsp",
+          "name": "sugar free cherry jam"
         },
         {
-          "qty": "4",
-          "name": "maraschino cherries, cut in half; (Or Dark cherries to cut back on the Sugar)"
+          "qty": "¼ cup pitted",
+          "name": "dark cherries"
         },
         {
-          "qty": "",
-          "name": "Optional: 1 tbsp maraschino cherry juice"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 1/4 cup diced maraschino cherries"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Whipped Cream"
+          "qty": "Mix-in: ¼ cup diced",
+          "name": " dark cherries"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Substitutions:\nReplace jam: ¼ cup sugar free cherry pie filling",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4537,7 +4529,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-04T11:40:22.164Z"
+      "updatedAt": "2026-07-12T17:39:16.633Z"
     },
     {
       "id": "6976588c-cad2-4933-b2b6-d03b855524aa",
