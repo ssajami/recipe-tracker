@@ -3369,59 +3369,25 @@
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
       "title": "Almond Fudge Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
           "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "name": "chocolate base"
         },
         {
-          "qty": "1 tbsp",
-          "name": "sugar-free Chocolate pudding"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "1 scoop",
-          "name": "Chocolate Protein powder"
-        },
-        {
-          "qty": "1 tbsp",
-          "name": "Allulose"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "",
-          "name": "½ Tbsp of Dark Cocoa Powder (can use 1 Tbsp all dark if desired)"
-        },
-        {
-          "qty": "",
-          "name": "½ Tbsp Cocoa Powder"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon of Vanilla"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Almond Extract"
+          "qty": "Mix-in: 14 grams",
+          "name": "toasted almonds"
         }
       ],
       "instructions": [
-        "Mix all ingredients together.",
         "Toast almonds in toaster oven (careful not to burn!).",
-        "Add mix-ins: 14 grams toasted almonds, 17 grams (1 inch square) Chocolate Fudge.",
         "Optional: Squirt SF Chocolate Syrup in the bottom of the pint.",
-        "Optional toppings: Non Fat Cool Whip and SF Chocolate Syrup."
+        "Optional toppings: SF Chocolate Syrup."
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -3432,8 +3398,9 @@
         "chocolate",
         "almond"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T06:10:12.765Z"
+      "updatedAt": "2026-07-12T16:43:13.718Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
