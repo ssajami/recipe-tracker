@@ -3406,67 +3406,34 @@
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
       "title": "Toasted Coconut Almond Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
           "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "name": "vanilla base"
         },
         {
-          "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "qty": "⅛ tsp",
+          "name": "coconut extract"
         },
         {
-          "qty": "1 scoop",
-          "name": "Vanilla Protein powder"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "1 tbsp",
-          "name": "Allulose"
+          "qty": "Mix-in: 14 gr",
+          "name": "toasted almonds"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "Mix-in: 2 tbsp",
+          "name": "toasted coconut flakes"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "Coconut Flakes (Toasted or not)"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Vanilla Extract"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Coconut Extract"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Almond Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mixin: 14 Grams Toasted Almonds"
-        },
-        {
-          "qty": "",
-          "name": "Mixin: 2 Tbsp Toasted Coconut flakes"
-        },
-        {
-          "qty": "",
-          "name": "Mixin: Chocolate Chips"
+          "qty": "Mix-in: 1 tbsp",
+          "name": "chocolate chips"
         }
       ],
       "instructions": [
-        "Mix all ingredients together. Freeze.",
         "Toast almonds in toaster oven, then crush (put in ziplock bag and crush with spoon).",
         "Toast 2 Tbsp coconut flakes in toaster oven until slightly brown.",
         "Add mix-ins: toasted crushed almonds,toasted coconut flakes, Chocolate Chips",
@@ -3483,7 +3450,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-05T16:56:46.713Z"
+      "updatedAt": "2026-07-12T16:49:37.018Z"
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
