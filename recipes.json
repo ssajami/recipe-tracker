@@ -1,6 +1,75 @@
 {
   "recipes": [
     {
+      "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-12T17:53:08.657Z",
+      "updatedAt": "2026-07-12T17:53:08.657Z",
+      "title": "Dried Shrimp Fried Rice",
+      "servings": "2 servings",
+      "ingredients": [
+        {
+          "qty": "150 grams",
+          "name": "jasmine rice (uncooked)"
+        },
+        {
+          "qty": "15 grams",
+          "name": "dried shredded shrimp"
+        },
+        {
+          "qty": "2",
+          "name": "large eggs"
+        },
+        {
+          "qty": "1",
+          "name": "carrot, finely diced"
+        },
+        {
+          "qty": "2",
+          "name": "garlic cloves, minced"
+        },
+        {
+          "qty": "2",
+          "name": "scallions, sliced"
+        },
+        {
+          "qty": "2 tablespoons",
+          "name": "neutral oil"
+        },
+        {
+          "qty": "1.5 tablespoons",
+          "name": "soy sauce"
+        },
+        {
+          "qty": "1 teaspoons",
+          "name": "sesame oil"
+        },
+        {
+          "qty": "3 tablespoons",
+          "name": "warm water (for soaking shrimp)"
+        }
+      ],
+      "instructions": [
+        "Cook rice: Cook 150 grams jasmine rice (uncooked) according to package directions, using slightly less water than usual (about 10% less) so grains stay firmer. Spread cooked rice on a tray or plate in a thin layer and let it cool/dry for 15 minutes — this prevents mushy fried rice.",
+        "Soak shrimp: While rice cooks, soak 15 grams dried shredded shrimp in 3 tablespoons warm water for 5 minutes to soften slightly. Drain and roughly chop if pieces are large.",
+        "Scramble eggs: Heat 1/2 of the 2 tablespoons neutral oil in a wok or large pan over medium-high heat. Pour in beaten 2 large eggs, scramble quickly until just set, break into small pieces, and remove to a plate.",
+        "Fry aromatics and shrimp: Add remaining 2 tablespoons neutral oil to the pan. Fry 2 garlic cloves, minced for 2 minutes until fragrant, then add the drained 15 grams dried shredded shrimp and 1 carrot, finely diced. Stir-fry for 2 min until carrot softens slightly and shrimp turns fragrant and slightly golden.",
+        "Add rice: Add the cooled rice, breaking up any clumps. Stir-fry for 4 minutes, pressing rice against the pan to get slight char in spots.",
+        "Season and finish: Return eggs to the pan. Add 1.5 tablespoons soy sauce and 1 teaspoons sesame oil, toss everything together for 1 minute. Stir in 2 scallions, sliced, taste, and adjust soy sauce if needed."
+      ],
+      "prepNotes": "Using fresh-cooked rice: spreading it thin to cool/dry (step 1) is the key move — skipping this is the #1 cause of clumpy, mushy fried rice. If you're short on time, spread it on a tray and pop in the fridge uncovered for 10 min instead of air-cooling. Key move since you're using fresh rice, not day-old: spread it thin and let it cool/dry for 10-15 min before frying (step 1) — that's what prevents mushy, clumpy fried rice. Fridge, uncovered, works if you're short on time.",
+      "tags": [
+        "Asian",
+        "Chinese",
+        "fried rice",
+        "seafood",
+        "quick",
+        "main"
+      ],
+      "source": ""
+    },
+    {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
       "title": "Ben & Jerry's Caramel Chocolate Cheesecake",
       "servings": "creami tub",
