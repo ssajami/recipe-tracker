@@ -3312,64 +3312,47 @@
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
       "title": "Chocolate Fudge Almond Toffee Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1 cup",
-          "name": "of Fairlife Skim Milk"
-        },
-        {
           "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "name": "chocolate base"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Chocolate pudding"
+          "name": "PB2 chocolate chip brownie mix"
         },
         {
-          "qty": "1 scoop",
-          "name": "Chocolate Protein powder"
+          "qty": "¼ tsp",
+          "name": "sugar free butter toffee syrup"
         },
         {
-          "qty": "1 tbsp",
-          "name": "Allulose"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "of Cocoa Powder"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "PB2 Chocolate Chip Brownie mix OR Brownie Mix"
-        },
-        {
-          "qty": "1/4 teaspoon",
-          "name": "of SF Skinny Girl Butter Toffee Syrup"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon of Vanilla"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon Almond Extract"
+          "qty": "Mix-in: 14 gr. ",
+          "name": "toasted almonds"
         }
       ],
-      "instructions": [
-        "Mix all ingredients together.",
-        "Toast almonds in toaster oven (breakup first).",
-        "Add mix-ins: 14 grams toasted almonds, optional crumbled brownie bits.",
-        "Top with whipped cream, toffee bits, SF chocolate syrup, and brownie crumble."
+      "ingredientLinks": [
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        null,
+        null,
+        null,
+        null,
+        null
       ],
-      "prepNotes": "",
+      "instructions": [
+        "Toast almonds in toaster oven (breakup first).",
+        "Mix-ins:  oasted almonds, optional crumbled brownie bits.",
+        "Topping: chocolate syrup, brownie bits"
+      ],
+      "prepNotes": "Substitution:\n* Ryse cosmic brownie protein\n* Zero sugar brownie mix instead of pb brownie mix",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3380,7 +3363,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-05T08:54:19.861Z"
+      "updatedAt": "2026-07-12T16:40:18.692Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
