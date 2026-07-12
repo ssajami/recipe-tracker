@@ -2,28 +2,29 @@
   "recipes": [
     {
       "id": "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe",
-      "title": "Keto Lemon Bars Recipe",
+      "title": "Keto Lemon Bars",
       "servings": "24",
+      "source": "madcreationshub.com",
       "ingredients": [
         {
-          "qty": "120 g",
-          "name": "unsalted butter (chilled and cut into cubes)"
+          "qty": "120 g (chilled and cut into cubes)",
+          "name": "unsalted butter "
         },
         {
           "qty": "85 g",
-          "name": "powdered erythritol"
+          "name": "erythritol"
         },
         {
           "qty": "300 g",
-          "name": "almond flour (or almond meal)"
+          "name": "almond flour"
         },
         {
           "qty": "1 tsp",
-          "name": "vanilla extract (optional)"
+          "name": "vanilla extract"
         },
         {
-          "qty": "100 g",
-          "name": "butter (chilled and cut into cubes)"
+          "qty": "100 g (chilled and cut into cubes)",
+          "name": "butter"
         },
         {
           "qty": "100 g",
@@ -34,12 +35,12 @@
           "name": "lemon juice"
         },
         {
-          "qty": "",
-          "name": "Zest of 1 lemon (finely microplaned)"
+          "qty": "(finely microplaned)",
+          "name": "zest of 1 lemon "
         },
         {
           "qty": "4",
-          "name": "whole large eggs"
+          "name": "large eggs"
         },
         {
           "qty": "2",
@@ -47,7 +48,7 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 160°C fan/180°C static/350°F. Line a 20 cm (8 inch) square slice pan with baking paper.",
+        "Preheat oven to 160°C fan/180°C static. Line a 20 cm square slice pan with baking paper.",
         "Add all base ingredients to a food processor and pulse until the mixture comes together and forms a soft dough.",
         "Press into lined baking tray and freeze or chill for at least 30 minutes.",
         "Bake 15-20 minutes until light golden brown. The base will still be soft. Set aside to rest for at least 15 minutes before topping with lemon filling.",
@@ -63,16 +64,16 @@
         "Insert whisk attachment. Add eggs and egg yolks; cook 11 min/80°C/speed 3. Pour over the cooled shortbread base. Bake for 10 minutes.",
         "Cool at room temperature then transfer to the fridge to set over night. Slice into bars."
       ],
-      "prepNotes": "Sugar-free and gluten-free, these Keto Lemon Bars are so delicious! The recipe is so simple, and no one will know these bars are sugar-free! I have fallen in love with these little zesty beauties, and I am sure you will too.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "lemon",
+        "dessert"
       ],
-      "source": "https://madcreationshub.com/recipe/keto-lemon-bars/",
+      "pinned": false,
       "createdAt": "2026-07-12T16:23:47.819Z",
-      "updatedAt": "2026-07-12T16:23:47.819Z"
+      "updatedAt": "2026-07-12T16:25:52.575Z"
     },
     {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
