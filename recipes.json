@@ -3251,55 +3251,51 @@
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
       "title": "Caramel Frapachino Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "",
-          "name": "¾ cup of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "¾ cup",
+          "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Salted Caramel pudding"
+          "name": "sugar free salted caramel pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "2 Tbsp",
-          "name": "SF Caramel beverage syrup Torani"
+          "qty": "2 tbsp",
+          "name": "sugar free caramel syrup"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon of Vanilla"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "1",
-          "name": "brewed shot of expresso/coffee (2 oz) OR 1 scoop of Nespresso (if using this option keep the Fairlife Milk at 1 Cup)"
+          "qty": "1  (2 oz)",
+          "name": "brewed shot of espresso"
         }
       ],
-      "instructions": [
-        "Mix all ingredients together.",
-        "Spin up on lite ice cream setting for extra fluffy smoothness.",
-        "Top with Non Fat Cool Whip and SF Caramel Syrup."
-      ],
-      "prepNotes": "Vanilla base with an expresso shot spun up on lite ice cream setting for extra fluffy smoothness and topped with cool whip and caramel syrup. No mix-ins.",
+      "instructions": [],
+      "prepNotes": "Substitution: use 1 scoop of Nespresso instead of espresso and increase the milk to 1 cup",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3308,8 +3304,9 @@
         "coffee",
         "caramel"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-02T06:05:58.088Z"
+      "updatedAt": "2026-07-12T16:35:35.418Z"
     },
     {
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
