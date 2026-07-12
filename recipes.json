@@ -2,64 +2,61 @@
   "recipes": [
     {
       "id": "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-12T17:01:19.460Z",
-      "updatedAt": "2026-07-12T17:01:19.460Z",
       "title": "Keto Cookie Dough",
       "servings": "",
+      "source": "reddit",
       "ingredients": [
         {
           "qty": "1 cup",
           "name": "almond flour"
         },
         {
-          "qty": "1/4 cup",
-          "name": "unsweetened cocoa powder (optional for chocolate flavor)"
+          "qty": "¼ cup  (optional for chocolate flavor)",
+          "name": "cocoa powder"
         },
         {
-          "qty": "1/4 cup",
-          "name": "butter, softened"
+          "qty": "¼ cup softened",
+          "name": "butter"
         },
         {
-          "qty": "1/4 cup",
-          "name": "sweetener (such as erythritol or monk fruit sweetener)"
+          "qty": "¼ cup",
+          "name": "sweetener"
         },
         {
-          "qty": "1/2 teaspoon",
+          "qty": "½ tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "1/4 teaspoon",
+          "qty": "¼ tsp",
           "name": "salt"
         },
         {
-          "qty": "2 tablespoons",
-          "name": "heavy cream or coconut cream"
+          "qty": "2 tbsp",
+          "name": "heavy cream"
         },
         {
-          "qty": "1/4 cup",
-          "name": "sugar-free chocolate chips"
+          "qty": "¼ cup",
+          "name": "sugar free chocolate chips"
         }
       ],
       "instructions": [
-        "Mix Dry Ingredients",
-        "Add Wet Ingredients: Add the softened butter, heavy cream, and vanilla extract to the dry ingredients. Mix until well combined. You can use a hand mixer or a spoon for this step.",
-        "Fold in Chocolate Chips",
+        "Mix dry ingredients",
+        "Add wet ingredients: Add the softened butter, heavy cream, and vanilla extract to the dry ingredients. Mix until well combined. You can use a hand mixer or a spoon for this step.",
+        "Fold in chocolate chips",
         "Chill (Optional): For a firmer texture, chill the cookie dough in the refrigerator for about 30 minutes.",
         "Serve: Scoop the cookie dough into bite-sized pieces."
       ],
-      "prepNotes": "Chilling for about 30 minutes is optional but gives a firmer texture. Cocoa powder is optional for a chocolate flavor.",
+      "prepNotes": "Chilling for about 30 minutes is optional but gives a firmer texture. \nCocoa powder is optional for a chocolate flavor. \nCan exchange heavy cream with coconut cream",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "keto",
-        "low-carb",
         "dessert",
-        "no-bake",
-        "vegetarian",
-        "quick",
-        "gluten-free"
+        "cookie dough",
+        "chocolate"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-12T17:01:19.460Z",
+      "updatedAt": "2026-07-12T17:04:21.654Z"
     },
     {
       "id": "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe",
