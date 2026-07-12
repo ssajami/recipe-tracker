@@ -1,6 +1,87 @@
 {
   "recipes": [
     {
+      "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-12T17:48:09.091Z",
+      "updatedAt": "2026-07-12T17:48:09.091Z",
+      "title": "Ben & Jerry's Caramel Chocolate Cheesecake",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "of Fairlife Fat Free Milk"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar-free Cheesecake pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Gold Standard Vanilla Protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Xanthan Gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Vanilla Extract"
+        },
+        {
+          "qty": "1 Tbsp",
+          "name": "SF Torani Caramel Syrup OR Walden Farms SF Caramel Sauce"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins (hand stirred): 1 Tbsp Non-Fat Cream Cheese OR 1 Tbsp Frozen Cream Cheese/Cheesecake chunks"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins (hand stirred): 2 Cookies SF Fudge Brownie Chocolate Chip Cookies (Voortman) OR (non cookie option) 2 Ghirardelli Dark Chocolate Caramel Squares"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: 1 Tbsp Walden SF Caramel Sauce, 1 Tbsp SF Chocolate Syrup, 2 Tbsp Non-Fat Cool Whip"
+        },
+        {
+          "qty": "",
+          "name": "Optional Toppings: Chocolate Sprinkles, Lily's 72% Dark Chocolate Chips"
+        }
+      ],
+      "instructions": [
+        "Spin on Lite Ice Cream setting.",
+        "Hand stir mix-ins afterward.",
+        "Add toppings as desired."
+      ],
+      "prepNotes": "Spin on Lite Ice Cream setting and hand stir mix-in's afterward. Caramel cheesecake ice cream mixed with cream cheese or frozen cheesecake chunks and chocolate cookies.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "sugar-free",
+        "high protein",
+        "low sugar",
+        "ninja creami",
+        "cheesecake",
+        "caramel",
+        "chocolate"
+      ],
+      "source": "Ben & Jerry's (recipe #72)"
+    },
+    {
       "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
       "title": "Ben & Jerry's Cannoli Ice Cream",
       "servings": "creami tub",
