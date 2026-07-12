@@ -1,6 +1,80 @@
 {
   "recipes": [
     {
+      "id": "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe",
+      "title": "Keto Lemon Bars Recipe",
+      "servings": "24",
+      "ingredients": [
+        {
+          "qty": "120 g",
+          "name": "unsalted butter (chilled and cut into cubes)"
+        },
+        {
+          "qty": "85 g",
+          "name": "powdered erythritol"
+        },
+        {
+          "qty": "300 g",
+          "name": "almond flour (or almond meal)"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract (optional)"
+        },
+        {
+          "qty": "100 g",
+          "name": "butter (chilled and cut into cubes)"
+        },
+        {
+          "qty": "100 g",
+          "name": "allulose"
+        },
+        {
+          "qty": "120 g",
+          "name": "lemon juice"
+        },
+        {
+          "qty": "",
+          "name": "Zest of 1 lemon (finely microplaned)"
+        },
+        {
+          "qty": "4",
+          "name": "whole large eggs"
+        },
+        {
+          "qty": "2",
+          "name": "large  egg yolks"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 160°C fan/180°C static/350°F. Line a 20 cm (8 inch) square slice pan with baking paper.",
+        "Add all base ingredients to a food processor and pulse until the mixture comes together and forms a soft dough.",
+        "Press into lined baking tray and freeze or chill for at least 30 minutes.",
+        "Bake 15-20 minutes until light golden brown. The base will still be soft. Set aside to rest for at least 15 minutes before topping with lemon filling.",
+        "For filling; Melt butter in a small saucepan over medium heat.",
+        "Add allulose, lemon juice, and zest and stir through until sweetener dissolves.",
+        "Whisk in eggs and egg yolks. Continue to stir over medium heat until the curd thickens and coats the back of a spoon.",
+        "Pour over cooled shortbread base. Bake 10-15 minutes until slightly firmer on the edges but still jiggly in the centre.",
+        "Cool at room temperature then transfer to the fridge to set over night. Slice into bars.",
+        "Preheat oven to 160°C fan/180°C static/350°F. Line a 20 cm (8 inch) square slice pan with baking paper.",
+        "Place all base ingredients into mixer; mix 15 sec/speed 6. Follow steps 3 and 4 above.",
+        "For filling; Place butter into mixer; melt 3 min/ 90°C/speed 1.",
+        "Add sweetener, lemon juice and zest; mix 30 sec/speed 3.",
+        "Insert whisk attachment. Add eggs and egg yolks; cook 11 min/80°C/speed 3. Pour over the cooled shortbread base. Bake for 10 minutes.",
+        "Cool at room temperature then transfer to the fridge to set over night. Slice into bars."
+      ],
+      "prepNotes": "Sugar-free and gluten-free, these Keto Lemon Bars are so delicious! The recipe is so simple, and no one will know these bars are sugar-free! I have fallen in love with these little zesty beauties, and I am sure you will too.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Dessert",
+        "American"
+      ],
+      "source": "https://madcreationshub.com/recipe/keto-lemon-bars/",
+      "createdAt": "2026-07-12T16:23:47.819Z",
+      "updatedAt": "2026-07-12T16:23:47.819Z"
+    },
+    {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
       "title": "Coffee Ice Cream",
       "servings": "creami tub",
