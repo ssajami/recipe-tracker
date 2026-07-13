@@ -26,7 +26,7 @@
       "ingredientLinks": [
         "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
-        null,
+        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e",
         "4d80865e-7e7c-42a5-8707-d6989ec1086c"
       ],
       "instructions": [
@@ -42,7 +42,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-13T17:16:29.220Z",
-      "updatedAt": "2026-07-13T17:16:29.220Z"
+      "updatedAt": "2026-07-13T17:21:09.854Z"
     },
     {
       "id": "26e603c4-251b-4206-b4e2-689acc9d9c2a",
