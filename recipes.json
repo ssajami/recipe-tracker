@@ -1,6 +1,62 @@
 {
   "recipes": [
     {
+      "id": "9274cbed-0e07-4f38-9d1a-cf8b5bd2dcc7",
+      "title": "Ben & Jerry's Honey Graham Latte",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "salted saramel base"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "instant coffee"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "cinnamon"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "sugar free caramel syrup"
+        },
+        {
+          "qty": "Mix-in: 1 rectangle",
+          "name": "honey graham cracker"
+        },
+        {
+          "qty": "Mix-in: 18 gram",
+          "name": "catalina crunch"
+        }
+      ],
+      "ingredientLinks": [
+        "3cce119c-f294-4007-9da8-a538561d3f99",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "honey",
+        "coffee"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-13T16:56:44.285Z",
+      "updatedAt": "2026-07-13T16:56:44.285Z"
+    },
+    {
       "id": "2bf3f135-62f3-434e-b355-9dda28ee4229",
       "title": "Sugar-Free Fudge Brownie Chocolate Chip Cookies (Copycat of Voortman's)",
       "servings": "",
