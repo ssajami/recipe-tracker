@@ -2,8 +2,9 @@
   "recipes": [
     {
       "id": "7f991fb5-a7d8-4b97-aa4c-ed1f9270c8a3",
-      "title": "(1/2g net carb!) Baked Keto Donut Holes",
+      "title": "Keto Baked Donut Holes",
       "servings": "30",
+      "source": "www.gnom-gnom.com",
       "ingredients": [
         {
           "qty": "64 g",
@@ -14,11 +15,11 @@
           "name": "coconut flour"
         },
         {
-          "qty": "1 tablespoon",
-          "name": "psyllium husk  (very finely ground)"
+          "qty": "1 tbsp, finely ground",
+          "name": "psyllium husk "
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "xanthan gum"
         },
         {
@@ -27,89 +28,88 @@
         },
         {
           "qty": "57 g",
-          "name": "grass-fed unsalted butter (or coconut oil/ghee)"
+          "name": "unsalted butter"
         },
         {
-          "qty": "3 tablespoons",
-          "name": "erythritol (or xylitol*)"
+          "qty": "3 tbsp",
+          "name": "erythritol"
         },
         {
-          "qty": "1/4 teaspoon",
+          "qty": "¼ tsp",
           "name": "kosher salt"
         },
         {
-          "qty": "3",
-          "name": "eggs (lightly beaten )"
+          "qty": "3 lightly beaten",
+          "name": "eggs"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp",
           "name": "baking powder"
         },
         {
-          "qty": "1/2 cup",
-          "name": "powdered erythritol (or powdered sweetener)"
+          "qty": "",
+          "name": "---GLAZE"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "½ cup",
+          "name": "powdered erythritol"
+        },
+        {
+          "qty": "1 tsp",
           "name": "heavy cream"
         },
         {
-          "qty": "1/2 teaspoon",
+          "qty": "½ tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "water (as needed (about 1 tablespoon))"
-        },
-        {
-          "qty": "2 tablespoons",
-          "name": "grass-fed unsalted butter (or ghee/coconut oil, melted)"
-        },
-        {
-          "qty": "1/2 cup",
-          "name": "allulose (xylitol or sweetener of choice, to taste )"
-        },
-        {
-          "qty": "2 teaspoons",
-          "name": "cinnamon (to taste )"
+          "qty": "(as needed - about 1 tbsp)",
+          "name": "water"
         },
         {
           "qty": "",
-          "name": "pastry bag (or plastic bag)"
+          "name": "---COATING"
         },
         {
-          "qty": "",
-          "name": "donut hole pan (optional)"
+          "qty": "2 tbsp melted",
+          "name": "unsalted butter"
+        },
+        {
+          "qty": "½ cup (to taste)",
+          "name": "allulose"
+        },
+        {
+          "qty": "2 tsp (to taste)",
+          "name": "cinnamon"
         }
       ],
       "instructions": [
-        "See recipe video for guidance!",
-        "Preheat oven to 425°F/220°C. Grease and flour (with coconut flour) a donut hole pan. Alternatively, line a baking tray with parchment paper or a baking mat (see reference pictures in post).",
+        "Preheat oven to 220°C. Grease and flour (with coconut flour) a donut hole pan. Alternatively, line a baking tray with parchment paper or a baking mat (see reference pictures in post).",
         "Whisk together in a medium bowl almond flour, coconut flour, psyllium husk and xanthan gum. Set aside. ",
         "Heat up water, butter, sweetener and salt in medium pot (or Dutch oven) until it just begins to simmer. Lower heat to low and add in flour mixture, mixing constantly to incorporate. Continue to cook and stir until the dough pulls away from the pan and forms into a ball, 1-3 minutes. ",
-        "Transfer dough back to the bowl and allow to cool for 5-10 minutes. The dough should still be warm, but not hot enough to scramble the eggs. And if you have an instant thermometer, temperature should be below 125°F/52°C.",
+        "Transfer dough back to the bowl and allow to cool for 5-10 minutes. The dough should still be warm, but not hot enough to scramble the eggs. And if you have an instant thermometer, temperature should be below 52°C.",
         "Add in one egg at a time, mixing with an electric mixer at medium/high speed until fully incorporated (if using a stand mixer, use the paddle attachment). Be sure to mix the dough for 2 minutes after adding in the last egg; the final texture should be very elastic. Mix in vanilla extract and baking powder. .",
-        "Allow the dough to rest until it comes to room temperature (about 15-20 minutes). I&#x27;ve come to realize this is a very important step to keep your donut (holes) from deflating post bake; the donuts will rise a bit less but hold their shape.",
-        "Spoon dough into a piping bag or plastic bag (no tip needed). Cut out bottom of piping bag 1.5 cm (1/2 inch) wide. Pipe out dough onto donut hole pan, or onto prepared parchment paper. Wet your finger tip slightly and smooth out the top (for a more even rise).",
-        "Bake for 15 minutes at 425°F/220°C, lower temperature to 350°F/180°C and continue to bake for 17-20 minutes until deep golden. Do not open your oven door before the first 20 minutes (or at all if possible!), as choux pastry is notoriously sensitive to drafts. Allow to rest in pan for 10 minutes before removing. ",
+        "Allow the dough to rest until it comes to room temperature (about 15-20 minutes). I've come to realize this is a very important step to keep your donut (holes) from deflating post bake; the donuts will rise a bit less but hold their shape.",
+        "Spoon dough into a piping bag or plastic bag (no tip needed). Cut out bottom of piping bag 1.5 cm wide. Pipe out dough onto donut hole pan, or onto prepared parchment paper. Wet your finger tip slightly and smooth out the top (for a more even rise).",
+        "Bake for 15 minutes at 220°C, lower temperature to 180°C and continue to bake for 17-20 minutes until deep golden. Do not open your oven door before the first 20 minutes (or at all if possible!), as choux pastry is notoriously sensitive to drafts. Allow to rest in pan for 10 minutes before removing. ",
         "Sift powdered sweetener onto a bowl. Whisk in the heavy cream, vanilla extract, and water (a teaspoon at a time!) until desired consistency is reached. The glaze should be thick, but pourable (I like to use my fingertip here to test for thickness!).",
-        "Alternatively, feel free to brush with melted butter and roll in the cinnamon &#x27;sugar&#x27;. ",
+        "Alternatively, feel free to brush with melted butter and roll in the cinnamon & sugar",
         "These are best enjoyed still warm and freshly glazed, but they keep quite well for a day or two stored in an airtight container at room temperature.&nbsp;"
       ],
-      "prepNotes": "Unbelievably soft, incredibly tasty and just 0.5g net carb a pop! These are the tastiest gluten free and keto donut holes you’ll ever make, guaranteed! ",
+      "prepNotes": "pastry bag (or plastic bag), donut hole pan (optional)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "Dessert",
-        "American"
+        "donut"
       ],
-      "source": "https://www.gnom-gnom.com/keto-donut-holes/",
+      "pinned": false,
       "createdAt": "2026-07-13T17:40:49.129Z",
-      "updatedAt": "2026-07-13T17:40:49.129Z"
+      "updatedAt": "2026-07-13T17:46:45.475Z"
     },
     {
       "id": "5ec44b26-bb7f-4f91-98c6-2a4bd831c9a8",
