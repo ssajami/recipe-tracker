@@ -113,7 +113,7 @@
     },
     {
       "id": "5ec44b26-bb7f-4f91-98c6-2a4bd831c9a8",
-      "title": "Blueberry Glazed Doughnu",
+      "title": "Blueberry Glazed Doughnut",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -162,6 +162,19 @@
           "name": "Keto Glazed Donut Holes"
         }
       ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7f991fb5-a7d8-4b97-aa4c-ed1f9270c8a3"
+      ],
       "instructions": [],
       "prepNotes": "Variation: use Dymatize Dunkin Glazed Donut protein instead and skip fresh blueberries",
       "afterPrepNotes": "",
@@ -172,7 +185,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-13T17:39:53.597Z",
-      "updatedAt": "2026-07-13T17:39:53.597Z"
+      "updatedAt": "2026-07-13T17:47:10.721Z"
     },
     {
       "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
