@@ -1,6 +1,50 @@
 {
   "recipes": [
     {
+      "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
+      "title": "Ben &  Jerry's Half Baked",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "",
+          "name": "chocolate base"
+        },
+        {
+          "qty": "Mix-in: 14 gr frozen ",
+          "name": "chocolate chip cookie dough"
+        },
+        {
+          "qty": "Mix-in: 14 gr frozen",
+          "name": "Keto Fudge Brownie"
+        }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        null,
+        "4d80865e-7e7c-42a5-8707-d6989ec1086c"
+      ],
+      "instructions": [
+        "Freeze in layers. Make chocolate base and freeze for 4 hours minimum. Then make vanilla base and pour on top and freeze overnight."
+      ],
+      "prepNotes": "*Makes 2 containers\n* freeze mix-in to prevent them breaking apart too much",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "vanilla",
+        "chocolate",
+        "cookie dough"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-13T17:16:29.220Z",
+      "updatedAt": "2026-07-13T17:16:29.220Z"
+    },
+    {
       "id": "26e603c4-251b-4206-b4e2-689acc9d9c2a",
       "title": "Ben & Jerry's Tonight Dough (untested)",
       "servings": "",
