@@ -2,31 +2,24 @@
   "recipes": [
     {
       "id": "2bf3f135-62f3-434e-b355-9dda28ee4229",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-13T16:27:19.947Z",
-      "updatedAt": "2026-07-13T16:27:19.947Z",
-      "title": "Sugar-Free Fudge Brownie Chocolate Chip Cookies",
+      "title": "Sugar-Free Fudge Brownie Chocolate Chip Cookies (Copycat of Voortman's)",
       "servings": "",
+      "source": "claude",
       "ingredients": [
         {
-          "qty": "115 grams",
-          "name": "unsalted butter, melted"
+          "qty": "115 grams melted",
+          "name": "unsalted butter"
         },
         {
           "qty": "180 grams",
-          "name": "allulose"
-        },
-        {
-          "qty": "1 teaspoons",
-          "name": "blackstrap molasses (optional, for brown-sugar flavor)"
+          "name": "brown sugar allulose"
         },
         {
           "qty": "2",
           "name": "large eggs"
         },
         {
-          "qty": "1.5 teaspoons",
+          "qty": "1 ½ tsp",
           "name": "vanilla extract"
         },
         {
@@ -35,44 +28,44 @@
         },
         {
           "qty": "50 grams",
-          "name": "unsweetened cocoa powder"
+          "name": "cocoa powder"
         },
         {
-          "qty": "0.5 teaspoons",
+          "qty": "½ tsp",
           "name": "baking powder"
         },
         {
-          "qty": "0.5 teaspoons",
+          "qty": "½ tsp",
           "name": "salt"
         },
         {
-          "qty": "0.3 teaspoons",
+          "qty": "0.3 tsp",
           "name": "xanthan gum"
         },
         {
           "qty": "170 grams",
-          "name": "sugar-free chocolate chips"
+          "name": "sugar free chocolate chips"
         }
       ],
       "instructions": [
-        "Prep: Preheat oven to 160°C (320°F). Line two baking sheets with parchment.",
-        "Whisk wet ingredients: In a large bowl, whisk together 115 grams unsalted butter, melted, 180 grams allulose, and 1 teaspoons blackstrap molasses (optional, for brown-sugar flavor) until smooth. Add 2 large eggs and 1.5 teaspoons vanilla extract, whisk until well combined.",
-        "Add dry ingredients: Sift in 130 grams all-purpose flour, 50 grams unsweetened cocoa powder, 0.5 teaspoons baking powder, 0.5 teaspoons salt, and 0.3 teaspoons xanthan gum. Fold with a spatula until just combined — the batter will be thick, like brownie batter.",
-        "Fold in chips: Fold in 170 grams sugar-free chocolate chips, reserving a small handful to press on top of the dough balls later.",
+        "Prep: Preheat oven to 160°C. Line two baking sheets with parchment.",
+        "Whisk wet ingredients: In a large bowl, whisk together butter, allulose until smooth. Add eggs and vanilla extract, whisk until well combined.",
+        "Add dry ingredients: Sift in flour, cocoa powder, baking powder, salt, and xanthan gum. Fold with a spatula until just combined — the batter will be thick, like brownie batter.",
+        "Fold in chocolate chips, reserving a small handful to press on top of the dough balls later.",
         "Chill the dough: Cover and chill the dough for 30 minutes — allulose dough is softer than sugar dough, so chilling matters more here to prevent spreading.",
         "Portion and bake: Scoop 40g balls of dough onto the sheets, spaced 5cm apart. Press a few reserved chips on top. Bake for 9-10 minutes, watching closely — allulose browns faster than sugar, so pull them as soon as the edges set even if the center looks underdone.",
         "Cool: Let cookies rest on the tray for 10 minutes — longer than usual, since allulose cookies firm up more gradually as they cool. Then transfer to a wire rack."
       ],
-      "prepNotes": "Allulose caramelizes faster than sugar — oven runs at 160°C here instead of 175°C, and check at 9 minutes rather than trusting the timer. Cookies will look very soft coming out; they firm up fully only after 20+ minutes of cooling, same as the sugar version but more pronounced. Skip the molasses for a completely sugar-free result — flavor difference is minor. If you want extra fudge density, replace 20g flour with 20g additional cocoa.",
+      "prepNotes": "Allulose caramelizes faster than sugar — check at 9 minutes rather than trusting the timer. Cookies will look very soft coming out; they firm up fully only after 20+ minutes of cooling, same as the sugar version but more pronounced. If you want extra fudge density, replace 20g flour with 20g additional cocoa.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "cookies",
-        "sugar-free",
-        "chocolate",
-        "vegetarian",
-        "baking"
+        "chocolate"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-13T16:27:19.947Z",
+      "updatedAt": "2026-07-13T16:32:20.839Z"
     },
     {
       "id": "fdfb96c1-ed3a-4e9c-9d53-13fd33df4f3b",
