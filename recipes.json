@@ -9002,25 +9002,25 @@
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
-      "title": "Classic Ice Cream Base Recipe",
+      "title": "Classic Ice Cream Base Recipe (stop)",
       "servings": "creami tub",
       "source": "insta: ninja_creami_recipes",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "2% + milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "cream cheese (optional — makes the ice cream thicker)"
+          "name": "cream cheese"
         },
         {
-          "qty": "1/4 cup",
+          "qty": "¼ cup",
           "name": "heavy cream"
         },
         {
-          "qty": "1/4 cup",
-          "name": "granulated sugar"
+          "qty": "¼ cup",
+          "name": "sugar"
         }
       ],
       "instructions": [
@@ -9034,8 +9034,9 @@
       "tags": [
         "ice cream"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T17:10:58.648Z",
-      "updatedAt": "2026-06-30T18:44:59.499Z"
+      "updatedAt": "2026-07-13T17:27:53.721Z"
     },
     {
       "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
