@@ -9039,28 +9039,28 @@
     },
     {
       "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
-      "title": "Peanut Butter Ice Cream 1",
+      "title": "Peanut Butter Ice Cream",
       "servings": "1 tub",
       "source": "",
       "ingredients": [
         {
-          "qty": "1/3 cup",
+          "qty": "⅓ cup",
           "name": "milk"
         },
         {
-          "qty": "2/3 cup",
+          "qty": "⅔ cup",
           "name": "cream"
         },
         {
           "qty": "30 g",
-          "name": "pb powder"
+          "name": "peanut butter powder"
         },
         {
           "qty": "5 tbsp",
           "name": "sugar syrup"
         },
         {
-          "qty": "1/2 tsp",
+          "qty": "½ tsp",
           "name": "vanilla"
         }
       ],
@@ -9074,8 +9074,9 @@
         "peanut butter",
         "ice cream"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T16:43:37.207Z",
-      "updatedAt": "2026-07-01T05:57:19.035Z"
+      "updatedAt": "2026-07-13T17:26:54.515Z"
     },
     {
       "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
