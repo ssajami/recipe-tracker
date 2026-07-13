@@ -218,24 +218,18 @@
           "name": "cream cheese"
         },
         {
-          "qty": "",
-          "name": "Mix-ins (hand stirred): 2 Cookies SF Fudge Brownie Chocolate Chip Cookies (Voortman) OR (non cookie option) 2 Ghirardelli Dark Chocolate Caramel Squares"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 1 Tbsp Walden SF Caramel Sauce, 1 Tbsp SF Chocolate Syrup, 2 Tbsp Non-Fat Cool Whip"
-        },
-        {
-          "qty": "",
-          "name": "Optional Toppings: Chocolate Sprinkles, Lily's 72% Dark Chocolate Chips"
+          "qty": "Mix-ins (hand stirred): 2 ",
+          "name": "sugar free fudge brownie chocolate chip Cookies (Voortman)"
         }
       ],
-      "instructions": [
-        "Spin on Lite Ice Cream setting.",
-        "Hand stir mix-ins afterward.",
-        "Add toppings as desired."
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        "2bf3f135-62f3-434e-b355-9dda28ee4229"
       ],
-      "prepNotes": "Spin on Lite Ice Cream setting and hand stir mix-in's afterward. Caramel cheesecake ice cream mixed with cream cheese or frozen cheesecake chunks and chocolate cookies.",
+      "instructions": [],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -246,7 +240,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-12T17:48:09.091Z",
-      "updatedAt": "2026-07-12T17:52:46.984Z"
+      "updatedAt": "2026-07-13T16:38:06.252Z"
     },
     {
       "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
