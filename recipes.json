@@ -9084,15 +9084,15 @@
       "source": "",
       "ingredients": [
         {
-          "qty": "1/4 cup",
+          "qty": "¼ cup",
           "name": "milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "cream"
         },
         {
-          "qty": "2 1/2 tsp",
+          "qty": "2 ½ tsp",
           "name": "sugar"
         },
         {
@@ -9120,8 +9120,9 @@
         "chocolate",
         "ice cream"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T16:34:51.368Z",
-      "updatedAt": "2026-06-30T18:45:05.127Z"
+      "updatedAt": "2026-07-13T17:26:02.389Z"
     }
   ],
   "pantry": [
