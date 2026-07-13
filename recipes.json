@@ -4,45 +4,46 @@
       "id": "3e05a637-556d-4035-a170-b0b11cca585a",
       "title": "Keto Peanut Butter Cookies",
       "servings": "8",
+      "source": "chocolatecoveredkatie.com",
       "ingredients": [
         {
-          "qty": "1/2 cup",
-          "name": "peanut butter, or nut butter of choice"
+          "qty": "½2 cup",
+          "name": "peanut butter"
         },
         {
           "qty": "1 tbsp",
-          "name": "milk of choice"
+          "name": "milk"
         },
         {
-          "qty": "2/3 cup",
+          "qty": "⅔ cup",
           "name": "finely ground almond flour"
         },
         {
           "qty": "3 tbsp",
-          "name": "powdered erythritol or powdered sugar"
+          "name": "powdered erythritol"
         },
         {
-          "qty": "1/8 tsp",
+          "qty": "⅛ tsp",
           "name": "salt"
         },
         {
-          "qty": "1/8 tsp",
+          "qty": "⅛ tsp",
           "name": "baking soda"
         }
       ],
       "instructions": [
-        "*See recipe earlier in this post if you prefer to make 3 ingredient peanut butter cookies.If not already easily stir-able, gently heat nut butter until runny. Preheat the oven to 325 F. Stir dry ingredients very well. Stir in nut butter and milk to form a dough. Roll balls, then flatten into thick cookies (see photo above). Bake on the center rack 10 minutes. Take out when still undercooked. Let cool completely, because they firm up as they cool.View Nutrition Facts"
+        "If not already easily stir-able, gently heat nut butter until runny. Preheat the oven to 325 F. Stir dry ingredients very well. Stir in nut butter and milk to form a dough. Roll balls, then flatten into thick cookies (see photo above). Bake on the center rack 10 minutes. Take out when still undercooked. Let cool completely, because they firm up as they cool."
       ],
-      "prepNotes": "This quick and easy keto peanut butter cookie recipe is soft, chewy, and delicious, with no sugar or eggs required.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Dessert",
-        "American"
+        "cookies",
+        "peanut butter"
       ],
-      "source": "https://chocolatecoveredkatie.com/keto-peanut-butter-cookies/",
+      "pinned": false,
       "createdAt": "2026-07-13T16:59:25.130Z",
-      "updatedAt": "2026-07-13T16:59:25.130Z"
+      "updatedAt": "2026-07-13T17:03:03.806Z"
     },
     {
       "id": "9274cbed-0e07-4f38-9d1a-cf8b5bd2dcc7",
