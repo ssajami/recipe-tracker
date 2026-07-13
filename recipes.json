@@ -1,6 +1,69 @@
 {
   "recipes": [
     {
+      "id": "5ec44b26-bb7f-4f91-98c6-2a4bd831c9a8",
+      "title": "Blueberry Glazed Doughnu",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "¾ cup",
+          "name": "unsweetened almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar free vanilla pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Ketogenic Blueberry Glazed Donut protein"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "allulose"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "⅛ tsp ",
+          "name": "blueberry extract"
+        },
+        {
+          "qty": "Mix-in: ¼ cup",
+          "name": "fresh blueberries"
+        },
+        {
+          "qty": "Mix-in: 3 ",
+          "name": "Keto Glazed Donut Holes"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "Variation: use Dymatize Dunkin Glazed Donut protein instead and skip fresh blueberries",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "blueberry",
+        "donut"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-13T17:39:53.597Z",
+      "updatedAt": "2026-07-13T17:39:53.597Z"
+    },
+    {
       "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
       "title": "Ben &  Jerry's Half Baked",
       "servings": "creami tub",
