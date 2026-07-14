@@ -3179,37 +3179,37 @@
     },
     {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
-      "title": "Mint Chocolate Chip Ice Cream - 2",
+      "title": "Mint Chocolate Chip Ice Cream",
       "servings": "delux tub",
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "¼ cup Half and half"
+          "qty": "1¼ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup Sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup Cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon Mint chocolate chip flavor"
+          "qty": "½ tsp",
+          "name": "mint chocolate chip extract"
         },
         {
-          "qty": "1 teaspoon",
-          "name": "Vanilla extract or vanilla bean paste"
+          "qty": "1 tsp",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "2",
-          "name": "drops Green food color"
+          "qty": "2 drops",
+          "name": "green food coloring"
         },
         {
-          "qty": "2 tablespoon",
-          "name": "Chocolate chips or mint chocolate chips (chopped)"
+          "qty": "Mix-in: 2 tbsp (chopped)",
+          "name": "chocolate chips"
         }
       ],
       "instructions": [
@@ -3219,7 +3219,7 @@
         "If too crumbly, add a splash of milk and respin.",
         "Stir in chocolate chips or use Mix in function and enjoy!"
       ],
-      "prepNotes": "Substitution\n* Half and Half – Use equal parts heavy cream and whole milk.\n* Sweetened Condensed Milk – Try coconut condensed milk for a dairy-free version.\n* Cottage Cheese – Use Greek yogurt or cream cheese for a tangy twist.\n\nMix-Ins and Topping Ideas\n* Crushed Oreos (mint cookies & cream vibes)\n* Extra chocolate chunks or shaved chocolate\n* Chopped walnuts or almonds for crunch\n* Shredded coconut (surprisingly good with mint)",
+      "prepNotes": "Substitution\n* Sweetened Condensed Milk – Try coconut condensed milk for a dairy-free version.\n* Cottage Cheese – Use Greek yogurt or cream cheese for a tangy twist.\n\nMix-Ins and Topping Ideas\n* Crushed Oreos (mint cookies & cream vibes)\n* Extra chocolate chunks or shaved chocolate\n* Chopped walnuts or almonds for crunch\n* Shredded coconut (surprisingly good with mint)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3227,9 +3227,9 @@
         "ice cream",
         "mint"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T10:04:55.787Z",
-      "updatedAt": "2026-07-07T07:50:01.100Z"
+      "updatedAt": "2026-07-14T17:20:06.745Z"
     },
     {
       "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
