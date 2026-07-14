@@ -1,6 +1,57 @@
 {
   "recipes": [
     {
+      "id": "81939727-98dd-4cc2-879f-a0b140872f61",
+      "title": "Stovetop Apple Butter",
+      "servings": "32",
+      "ingredients": [
+        {
+          "qty": "6",
+          "name": "½ pounds apples (peeled, cored and sliced)"
+        },
+        {
+          "qty": "3/4 cup",
+          "name": "granulated sugar"
+        },
+        {
+          "qty": "1 cup",
+          "name": "lightly packed light brown sugar"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "plus 1 teaspoon apple pie spice"
+        },
+        {
+          "qty": "",
+          "name": "¼ teaspoon salt"
+        },
+        {
+          "qty": "1 cup",
+          "name": "apple juice or apple cider"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "pure vanilla extract"
+        }
+      ],
+      "instructions": [
+        "In a large Dutch oven over medium-low heat, combine apples, sugars, apple pie spice, salt, and apple juice or apple cider. Simmer covered for approximately 1 hour or until the apples are very soft, stirring every 15 minutes.",
+        "Use an immersion blender to blend the apple mixture into a smooth puree. If you don’t have an immersion blender, carefully blend the mixture in batches using a standard blender. If using a standard blender, be sure to vent the lid and be extra cautious because the mixture is hot.",
+        "Reduce the heat to low and continue cooking the puree uncovered for 2-3 hours, stirring every 15-20 minutes, until it has thickened and is dark brown with a very rich flavor. Remove from the heat and stir in vanilla. If desired, blend the mixture again to achieve a smooth velvety consistency.",
+        "Let the mixture cool completely before transferring to sterile containers. Cover and refrigerate for up to two weeks or freeze for up to 3 months.",
+        "Serve on breads, muffins, pork chops or just eat it with a spoon."
+      ],
+      "prepNotes": "Cook this thick, luscious apple butter on the stovetop and enjoy the way it makes your house smell incredible! Spread your homemade apple butter on toast, serve it with pork, or use it for baking all autumn long.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Breakfast"
+      ],
+      "source": "https://www.mybakingaddiction.com/stovetop-apple-butter/",
+      "createdAt": "2026-07-14T17:31:22.301Z",
+      "updatedAt": "2026-07-14T17:31:22.301Z"
+    },
+    {
       "id": "8500485b-0845-47f9-ba08-2e3870ef503b",
       "title": "Irish Cream",
       "servings": "",
