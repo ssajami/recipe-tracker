@@ -34,6 +34,7 @@ let editIngredientLinks = []; // parallel array: recipeId or null per ingredient
 let editInstructions = [];
 let editTags = [];
 let editRating = null;
+let editPinned = false;
 
 // ── Helpers ────────────────────────────────────────────────────────────────
 function esc(str) {
@@ -186,6 +187,7 @@ const App = {
     editInstructions = recipe ? [...(recipe.instructions || [''])] : [''];
     editTags = recipe ? [...(recipe.tags || [])] : [];
     editRating = recipe ? (recipe.rating || null) : null;
+    editPinned = recipe ? (recipe.pinned || false) : false;
     state.chatMessages = [];
     state.chatOpen = false;
     state.view = 'edit';
@@ -291,7 +293,7 @@ const App = {
       afterPrepNotes: document.getElementById('edit-after-notes')?.value.trim() || '',
       rating:         editRating,
       tags:           editTags,
-      pinned:         existing?.pinned || false,
+      pinned:         editPinned,
       createdAt:      existing?.createdAt || new Date().toISOString(),
       updatedAt:      new Date().toISOString(),
     };
@@ -325,6 +327,12 @@ const App = {
   },
 
   // ── Edit Form Actions ─────────────────────────────────────────────────────
+  toggleEditPin() {
+    editPinned = !editPinned;
+    const btn = document.getElementById('edit-pin-btn');
+    if (btn) { btn.classList.toggle('active', editPinned); btn.title = editPinned ? 'Unpin' : 'Pin to top'; }
+  },
+
   setRating(n) {
     editRating = (editRating === n) ? null : n;
     document.getElementById('star-input').innerHTML = renderStarInput();
@@ -1360,6 +1368,9 @@ function renderEdit() {
 
   updateHeader(isNew ? 'New Recipe' : 'Edit Recipe', true, `
     ${!isNew ? `<button class="icon-btn" title="Shopping list" onclick="App.showShoppingList('${r.id}')">&#128722;</button>` : ''}
+    <button id="edit-pin-btn" class="pin-btn${editPinned ? ' active' : ''}"
+            title="${editPinned ? 'Unpin' : 'Pin to top'}"
+            onclick="App.toggleEditPin()">📌</button>
     <button class="btn-primary" style="padding:8px 16px" onclick="App.saveEdit()">Save</button>
   `);
 
