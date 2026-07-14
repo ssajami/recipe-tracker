@@ -2401,7 +2401,7 @@
         },
         {
           "qty": "190 g",
-          "name": "coldbrew"
+          "name": "coldbrew coffee"
         },
         {
           "qty": "15 g  (see substitution)",
@@ -2449,11 +2449,11 @@
         "coffee",
         "chocolate",
         "protein",
-        "hazelnul"
+        "hazelnut"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:28:30.134Z",
-      "updatedAt": "2026-07-11T17:18:50.093Z"
+      "updatedAt": "2026-07-14T17:08:55.358Z"
     },
     {
       "id": "71086cae-48f1-4169-9fb1-47c64980bd86",
