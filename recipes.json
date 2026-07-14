@@ -1,6 +1,43 @@
 {
   "recipes": [
     {
+      "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
+      "title": "Chocolate Chip Cookie Dough",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "2 tsp",
+          "name": "brown sugar substitute"
+        },
+        {
+          "qty": "Mix-in: (hand stir)",
+          "name": "38 g cookie dough"
+        }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e"
+      ],
+      "instructions": [],
+      "prepNotes": "Variation, make with chocolate base .",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "chocolate chip cookie",
+        "ice cream",
+        "protein"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-14T16:34:38.687Z",
+      "updatedAt": "2026-07-14T16:34:38.687Z"
+    },
+    {
       "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
       "title": "Half and Half Peanut Butter Chocolate",
       "servings": "creami tub",
