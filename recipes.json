@@ -9,9 +9,19 @@
         {
           "qty": "",
           "name": "peanut butter icecream"
+        },
+        {
+          "qty": "",
+          "name": "chocolate base"
         }
       ],
-      "instructions": [],
+      "ingredientLinks": [
+        "692de0de-76c0-4f86-8425-18006a49d547",
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb"
+      ],
+      "instructions": [
+        "Add half, freeze and 4 hours. Add half of the other"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -22,7 +32,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-14T16:19:04.383Z",
-      "updatedAt": "2026-07-14T16:19:04.383Z"
+      "updatedAt": "2026-07-14T16:31:10.860Z"
     },
     {
       "id": "7f991fb5-a7d8-4b97-aa4c-ed1f9270c8a3",
