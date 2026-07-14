@@ -49,7 +49,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-14T16:35:16.742Z",
-      "updatedAt": "2026-07-14T16:35:16.742Z"
+      "updatedAt": "2026-07-14T16:42:49.185Z"
     },
     {
       "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
@@ -84,9 +84,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-14T16:34:38.687Z",
-      "updatedAt": "2026-07-14T16:34:38.687Z"
+      "updatedAt": "2026-07-14T16:42:51.048Z"
     },
     {
       "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
