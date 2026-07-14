@@ -8442,41 +8442,6 @@
       "updatedAt": "2026-07-01T05:15:12.581Z"
     },
     {
-      "id": "a0d10156-8b43-476a-8eff-70be72a17ba3",
-      "title": "**Choc Coffee Ice Cream",
-      "servings": "creami tub",
-      "source": "@ninjacreamirecipes",
-      "ingredients": [
-        {
-          "qty": "1",
-          "name": "Fairlife Vanilla Protein Shake"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "SF Vanilla Pudding Mix"
-        },
-        {
-          "qty": "2",
-          "name": "Shots Espresso"
-        },
-        {
-          "qty": "",
-          "name": "Chocolate (optional mix-in)"
-        }
-      ],
-      "instructions": [],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "ice cream",
-        "coffee",
-        "chocolate"
-      ],
-      "createdAt": "2026-06-30T19:06:20.143Z",
-      "updatedAt": "2026-06-30T19:08:39.511Z"
-    },
-    {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
       "title": "Cafe Latte",
       "servings": "creami tub",
