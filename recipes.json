@@ -3832,31 +3832,31 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "",
-          "name": "½  ripe banana"
+          "qty": "½  ripe",
+          "name": "banana"
         },
         {
           "qty": "1 cup",
-          "name": "strawberries (hulled)"
+          "name": "strawberries"
         },
         {
-          "qty": "",
-          "name": "½ cup heavy cream"
+          "qty": "½ cup",
+          "name": "heavy cream"
         },
         {
           "qty": "1 cup",
           "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
         },
         {
-          "qty": "1 pinch",
+          "qty": "pinch",
           "name": "salt"
         }
       ],
@@ -3876,9 +3876,9 @@
         "strawberry",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:48:32.859Z",
-      "updatedAt": "2026-07-04T04:19:35.678Z"
+      "updatedAt": "2026-07-14T17:37:33.726Z"
     },
     {
       "id": "3f1256d2-01d2-48bd-8038-955ea0cdf352",
