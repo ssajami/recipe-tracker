@@ -6,7 +6,7 @@ const state = {
   detailId: null,
   editId: null,         // null = new recipe
   search: '',
-  tagFilter: null,
+  tagFilter: new Set(),
   ratingFilter: null,
   cookChecked: { ingredients: new Set(), instructions: new Set() },
   qtyMultiplier: 1,
@@ -94,7 +94,7 @@ function getAllTags() {
 
 function filterRecipes() {
   let list = [...state.recipes];
-  if (state.tagFilter) list = list.filter(r => (r.tags || []).includes(state.tagFilter));
+  if (state.tagFilter.size) list = list.filter(r => [...state.tagFilter].every(t => (r.tags || []).includes(t)));
   if (state.ratingFilter) list = list.filter(r => (r.rating || 0) >= state.ratingFilter);
   if (state.search.trim()) {
     const q = state.search.toLowerCase();
@@ -722,7 +722,7 @@ Answer questions about substitutions, techniques, or anything related to this re
   // ── Search & Filter ───────────────────────────────────────────────────────
   onSearch(q) {
     state.search = q;
-    state.tagFilter = null;
+    state.tagFilter.clear();
     document.getElementById('recipe-grid').innerHTML = renderGrid();
     this.updateSearchSuggestions(q);
   },
@@ -770,7 +770,7 @@ Answer questions about substitutions, techniques, or anything related to this re
 
   applySuggestion(value) {
     state.search = value;
-    state.tagFilter = null;
+    state.tagFilter.clear();
     const el = document.getElementById('search-suggestions');
     if (el) el.classList.add('hidden');
     const input = document.querySelector('.search-input');
@@ -810,8 +810,12 @@ Answer questions about substitutions, techniques, or anything related to this re
   },
 
   setTagFilter(tag) {
-    state.tagFilter = tag;
-    render();
+    if (state.tagFilter.has(tag)) state.tagFilter.delete(tag);
+    else state.tagFilter.add(tag);
+    document.getElementById('recipe-grid').innerHTML = renderGrid();
+    document.querySelectorAll('.tag-filter-btn').forEach(btn => {
+      btn.classList.toggle('active', state.tagFilter.has(btn.dataset.tag));
+    });
   },
 
   setRatingFilter(n) {
@@ -1185,6 +1189,15 @@ function renderList() {
               ${'★'.repeat(n)}${'☆'.repeat(5-n)}
             </button>`).join('')}
         </div>
+        ${allTags.length ? `
+        <div class="tag-filter-row">
+          ${allTags.map(t => `
+            <button class="tag-filter-btn${state.tagFilter.has(t) ? ' active' : ''}"
+                    data-tag="${esc(t)}"
+                    onclick="App.setTagFilter('${esc(t)}')">
+              ${esc(t)}
+            </button>`).join('')}
+        </div>` : ''}
         <div id="recipe-grid">${renderGrid()}</div>
       </div>
 
