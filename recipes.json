@@ -2091,7 +2091,7 @@
     },
     {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
-      "title": "Vanilla Ice Cream (Base Recipe)",
+      "title": "Vanilla Ice Cream (Base Recipe - milk powder)",
       "servings": "creami tub",
       "source": "pint lab",
       "ingredients": [
@@ -2139,7 +2139,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-11T17:18:28.389Z"
+      "updatedAt": "2026-07-14T16:27:39.762Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
