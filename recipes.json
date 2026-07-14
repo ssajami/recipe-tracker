@@ -49,7 +49,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-14T16:35:16.742Z",
-      "updatedAt": "2026-07-14T16:42:52.389Z"
+      "updatedAt": "2026-07-14T16:42:54.786Z"
     },
     {
       "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
@@ -305,9 +305,9 @@
         "blueberry",
         "donut"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-13T17:39:53.597Z",
-      "updatedAt": "2026-07-13T17:47:10.721Z"
+      "updatedAt": "2026-07-14T16:42:56.088Z"
     },
     {
       "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
