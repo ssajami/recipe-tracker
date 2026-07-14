@@ -601,9 +601,9 @@
         "cookies",
         "chocolate"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-13T16:09:39.361Z",
-      "updatedAt": "2026-07-13T16:26:33.785Z"
+      "updatedAt": "2026-07-14T16:43:26.686Z"
     },
     {
       "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
