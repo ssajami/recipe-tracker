@@ -3550,16 +3550,16 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "10",
-          "name": "large Strawberries"
+          "qty": "10 large",
+          "name": "strawberries"
         },
         {
-          "qty": "",
-          "name": "¾ cup water"
+          "qty": "¾ cup",
+          "name": "water"
         },
         {
-          "qty": "",
-          "name": "½ cup Granulated Sugar"
+          "qty": "½ cup",
+          "name": "sugar"
         }
       ],
       "instructions": [
@@ -3578,7 +3578,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-02T10:00:57.501Z",
-      "updatedAt": "2026-07-04T03:56:55.524Z"
+      "updatedAt": "2026-07-14T16:44:56.726Z"
     },
     {
       "id": "e8094c91-f0eb-4de8-aff1-d3bbc3136a6e",
