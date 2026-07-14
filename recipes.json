@@ -3785,20 +3785,20 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "ripe banana"
+          "qty": "1 ripe",
+          "name": "banana"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup whole milk or 2% milk"
+          "qty": "¾ cup",
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "¼ cup heavy whipping cream"
+          "qty": "¼ cup",
+          "name": "heavy whipping cream"
         },
         {
           "qty": "1 teaspoon",
@@ -3814,16 +3814,16 @@
         "If crumbly, add 1 tablespoon milk and run **Respin**.",
         "Serve immediately for soft-serve texture or freeze 15 to 20 minutes for firmer scoops."
       ],
-      "prepNotes": "* Wait for a spotty banana. A yellow banana with no spots will give you a bland, starchy result. Brown spots mean the starches have converted to sugar - that's what gives you deep banana flavor and a naturally sweeter base.\n* Mash the banana well. Take an extra minute with the fork to get it as smooth as possible. Chunks of frozen banana don't fully process in the machine and can leave fibrous bits in the final texture.\n\nSubstitutions:\n* Dairy-free - Use full-fat coconut milk in place of the milk and cream, and a dairy-free sweetened condensed milk. The texture will be slightly different but still creamy.\n* Extra banana flavor - Add a drop of banana extract to the base alongside the vanilla. A little goes a long way.\n* Lower sugar - Reduce the condensed milk to 3 tablespoons and add 2 tablespoons of allulose to compensate. Your base may freeze a touch harder.\n* Peanut butter banana - Stir 2 tablespoons of peanut butter into the base before freezing. \n* Banana foster - Add a pinch of cinnamon and a pinch of brown sugar to the base, then mix in caramel sauce after spinning.\n* Chocolate banana - Add 1 tablespoon of cocoa powder to the base for a chocolate-banana twist, or use the mix-in cycle to add mini chocolate chips.\n\nMix-In and Topping Ideas\n* Mini chocolate chips (mix-in cycle or sprinkled on top)\n* Crushed graham crackers for a banana cream pie vibe\n* Sliced fresh banana and a drizzle of caramel sauce\n* Chopped walnuts or pecans\n* A swirl of peanut butter pressed into the top\n* Hot fudge drizzled over the scoop",
+      "prepNotes": "* Wait for a spotty banana. A yellow banana with no spots will give you a bland, starchy result. Brown spots mean the starches have converted to sugar - that's what gives you deep banana flavor and a naturally sweeter base.\n* Mash the banana well. Take an extra minute with the fork to get it as smooth as possible. Chunks of frozen banana don't fully process in the machine and can leave fibrous bits in the final texture.\n\nSubstitutions:\n* Extra banana flavor - Add a drop of banana extract to the base alongside the vanilla. A little goes a long way.\n* Lower sugar - Reduce the condensed milk to 3 tablespoons and add 2 tablespoons of allulose to compensate. Your base may freeze a touch harder.\n\nVariation:\n* Peanut butter banana - Stir 2 tablespoons of peanut butter into the base before freezing. \n* Banana foster - Add a pinch of cinnamon and a pinch of brown sugar to the base, then mix in caramel sauce after spinning.\n* Chocolate banana - Add 1 tablespoon of cocoa powder to the base for a chocolate-banana twist, or use the mix-in cycle to add mini chocolate chips.\n\nMix-In and Topping Ideas\n* Mini chocolate chips (mix-in cycle or sprinkled on top)\n* Crushed graham crackers for a banana cream pie vibe\n* Sliced fresh banana and a drizzle of caramel sauce\n* Chopped walnuts or pecans\n* A swirl of peanut butter pressed into the top\n* Hot fudge drizzled over the scoop",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "banana",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:50:39.244Z",
-      "updatedAt": "2026-07-04T04:17:10.399Z"
+      "updatedAt": "2026-07-14T17:36:52.390Z"
     },
     {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
