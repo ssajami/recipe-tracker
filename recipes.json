@@ -3559,20 +3559,20 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "2 cups",
-          "name": "Fresh blackberries (You can use frozen ones too!)"
+          "qty": "2 cups fresh",
+          "name": "blackberries"
         },
         {
           "qty": "2 teaspoon",
-          "name": "Lemon juice"
+          "name": "lemon juice"
         },
         {
           "qty": "1 cup",
-          "name": "Water"
+          "name": "water"
         },
         {
           "qty": "3 tablespoon",
-          "name": "monk fruit (adjust according to your taste)"
+          "name": "monk fruit"
         }
       ],
       "instructions": [
@@ -3589,9 +3589,9 @@
         "sorbet",
         "blackberry"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T10:01:16.727Z",
-      "updatedAt": "2026-07-04T03:55:07.896Z"
+      "updatedAt": "2026-07-14T17:45:18.598Z"
     },
     {
       "id": "8e879d6b-38fe-496f-96cf-85b1a319bdad",
