@@ -7115,45 +7115,6 @@
       "updatedAt": "2026-07-01T07:01:40.651Z"
     },
     {
-      "id": "e8e15269-e641-4c37-8f3d-b2e52d828a30",
-      "title": "Lotus Speculoos Ice Cream",
-      "servings": "creami tub",
-      "source": "",
-      "ingredients": [
-        {
-          "qty": "300 ml",
-          "name": "semi-skimmed milk"
-        },
-        {
-          "qty": "",
-          "name": "a little sweetener"
-        },
-        {
-          "qty": "20 g",
-          "name": "Lotus/Biscoff spread"
-        },
-        {
-          "qty": "2 g",
-          "name": "xanthan gum (optional)"
-        }
-      ],
-      "instructions": [
-        "Mix all",
-        "12-24h in the freezer",
-        "light ice cream option",
-        "then add 1 crumbled Lotus & respin 1-2x"
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "biscoff",
-        "ice cream"
-      ],
-      "createdAt": "2026-07-01T06:58:44.952Z",
-      "updatedAt": "2026-07-01T06:58:44.952Z"
-    },
-    {
       "id": "be9b806f-0834-4b05-8a42-9ca5b9f8bf78",
       "title": "Peanut Butter & Chocolate Ice Cream",
       "servings": "creami tub",
