@@ -7849,19 +7849,19 @@
       "ingredients": [
         {
           "qty": "30 g",
-          "name": "Vanilla whey"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1/2",
-          "name": "Banana"
+          "name": "banana"
         },
         {
           "qty": "15 g",
-          "name": "Oats"
+          "name": "oats"
         },
         {
-          "qty": "5",
-          "name": "-10g PB powder"
+          "qty": "5-10g",
+          "name": "peanut butter powder"
         },
         {
           "qty": "50 g",
@@ -7869,24 +7869,18 @@
         },
         {
           "qty": "100 ml",
-          "name": "Whole milk"
+          "name": "whole milk"
         },
         {
           "qty": "100 ml",
-          "name": "Almond milk"
+          "name": "unsweetened almond milk"
         },
         {
-          "qty": "4",
-          "name": "x Lotus biscuits (mix ins/toppings)"
+          "qty": "Mix-in: 4",
+          "name": "Biscoff cookies"
         }
       ],
-      "instructions": [
-        "Combine base ingredients (vanilla whey, banana, oats, PB powder, Greek yogurt, whole milk, and almond milk) and blend.",
-        "Freeze the base",
-        "Process until smooth and creamy.",
-        "Add Lotus biscuits as mix-ins and re-spin if desired.",
-        "Top with crumbled Lotus biscuits and serve."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7894,10 +7888,12 @@
         "ice cream",
         "biscoff",
         "vanilla",
-        "protein"
+        "protein",
+        "yogurt"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T05:58:45.862Z",
-      "updatedAt": "2026-07-01T06:15:31.977Z"
+      "updatedAt": "2026-07-14T17:43:33.320Z"
     },
     {
       "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
