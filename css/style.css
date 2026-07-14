@@ -212,9 +212,19 @@ code { background: #f0ede8; padding: 1px 4px; border-radius: 3px; font-size: 0.8
 .rating-filter-btn.active {
   background: var(--accent); color: #fff; border-color: var(--accent);
 }
+.tag-filter-details { margin-bottom: 14px; }
+.tag-filter-summary {
+  cursor: pointer; list-style: none;
+  font-size: 0.82rem; color: var(--text-muted);
+  padding: 4px 2px; user-select: none;
+}
+.tag-filter-summary::-webkit-details-marker { display: none; }
+.tag-filter-summary::before { content: '▶ '; font-size: 0.7rem; }
+.tag-filter-details[open] .tag-filter-summary::before { content: '▼ '; }
+.tag-filter-count { color: var(--accent); font-weight: 600; }
 .tag-filter-row {
   display: flex; gap: 6px; flex-wrap: wrap;
-  margin-bottom: 14px;
+  margin-top: 8px; margin-bottom: 4px;
 }
 .tag-filter-btn {
   font-size: 0.8rem;

@@ -824,6 +824,8 @@ Answer questions about substitutions, techniques, or anything related to this re
     document.querySelectorAll('.tag-filter-btn').forEach(btn => {
       btn.classList.toggle('active', state.tagFilter.has(btn.dataset.tag));
     });
+    const summary = document.querySelector('.tag-filter-summary');
+    if (summary) summary.innerHTML = `Filter by tag${state.tagFilter.size ? ` <span class="tag-filter-count">(${state.tagFilter.size} active)</span>` : ''}`;
   },
 
   setRatingFilter(n) {
@@ -1198,14 +1200,19 @@ function renderList() {
             </button>`).join('')}
         </div>
         ${allTags.length ? `
-        <div class="tag-filter-row">
-          ${allTags.map(t => `
-            <button class="tag-filter-btn${state.tagFilter.has(t) ? ' active' : ''}"
-                    data-tag="${esc(t)}"
-                    onclick="App.setTagFilter('${esc(t)}')">
-              ${esc(t)}
-            </button>`).join('')}
-        </div>` : ''}
+        <details class="tag-filter-details"${state.tagFilter.size ? ' open' : ''}>
+          <summary class="tag-filter-summary">
+            Filter by tag${state.tagFilter.size ? ` <span class="tag-filter-count">(${state.tagFilter.size} active)</span>` : ''}
+          </summary>
+          <div class="tag-filter-row">
+            ${allTags.map(t => `
+              <button class="tag-filter-btn${state.tagFilter.has(t) ? ' active' : ''}"
+                      data-tag="${esc(t)}"
+                      onclick="App.setTagFilter('${esc(t)}')">
+                ${esc(t)}
+              </button>`).join('')}
+          </div>
+        </details>` : ''}
         <div id="recipe-grid">${renderGrid()}</div>
       </div>
 
