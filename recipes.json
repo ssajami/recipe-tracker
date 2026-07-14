@@ -9157,15 +9157,15 @@
         },
         {
           "qty": "1/2 scoop",
-          "name": "Salted Caramel protein"
+          "name": "salted caramel protein"
         },
         {
           "qty": "1/2 scoop",
           "name": "vanilla protein"
         },
         {
-          "qty": "1",
-          "name": "–2 tbsp apple butter or apple pie filling"
+          "qty": "1–2 tbsp",
+          "name": "apple butter or apple pie filling"
         },
         {
           "qty": "",
@@ -9196,7 +9196,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-05T09:14:41.147Z"
+      "updatedAt": "2026-07-14T17:26:59.509Z"
     },
     {
       "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
