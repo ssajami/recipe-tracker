@@ -9217,28 +9217,32 @@
         },
         {
           "qty": "1–2 tbsp",
-          "name": "apple butter or apple pie filling"
+          "name": "apple butter"
         },
         {
-          "qty": "",
-          "name": "Pinch of cinnamon/nutmeg or apple pie spice (not too much!)"
+          "qty": "pinch",
+          "name": "apple pie spice"
         },
         {
-          "qty": "2",
-          "name": "Biscoff cookies (mix-in)"
+          "qty": "Mix-in: 2",
+          "name": "Biscoff cookies"
         },
         {
-          "qty": "1 tbsp",
-          "name": "apple butter (mix-in)"
+          "qty": "Mix-in: 1 tbsp",
+          "name": "apple butter"
         }
       ],
-      "instructions": [
-        "Mix base ingredients together in a container and freeze 24 hours.",
-        "Once frozen, spin on the Lite Ice Cream setting.",
-        "Respin if needed.",
-        "Add in apple butter and Biscoff cookies as mix-ins and spin on respin."
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        "81939727-98dd-4cc2-879f-a0b140872f61",
+        null,
+        null,
+        null
       ],
-      "prepNotes": "Substitute for salted caramel protein powder:\nVanilla protein powder\nPinch of salt\n1/2 tap caramel extract OR 1 tsp caramel sauce\nA little brown sugar for caramel-y depth",
+      "instructions": [],
+      "prepNotes": "Substitute:\n* for salted caramel protein powder: Vanilla protein powder, Pinch of salt, 1/2 tsp caramel extract OR 1 tsp caramel sauce, a little brown sugar for caramel-y depth\n*  for apple butter: apple pie filling",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -9248,7 +9252,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-14T17:26:59.509Z"
+      "updatedAt": "2026-07-14T17:35:39.236Z"
     },
     {
       "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
