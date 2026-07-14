@@ -3484,19 +3484,19 @@
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "Half and half"
+          "name": "half and half"
         },
         {
           "qty": "1 cup",
           "name": "blackberries"
         },
         {
-          "qty": "",
-          "name": "¼ cup sweetened condensed milk"
+          "qty": "¼ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup full-fat cream cheese"
+          "qty": "½ cup",
+          "name": "cream cheese"
         },
         {
           "qty": "1 teaspoon",
@@ -3504,8 +3504,6 @@
         }
       ],
       "instructions": [
-        "Blend it up: Blend all ingredients in a blender or food processor until smooth.",
-        "Freeze: Pour the mixture into a container and freeze on a level surface for at least 24 hours.",
         "Spin: Use the “Lite Ice Cream” or “Gelato” mode to spin.",
         "Re-spin: If crumbly, add 1–2 tbsp milk and re-spin until creamy."
       ],
@@ -3516,9 +3514,9 @@
         "blackberry",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T10:01:56.378Z",
-      "updatedAt": "2026-07-04T03:51:41.950Z"
+      "updatedAt": "2026-07-14T17:44:33.590Z"
     },
     {
       "id": "860d7119-6a2c-4e89-944c-8e7581ba0906",
