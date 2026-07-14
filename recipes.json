@@ -1,6 +1,46 @@
 {
   "recipes": [
     {
+      "id": "cd829c9e-8025-4611-bd80-5eea865d924d",
+      "title": "Ice cream base",
+      "servings": "",
+      "source": "reddit",
+      "ingredients": [
+        {
+          "qty": "300 gr",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "75 gr",
+          "name": "0% Greek yogurt"
+        },
+        {
+          "qty": "14 gr",
+          "name": "pudding mix"
+        },
+        {
+          "qty": "6 gr",
+          "name": "sweetener"
+        },
+        {
+          "qty": "1/2-1 tsp",
+          "name": "extract "
+        },
+        {
+          "qty": "1 scoop",
+          "name": "protein powder"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [],
+      "pinned": false,
+      "createdAt": "2026-07-14T06:37:46.451Z",
+      "updatedAt": "2026-07-14T06:37:46.451Z"
+    },
+    {
       "id": "7f991fb5-a7d8-4b97-aa4c-ed1f9270c8a3",
       "title": "Keto Baked Donut Holes",
       "servings": "30",
