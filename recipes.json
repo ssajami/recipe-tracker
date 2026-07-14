@@ -1,44 +1,28 @@
 {
   "recipes": [
     {
-      "id": "cd829c9e-8025-4611-bd80-5eea865d924d",
-      "title": "Vanilla Ice Cream Base (yogurt)",
-      "servings": "",
-      "source": "reddit",
+      "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
+      "title": "Half and Half Peanut Butter Chocolate",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "300 gr",
-          "name": "Fairlife skim milk"
-        },
-        {
-          "qty": "75 gr",
-          "name": "0% Greek yogurt"
-        },
-        {
-          "qty": "14 gr",
-          "name": "pudding mix"
-        },
-        {
-          "qty": "6 gr",
-          "name": "sweetener"
-        },
-        {
-          "qty": "1/2-1 tsp",
-          "name": "extract "
-        },
-        {
-          "qty": "1 scoop",
-          "name": "protein powder"
+          "qty": "",
+          "name": "peanut butter icecream"
         }
       ],
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
-      "tags": [],
+      "tags": [
+        "peanut butter",
+        "ice cream",
+        "chocolate"
+      ],
       "pinned": false,
-      "createdAt": "2026-07-14T06:37:46.451Z",
-      "updatedAt": "2026-07-14T06:44:52.038Z"
+      "createdAt": "2026-07-14T16:19:04.383Z",
+      "updatedAt": "2026-07-14T16:19:04.383Z"
     },
     {
       "id": "7f991fb5-a7d8-4b97-aa4c-ed1f9270c8a3",
@@ -2107,7 +2091,7 @@
     },
     {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
-      "title": "Vanilla Ice Cream Base (milk powder)",
+      "title": "Vanilla Ice Cream (Base Recipe)",
       "servings": "creami tub",
       "source": "pint lab",
       "ingredients": [
@@ -2155,7 +2139,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-14T06:46:35.845Z"
+      "updatedAt": "2026-07-11T17:18:28.389Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
@@ -6609,7 +6593,7 @@
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-      "title": "Vanilla Ice Cream Base (pudding)",
+      "title": "Vanilla Ice Cream (Base Recipe) - Dynas",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -6657,7 +6641,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:10:16.588Z",
-      "updatedAt": "2026-07-14T06:47:07.487Z"
+      "updatedAt": "2026-07-10T15:54:45.217Z"
     },
     {
       "id": "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
@@ -7179,19 +7163,19 @@
       "ingredients": [
         {
           "qty": "100 ml",
-          "name": "whole milk"
+          "name": "Milk 0,3 %"
         },
         {
           "qty": "200 g",
-          "name": "White cheese"
+          "name": "Quark"
         },
         {
           "qty": "30 g",
-          "name": "Caramel protein powder"
+          "name": "Protein Pudding Caramel"
         },
         {
           "qty": "2 Scoop",
-          "name": "Chunky Flavour Hazelnut & Milky Cream"
+          "name": "Chunky Flavour Hazelnut & MilkyCream"
         },
         {
           "qty": "10 g",
@@ -7219,9 +7203,8 @@
         "snickers",
         "ice cream"
       ],
-      "pinned": false,
       "createdAt": "2026-07-01T06:20:36.073Z",
-      "updatedAt": "2026-07-14T08:20:22.200Z"
+      "updatedAt": "2026-07-01T06:33:51.954Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
@@ -8311,29 +8294,29 @@
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
-      "title": "Vanilla Bean FroYo",
+      "title": "**Vanilla Bean FroYo",
       "servings": "creami tub",
       "source": "@fitnessproductfinder",
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "vanilla protein yogurt"
+          "name": "Vanilla OIKOS PRO"
         },
         {
-          "qty": "1 tsp",
-          "name": "vanilla bean paste"
+          "qty": "5 g",
+          "name": "(1 tsp) vanilla bean paste"
         },
         {
-          "qty": "35-40 gr",
-          "name": "sweetener"
+          "qty": "35",
+          "name": "-40g sugar substitute"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "A pinch of salt"
         },
         {
-          "qty": "¼ tsp",
-          "name": "xanthan gum"
+          "qty": "1 g",
+          "name": "(¼ tsp) binding agent"
         }
       ],
       "instructions": [
@@ -8346,12 +8329,10 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "frozen yogurt",
-        "vanilla"
+        "frozen yogurt"
       ],
-      "pinned": false,
       "createdAt": "2026-06-30T19:15:57.506Z",
-      "updatedAt": "2026-07-14T06:52:29.860Z"
+      "updatedAt": "2026-07-01T02:49:48.764Z"
     },
     {
       "id": "a6c1ff12-77b0-49f5-9642-d63a2e9072bb",
@@ -8443,6 +8424,41 @@
       ],
       "createdAt": "2026-06-30T19:15:59.812Z",
       "updatedAt": "2026-07-01T05:15:12.581Z"
+    },
+    {
+      "id": "a0d10156-8b43-476a-8eff-70be72a17ba3",
+      "title": "**Choc Coffee Ice Cream",
+      "servings": "creami tub",
+      "source": "@ninjacreamirecipes",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "Fairlife Vanilla Protein Shake"
+        },
+        {
+          "qty": "1 Tbsp",
+          "name": "SF Vanilla Pudding Mix"
+        },
+        {
+          "qty": "2",
+          "name": "Shots Espresso"
+        },
+        {
+          "qty": "",
+          "name": "Chocolate (optional mix-in)"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "coffee",
+        "chocolate"
+      ],
+      "createdAt": "2026-06-30T19:06:20.143Z",
+      "updatedAt": "2026-06-30T19:08:39.511Z"
     },
     {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
@@ -9161,19 +9177,19 @@
         },
         {
           "qty": "150 g",
-          "name": "sweetened condensed milk"
+          "name": "sweetened condensed milk (not evaporated milk)"
         },
         {
           "qty": "100 g",
-          "name": "heavy cream"
+          "name": "thickened cream (30–35% fat)"
         },
         {
           "qty": "75 g",
-          "name": "whole milk"
+          "name": "full fat milk"
         },
         {
-          "qty": "pinch",
-          "name": " salt"
+          "qty": "",
+          "name": "Good pinch of fine salt"
         },
         {
           "qty": "1/2",
@@ -9192,13 +9208,12 @@
         "ice cream",
         "sweet potato"
       ],
-      "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-14T05:38:16.440Z"
+      "updatedAt": "2026-06-30T18:45:11.025Z"
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
-      "title": "Vanilla Ice Cream Base (cream cheese stop)",
+      "title": "Classic Ice Cream Base Recipe (stop)",
       "servings": "creami tub",
       "source": "insta: ninja_creami_recipes",
       "ingredients": [
@@ -9232,7 +9247,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-06-30T17:10:58.648Z",
-      "updatedAt": "2026-07-14T06:44:40.463Z"
+      "updatedAt": "2026-07-13T17:27:53.721Z"
     },
     {
       "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
