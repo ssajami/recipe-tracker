@@ -2098,9 +2098,9 @@
         "chocolate",
         "dessert"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-05T18:09:11.692Z",
-      "updatedAt": "2026-07-10T19:28:08.837Z"
+      "updatedAt": "2026-07-14T16:47:00.243Z"
     },
     {
       "id": "0dc32d36-fd9a-4c3b-82da-1c7a4f07ec6c",
