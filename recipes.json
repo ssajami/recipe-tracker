@@ -9153,19 +9153,19 @@
         },
         {
           "qty": "150 g",
-          "name": "sweetened condensed milk (not evaporated milk)"
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "100 g",
-          "name": "thickened cream (30–35% fat)"
+          "name": "heavy cream"
         },
         {
           "qty": "75 g",
-          "name": "full fat milk"
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "Good pinch of fine salt"
+          "qty": "pinch",
+          "name": " salt"
         },
         {
           "qty": "1/2",
@@ -9184,8 +9184,9 @@
         "ice cream",
         "sweet potato"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-06-30T18:45:11.025Z"
+      "updatedAt": "2026-07-14T05:38:16.440Z"
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
