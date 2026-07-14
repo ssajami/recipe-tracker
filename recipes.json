@@ -7179,15 +7179,15 @@
       "ingredients": [
         {
           "qty": "100 ml",
-          "name": "Milk 0,3 %"
+          "name": "whole milk"
         },
         {
           "qty": "200 g",
-          "name": "Quark"
+          "name": "White cheese"
         },
         {
           "qty": "30 g",
-          "name": "Protein Pudding Caramel"
+          "name": "Caramel protein powder"
         },
         {
           "qty": "2 Scoop",
@@ -7219,8 +7219,9 @@
         "snickers",
         "ice cream"
       ],
+      "pinned": false,
       "createdAt": "2026-07-01T06:20:36.073Z",
-      "updatedAt": "2026-07-01T06:33:51.954Z"
+      "updatedAt": "2026-07-14T07:06:14.707Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
