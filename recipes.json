@@ -2830,36 +2830,36 @@
           "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "¼ cup sweetened condensed milk"
+          "qty": "¼ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "¼ cup brown sugar"
+          "qty": "¼ cup",
+          "name": "brown sugar"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "1 tsp|",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon cinnamon"
+          "qty": "½ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Pinch of sea salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "½ cup canned apples"
+          "qty": "½ cup",
+          "name": "canned apples"
         },
         {
-          "qty": "2 pieces",
-          "name": "graham crackers (crushed (for mix-in))"
+          "qty": "Mix-in: 2 pieces (crushed)",
+          "name": "graham crackers"
         }
       ],
       "instructions": [
@@ -2877,9 +2877,9 @@
         "ice cream",
         "apples"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:25:19.392Z",
-      "updatedAt": "2026-07-03T12:43:15.335Z"
+      "updatedAt": "2026-07-14T17:26:00.173Z"
     },
     {
       "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
