@@ -1,62 +1,6 @@
 {
   "recipes": [
     {
-      "id": "878b9ef4-dbf9-4188-aef9-b296ee6c0813",
-      "title": "The Best Apple Butter Recipe (No Peeling!)",
-      "servings": "3",
-      "ingredients": [
-        {
-          "qty": "5.5 lbs",
-          "name": "soft, sweet apples (see note 1) (Cored and chopped into small pieces, about ¼&quot;)"
-        },
-        {
-          "qty": "1 cup",
-          "name": "brown sugar (firmly packed)"
-        },
-        {
-          "qty": "",
-          "name": "¾ cup granulated sugar"
-        },
-        {
-          "qty": "1 Tablespoon",
-          "name": "ground cinnamon"
-        },
-        {
-          "qty": "",
-          "name": "¼ teaspoon salt"
-        },
-        {
-          "qty": "",
-          "name": "⅛ teaspoon ground cloves"
-        },
-        {
-          "qty": "1",
-          "name": "vanilla bean ((may substitute 1 ½ teaspoons vanilla extract))"
-        }
-      ],
-      "instructions": [
-        "Slice apples into small pieces (about ¼&quot;) and dispose of cores (you do not need to peel the apples).",
-        "Place apples in the basin of large slow cooker",
-        "In a medium-sized bowl stir together sugar, brown sugar, cinnamon, salt, and cloves until well-combined.",
-        "Pour sugar mixture over apple pieces and stir until well combined. &nbsp;",
-        "Place lid on crockpot and cook on low heat for 10 hours.",
-        "Once 10 hours has elapsed, use an immersion blender to puree apples until smooth and no chunks remain (see note 2 if you do not have an immersion blender).",
-        "Scrape the inside of the vanilla bean into your apple puree (or add vanilla extract). &nbsp;",
-        "Turn crockpot on to low heat and cook another 2 hours uncovered, stirring occasionally.",
-        "Store in the refrigerator in an airtight container, where it will keep about 2 weeks."
-      ],
-      "prepNotes": "With its perfectly spiced, rich apple flavor and no peeling required, you&#039;ll be spreading this Apple Butter on everything from scones to scrapple. My recipe is incredibly easy thanks to the help of a slow cooker. Be sure to check out the how-to video!",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "Side Dish",
-        "American"
-      ],
-      "source": "https://sugarspunrun.com/apple-butter/#wprm-recipe-container-11369",
-      "createdAt": "2026-07-14T17:28:07.216Z",
-      "updatedAt": "2026-07-14T17:28:07.216Z"
-    },
-    {
       "id": "8500485b-0845-47f9-ba08-2e3870ef503b",
       "title": "Irish Cream",
       "servings": "",
