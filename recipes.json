@@ -48,9 +48,9 @@
         "apples",
         "toppings"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-14T17:31:22.301Z",
-      "updatedAt": "2026-07-14T17:33:51.089Z"
+      "updatedAt": "2026-07-14T17:33:58.926Z"
     },
     {
       "id": "8500485b-0845-47f9-ba08-2e3870ef503b",
