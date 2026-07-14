@@ -4165,12 +4165,12 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "1  (2 oz)",
-          "name": "brewed shot of espresso"
+          "qty": "1  (2 oz) shot",
+          "name": "espresso"
         }
       ],
       "instructions": [],
-      "prepNotes": "Substitution: use 1 scoop of Nespresso instead of espresso and increase the milk to 1 cup",
+      "prepNotes": "Substitution: use 1 scoop of Nespresso instead of espresso and increase the milk to 1 cup\nOR use coffee extract (see main note)",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4179,9 +4179,9 @@
         "coffee",
         "caramel"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-12T16:35:35.418Z"
+      "updatedAt": "2026-07-14T17:55:07.072Z"
     },
     {
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
