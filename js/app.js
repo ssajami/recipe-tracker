@@ -100,7 +100,7 @@ function filterRecipes() {
   if (state.search.trim()) {
     const q = state.search.toLowerCase();
     list = list.filter(r =>
-      [r.title, r.servings, r.prepNotes, r.afterPrepNotes,
+      [r.title, r.servings, r.source, r.prepNotes, r.afterPrepNotes,
        ...(r.ingredients || []).map(ingDisplay), ...(r.instructions || []), ...(r.tags || [])]
         .some(f => f && String(f).toLowerCase().includes(q))
     );
