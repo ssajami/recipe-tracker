@@ -3731,28 +3731,28 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "",
-          "name": "¾ cup half and half"
+          "qty": "¾ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup mixed berries (strawberries, blueberries, raspberries)"
+          "qty": "¾ cup",
+          "name": "mixed berries (strawberries, blueberries, raspberries)"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon vanilla extract"
+          "qty": "½ teaspoon",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "⅛ teaspoon salt"
+          "qty": "⅛ teaspoon",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -3763,7 +3763,7 @@
         "If the texture looks dry or crumbly after spinning, add a splash of half and half or milk and run Respin.",
         "Serve right away for a softer texture, or freeze for 20 to 30 minutes for firmer scoops."
       ],
-      "prepNotes": "Fresh berries have the brightest flavor, but they cost more and need prep. Frozen berries are cheaper, easy to keep on hand, and great year-round. The flavor may be slightly less bright, but once blended and spun, the difference is pretty small.\n\nMy pick is fresh when berries are in season and frozen the rest of the year. If using frozen, thaw them first before blending.\n\nSubstitutions:\n* Mixed berries: Any combination of strawberries, blueberries, raspberries, blackberries\n* Extra berry flavor: Add 1-2 tablespoons berry jam or preserves\n* Dairy-free: Use full-fat coconut milk + coconut cream (skip cottage cheese)\n* Sweeter: Add 2 tablespoons honey or sugar if your berries are tart\n* Less sweet: Reduce sweetened condensed milk to ⅓ cup",
+      "prepNotes": "Fresh berries have the brightest flavor, but they cost more and need prep. Frozen berries are cheaper, easy to keep on hand, and great year-round. The flavor may be slightly less bright, but once blended and spun, the difference is pretty small.\n\nMy pick is fresh when berries are in season and frozen the rest of the year. If using frozen, thaw them first before blending.\n\nSubstitutions:\n* Mixed berries: Any combination of strawberries, blueberries, raspberries, blackberries\n* Extra berry flavor: Add 1-2 tablespoons berry jam or preserves\n* Sweeter: Add 2 tablespoons honey or sugar if your berries are tart\n* Less sweet: Reduce sweetened condensed milk to ⅓ cup",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3772,9 +3772,9 @@
         "strawberry",
         "raspberry"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:51:00.238Z",
-      "updatedAt": "2026-07-04T04:12:20.532Z"
+      "updatedAt": "2026-07-15T17:17:32.782Z"
     },
     {
       "id": "d396c7d2-1e61-4b3f-9351-66ab22363bc5",
