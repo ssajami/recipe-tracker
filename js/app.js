@@ -1751,7 +1751,7 @@ function combinedMissingItems(recipes) {
     entries.forEach(e => seen.set(e.recipeId, e.recipeTitle));
     const recipeRefs = [...seen.entries()].map(([id, title]) => ({ id, title }));
     if (entries.length === 1) {
-      result.push({ display: entries[0].original, recipes: recipeRefs, key });
+      result.push({ display: ingDisplay(entries[0].original), recipes: recipeRefs, key });
       continue;
     }
     const firstUnit = entries[0].unit;
@@ -1762,7 +1762,7 @@ function combinedMissingItems(recipes) {
       const unitStr = firstUnit ? `${firstUnit} ` : '';
       result.push({ display: `${formatQty(total)} ${unitStr}${key}`, recipes: recipeRefs, key, combined: true });
     } else {
-      for (const e of entries) result.push({ display: e.original, recipes: [{ id: e.recipeId, title: e.recipeTitle }], key });
+      for (const e of entries) result.push({ display: ingDisplay(e.original), recipes: [{ id: e.recipeId, title: e.recipeTitle }], key });
     }
   }
   result.sort((a, b) => a.key.localeCompare(b.key));
