@@ -6481,32 +6481,27 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "Salted Caramel base"
+          "name": "salted caramel base"
         },
         {
-          "qty": "1 Tbsp",
-          "name": "Caramel Syrup"
+          "qty": "1 tbsp",
+          "name": "caramel syrup"
         },
         {
-          "qty": "Mix-in: 2 Tbsp ",
-          "name": "Caramel Beverage Sauce"
+          "qty": "Mix-in: 2 tbsp ",
+          "name": "caramel sauce"
         },
         {
           "qty": "Mix-in: ¼ cup ",
-          "name": "Caramel Crunch Granola "
-        },
-        {
-          "qty": "Optional Mix-in (Kill Macros):  (broken up)",
-          "name": "2 Ghirardelli Caramel Chocolate Squares"
+          "name": "caramel crunch granola "
         },
         {
           "qty": "Topping:",
-          "name": "Caramel sauce"
+          "name": "caramel sauce"
         }
       ],
       "ingredientLinks": [
         "3cce119c-f294-4007-9da8-a538561d3f99",
-        null,
         null,
         null,
         null,
@@ -6521,9 +6516,9 @@
         "protein",
         "caramel"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-09T17:52:42.582Z"
+      "updatedAt": "2026-07-15T17:59:12.967Z"
     },
     {
       "id": "eafa4f67-d265-451a-a16d-58e72ea0cd2a",
