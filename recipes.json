@@ -5907,6 +5907,13 @@
           "name": "sugar free caramel syrup"
         }
       ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null,
+        null
+      ],
       "instructions": [],
       "prepNotes": "Toppings: SF Caramel Sauce, chopped nuts",
       "afterPrepNotes": "",
@@ -5917,9 +5924,9 @@
         "chocolate",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T20:07:56.201Z"
+      "updatedAt": "2026-07-15T17:58:06.741Z"
     },
     {
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
