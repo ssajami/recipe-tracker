@@ -8048,7 +8048,7 @@
       "ingredients": [
         {
           "qty": "200 ml",
-          "name": "high protein skim milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "200 ml",
@@ -8056,11 +8056,11 @@
         },
         {
           "qty": "15 g",
-          "name": "PEScience snickerdoodle protein"
+          "name": "snickerdoodle protein"
         },
         {
           "qty": "15 g",
-          "name": "brown Monkfruit sweetener"
+          "name": "brown monkfruit sweetener"
         },
         {
           "qty": "3 g",
@@ -8072,22 +8072,18 @@
         },
         {
           "qty": "4 g",
-          "name": "fat free vanilla pudding mix"
+          "name": "sugar free vanilla pudding"
         },
         {
-          "qty": "20 g",
+          "qty": "Mix-in: 20 g",
           "name": "pecans"
         },
         {
-          "qty": "5 g",
+          "qty": "Mix-in: 5 g",
           "name": "biscoff spread"
         }
       ],
-      "instructions": [
-        "Add all ingredients to a container except the last two, shake to combine, then freeze for 24 hours",
-        "Use the \"light ice cream\", then add a tbsp of unsweetened almond milk",
-        "Scoop the middle and add the pecans and biscoff, and use the \"re-spin\" setting"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -8096,8 +8092,9 @@
         "caramel",
         "pecan"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:48.973Z",
-      "updatedAt": "2026-07-01T06:01:52.363Z"
+      "updatedAt": "2026-07-15T18:10:21.502Z"
     },
     {
       "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
