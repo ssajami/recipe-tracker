@@ -8147,20 +8147,20 @@
       "source": "@ellies.fav.eats",
       "ingredients": [
         {
-          "qty": "3/4",
-          "name": "-1 cup whole milk"
+          "qty": "¾-1 cup",
+          "name": "whole milk"
         },
         {
           "qty": "1 scoop",
           "name": "vanilla protein powder"
         },
         {
-          "qty": "1/2",
-          "name": "Tb sugar free vanilla jello pudding mix"
+          "qty": "½ tbsp",
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "",
-          "name": "Blueberries"
+          "name": "blueberries"
         }
       ],
       "instructions": [
@@ -8176,8 +8176,9 @@
         "blueberry",
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:47.453Z",
-      "updatedAt": "2026-07-01T05:50:59.288Z"
+      "updatedAt": "2026-07-15T17:21:32.459Z"
     },
     {
       "id": "7a8b4c9d-19e2-41b8-9203-9f82ddd1b740",
