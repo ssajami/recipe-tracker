@@ -5750,7 +5750,7 @@
         }
       ],
       "ingredientLinks": [
-        null,
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         null,
         null,
         null,
@@ -5767,9 +5767,9 @@
         "caramel",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-12T16:44:51.139Z"
+      "updatedAt": "2026-07-15T17:57:49.567Z"
     },
     {
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
