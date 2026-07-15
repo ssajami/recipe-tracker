@@ -6947,55 +6947,55 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "לרוטב בייגלה מלוח (שהוא חלק מבסיס הגלידה, לא רוטב להגשה):"
+          "name": "---SAUCE"
         },
         {
-          "qty": "1/2",
-          "name": "כוס בייגלה (השתמשתי בשמיניות ללא מלח - בערך 25-30 גרם)"
+          "qty": "½ cup (25-30gr)",
+          "name": "בייגלה בשמיניות ללא מלח"
         },
         {
-          "qty": "2",
-          "name": "כפות (20 גרם) תחליף סוכר/סוכר לבן"
+          "qty": "2 tbsp (20g)",
+          "name": "sweetener"
         },
         {
-          "qty": "100",
-          "name": "גרם שמנת לבישול 9%"
+          "qty": "100 gr",
+          "name": "9% cooking cream"
         },
         {
-          "qty": "130",
-          "name": "גרם חלב"
+          "qty": "130 gr",
+          "name": "milk"
         },
         {
-          "qty": "",
-          "name": "רבע כפית מלח גס"
-        },
-        {
-          "qty": "",
-          "name": "לבסיס הגלידה:"
+          "qty": "¼ tsp",
+          "name": "kosher salt"
         },
         {
           "qty": "",
-          "name": "גביע (200 גרם) יוגורט חלבון בטעם קרמל מלוח או טבעי"
+          "name": "---ICE CREAM"
         },
         {
-          "qty": "",
-          "name": "סקופ (30 גרם) אבקת חלבון בטעם וניל / קרמל מלוח (או 2 כפות אינסטנט פודינג)"
+          "qty": "1 pkg (200 gr) ",
+          "name": "protein yogurt - salted caramel "
         },
         {
-          "qty": "100",
-          "name": "גרם חלב"
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
         },
         {
-          "qty": "10",
-          "name": "גרם אבקת חלב (משדרג)"
+          "qty": "100 gr",
+          "name": "milk"
         },
         {
-          "qty": "1",
-          "name": "גרם מייצב גלידה (משדרג)"
+          "qty": "10 gr",
+          "name": "powdered milk"
         },
         {
-          "qty": "",
-          "name": "תוספת (אופציונלי): חופן בייגלה (בערך 15 גרם)"
+          "qty": "1 gr",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "Mix-in: 15 gram",
+          "name": "בייגלה"
         }
       ],
       "instructions": [
@@ -7014,8 +7014,9 @@
         "ice cream",
         "caramel"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T11:06:29.366Z",
-      "updatedAt": "2026-07-01T11:07:30.575Z"
+      "updatedAt": "2026-07-15T18:07:17.866Z"
     },
     {
       "id": "b0a5fcb1-38d5-4e33-8cfd-c4534f5b989d",
