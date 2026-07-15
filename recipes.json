@@ -8981,8 +8981,8 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "10",
-          "name": "–15 g Dutch processed cocoa"
+          "qty": "10–15 g",
+          "name": "cocoa powder"
         },
         {
           "qty": "60 g",
@@ -8994,15 +8994,15 @@
         },
         {
           "qty": "125 g",
-          "name": "thickened cream (30–35% fat)"
+          "name": "heavy cream"
         },
         {
           "qty": "150 g",
           "name": "milk"
         },
         {
-          "qty": "",
-          "name": "Pinch of fine salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -9022,8 +9022,9 @@
         "chocolate",
         "caramel"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T18:44:41.799Z"
+      "updatedAt": "2026-07-15T18:10:59.588Z"
     },
     {
       "id": "8c4dc57e-48f2-4389-8d65-cfe3fabd9159",
