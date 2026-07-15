@@ -4548,24 +4548,24 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "3/4 cup",
+          "qty": "¾ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Caramel pudding"
+          "name": "sugar free caramel pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Protein Powder"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
           "qty": "",
@@ -4600,10 +4600,12 @@
       "tags": [
         "ice cream",
         "protein",
-        "caramel"
+        "caramel",
+        "untested"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-02T06:26:18.285Z"
+      "updatedAt": "2026-07-15T17:50:29.793Z"
     },
     {
       "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
