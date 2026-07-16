@@ -7916,13 +7916,13 @@
     },
     {
       "id": "41139c08-1d99-4bf9-b511-42ccca98b03f",
-      "title": "Snickers Ice Cream 1",
+      "title": "Snickers Ice Cream",
       "servings": "creami tub",
       "source": "@ninja_creami_recipes",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "2% milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 scoop",
@@ -7937,21 +7937,15 @@
           "name": "sugar free chocolate caramel coffee syrup"
         },
         {
-          "qty": "1.5 tbsp",
-          "name": "powdered peanut butter"
+          "qty": "1½ tbsp",
+          "name": "peanut butter powder"
         },
         {
-          "qty": "1/2",
-          "name": "chopped snickers bar"
+          "qty": "Mix-in: ½ chopped",
+          "name": "snickers bar"
         }
       ],
-      "instructions": [
-        "Mix together all ingredients except Snickers ",
-        "Freeze 24 hours.",
-        "Spin on lite ice cream. Add 1 tbsp. milk and respin 1-2x.",
-        "Add in 1/2 chopped snickers bar.",
-        "Spin on mixin."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7959,8 +7953,9 @@
         "ice cream",
         "snickers"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:47.138Z",
-      "updatedAt": "2026-07-01T06:33:46.341Z"
+      "updatedAt": "2026-07-16T18:09:12.102Z"
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
