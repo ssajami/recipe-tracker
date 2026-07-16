@@ -7508,13 +7508,13 @@
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
-      "title": "Snickerdoodle Ice Cream - 2",
+      "title": "Snickerdoodle Ice Cream",
       "servings": "creami tub",
       "source": "@jennaliveswell",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "unsweetened oat, almond, or milk of choice"
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "1 scoop",
@@ -7525,39 +7525,36 @@
           "name": "collagen powder (unflavored or vanilla)"
         },
         {
-          "qty": "1",
-          "name": "½–2 tsp ground cinnamon"
+          "qty": "1½–2 tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "¼ tsp ground nutmeg"
+          "qty": "¼ tsp",
+          "name": "ground nutmeg"
         },
         {
-          "qty": "",
-          "name": "¼ tsp ground cream of tartar (classic snickerdoodle tang)"
+          "qty": "¼ tsp ",
+          "name": "ground cream of tartar"
         },
         {
-          "qty": "1",
-          "name": "–2 tsp maple syrup"
+          "qty": "1–2 tsp",
+          "name": "maple syrup"
         },
         {
           "qty": "1 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1",
-          "name": "–2 tsp cashew or almond butter (optional, but goooood)"
+          "qty": "1–2 tsp (optional but goood)",
+          "name": "cashew butter"
         }
       ],
       "instructions": [
-        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
-        "Pour into a tub, cover, and freeze 12–24 hours.",
-        "Spin on Lite Ice Cream.",
-        "Add 1–2 tbsp milk and \"Re-Spin\"."
+        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth."
       ],
       "prepNotes": "Cashew or almond butter is optional but recommended.",
       "afterPrepNotes": "",
@@ -7567,9 +7564,9 @@
         "snickerdoodle",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T05:58:45.654Z",
-      "updatedAt": "2026-07-04T13:47:00.284Z"
+      "updatedAt": "2026-07-16T17:58:08.728Z"
     },
     {
       "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
