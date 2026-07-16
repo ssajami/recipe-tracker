@@ -1,4 +1,4 @@
-const APP_VERSION = 2;
+const APP_VERSION = 3;
 
 // ── State ──────────────────────────────────────────────────────────────────
 const state = {
@@ -1770,36 +1770,36 @@ function parseQtyAndUnit(ing) {
 }
 
 function combinedMissingItems(recipes) {
+  // Group by (name, unit) so entries within a unit can always be summed
   const groups = new Map();
   for (const r of recipes) {
     for (const ing of (r.ingredients || [])) {
-      if (state.pantry.has(normalizeIngredient(ing))) continue;
-      const key = normalizeIngredient(ing);
-      if (!key) continue;
-      if (!groups.has(key)) groups.set(key, []);
+      const name = normalizeIngredient(ing);
+      if (!name) continue;
+      if (state.pantry.has(name)) continue;
       const { qty, unit } = parseQtyAndUnit(ing);
-      groups.get(key).push({ qty, unit, original: ing, recipeId: r.id, recipeTitle: r.title });
+      const groupKey = `${unit}::${name}`;
+      if (!groups.has(groupKey)) groups.set(groupKey, { name, unit, entries: [] });
+      groups.get(groupKey).entries.push({ qty, original: ing, recipeId: r.id, recipeTitle: r.title });
     }
   }
 
   const result = [];
-  for (const [key, entries] of groups) {
+  for (const { name, unit, entries } of groups.values()) {
     const seen = new Map();
     entries.forEach(e => seen.set(e.recipeId, e.recipeTitle));
     const recipeRefs = [...seen.entries()].map(([id, title]) => ({ id, title }));
     if (entries.length === 1) {
-      result.push({ display: ingDisplay(entries[0].original), recipes: recipeRefs, key });
+      result.push({ display: ingDisplay(entries[0].original), recipes: recipeRefs, key: name });
       continue;
     }
-    const firstUnit = entries[0].unit;
-    const allSameUnit = entries.every(e => e.unit === firstUnit);
-    const allHaveQty  = entries.every(e => e.qty !== null);
-    if (allHaveQty && allSameUnit) {
+    const allHaveQty = entries.every(e => e.qty !== null);
+    if (allHaveQty) {
       const total = entries.reduce((s, e) => s + e.qty, 0);
-      const unitStr = firstUnit ? `${firstUnit} ` : '';
-      result.push({ display: `${formatQty(total)} ${unitStr}${key}`, recipes: recipeRefs, key, combined: true });
+      const unitStr = unit ? `${unit} ` : '';
+      result.push({ display: `${formatQty(total)} ${unitStr}${name}`, recipes: recipeRefs, key: name, combined: true });
     } else {
-      for (const e of entries) result.push({ display: ingDisplay(e.original), recipes: [{ id: e.recipeId, title: e.recipeTitle }], key });
+      for (const e of entries) result.push({ display: ingDisplay(e.original), recipes: [{ id: e.recipeId, title: e.recipeTitle }], key: name });
     }
   }
   result.sort((a, b) => a.key.localeCompare(b.key));
