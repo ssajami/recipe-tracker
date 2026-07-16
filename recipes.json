@@ -7153,10 +7153,6 @@
           "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Mix-in/toppings:"
-        },
-        {
           "qty": "Mix-in: 4",
           "name": "Oreo Thins (cream removed)"
         }
@@ -7176,7 +7172,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:36.701Z",
-      "updatedAt": "2026-07-16T15:47:40.310Z"
+      "updatedAt": "2026-07-16T19:30:39.911Z"
     },
     {
       "id": "f026f9b2-3768-4118-a461-7e930580b845",
