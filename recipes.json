@@ -105,7 +105,7 @@
     },
     {
       "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
-      "title": "Chocolate Chip Cookie Dough Ice Cream",
+      "title": "Chocolate Chip Cookie Dough",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -138,7 +138,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-14T16:34:38.687Z",
-      "updatedAt": "2026-07-16T16:53:06.915Z"
+      "updatedAt": "2026-07-14T16:42:51.048Z"
     },
     {
       "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
@@ -8406,11 +8406,11 @@
         },
         {
           "qty": "150 g",
-          "name": "sweetened condensed milk (not evaporated milk)"
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "100 g",
-          "name": "full fat milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 tsp",
@@ -8418,31 +8418,35 @@
         },
         {
           "qty": "",
-          "name": "For dough: 100 g butter"
+          "name": "---DOUGH"
         },
         {
-          "qty": "",
-          "name": "For dough: 100 g light brown sugar"
+          "qty": "100 g",
+          "name": "butter"
         },
         {
-          "qty": "",
-          "name": "For dough: 20–40 ml + 1–2 tbsp milk of choice, as needed"
+          "qty": "100 g",
+          "name": "light brown sugar"
         },
         {
-          "qty": "",
-          "name": "For dough: 150–175 g heat-treated tapioca flour/starch"
+          "qty": "20–40 ml + 1–2 tbsp",
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "For dough: 1 tsp vanilla bean paste or extract"
+          "qty": "150–175 g ",
+          "name": "tapioca flour "
         },
         {
-          "qty": "",
-          "name": "For dough: Pinch of fine salt"
+          "qty": "1 tsp",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "For dough: 100 g finely chopped dark chocolate"
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "100g finely chopped",
+          "name": "dark chocolate"
         }
       ],
       "instructions": [
@@ -8464,9 +8468,9 @@
         "ice cream",
         "cookie dough"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-05T10:51:50.635Z"
+      "updatedAt": "2026-07-16T16:54:02.427Z"
     },
     {
       "id": "eaf707e7-7d36-4ef4-9142-84321e952cb9",
