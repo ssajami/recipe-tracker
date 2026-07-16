@@ -2814,38 +2814,47 @@
           "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "¼ cup sweetened condensed milk"
+          "qty": "¼ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "2 ounces",
-          "name": "full-fat cream cheese"
+          "qty": "50 g",
+          "name": "cream cheese"
         },
         {
           "qty": "3 Tablespoons",
-          "name": "pure maple syrup"
+          "name": "maple syrup"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "½ cup chopped candied maple walnuts (see recipe)"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "Mix-in: ½ cup chopped",
+          "name": "candied maple walnuts"
         }
+      ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "e995b047-6fec-45ed-a80f-10fc96eb5a92"
       ],
       "instructions": [
         "Blend half and half, condensed milk, cream cheese, maple syrup, vanilla, and salt until smooth.",
         "Pour into a tub and freeze 24 hours.",
         "Spin using Ice Cream setting.",
         "If crumbly, add 1 Tbsp half-and-half and Respin.",
-        "Add candied walnuts using Mix-In cycle. (see recipe for walnuts)"
+        "Add candied walnuts using Mix-In cycle."
       ],
-      "prepNotes": "* Half-and-half prevents the “butter problem” heavy cream can cause.\n* Always blend cream cheese fully for a silky base.\n* Add nuts after spinning to keep them crisp.\n\nNo candied nuts? Toasted walnuts work great too.\nGo full fall mode: Add ¼ teaspoon cinnamon or nutmeg to the base before freezing.",
+      "prepNotes": "No candied nuts? Toasted walnuts work great too.\nGo full fall mode: .Add ¼ teaspoon cinnamon or nutmeg to the base before freezing.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2853,9 +2862,9 @@
         "maple",
         "walnut"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:25:38.473Z",
-      "updatedAt": "2026-07-03T09:39:08.468Z"
+      "updatedAt": "2026-07-16T17:22:10.665Z"
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
