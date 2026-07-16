@@ -48,9 +48,9 @@
         "apples",
         "toppings"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-14T17:31:22.301Z",
-      "updatedAt": "2026-07-14T17:33:58.926Z"
+      "updatedAt": "2026-07-16T20:10:30.643Z"
     },
     {
       "id": "8500485b-0845-47f9-ba08-2e3870ef503b",
@@ -105,7 +105,7 @@
     },
     {
       "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
-      "title": "Chocolate Chip Cookie Dough Ice Cream",
+      "title": "Chocolate Chip Cookie Dough",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -118,8 +118,8 @@
           "name": "brown sugar substitute"
         },
         {
-          "qty": "Mix-in: (hand stir) 38 g",
-          "name": "cookie dough"
+          "qty": "Mix-in: (hand stir)",
+          "name": "38 g cookie dough"
         }
       ],
       "ingredientLinks": [
@@ -138,7 +138,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-14T16:34:38.687Z",
-      "updatedAt": "2026-07-16T18:51:09.057Z"
+      "updatedAt": "2026-07-14T16:42:51.048Z"
     },
     {
       "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
@@ -328,8 +328,8 @@
           "name": "blueberry extract"
         },
         {
-          "qty": "Mix-in: ¼ cup fresh",
-          "name": "blueberries"
+          "qty": "Mix-in: ¼ cup",
+          "name": "fresh blueberries"
         },
         {
           "qty": "Mix-in: 3 ",
@@ -359,7 +359,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T17:39:53.597Z",
-      "updatedAt": "2026-07-16T19:23:47.899Z"
+      "updatedAt": "2026-07-14T16:42:56.088Z"
     },
     {
       "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
@@ -418,9 +418,9 @@
       "tags": [
         "untested"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-13T17:03:33.568Z",
-      "updatedAt": "2026-07-16T19:19:43.246Z"
+      "updatedAt": "2026-07-14T16:43:11.392Z"
     },
     {
       "id": "3e05a637-556d-4035-a170-b0b11cca585a",
@@ -437,12 +437,12 @@
           "name": "milk"
         },
         {
-          "qty": "⅔ cup finely ground",
-          "name": "almond flour"
+          "qty": "⅔ cup",
+          "name": "finely ground almond flour"
         },
         {
-          "qty": "3 tbsp powdered",
-          "name": "erythritol"
+          "qty": "3 tbsp",
+          "name": "powdered erythritol"
         },
         {
           "qty": "⅛ tsp",
@@ -465,7 +465,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T16:59:25.130Z",
-      "updatedAt": "2026-07-16T19:22:15.814Z"
+      "updatedAt": "2026-07-14T16:43:16.452Z"
     },
     {
       "id": "9274cbed-0e07-4f38-9d1a-cf8b5bd2dcc7",
@@ -475,7 +475,7 @@
       "ingredients": [
         {
           "qty": "",
-          "name": "salted caramel base"
+          "name": "salted saramel base"
         },
         {
           "qty": "1 tsp",
@@ -519,9 +519,9 @@
         "honey",
         "coffee"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-13T16:56:44.285Z",
-      "updatedAt": "2026-07-16T19:38:52.506Z"
+      "updatedAt": "2026-07-14T16:43:19.544Z"
     },
     {
       "id": "2bf3f135-62f3-434e-b355-9dda28ee4229",
@@ -538,8 +538,8 @@
           "name": "brown sugar allulose"
         },
         {
-          "qty": "2 large ",
-          "name": "eggs"
+          "qty": "2",
+          "name": "large eggs"
         },
         {
           "qty": "1 ½ tsp",
@@ -588,7 +588,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T16:27:19.947Z",
-      "updatedAt": "2026-07-16T19:27:32.996Z"
+      "updatedAt": "2026-07-14T16:43:24.462Z"
     },
     {
       "id": "fdfb96c1-ed3a-4e9c-9d53-13fd33df4f3b",
@@ -609,8 +609,8 @@
           "name": "brown sugar"
         },
         {
-          "qty": "2 large",
-          "name": "eggs"
+          "qty": "2",
+          "name": "large eggs"
         },
         {
           "qty": "1 ½ tsp",
@@ -655,7 +655,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T16:09:39.361Z",
-      "updatedAt": "2026-07-16T19:27:56.768Z"
+      "updatedAt": "2026-07-14T16:43:26.686Z"
     },
     {
       "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
@@ -672,8 +672,8 @@
           "name": "dried shredded shrimp"
         },
         {
-          "qty": "2 large ",
-          "name": "eggs"
+          "qty": "2",
+          "name": "large eggs"
         },
         {
           "qty": "1 finely diced",
@@ -720,7 +720,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-12T17:53:08.657Z",
-      "updatedAt": "2026-07-16T19:28:10.867Z"
+      "updatedAt": "2026-07-14T16:43:32.186Z"
     },
     {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
@@ -966,16 +966,16 @@
           "name": "lemon juice"
         },
         {
-          "qty": "(finely microplaned) zest of 1",
-          "name": "lemons"
+          "qty": "(finely microplaned)",
+          "name": "zest of 1 lemon "
         },
         {
-          "qty": "4 large",
-          "name": "eggs"
+          "qty": "4",
+          "name": "large eggs"
         },
         {
-          "qty": "2 large",
-          "name": "egg yolks"
+          "qty": "2",
+          "name": "large  egg yolks"
         }
       ],
       "instructions": [
@@ -1004,7 +1004,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-12T16:23:47.819Z",
-      "updatedAt": "2026-07-16T19:28:38.803Z"
+      "updatedAt": "2026-07-14T16:44:16.126Z"
     },
     {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
@@ -1069,16 +1069,16 @@
           "name": "vanilla base"
         },
         {
-          "qty": "Mix-in: 1 tbsp roasted",
-          "name": "pecans"
+          "qty": "Mix-in: 1 tbsp ",
+          "name": "roasted pecans"
         },
         {
           "qty": "Mix-ins (hand stirred): ",
           "name": "Ooey Gooey Caramel Swirl"
         },
         {
-          "qty": "Toppings: crumbled",
-          "name": "pecans"
+          "qty": "Toppings: ",
+          "name": "crumbled pecans"
         },
         {
           "qty": "Toppings: 1 tbsp",
@@ -1116,7 +1116,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-11T06:04:27.693Z",
-      "updatedAt": "2026-07-16T19:38:27.955Z"
+      "updatedAt": "2026-07-14T16:45:52.271Z"
     },
     {
       "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
@@ -1142,7 +1142,7 @@
         },
         {
           "qty": "2½ cup",
-          "name": "all-purpose flour"
+          "name": "flour"
         },
         {
           "qty": "½ tsp",
@@ -1194,7 +1194,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T19:40:32.824Z",
-      "updatedAt": "2026-07-16T19:22:42.975Z"
+      "updatedAt": "2026-07-14T16:46:03.206Z"
     },
     {
       "id": "318d11e9-1403-4902-9c41-f8a78600e7e1",
@@ -1204,7 +1204,7 @@
       "ingredients": [
         {
           "qty": "2 cups",
-          "name": "all-purpose flour"
+          "name": "all purpose flour"
         },
         {
           "qty": "⅔ cup",
@@ -1239,8 +1239,8 @@
           "name": "large egg"
         },
         {
-          "qty": "1 room temperature large",
-          "name": "egg yolk"
+          "qty": "1 room temperature",
+          "name": "large egg yolk"
         },
         {
           "qty": "1 tsp",
@@ -1256,7 +1256,7 @@
         },
         {
           "qty": "20 oz",
-          "name": "semi sweet chocolate"
+          "name": "high quality semi sweet chocolate"
         },
         {
           "qty": "1 tsp",
@@ -1294,7 +1294,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T15:36:26.184Z",
-      "updatedAt": "2026-07-16T19:08:37.409Z"
+      "updatedAt": "2026-07-14T16:46:06.662Z"
     },
     {
       "id": "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
@@ -1311,8 +1311,8 @@
           "name": "light brown sugar"
         },
         {
-          "qty": "¾ cup creamy ",
-          "name": "peanut butter"
+          "qty": "¾ cup",
+          "name": "creamy peanut butter"
         },
         {
           "qty": "½ cup,  (softened)",
@@ -1328,11 +1328,11 @@
         },
         {
           "qty": "1 tsp",
-          "name": "vanilla extract"
+          "name": "vanilla"
         },
         {
           "qty": "1 cup",
-          "name": "all-purpose flour"
+          "name": "flour"
         },
         {
           "qty": "1 tsp",
@@ -1359,8 +1359,8 @@
           "name": "confectioners sugar"
         },
         {
-          "qty": "¾ cup creamy",
-          "name": "peanut butter"
+          "qty": "¾ cup",
+          "name": "creamy peanut butter"
         },
         {
           "qty": "⅓ cup",
@@ -1389,7 +1389,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:55:39.896Z",
-      "updatedAt": "2026-07-16T19:23:08.155Z"
+      "updatedAt": "2026-07-14T16:46:10.843Z"
     },
     {
       "id": "b1da497c-c152-4421-805e-442e17bfebda",
@@ -1406,16 +1406,16 @@
           "name": "salt"
         },
         {
-          "qty": "226 grams",
-          "name": "unsalted butter"
+          "qty": "2",
+          "name": "sticks unsalted butter"
         },
         {
           "qty": "1 cup",
           "name": "sugar"
         },
         {
-          "qty": "1 large",
-          "name": "eggs"
+          "qty": "1",
+          "name": "large egg"
         },
         {
           "qty": "1 tbsp",
@@ -1426,8 +1426,8 @@
           "name": "---FILLING"
         },
         {
-          "qty": "1½ cups creamy ",
-          "name": "peanut butter"
+          "qty": "1½ cups",
+          "name": "creamy peanut butter"
         },
         {
           "qty": "1 cup",
@@ -1482,7 +1482,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:47:52.274Z",
-      "updatedAt": "2026-07-16T19:19:11.396Z"
+      "updatedAt": "2026-07-14T16:46:14.019Z"
     },
     {
       "id": "78f6113e-31f0-4239-83e4-350c3b2c3136",
@@ -1519,8 +1519,8 @@
           "name": "large egg"
         },
         {
-          "qty": "",
-          "name": "---ICING"
+          "qty": "--------",
+          "name": "ICING"
         },
         {
           "qty": "2 cups",
@@ -1567,7 +1567,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:10:55.194Z",
-      "updatedAt": "2026-07-16T19:26:35.386Z"
+      "updatedAt": "2026-07-14T16:46:17.849Z"
     },
     {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
@@ -1637,7 +1637,7 @@
         },
         {
           "qty": "15 gr",
-          "name": "Splenda sugar free multi use syrup"
+          "name": "Splenda sugar free  multi use syrup"
         },
         {
           "qty": "5 gr (optional)",
@@ -1676,7 +1676,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:45:50.217Z",
-      "updatedAt": "2026-07-16T19:43:04.286Z"
+      "updatedAt": "2026-07-14T16:46:26.735Z"
     },
     {
       "id": "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
@@ -1686,23 +1686,23 @@
       "ingredients": [
         {
           "qty": "48 gr",
-          "name": "Swerve brown sugar"
+          "name": "Swerve Brown Sugar"
         },
         {
           "qty": "30 gr",
-          "name": "Splenda sugar free multi use syrup"
+          "name": "Splenda Multi Use Allulose Syrup"
         },
         {
           "qty": "5 gr (optional, but helps with softness)",
-          "name": "vegetable glycerin"
+          "name": "Vegetable glycerin"
         },
         {
           "qty": "⅓ tsp",
-          "name": "cinnamon"
+          "name": "Ground cinnamon"
         },
         {
           "qty": "⅓ tsp",
-          "name": "kosher salt"
+          "name": "Kosher salt"
         },
         {
           "qty": "2 tsp",
@@ -1710,7 +1710,7 @@
         },
         {
           "qty": "pinch",
-          "name": "xanthan gum"
+          "name": "Xanthan gum"
         }
       ],
       "instructions": [
@@ -1728,7 +1728,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:44:30.374Z",
-      "updatedAt": "2026-07-16T19:42:27.350Z"
+      "updatedAt": "2026-07-14T16:46:30.333Z"
     },
     {
       "id": "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38",
@@ -1789,7 +1789,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:34:04.709Z",
-      "updatedAt": "2026-07-16T19:42:45.670Z"
+      "updatedAt": "2026-07-14T16:46:33.929Z"
     },
     {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
@@ -1799,31 +1799,31 @@
       "ingredients": [
         {
           "qty": "48 gr",
-          "name": "Swerve brown sugar"
+          "name": "Swerve Brown Sugar"
         },
         {
           "qty": "30 gr",
-          "name": "Splenda sugar free multi use syrup"
+          "name": "Splenda Multi Use Allulose Syrup"
         },
         {
           "qty": "5 gr (optional, but helps with softness)",
-          "name": "vegetable glycerin"
+          "name": "Vegetable glycerin"
         },
         {
           "qty": "⅓ tsp",
-          "name": "cinnamon"
+          "name": "Ground cinnamon"
         },
         {
           "qty": "⅓ tsp",
-          "name": "kosher salt"
+          "name": "Kosher salt"
         },
         {
           "qty": "2 tsp",
-          "name": "unsweetened almond milk"
+          "name": "Unsweetened almond milk"
         },
         {
           "qty": "pinch",
-          "name": "xanthan gum"
+          "name": "Xanthan gum"
         }
       ],
       "instructions": [
@@ -1841,7 +1841,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:27:57.858Z",
-      "updatedAt": "2026-07-16T19:40:35.842Z"
+      "updatedAt": "2026-07-14T16:46:36.789Z"
     },
     {
       "id": "b62e3998-d7d8-44e7-8216-e12c65018a1a",
@@ -1854,12 +1854,12 @@
           "name": "unsalted butter"
         },
         {
-          "qty": "1 cup, raw, unsalted halved",
-          "name": "pecans"
+          "qty": "1 cup, raw, unsalted",
+          "name": "pecan halves"
         },
         {
           "qty": "½ cup",
-          "name": "half and half"
+          "name": "Half and half"
         },
         {
           "qty": "¼ tsp",
@@ -1871,7 +1871,7 @@
         },
         {
           "qty": "¾ cup",
-          "name": "monk fruit with allulose"
+          "name": "monk fruit w/allulose"
         },
         {
           "qty": "⅛ tsp",
@@ -1895,7 +1895,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:27:24.233Z",
-      "updatedAt": "2026-07-16T19:33:21.648Z"
+      "updatedAt": "2026-07-14T16:46:42.189Z"
     },
     {
       "id": "b9e73bfd-cab2-4b21-a730-6a4a856bdcba",
@@ -2131,7 +2131,7 @@
         },
         {
           "qty": "30 g (2 tbsp)",
-          "name": "unsweetened almond milk"
+          "name": "almond milk"
         }
       ],
       "instructions": [
@@ -2152,7 +2152,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-05T18:09:11.692Z",
-      "updatedAt": "2026-07-16T19:49:50.982Z"
+      "updatedAt": "2026-07-14T16:47:00.243Z"
     },
     {
       "id": "0dc32d36-fd9a-4c3b-82da-1c7a4f07ec6c",
@@ -2363,7 +2363,7 @@
       "ingredients": [
         {
           "qty": "1 medium,  (peeled, cored, chopped)",
-          "name": " apples"
+          "name": " apple"
         },
         {
           "qty": "1 tbsp",
@@ -2397,7 +2397,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-03T05:55:41.342Z",
-      "updatedAt": "2026-07-16T19:13:03.815Z"
+      "updatedAt": "2026-07-14T17:24:58.539Z"
     },
     {
       "id": "e995b047-6fec-45ed-a80f-10fc96eb5a92",
@@ -2551,11 +2551,11 @@
         },
         {
           "qty": "⅓ cup",
-          "name": "pistachio spread"
+          "name": "pistachio cream"
         },
         {
           "qty": "⅓ cup ",
-          "name": "sweetened condensed milk"
+          "name": "condensed milk"
         },
         {
           "qty": "½ cup ",
@@ -2590,7 +2590,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-16T19:33:53.092Z"
+      "updatedAt": "2026-07-16T18:37:47.822Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
@@ -2612,7 +2612,7 @@
         },
         {
           "qty": "½ cup",
-          "name": "sweetened condensed milk"
+          "name": "condensed milk"
         },
         {
           "qty": "1 teaspoon",
@@ -2640,7 +2640,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:27:14.489Z",
-      "updatedAt": "2026-07-16T19:16:50.116Z"
+      "updatedAt": "2026-07-16T16:08:14.659Z"
     },
     {
       "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
@@ -2728,7 +2728,7 @@
         },
         {
           "qty": "1 teaspoon",
-          "name": "pumpkin pie spice"
+          "name": "pumpkin spice"
         },
         {
           "qty": "1 teaspoon",
@@ -2753,7 +2753,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:26:32.083Z",
-      "updatedAt": "2026-07-16T19:35:19.628Z"
+      "updatedAt": "2026-07-16T18:27:44.878Z"
     },
     {
       "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
@@ -2779,7 +2779,7 @@
         },
         {
           "qty": "1 teaspoon",
-          "name": "pumpkin pie spice"
+          "name": "pumpkin spice"
         },
         {
           "qty": "1 teaspoon",
@@ -2787,7 +2787,7 @@
         },
         {
           "qty": "Mix-in: 1 ",
-          "name": "graham crackers"
+          "name": "graham cracker"
         }
       ],
       "instructions": [],
@@ -2801,7 +2801,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:25:56.719Z",
-      "updatedAt": "2026-07-16T19:35:35.351Z"
+      "updatedAt": "2026-07-16T15:43:47.269Z"
     },
     {
       "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
@@ -2831,7 +2831,7 @@
         },
         {
           "qty": "Mix-in: ½ cup chopped",
-          "name": "candied maple walnuts"
+          "name": "candied maple walnuts (see recipe)"
         },
         {
           "qty": "pinch",
@@ -2858,7 +2858,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:25:38.473Z",
-      "updatedAt": "2026-07-16T19:14:58.972Z"
+      "updatedAt": "2026-07-16T18:42:22.498Z"
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
@@ -2991,7 +2991,7 @@
         },
         {
           "qty": "(Optional) squeeze",
-          "name": "lemons"
+          "name": "lemon"
         }
       ],
       "instructions": [],
@@ -3003,7 +3003,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:24:43.449Z",
-      "updatedAt": "2026-07-16T19:28:58.383Z"
+      "updatedAt": "2026-07-16T16:58:08.804Z"
     },
     {
       "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
@@ -3121,7 +3121,7 @@
         },
         {
           "qty": "½ teaspoon",
-          "name": "mint chocolate chip extract"
+          "name": "mint chocolate chip flavor"
         },
         {
           "qty": "1 teaspoon",
@@ -3142,7 +3142,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:23:46.465Z",
-      "updatedAt": "2026-07-16T19:29:59.879Z"
+      "updatedAt": "2026-07-16T18:46:10.661Z"
     },
     {
       "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
@@ -3168,7 +3168,7 @@
         },
         {
           "qty": "¼ teaspoon",
-          "name": "mint chocolate chip extract"
+          "name": "mint chocolate chip flavor"
         },
         {
           "qty": "Mix-in:",
@@ -3186,7 +3186,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:22:14.920Z",
-      "updatedAt": "2026-07-16T19:30:14.887Z"
+      "updatedAt": "2026-07-16T16:55:27.131Z"
     },
     {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
@@ -3304,8 +3304,8 @@
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "¼ cup creamy ",
-          "name": "peanut butter"
+          "qty": "¼ cup",
+          "name": "creamy peanut butter"
         },
         {
           "qty": "pinch",
@@ -3328,7 +3328,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T10:03:15.958Z",
-      "updatedAt": "2026-07-16T19:19:34.433Z"
+      "updatedAt": "2026-07-16T18:33:16.568Z"
     },
     {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
@@ -3699,7 +3699,7 @@
         },
         {
           "qty": "¼ cup",
-          "name": "heavy cream"
+          "name": "heavy whipping cream"
         },
         {
           "qty": "1 teaspoon",
@@ -3724,7 +3724,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T09:50:39.244Z",
-      "updatedAt": "2026-07-16T19:37:14.581Z"
+      "updatedAt": "2026-07-14T17:36:52.390Z"
     },
     {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
@@ -3978,7 +3978,7 @@
       "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1",
+          "qty": "",
           "name": "vanilla base"
         },
         {
@@ -3995,7 +3995,7 @@
         }
       ],
       "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
         null,
         null,
         "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe"
@@ -4009,9 +4009,9 @@
         "protein",
         "lemon"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T18:56:13.475Z"
+      "updatedAt": "2026-07-12T16:26:46.772Z"
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
@@ -4101,8 +4101,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in: 14 gr.  toasted ",
-          "name": "almonds"
+          "qty": "Mix-in: 14 gr. ",
+          "name": "toasted almonds"
         }
       ],
       "ingredientLinks": [
@@ -4129,7 +4129,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T19:45:03.831Z"
+      "updatedAt": "2026-07-14T17:24:23.042Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
@@ -4146,8 +4146,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in: 14 grams toasted",
-          "name": "almonds"
+          "qty": "Mix-in: 14 grams",
+          "name": "toasted almonds"
         }
       ],
       "instructions": [
@@ -4166,7 +4166,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T19:45:20.159Z"
+      "updatedAt": "2026-07-14T17:24:35.478Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
@@ -4187,12 +4187,12 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in: 14 gr toasted",
-          "name": "almonds"
+          "qty": "Mix-in: 14 gr",
+          "name": "toasted almonds"
         },
         {
-          "qty": "Mix-in: 2 tbsp toasted",
-          "name": "coconut flakes"
+          "qty": "Mix-in: 2 tbsp",
+          "name": "toasted coconut flakes"
         },
         {
           "qty": "Mix-in: 1 tbsp",
@@ -4216,7 +4216,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T19:45:42.029Z"
+      "updatedAt": "2026-07-16T18:07:48.090Z"
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
@@ -4245,6 +4245,41 @@
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
       "updatedAt": "2026-07-15T17:38:45.824Z"
+    },
+    {
+      "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
+      "title": "Cookies Over Texas Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "Mix in: ",
+          "name": "chocolate chip cookie dough"
+        }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e"
+      ],
+      "instructions": [
+        "Mix all ingredients together. Freeze. Spin.",
+        "Add mix-ins",
+        "Optional toppings:  chocolate syrup, crumbled cookie bits."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "Good - used 1 chocolate chip cookie. Try something cookie dough and add syrup?",
+      "rating": 3,
+      "tags": [
+        "ice cream",
+        "protein"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-01T19:10:07.257Z",
+      "updatedAt": "2026-07-12T17:06:03.017Z"
     },
     {
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
@@ -4281,8 +4316,8 @@
           "name": "salt"
         },
         {
-          "qty": "½ ripe",
-          "name": "banana"
+          "qty": "½",
+          "name": "ripe banana"
         },
         {
           "qty": "⅛ tsp",
@@ -4293,8 +4328,8 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "Mix-in: crushed",
-          "name": "walnuts"
+          "qty": "Mix-in:",
+          "name": "crushed walnuts"
         }
       ],
       "instructions": [],
@@ -4308,7 +4343,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T19:36:52.323Z"
+      "updatedAt": "2026-07-14T17:40:45.783Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
@@ -4396,6 +4431,72 @@
       "pinned": true,
       "createdAt": "2026-07-01T19:07:16.074Z",
       "updatedAt": "2026-07-16T16:10:56.027Z"
+    },
+    {
+      "id": "e098f065-3d7c-40fd-b147-16dbf8589803",
+      "title": "Star Crunch Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas Reddit",
+      "ingredients": [
+        {
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "¾ cup",
+          "name": "unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar free caramel pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "allulose"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of Xanthan gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "Caramel Syrup"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: 1 Frozen Little Debbie's Star Crunch OR Optional healthier Alternative: Rice Crispies soaked with SF Chocolate Syrup hand stirred in"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: Optional SF Chocolate AND/OR SF Caramel Syrup"
+        }
+      ],
+      "instructions": [
+        "Combine all base ingredients and mix well.",
+        "Churn as a traditional vanilla ice cream.",
+        "Add the frozen Star Crunch (or soaked rice crispies) during the mix-in cycle.",
+        "Top with optional SF chocolate and/or SF caramel syrup."
+      ],
+      "prepNotes": "A traditionally vanilla ice cream with hints of caramel and chocolate-covered rice crisp. Edit: Still Trying to refine as of 3/17/26.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "protein",
+        "caramel",
+        "untested"
+      ],
+      "pinned": true,
+      "createdAt": "2026-07-01T19:07:16.074Z",
+      "updatedAt": "2026-07-15T17:50:29.793Z"
     },
     {
       "id": "921462cd-d010-4a63-90ab-64c2a6c2f525",
@@ -4532,49 +4633,60 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "¾ cup",
-          "name": "Fairlife skim milk"
+          "qty": "3/4 cup",
+          "name": "of Fairlife Skim Milk"
         },
         {
-          "qty": "½ cup",
+          "qty": "1/2 cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free jello"
+          "name": "sugar-free JELLO (Stir/Whisk in 1/2 cup hot water until it dissolves or it will have a grainy texture)"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "name": "of Vanilla Protein Powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "allulose"
+          "name": "Allulose"
         },
         {
-          "qty": "⅛ tsp",
-          "name": "xanthan gum"
+          "qty": "",
+          "name": "Pinch of Xanthan gum"
         },
         {
-          "qty": "pinch ",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         },
         {
-          "qty": "¼ teaspoon",
-          "name": "extract"
+          "qty": "1/4 teaspoon",
+          "name": "Flavored Extract of desired flavor (Lime, Lemon, Strawberry, ...)"
         },
         {
-          "qty": "¼ cup blended",
-          "name": "fruit"
+          "qty": "1/4 Cup",
+          "name": "of desired Blended Fruit"
         },
         {
-          "qty": "Optional: dash of",
-          "name": "zest"
+          "qty": "",
+          "name": "Optional: Dash of Zest (Too much will make it bitter)"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: Whipped Cream"
         }
       ],
       "instructions": [
         "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
-        "Churn on the SHERBERT setting."
+        "Combine all base ingredients and mix well.",
+        "Churn on the SHERBERT setting.",
+        "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
+        "Top with Whipped Cream"
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -4583,9 +4695,9 @@
         "protein",
         "sherbert"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-16T19:07:19.308Z"
+      "updatedAt": "2026-07-04T11:39:56.564Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
@@ -4735,8 +4847,8 @@
           "name": "xanthan gum"
         },
         {
-          "qty": "½ cup, sliced ripe",
-          "name": "banana"
+          "qty": "½ cup, sliced",
+          "name": "ripe banana"
         },
         {
           "qty": "⅛ tsp",
@@ -4763,9 +4875,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:37:47.497Z"
+      "updatedAt": "2026-07-11T14:18:49.804Z"
     },
     {
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
@@ -4795,7 +4907,7 @@
         },
         {
           "qty": "½ cup",
-          "name": "orange juice"
+          "name": "fresh squeezed orange juice"
         },
         {
           "qty": "pinch",
@@ -4823,9 +4935,9 @@
         "protein",
         "orange"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:24:16.237Z"
+      "updatedAt": "2026-07-11T14:28:19.625Z"
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
@@ -4899,9 +5011,9 @@
         "protein",
         "lime"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:05:23.897Z"
+      "updatedAt": "2026-07-11T14:32:40.145Z"
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
@@ -4930,8 +5042,8 @@
           "name": "allulose"
         },
         {
-          "qty": "½ cup fresh ",
-          "name": "blackberries"
+          "qty": "½ cup",
+          "name": "fresh Blackberries"
         },
         {
           "qty": "pinch",
@@ -4965,7 +5077,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:23:29.795Z"
+      "updatedAt": "2026-07-14T17:45:30.870Z"
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
@@ -4994,8 +5106,8 @@
           "name": "allulose"
         },
         {
-          "qty": "½ cup fresh ",
-          "name": "blueberries"
+          "qty": "½ cup",
+          "name": "fresh blueberries"
         },
         {
           "qty": "pinch",
@@ -5029,7 +5141,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:24:04.903Z"
+      "updatedAt": "2026-07-15T17:17:43.377Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
@@ -5055,7 +5167,7 @@
         },
         {
           "qty": "Toppings: drizzle",
-          "name": "biscoff spread"
+          "name": "Biscoff cookie butter"
         }
       ],
       "ingredientLinks": [
@@ -5076,7 +5188,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T19:13:35.327Z"
+      "updatedAt": "2026-07-15T17:57:08.537Z"
     },
     {
       "id": "91fab002-f11f-4d95-bdd0-bf44205bd68c",
@@ -5388,9 +5500,9 @@
         "lemon",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T19:05:16.069Z"
+      "updatedAt": "2026-07-10T19:34:50.592Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
@@ -5542,7 +5654,7 @@
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
       "title": "Pistachio Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas",
+      "source": "Dynas Reddit",
       "ingredients": [
         {
           "qty": "1 cup",
@@ -5581,12 +5693,12 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-ins:",
-          "name": "pistachio nuts"
+          "qty": "Mix-ins: ",
+          "name": "shelled pistachios"
         },
         {
-          "qty": "Optional Mix-in: crushed",
-          "name": "almonds"
+          "qty": "Optional Mix-in:",
+          "name": "crushed almonds"
         }
       ],
       "instructions": [],
@@ -5598,9 +5710,9 @@
         "pistachio",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T19:20:51.074Z"
+      "updatedAt": "2026-07-10T19:50:48.535Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
@@ -5622,7 +5734,7 @@
         },
         {
           "qty": "Mix-ins: ",
-          "name": "sugar free hershey chocolate syrup"
+          "name": "sugar free Hershey syrup"
         }
       ],
       "ingredientLinks": [
@@ -5645,7 +5757,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T19:44:03.091Z"
+      "updatedAt": "2026-07-10T20:03:41.994Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
@@ -5662,8 +5774,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-ins: 2 tbsp chopped toasted",
-          "name": "pecans"
+          "qty": "Mix-ins: 2 tbsp chopped",
+          "name": "toasted pecans"
         },
         {
           "qty": "Mix-in: 1 tbsp",
@@ -5693,7 +5805,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T19:45:58.365Z"
+      "updatedAt": "2026-07-15T17:58:06.741Z"
     },
     {
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
@@ -5779,9 +5891,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:05:03.085Z"
+      "updatedAt": "2026-07-10T16:07:21.858Z"
     },
     {
       "id": "4d132a66-0f5d-456a-938f-e59221108a29",
@@ -5807,9 +5919,9 @@
         "protein",
         "peach"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:04:50.125Z"
+      "updatedAt": "2026-07-12T17:33:20.084Z"
     },
     {
       "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
@@ -5858,8 +5970,8 @@
           "name": "banana"
         },
         {
-          "qty": "Mix-ins:  sliced",
-          "name": "banana"
+          "qty": "Mix-ins: ",
+          "name": "sliced bananas"
         },
         {
           "qty": "Topping:",
@@ -5881,7 +5993,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:50:17.925Z"
+      "updatedAt": "2026-07-14T17:41:02.819Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
@@ -5923,7 +6035,7 @@
         },
         {
           "qty": "AND/OR ⅛ tsp",
-          "name": "pumpkin pie spice extract"
+          "name": "pumpkin spice extract"
         },
         {
           "qty": "¼ tsp",
@@ -5947,9 +6059,9 @@
         "protein",
         "pumpkin"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:34:39.238Z"
+      "updatedAt": "2026-07-10T16:05:12.250Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
@@ -6059,12 +6171,12 @@
           "name": "maple syrup"
         },
         {
-          "qty": "Mix-ins: 2 tbsp crushed",
-          "name": "walnuts"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "crushed walnuts "
         },
         {
-          "qty": "Toppings:  crushed",
-          "name": "walnuts"
+          "qty": "Toppings: ",
+          "name": "crushed walnuts"
         }
       ],
       "ingredientLinks": [
@@ -6084,9 +6196,9 @@
         "protein",
         "maple"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:04:39.045Z"
+      "updatedAt": "2026-07-10T16:03:03.576Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
@@ -6131,9 +6243,9 @@
         "protein",
         "peanut butter"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:04:21.697Z"
+      "updatedAt": "2026-07-14T16:29:01.622Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
@@ -6183,11 +6295,11 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "espresso instant powder"
+          "name": "Nestle espresso powder"
         },
         {
-          "qty": "OR 1oz shot (chilled)",
-          "name": "espresso"
+          "qty": "OR 1oz",
+          "name": "brewed shot of chilled espresso"
         },
         {
           "qty": "2 tbsp (28gr)",
@@ -6209,7 +6321,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:14:21.667Z"
+      "updatedAt": "2026-07-16T16:40:40.186Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
@@ -6243,9 +6355,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:04:06.444Z"
+      "updatedAt": "2026-07-10T15:59:59.419Z"
     },
     {
       "id": "5e9ef873-bf47-498a-8c2b-83e9c165a8f3",
@@ -6333,8 +6445,8 @@
           "name": "strawberry extract"
         },
         {
-          "qty": "½ cup, diced fresh ",
-          "name": "strawberries"
+          "qty": "½ cup, diced",
+          "name": "fresh strawberries"
         },
         {
           "qty": "Mix-in: 2 tbsp",
@@ -6357,7 +6469,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:24:31.080Z"
+      "updatedAt": "2026-07-16T15:45:44.886Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
@@ -6473,7 +6585,7 @@
         },
         {
           "qty": "2 oz",
-          "name": "carrot juice"
+          "name": "organic carrot juice"
         },
         {
           "qty": "⅛ tsp",
@@ -6488,8 +6600,8 @@
           "name": "nutmeg"
         },
         {
-          "qty": "Mix-in: 2 tbsp crushed ",
-          "name": "walnuts"
+          "qty": "Mix-in: 2 Tbsp ",
+          "name": "crushed walnuts"
         },
         {
           "qty": "Mix-in: 2 Tbsp ",
@@ -6498,6 +6610,10 @@
         {
           "qty": "Mix-in: 1 rectangle broken up",
           "name": "graham crackers"
+        },
+        {
+          "qty": "Toppings: 2 tbsp",
+          "name": "whipped cream"
         }
       ],
       "instructions": [],
@@ -6511,7 +6627,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:32:48.588Z"
+      "updatedAt": "2026-07-15T18:11:20.286Z"
     },
     {
       "id": "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
@@ -6660,8 +6776,8 @@
           "name": "strawberry extract"
         },
         {
-          "qty": "½ cup, diced fresh",
-          "name": "strawberries"
+          "qty": "½ cup, diced",
+          "name": "fresh strawberries"
         }
       ],
       "instructions": [],
@@ -6675,7 +6791,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-16T19:24:46.551Z"
+      "updatedAt": "2026-07-16T18:19:18.498Z"
     },
     {
       "id": "4aa4dd22-0b27-4ec7-834b-2b8d5daa7bf4",
@@ -6968,8 +7084,8 @@
           "name": "coconut oil"
         },
         {
-          "qty": "Mix-in: 7 g",
-          "name": "caramel sauce"
+          "qty": "7 g",
+          "name": "caramel sauce (mix-in/topping)"
         }
       ],
       "instructions": [
@@ -6989,7 +7105,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:35.741Z",
-      "updatedAt": "2026-07-16T19:15:22.622Z"
+      "updatedAt": "2026-07-15T18:09:10.778Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
@@ -7027,7 +7143,7 @@
         },
         {
           "qty": "10g ",
-          "name": "Splenda sugar free multi use syrup"
+          "name": "sugar free syrup"
         }
       ],
       "ingredientLinks": [
@@ -7054,7 +7170,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:36.095Z",
-      "updatedAt": "2026-07-16T19:44:26.544Z"
+      "updatedAt": "2026-07-16T16:50:22.242Z"
     },
     {
       "id": "e343e638-e84a-4a58-a108-9460dc3d4dee",
@@ -7087,6 +7203,10 @@
           "name": "xanthan gum"
         },
         {
+          "qty": "",
+          "name": "Mix-in/toppings:"
+        },
+        {
           "qty": "Mix-in: 4",
           "name": "Oreo Thins (cream removed)"
         }
@@ -7106,7 +7226,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:36.701Z",
-      "updatedAt": "2026-07-16T19:30:39.911Z"
+      "updatedAt": "2026-07-16T15:47:40.310Z"
     },
     {
       "id": "f026f9b2-3768-4118-a461-7e930580b845",
@@ -7119,11 +7239,11 @@
           "name": "semi-skimmed milk"
         },
         {
-          "qty": "2 tbsp",
+          "qty": "22 g (2 tbsp)",
           "name": "cream cheese"
         },
         {
-          "qty": "1tsp",
+          "qty": "5 g (1tsp)",
           "name": "vanilla bean paste or extract"
         },
         {
@@ -7131,11 +7251,11 @@
           "name": "monk fruit"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "A pinch of salt"
         },
         {
-          "qty": "¼ tsp",
+          "qty": "1 g (¼ tsp)",
           "name": "xanthan gum"
         },
         {
@@ -7158,7 +7278,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:35.980Z",
-      "updatedAt": "2026-07-16T19:49:06.882Z"
+      "updatedAt": "2026-07-16T15:49:21.627Z"
     },
     {
       "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
@@ -7215,12 +7335,12 @@
       "source": "@justinanderson_fit",
       "ingredients": [
         {
-          "qty": "1¼ cup",
-          "name": "whole milk"
+          "qty": "1.25 cup",
+          "name": "milk"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "name": "vanilla protein"
         },
         {
           "qty": "2 tbsp",
@@ -7228,18 +7348,22 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar free butterscotch pudding"
+          "name": "sugar-free butterscotch pudding"
         },
         {
-          "qty": "¼ tsp",
+          "qty": "1/4 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
+        "Mix well and pour into a pint container.",
+        "Freeze, then process until smooth and creamy."
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7248,19 +7372,19 @@
         "ice cream",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T05:58:45.329Z",
-      "updatedAt": "2026-07-16T19:03:50.422Z"
+      "updatedAt": "2026-07-07T06:51:03.628Z"
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
-      "title": "Snickerdoodle Ice Cream",
+      "title": "Snickerdoodle Ice Cream - 2",
       "servings": "creami tub",
       "source": "@jennaliveswell",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "whole milk"
+          "name": "unsweetened oat, almond, or milk of choice"
         },
         {
           "qty": "1 scoop",
@@ -7271,35 +7395,40 @@
           "name": "collagen powder (unflavored or vanilla)"
         },
         {
-          "qty": "1½–2 tsp",
-          "name": "cinnamon"
+          "qty": "1",
+          "name": "½–2 tsp ground cinnamon"
         },
         {
-          "qty": "¼ tsp",
-          "name": "ground nutmeg"
+          "qty": "",
+          "name": "¼ tsp ground nutmeg"
         },
         {
-          "qty": "¼ tsp",
-          "name": "ground cream of tartar (classic snickerdoodle tang)"
+          "qty": "",
+          "name": "¼ tsp ground cream of tartar (classic snickerdoodle tang)"
         },
         {
-          "qty": "1–2 tsp",
-          "name": "maple syrup"
+          "qty": "1",
+          "name": "–2 tsp maple syrup"
         },
         {
           "qty": "1 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "pinch of salt"
         },
         {
-          "qty": "1–2 tsp (optional, but goooood)",
-          "name": "cashew butter"
+          "qty": "1",
+          "name": "–2 tsp cashew or almond butter (optional, but goooood)"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
+        "Pour into a tub, cover, and freeze 12–24 hours.",
+        "Spin on Lite Ice Cream.",
+        "Add 1–2 tbsp milk and \"Re-Spin\"."
+      ],
       "prepNotes": "Cashew or almond butter is optional but recommended.",
       "afterPrepNotes": "",
       "rating": null,
@@ -7308,9 +7437,9 @@
         "snickerdoodle",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T05:58:45.654Z",
-      "updatedAt": "2026-07-16T19:15:41.206Z"
+      "updatedAt": "2026-07-04T13:47:00.284Z"
     },
     {
       "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
@@ -7429,7 +7558,7 @@
         },
         {
           "qty": "50 g",
-          "name": "greek yogurt"
+          "name": "0% Greek yogurt"
         },
         {
           "qty": "100 ml",
@@ -7457,7 +7586,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T05:58:45.862Z",
-      "updatedAt": "2026-07-16T19:48:41.827Z"
+      "updatedAt": "2026-07-14T17:43:52.176Z"
     },
     {
       "id": "58a48a6f-3400-438b-8548-0c36bef5e2ff",
@@ -7466,24 +7595,24 @@
       "source": "@ftvfitness92",
       "ingredients": [
         {
-          "qty": "½ cup",
+          "qty": "1/2 cup",
           "name": "unsweetened almond milk"
         },
         {
-          "qty": "½ cup",
-          "name": "coconut milk"
+          "qty": "1/2 cup",
+          "name": "organic coconut milk"
         },
         {
-          "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "qty": "1",
+          "name": "serving vanilla whey protein"
         },
         {
           "qty": "1 tbsp",
-          "name": "maple syrup"
+          "name": "pure maple syrup"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "pinch of sea salt"
         },
         {
           "qty": "10 g",
@@ -7502,9 +7631,8 @@
         "pecan",
         "protein"
       ],
-      "pinned": true,
       "createdAt": "2026-07-01T05:23:45.859Z",
-      "updatedAt": "2026-07-16T19:02:10.990Z"
+      "updatedAt": "2026-07-01T06:00:58.457Z"
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
@@ -7663,7 +7791,7 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar free chocolate pudding"
+          "name": "sugar free chocolate instant pudding mix"
         },
         {
           "qty": "1 tbsp",
@@ -7688,7 +7816,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T05:23:47.138Z",
-      "updatedAt": "2026-07-16T19:43:35.325Z"
+      "updatedAt": "2026-07-16T18:09:12.102Z"
     },
     {
       "id": "86ef533f-1dc2-41a0-9bf8-d0cb2a72c2a3",
@@ -7738,39 +7866,45 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "Fairlife skim milk"
+          "name": "Fat Free fairlife milk"
         },
         {
           "qty": "45 g",
-          "name": "monk fruit"
+          "name": "Lakanto monk fruit sweetener"
         },
         {
-          "qty": "1 tsp",
-          "name": "vanilla bean paste or extract"
+          "qty": "5 g",
+          "name": "(1 tsp)  vanilla bean paste (or extract)"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "A pinch of salt"
         },
         {
-          "qty": "¼ tsp",
-          "name": "xanthan gum"
+          "qty": "1 g",
+          "name": "(¼ tsp)  xanthan gum"
         },
         {
-          "qty": "Mix-ins: 5 - cream removed",
-          "name": "oreo cookies"
+          "qty": "",
+          "name": "Mix-ins: 5 OREO Thins (cream removed)"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Make a hole down to the bottom with a butter knife and fill with the Oreos",
+        "Run the \"Mix-in\" cycle"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T19:15:57.123Z",
-      "updatedAt": "2026-07-16T19:03:11.586Z"
+      "updatedAt": "2026-07-01T02:16:36.408Z"
     },
     {
       "id": "394074bf-c766-4f91-a18f-0dce012e35d7",
@@ -7834,12 +7968,12 @@
       "source": "@pursuitofhealth",
       "ingredients": [
         {
-          "qty": "1 ½ cup",
-          "name": "whole milk"
+          "qty": "1 1/2",
+          "name": "c milk"
         },
         {
-          "qty": "½ cup roasted",
-          "name": "pistachio nuts"
+          "qty": "1/2",
+          "name": "c roasted pistachios"
         },
         {
           "qty": "1 tbsp",
@@ -7851,18 +7985,23 @@
         },
         {
           "qty": "3 tbsp",
-          "name": "vanilla protein powder"
+          "name": "vanilla protein"
         },
         {
-          "qty": "½ tsp",
+          "qty": "1/2 tsp",
           "name": "salt"
         },
         {
-          "qty": "Mix Ins:",
-          "name": "pistachio nuts"
+          "qty": "",
+          "name": "Mix Ins: Pistachios"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the tub and freeze overnight.",
+        "Mix the on the Lite Ice Cream setting.",
+        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin.",
+        "Add in the pistachios and hit Mix In."
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7870,9 +8009,8 @@
         "pistachio",
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T19:15:55.905Z",
-      "updatedAt": "2026-07-16T19:01:17.177Z"
+      "updatedAt": "2026-06-30T19:19:10.238Z"
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
@@ -7920,31 +8058,37 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "Fairlife skim milk"
+          "name": "Fat Free ultra-filtered Milk"
         },
         {
-          "qty": "40-45g",
-          "name": "monk fruit"
+          "qty": "40",
+          "name": "-45g Lakanto monk fruit sweetener"
         },
         {
-          "qty": "1 tsp",
-          "name": "vanilla bean paste or extract"
+          "qty": "5 g",
+          "name": "(1 tsp) vanilla bean paste (or extract)"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "A pinch of salt"
         },
         {
-          "qty": "¼ tsp",
-          "name": "xanthan gum"
+          "qty": "1 g",
+          "name": "(1/4 tsp) xanthan gum"
         },
         {
-          "qty": "Mix-in: 1",
-          "name": "Barebells protein bar"
+          "qty": "1",
+          "name": "Barebells protein bar (mix-in)"
         }
       ],
       "instructions": [
-        "Right before the mix-In cycle, microwave the Barebells bar for 10-20 seconds, hollow out a hole in the center of the base, and dump in."
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting if very powdery",
+        "Right before the Mix-In cycle, microwave the Barebells bar for 10-20 seconds, hollow out a hole in the center of the base, and dump in.",
+        "Make a hole down to the bottom with a butter knife and fill with the melty Barebells",
+        "Run the \"Mix-in\" cycle"
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -7952,9 +8096,8 @@
       "tags": [
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T19:15:59.812Z",
-      "updatedAt": "2026-07-16T18:49:48.290Z"
+      "updatedAt": "2026-07-01T05:15:12.581Z"
     },
     {
       "id": "4e67f254-6645-44ac-9f8c-6e3cc9ddab20",
@@ -7964,7 +8107,7 @@
       "ingredients": [
         {
           "qty": "50 g",
-          "name": "smooth ricotta"
+          "name": "low fat ricotta cheese"
         },
         {
           "qty": "1 tsp",
@@ -7993,7 +8136,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-06-30T18:54:33.740Z",
-      "updatedAt": "2026-07-16T19:29:29.789Z"
+      "updatedAt": "2026-07-16T16:44:07.374Z"
     },
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
@@ -8003,31 +8146,37 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "protein yogurt"
+          "name": "high protein sweetened yogurt"
         },
         {
-          "qty": "25-50 g",
-          "name": "agave syrup"
+          "qty": "25",
+          "name": "–50 g light agave syrup or pure maple syrup"
         },
         {
-          "qty": "lightly heaped 1/8 tsp",
-          "name": "xanthan gum"
+          "qty": "0.5 g",
+          "name": "(lightly heaped 1/8 tsp) xanthan gum"
         },
         {
           "qty": "100 g",
-          "name": "whole milk"
+          "name": "milk of choice"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the tub.",
+        "Freeze 16–24 hours with the lid off.",
+        "Let sit on the bench 5–15 minutes before processing.",
+        "Process on the light ice cream function — generally needs two spins.",
+        "Store leftovers in the freezer with the lid on."
+      ],
       "prepNotes": "Use a yogurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yogurt + high protein skim milk.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "frozen yogurt"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-16T18:58:15.907Z"
+      "updatedAt": "2026-07-04T04:27:54.789Z"
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
@@ -8118,28 +8267,31 @@
           "name": "pumpkin puree"
         },
         {
-          "qty": "75–100 g",
-          "name": "maple syrup"
+          "qty": "75",
+          "name": "–100 g pure maple syrup"
         },
         {
           "qty": "150 g",
-          "name": "heavy cream"
+          "name": "cream"
         },
         {
           "qty": "75 g",
-          "name": "whole milk"
+          "name": "milk"
         },
         {
-          "qty": "1–2 tsp",
-          "name": "pumpkin pie spice"
+          "qty": "1",
+          "name": "–2 tsp pumpkin spice"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         }
       ],
       "instructions": [
-        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste."
+        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; re-spin if needed.",
+        "Return leftovers to the freezer with the lid on."
       ],
       "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
       "afterPrepNotes": "",
@@ -8149,9 +8301,8 @@
         "pumpkin",
         "maple"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-16T19:35:43.521Z"
+      "updatedAt": "2026-07-01T06:01:22.954Z"
     },
     {
       "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
@@ -8287,28 +8438,28 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "3 extra large  (150g out of shell)",
-          "name": "eggs"
+          "qty": "3",
+          "name": "extra large eggs (150g out of shell)"
         },
         {
           "qty": "75 g",
-          "name": "superfine sugar"
+          "name": "caster/superfine sugar"
         },
         {
           "qty": "75 g",
-          "name": "heavy cream"
+          "name": "thickened cream (30–35% fat)"
         },
         {
           "qty": "300 g",
-          "name": "whole milk"
+          "name": "full fat (high protein) milk"
         },
         {
           "qty": "1 tsp",
           "name": "vanilla bean extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch fine salt"
         }
       ],
       "instructions": [
@@ -8320,15 +8471,14 @@
         "Cool slightly, then transfer to the tub and freeze 16–24 hours with the lid off.",
         "Spin on the ice cream function — needs two full spins to be perfect."
       ],
-      "prepNotes": "superfine sugar - not quite powdered. can pulse regular sugar briefly in blender.\n4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
+      "prepNotes": "4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-07-16T19:00:26.213Z"
+      "updatedAt": "2026-06-30T18:43:57.247Z"
     },
     {
       "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
@@ -8445,7 +8595,7 @@
         },
         {
           "qty": "Optional: Few cracks ",
-          "name": "black pepper"
+          "name": "freshly cracked black pepper"
         },
         {
           "qty": "Optional: Tiny pinch",
@@ -8471,7 +8621,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-07-16T19:25:05.338Z"
+      "updatedAt": "2026-07-16T18:20:59.383Z"
     },
     {
       "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
@@ -8534,23 +8684,26 @@
         },
         {
           "qty": "1/2 cup",
-          "name": "whole milk"
+          "name": "2% milk"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "name": "vanilla whey protein"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Combine ingredients and freeze 12–24 hours.",
+        "Spin on the Lite Ice Cream setting.",
+        "Add 1 tbsp milk and re-spin 1–2x until smooth."
+      ],
       "prepNotes": "tastes like a copycat DQ Orange Julius",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-16T19:46:26.501Z"
+      "updatedAt": "2026-06-30T18:44:35.046Z"
     },
     {
       "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
@@ -8637,7 +8790,7 @@
         },
         {
           "qty": "½-¾ tsp",
-          "name": "pumpkin pie spice"
+          "name": "pumpkin spice"
         }
       ],
       "instructions": [],
@@ -8650,11 +8803,11 @@
       ],
       "pinned": true,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-16T19:35:05.084Z"
+      "updatedAt": "2026-07-16T18:21:58.389Z"
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
-      "title": "Classic Ice Cream Base Recipe",
+      "title": "Classic Ice Cream Base Recipe (stop)",
       "servings": "creami tub",
       "source": "insta: ninja_creami_recipes",
       "ingredients": [
@@ -8675,16 +8828,20 @@
           "name": "sugar"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Mix all ingredients together in a pint tub and freeze 24 hours",
+        "Once frozen, spin on the ice cream setting.",
+        "The ice cream will come out slightly crumbly — add 1 tbsp milk and respin."
+      ],
       "prepNotes": "For a thicker, still-creamy texture, freeze an additional 1–3 hours.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T17:10:58.648Z",
-      "updatedAt": "2026-07-16T18:56:38.632Z"
+      "updatedAt": "2026-07-13T17:27:53.721Z"
     },
     {
       "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
@@ -8776,16 +8933,27 @@
   "pantry": [
     "extra large eggs (150g out of shell)",
     "fine salt",
+    "vanilla bean extract",
     "full fat (high protein) milk",
     "thickened cream (30–35% fat)",
+    "milk",
+    "cream",
+    "sugar",
+    "brown sugar",
+    "cocoa powder",
+    "vanilla",
+    "sugar syrup",
     "pb powder",
     "2% + milk",
+    "heavy cream",
     "granulated sugar",
     "full fat milk",
     "good pinch of fine salt",
+    "orange juice",
     "2% milk",
     "scoop vanilla whey protein",
     "of fine salt",
+    "boiling water",
     "–150 g thickened cream, 35% milkfat",
     "optional: few cracks freshly cracked black pepper",
     "optional: tiny pinch fine salt",
@@ -8797,6 +8965,9 @@
     "–100 g pure maple syrup",
     "of salt",
     "thickened cream",
+    "vanilla bean paste or extract",
+    "butter",
+    "light brown sugar",
     "–50 g light agave syrup or pure maple syrup",
     "(lightly heaped 1/8 tsp) xanthan gum",
     "–1 g stevia powder",
@@ -8809,16 +8980,25 @@
     "tiny pinch fine salt (optional)",
     "–1.5 g xanthan gum (optional)",
     "of cinnamon/nutmeg or apple pie spice (not too much!)",
+    "instant coffee",
+    "vanilla protein shake",
     "full cream milk",
     "yoghurt",
     "instant pudding, vanilla",
     "heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)",
+    "stevia",
+    "cacao powder",
     "c milk",
+    "vanilla protein",
+    "salt",
+    "chocolate protein powder",
+    "unsweetened cocoa powder",
     "high-protein almond milk",
     "low fat milk",
     "date paste or honey (to taste)",
     "fat free fairlife milk",
     "(1 tsp)  vanilla bean paste (or extract)",
+    "a pinch of salt",
     "(¼ tsp)  xanthan gum",
     "(1 tsp) vanilla bean paste (or extract)",
     "(1/4 tsp) xanthan gum",
@@ -8833,10 +9013,13 @@
     "shots of espresso",
     "scoop vanilla protein",
     "chopped coffee beans",
+    "chocolate chips",
+    "unsweetened almond milk",
     "pure maple syrup",
     "of sea salt",
     "serving vanilla whey protein",
     "scoop vanilla protein powder",
+    "whole milk",
     "- unsweetened almond milk (1/2 cup)",
     "- water (1 cup)",
     "- peanut butter powder",
@@ -8844,22 +9027,33 @@
     "- protein powder (casein works best)",
     "- salt",
     "- guar or xantham gum (optional)",
+    "peanut butter powder",
+    "vanilla extract",
     "butterscotch pudding mix",
+    "xanthan gum",
     "sweetener (erythritol)",
     "scoop chocolate protein powder",
+    "dark cocoa powder",
     "unsweetened oat, almond, or milk of choice",
     "–2 tsp ground cinnamon",
+    "ground nutmeg",
     "–2 tsp maple syrup",
     "fat free cottage cheese",
     "honey (topping)",
+    "medjool dates",
+    "almond milk",
     "cocao powder",
     "10% fat greek yogurt",
+    "0% greek yogurt",
+    "oats",
+    "banana",
     "(¼ tsp) xanthan gum",
     "(½ tbsp) peanut butter",
     "(¼ tsp) salt",
     "fat free ultra-filtered milk (or any fat free milk)",
     "(1 tsp)  vanilla bean paste",
     "a little sweetener",
+    "semi-skimmed milk",
     "pb2",
     "xanthan gum (optional)",
     "כפות (20 גרם) תחליף סוכר/סוכר לבן",
@@ -8871,11 +9065,13 @@
     "סקופ (30 גרם) אבקת חלבון בטעם וניל / קרמל מלוח (או 2 כפות אינסטנט פודינג)",
     "גרם מייצב גלידה (משדרג)",
     "תוספת (אופציונלי): חופן בייגלה (בערך 15 גרם)",
+    "unsweetened vanilla almond milk",
     "scoop of vanilla ice cream protein powder",
     "pinch of xanthan gum",
     "of vanilla extract",
     "of xanthan gum",
     "scoop of chocolate protein powder",
+    "cinnamon",
     "sweeteners",
     "unsweetened almond milk or full fat milk",
     "of cinnamon",
@@ -8897,26 +9093,43 @@
     "optional: pinch of cinnamon",
     "walnut halves/pieces",
     "fat free fairlife",
+    "half and half",
     "tbs cocoa powder",
     "xantham gum",
     "half-and-half",
+    "ground chicken",
+    "large egg",
+    "breadcrumbs",
     "garlic cloves, minced",
     "onion, finely grated",
+    "black pepper",
+    "paprika",
+    "dried oregano",
     "olive oil, for spraying",
     "coldbrew",
+    "hot water",
+    "allulose",
+    "almond extract",
+    "cottage cheese",
     "cottage cheese (full-fat)",
     "ground cinnamon",
+    "honey",
     "squeeze lemon (optional)",
+    "white sugar",
     "whole milk or 2% milk",
     "heavy whipping cream",
     "strawberries (hulled)",
     "strawberries (hulled, fresh or frozen and thawed)",
     "full-fat or 2% greek yogurt",
+    "strawberries",
     "graham crackers (crushed or broken into small pieces)",
+    "extra virgin olive oil",
     "lemon juice  (or zest of 1 lemon)",
     "sugar-free vanilla pudding",
     "toppings: whipped cream",
     "monk fruit w allulose",
+    "tjs bourbon vanilla paste",
+    "raspberries",
     "lemonade (fill to the line)",
     "a drop of green food coloring",
     "mixin: 2 tablespoons pistachio nuts (chopped)",
@@ -8931,6 +9144,8 @@
     "–40 ml + 1–2 tbsp milk of choice, as needed",
     "scoop protein powder",
     "allulose / ertythritol",
+    "non-fat milk powder",
+    "vegetable glycerine",
     "scoop of vanilla whey protein",
     "scoop  vanilla ice cream protein powder",
     "scoop of vanilla ice cream protein powder or keto genics blackberry milkshakes",
@@ -8947,257 +9162,15 @@
     "sf vanilla pudding mix",
     "scoop peanut butter cup protein powder (different than the vanilla pb flavor and skippy pb) or vanilla ice cream protein powder for less pb taste",
     "davinci sf dulche de leche syrup and/or 100 grams dulche de leche pudding (wet)",
-    "grated parmesan",
-    "olive oil, divided",
-    "---coating",
-    "---dough",
-    "---filling",
-    "---glaze",
-    "---ice cream",
-    "---icing",
-    "---sauce",
-    "9% cooking cream",
-    "agave syrup",
-    "all-purpose flour",
-    "allulose",
-    "almond extract",
-    "almond flour",
-    "almonds",
-    "apple butter",
-    "apple cider",
-    "apple juice",
-    "apples",
-    "baking powder",
-    "baking soda",
-    "baklava",
-    "balsamic vinegar",
-    "banana",
-    "barebells protein bar",
-    "biscoff cookies",
-    "biscoff spread",
-    "black pepper",
-    "blackberries",
-    "blueberries",
-    "boiling water",
-    "breadcrumbs",
-    "brown monkfruit sweetener",
-    "brown sugar",
-    "brown sugar allulose",
-    "brown sugar substitute",
-    "brownie chunks",
-    "brownies",
-    "butter",
-    "butter extract",
-    "butterscotch base",
-    "cacao powder",
-    "candied maple walnuts",
-    "cannoli shells (alessi)",
-    "caramel crunch granola",
-    "caramel sauce",
-    "caramel syrup",
-    "carrot",
-    "carrot juice",
-    "cashew butter",
-    "catalina crunch",
-    "chai tea bags",
-    "chicken breast",
-    "chocolate base",
-    "chocolate chip cookie dough",
-    "chocolate chip cookies",
-    "chocolate chips",
-    "chocolate protein powder",
-    "chocolate syrup",
-    "chocolate whey protein",
-    "cinnamon",
-    "cinnamon toast crunch cereal",
-    "cocoa powder",
-    "coconut extract",
-    "coconut flakes",
-    "coconut flour",
-    "coconut oil",
-    "coconut shavings",
-    "coffee protein powder",
-    "coldbrew coffee",
-    "collagen powder (unflavored or vanilla)",
-    "confectioners sugar",
-    "cookie dough",
-    "cornstarch",
-    "cottage cheese",
-    "cream",
-    "cream cheese",
-    "dark brown sugar",
-    "dark cherries",
-    "dark chocolate",
-    "dark chocolate chips",
-    "dark chocolate melting wafers",
-    "dark cocoa powder",
-    "dosido cookies",
-    "dried oregano",
-    "dried shredded shrimp",
-    "drops of mint extract",
-    "dulce de leche",
-    "egg whites",
-    "egg yolk",
-    "egg yolks",
-    "eggs",
-    "erythritol",
-    "espresso",
-    "espresso instant powder",
-    "evaporated milk",
-    "extra virgin olive oil",
-    "extract",
-    "fairlife skim milk",
-    "flaky salt to taste",
     "fresh ground black pepper",
-    "fruit",
-    "full fat coconut cream",
-    "garlic cloves",
     "garlic powder",
-    "graham cracker",
-    "graham crackers",
-    "greek yogurt",
-    "green food coloring",
-    "ground chicken",
-    "ground cream of tartar (classic snickerdoodle tang)",
-    "ground nutmeg",
-    "half and half",
-    "heavy cream",
-    "honey",
-    "honey graham cracker",
-    "hot water",
-    "instant coffee",
-    "jasmine rice",
-    "keto cookie dough",
-    "keto fudge brownie",
-    "keto glazed donut holes",
-    "keto lemon bars",
-    "keto pb fat bombs",
-    "kosher salt",
-    "ladyfingers",
-    "large egg",
-    "lemon juice",
-    "lemonade",
-    "lemonades cookies",
-    "lemons",
-    "light brown sugar",
-    "lime juice",
-    "lime zest",
-    "maple syrup",
-    "mascarpone cheese",
-    "medjool dates",
-    "milk",
-    "milk chocolate chips",
-    "mini oreos",
-    "mini peanut butter cups",
-    "mint chocolate chip extract",
-    "mint extract",
-    "mixed berries (strawberries, blueberries, raspberries)",
-    "monk fruit",
-    "monk fruit with allulose",
-    "nilla wafers",
-    "non-fat milk powder",
-    "nutmeg",
-    "oatmeal",
-    "oats",
-    "olive oil",
-    "onion",
-    "ooey gooey caramel swirl",
-    "orange juice",
-    "oreo cookies",
-    "oreo minis",
-    "oreo thins (cream removed)",
+    "italian seasoning",
+    "grated parmesan",
     "panko bread crumbs",
-    "paprika",
-    "parmesan",
-    "pb2 chocolate chip brownie mix",
-    "peanut butter",
-    "peanut butter icecream",
-    "peanut butter powder",
-    "pecans",
-    "peppermint extract",
-    "philly cream cheese",
-    "pistachio nuts",
-    "powdered erythritol",
-    "powdered milk",
-    "powdered sugar",
-    "pretzel sticks",
-    "protein powder",
-    "protein yogurt",
-    "protein yogurt - salted caramel",
-    "quick-cooking oats",
-    "raspberries",
-    "regular-size candy bar",
-    "salt",
-    "salted caramel base",
-    "soy sauce",
-    "soft caramels",
-    "snickers bar",
-    "smooth ricotta",
-    "sesame oil",
-    "semi-sweet chocolate chips",
-    "semi-skimmed milk",
-    "semi sweet chocolate",
-    "scallions",
-    "stevia",
-    "stevia powder",
-    "sticks unsalted butter",
-    "strawberries",
-    "strawberry extract",
-    "sugar",
-    "sugar free butterscotch pudding",
-    "sugar free caramel syrup",
-    "sugar free cheesecake pudding",
-    "sugar free chocolate chips",
-    "sugar free chocolate pudding",
-    "sugar free chocolate syrup",
-    "sugar free fudge brownie chocolate chip cookies (voortman)",
-    "sugar free hershey chocolate syrup",
-    "sugar free maple syrup",
-    "sugar free peanut butter chips",
-    "sugar free pecan pralines",
-    "sugar free vanilla pudding",
-    "sugar syrup",
-    "superfine sugar",
-    "sweet potato puree",
-    "sweetened condensed milk",
-    "sweetener",
-    "tagalong cookies",
-    "thin mint girl scout cookies",
-    "tjs bourbon vanilla paste",
-    "toffee bits",
-    "unflavored protein powder",
-    "unsalted butter",
-    "unsweetened almond milk",
-    "unsweetened cocoa powder",
-    "unsweetened vanilla almond milk",
-    "vanilla",
-    "vanilla base",
-    "vanilla bean extract",
-    "vanilla bean paste or extract",
-    "vanilla extract",
-    "vanilla ice cream protein powder",
-    "vanilla protein",
-    "vanilla protein powder",
-    "vanilla protein shake",
-    "vanilla protein yogurt",
-    "vegetable glycerin",
-    "vegetable glycerine",
-    "vegetable oil",
-    "walnuts",
-    "warm water",
-    "watermelon",
-    "whipped cream",
-    "white sugar",
-    "whole milk",
-    "xanthan gum",
-    "yellow gel food coloring",
-    "yogurt",
-    "white chocolate and pistachio protein powder",
-    "vanilla greek yogurt",
-    "zero sugar brownie mix",
-    "zest",
-    "בייגלה",
-    "בייגלה בשמיניות ללא מלח"
+    "flaky salt to taste",
+    "eggs",
+    "chicken breast",
+    "olive oil, divided"
   ],
   "notes": "Substitutions\n* Half & half - Use 50/50 whole milk + heavy cream\n* espresso shot - Use ½–1 tsp coffee extract (start small, taste, add more for stronger flavor)\n    **Add ¼ cup extra liquid** (milk or water) to replace the 2 oz of espresso you're removing\n\nIce cream:\n=========\npudding/almondmilk - 2 tsp allulose - 3 min thaw - scrape between spins - 2 spins. add 1 tbsp milk if needed\n\n\n\n* coffee extract - try 1/8 tsp"
 }
