@@ -7112,46 +7112,6 @@
       "updatedAt": "2026-07-01T07:01:40.651Z"
     },
     {
-      "id": "be9b806f-0834-4b05-8a42-9ca5b9f8bf78",
-      "title": "Peanut Butter & Chocolate Ice Cream",
-      "servings": "creami tub",
-      "source": "",
-      "ingredients": [
-        {
-          "qty": "300 ml",
-          "name": "semi-skimmed milk"
-        },
-        {
-          "qty": "",
-          "name": "a little sweetener"
-        },
-        {
-          "qty": "15 g",
-          "name": "PB2"
-        },
-        {
-          "qty": "2 g",
-          "name": "xanthan gum (optional)"
-        }
-      ],
-      "instructions": [
-        "Mix all",
-        "12-24h in the freezer",
-        "light ice cream option",
-        "then add 15g peanut butter & 10g chocolate chips & respin 1-2x"
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "chocolate",
-        "peanut butter",
-        "ice cream"
-      ],
-      "createdAt": "2026-07-01T06:56:13.389Z",
-      "updatedAt": "2026-07-01T06:56:13.389Z"
-    },
-    {
       "id": "70f49cbc-cdd5-4faa-9736-995712a661af",
       "title": "Peanut Butter & Jelly Ice Cream",
       "servings": "creami tub",
