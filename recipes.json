@@ -8116,12 +8116,12 @@
       "source": "@pursuitofhealth",
       "ingredients": [
         {
-          "qty": "1 1/2",
-          "name": "c milk"
+          "qty": "1½ cup",
+          "name": "whole milk"
         },
         {
-          "qty": "1/2",
-          "name": "c roasted pistachios"
+          "qty": "½ cup roasted",
+          "name": "pistachios"
         },
         {
           "qty": "1 tbsp",
@@ -8133,23 +8133,18 @@
         },
         {
           "qty": "3 tbsp",
-          "name": "vanilla protein"
+          "name": "vanilla protein powder"
         },
         {
-          "qty": "1/2 tsp",
+          "qty": "½ tsp",
           "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Mix Ins: Pistachios"
+          "qty": "Mix-in:",
+          "name": "pistachios"
         }
       ],
-      "instructions": [
-        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the tub and freeze overnight.",
-        "Mix the on the Lite Ice Cream setting.",
-        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin.",
-        "Add in the pistachios and hit Mix In."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -8157,8 +8152,9 @@
         "pistachio",
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T19:15:55.905Z",
-      "updatedAt": "2026-06-30T19:19:10.238Z"
+      "updatedAt": "2026-07-16T17:32:33.935Z"
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
