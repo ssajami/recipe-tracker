@@ -1069,8 +1069,8 @@
           "name": "vanilla base"
         },
         {
-          "qty": "Mix-in: 1 tbsp ",
-          "name": "roasted pecans"
+          "qty": "Mix-in: 1 tbsp roasted",
+          "name": "pecans"
         },
         {
           "qty": "Mix-ins (hand stirred): ",
@@ -1116,7 +1116,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-11T06:04:27.693Z",
-      "updatedAt": "2026-07-16T19:20:08.840Z"
+      "updatedAt": "2026-07-16T19:38:27.955Z"
     },
     {
       "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
