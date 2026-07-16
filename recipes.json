@@ -966,16 +966,16 @@
           "name": "lemon juice"
         },
         {
-          "qty": "(finely microplaned)",
-          "name": "zest of 1 lemon "
+          "qty": "(finely microplaned) zest of 1",
+          "name": "lemon "
         },
         {
-          "qty": "4",
-          "name": "large eggs"
+          "qty": "4 large",
+          "name": "eggs"
         },
         {
-          "qty": "2",
-          "name": "large  egg yolks"
+          "qty": "2 large",
+          "name": "egg yolks"
         }
       ],
       "instructions": [
@@ -1004,7 +1004,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-12T16:23:47.819Z",
-      "updatedAt": "2026-07-14T16:44:16.126Z"
+      "updatedAt": "2026-07-16T19:27:12.584Z"
     },
     {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
