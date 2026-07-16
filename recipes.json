@@ -4632,9 +4632,9 @@
         "protein",
         "unique"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-11T18:17:38.124Z"
+      "updatedAt": "2026-07-16T18:27:02.640Z"
     },
     {
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
