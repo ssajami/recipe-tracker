@@ -3990,42 +3990,35 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cups half & half"
+          "qty": "1½ cups",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "⅓ cup sweetened condensed milk"
+          "qty": "⅓ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "⅓ cup cream cheese (softened)"
+          "qty": "⅓ cup softened",
+          "name": "cream cheese"
         },
         {
           "qty": "2 tablespoons",
           "name": "brown sugar"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon cinnamon"
+          "qty": "½ teaspoon",
+          "name": "cinnamon"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
-      "instructions": [
-        "Add all ingredients to a blender and blend until completely smooth.",
-        "Pour into a 24 oz Ninja Creami Deluxe pint. Freeze 24 hours.",
-        "Spin using the Ice Cream setting.",
-        "If crumbly, press Respin. Add 1–2 tbsp half &half only if needed.",
-        "For add-ins, create a well in the center and run Mix-In.",
-        "Scoop and enjoy, or freeze 15 minutes to firm up."
-      ],
+      "instructions": [],
       "prepNotes": "* Use softened cream cheese — cold blocks won’t blend smoothly.\n* For stronger churro flavor, add a pinch more cinnamon.\n* If your pint freezes rock hard, give it 5 minutes on the counter before spinning.",
       "afterPrepNotes": "",
       "rating": null,
@@ -4033,8 +4026,9 @@
         "ice cream",
         "unique"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:21:27.938Z",
-      "updatedAt": "2026-07-01T19:25:49.467Z"
+      "updatedAt": "2026-07-16T18:34:42.661Z"
     },
     {
       "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
