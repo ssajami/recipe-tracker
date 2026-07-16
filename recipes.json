@@ -7475,65 +7475,6 @@
       "updatedAt": "2026-07-16T15:49:21.627Z"
     },
     {
-      "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
-      "title": "Chocolate Therapy",
-      "servings": "creami tub",
-      "source": "",
-      "ingredients": [
-        {
-          "qty": "400 ml",
-          "name": "chocolate protein milkshake"
-        },
-        {
-          "qty": "10 g",
-          "name": "Sugar Free Chocolate Pudding Mix"
-        },
-        {
-          "qty": "10 g",
-          "name": "dark cocoa powder"
-        },
-        {
-          "qty": "1 scoop",
-          "name": "chocolate protein powder"
-        },
-        {
-          "qty": "20 g",
-          "name": "sweetener (erythritol)"
-        },
-        {
-          "qty": "1 g",
-          "name": "xanthan gum"
-        },
-        {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "2",
-          "name": "x Oreo Thins (mix-in)"
-        }
-      ],
-      "instructions": [
-        "Blend all ingredients until smooth",
-        "Freeze for at least 24 hours without Lid",
-        "Leave tub to soften for 10-15 minutes",
-        "Warm tub edges under hot water briefly",
-        "Run \"Lite Ice Cream\" mode",
-        "Add 2 x Oreo thins",
-        "Run \"Mix-In\" mode (Re-spin if needed)"
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "ice cream",
-        "chocolate",
-        "protein"
-      ],
-      "createdAt": "2026-07-01T05:58:45.854Z",
-      "updatedAt": "2026-07-01T06:05:51.885Z"
-    },
-    {
       "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
       "title": "Chocolate Brownie Ice Cream",
       "servings": "creami tub",
