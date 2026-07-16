@@ -5638,9 +5638,9 @@
         "ice cream",
         "peanut butter"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T19:39:30.837Z"
+      "updatedAt": "2026-07-16T17:27:18.356Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
