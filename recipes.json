@@ -3304,8 +3304,8 @@
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "¼ cup",
-          "name": "creamy peanut butter"
+          "qty": "¼ cup creamy ",
+          "name": "peanut butter"
         },
         {
           "qty": "pinch",
@@ -3328,7 +3328,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T10:03:15.958Z",
-      "updatedAt": "2026-07-16T18:33:16.568Z"
+      "updatedAt": "2026-07-16T19:19:34.433Z"
     },
     {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
