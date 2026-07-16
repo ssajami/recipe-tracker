@@ -7025,43 +7025,39 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "fat free fairlife milk"
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "40",
-          "name": "-45g Lakanto monk fruit sweetener"
+          "qty": "40-45g",
+          "name": "monk fruit"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) vanilla bean paste"
+          "qty": "1 tsp",
+          "name": "vanilla bean extract"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) lorannglobal Black Raspberry flavoring"
+          "qty": "1 tsp",
+          "name": "black raspberry flavoring"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) xanthan gum"
+          "qty": "¼ tsp",
+          "name": "xanthan gum"
         }
       ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Spin on \"Respin\" setting until it reaches your desired consistency"
-      ],
+      "instructions": [],
       "prepNotes": "Black Raspberry flavoring  - can sub with 40-50g of both raspberries and blackberries",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T06:59:50.327Z",
-      "updatedAt": "2026-07-01T07:01:40.651Z"
+      "updatedAt": "2026-07-16T18:37:24.120Z"
     },
     {
       "id": "70f49cbc-cdd5-4faa-9736-995712a661af",
