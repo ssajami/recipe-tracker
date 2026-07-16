@@ -5654,7 +5654,7 @@
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
       "title": "Pistachio Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 cup",
@@ -5710,9 +5710,9 @@
         "pistachio",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T19:50:48.535Z"
+      "updatedAt": "2026-07-16T18:47:25.971Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
