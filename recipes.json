@@ -5662,8 +5662,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-ins: 2 tbsp chopped",
-          "name": "toasted pecans"
+          "qty": "Mix-ins: 2 tbsp chopped toasted",
+          "name": "pecans"
         },
         {
           "qty": "Mix-in: 1 tbsp",
@@ -5693,7 +5693,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-15T17:58:06.741Z"
+      "updatedAt": "2026-07-16T19:45:58.365Z"
     },
     {
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
