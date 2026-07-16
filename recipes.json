@@ -6399,8 +6399,8 @@
           "name": "strawberry extract"
         },
         {
-          "qty": "½ cup, diced",
-          "name": "fresh strawberries"
+          "qty": "½ cup, diced fresh ",
+          "name": "strawberries"
         },
         {
           "qty": "Mix-in: 2 tbsp",
@@ -6423,7 +6423,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T15:45:44.886Z"
+      "updatedAt": "2026-07-16T19:24:31.080Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
