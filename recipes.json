@@ -7276,48 +7276,62 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "fat free ultra-filtered milk (or any fat free milk)"
+          "name": "semi-skimmed milk"
         },
         {
-          "qty": "40",
-          "name": "-45g monk fruit sweetener"
+          "qty": "40-45g",
+          "name": "monk fruit"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) vanilla bean paste (or extract)"
+          "qty": "5 g (1 tsp)",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) xanthan gum"
+          "qty": "1 g (¼ tsp)",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "½ of a package of the @fuulsnacks Chocolate Chip Cookie Dough bites"
+          "qty": "Mix-in:",
+          "name": "keto cookie dough"
+        },
+        {
+          "qty": "5g",
+          "name": "unsweetened cocoa powder"
+        },
+        {
+          "qty": "10g ",
+          "name": "sugar free syrup"
         }
       ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Prep your chocolate ganache (ingredients above)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Respin again if very powdery",
-        "Make a hole down to the bottom with a butter knife and fill with the ganache and half of the cookie dough bites",
-        "Run the \"Mix-in\" cycle",
-        "Top with the rest of the cookie dough bites"
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e",
+        null,
+        null
       ],
-      "prepNotes": "To make the ganache, combine 5g of unsweetened cocoa powder with 10g of sugar free syrup (I know this sounds like it wouldn't work, but trust me... it does).",
+      "instructions": [
+        "To make the ganache, combine 5g of unsweetened cocoa powder with 10g of sugar free syrup (I know this sounds like it wouldn't work, but trust me... it does).",
+        "Make a hole down to the bottom with a butter knife and fill with the ganache and half of the cookie dough bites",
+        "Run the \"Mix-in\" cycle"
+      ],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "cookie dough"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T06:20:36.095Z",
-      "updatedAt": "2026-07-01T06:42:33.891Z"
+      "updatedAt": "2026-07-16T16:50:22.242Z"
     },
     {
       "id": "e802904a-54fa-42b5-9892-05af3f3ddf59",
