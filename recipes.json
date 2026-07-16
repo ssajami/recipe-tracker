@@ -5453,53 +5453,50 @@
     },
     {
       "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
-      "title": "Strawberry Italian Ice",
+      "title": "Italian Ice",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1.5 cups",
-          "name": "fresh strawberries, diced"
+          "qty": "1½ cups diced",
+          "name": "fruit"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "water"
         },
         {
           "qty": "1 tbsp",
-          "name": "Lime Juice"
+          "name": "lime Juice"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Optional: 1/4 teaspoon of Strawberry Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Optional: Cool whip, Chocolate Chips"
+          "qty": "¼ tsp",
+          "name": "extract"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "* can add 1 scoop protein powder in flavor of choice, vanilla or unflavored",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "strawberry",
         "sorbet"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T06:46:07.156Z"
+      "updatedAt": "2026-07-16T18:14:47.382Z"
     },
     {
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
