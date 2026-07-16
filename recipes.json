@@ -8672,26 +8672,23 @@
         },
         {
           "qty": "1/2 cup",
-          "name": "2% milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 scoop",
           "name": "vanilla whey protein"
         }
       ],
-      "instructions": [
-        "Combine ingredients and freeze 12–24 hours.",
-        "Spin on the Lite Ice Cream setting.",
-        "Add 1 tbsp milk and re-spin 1–2x until smooth."
-      ],
+      "instructions": [],
       "prepNotes": "tastes like a copycat DQ Orange Julius",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-06-30T18:44:35.046Z"
+      "updatedAt": "2026-07-16T18:57:00.817Z"
     },
     {
       "id": "052a2c26-e4e8-4000-821f-a1d9e84cf4d6",
