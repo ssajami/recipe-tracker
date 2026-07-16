@@ -5412,43 +5412,44 @@
       "id": "404ca164-3c2b-4db7-bbb5-6c104cf1f298",
       "title": "Watermelon Italian Ice",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1.5 cups",
-          "name": "deseeded Watermelon"
+          "qty": "1½ cups deseeded ",
+          "name": "watermelon"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "water"
         },
         {
           "qty": "1 tbsp",
-          "name": "Lime Juice"
+          "name": "lime juice"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "increase protein with Oath Watermelon Fesca protein powder or vanilla ice cream protein",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "sorbet",
         "watermelon"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-02T07:37:36.792Z"
+      "updatedAt": "2026-07-16T18:11:58.881Z"
     },
     {
       "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
