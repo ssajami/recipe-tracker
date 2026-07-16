@@ -5647,12 +5647,12 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-ins: ",
-          "name": "shelled pistachios"
+          "qty": "Mix-ins:",
+          "name": "pistachio nuts"
         },
         {
-          "qty": "Optional Mix-in:",
-          "name": "crushed almonds"
+          "qty": "Optional Mix-in: crushed",
+          "name": "almonds"
         }
       ],
       "instructions": [],
@@ -5666,7 +5666,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T18:47:25.971Z"
+      "updatedAt": "2026-07-16T19:20:51.074Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
