@@ -7038,8 +7038,8 @@
           "name": "coconut oil"
         },
         {
-          "qty": "7 g",
-          "name": "caramel sauce (mix-in/topping)"
+          "qty": "Mix-in: 7 g",
+          "name": "caramel sauce"
         }
       ],
       "instructions": [
@@ -7059,7 +7059,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:35.741Z",
-      "updatedAt": "2026-07-15T18:09:10.778Z"
+      "updatedAt": "2026-07-16T19:15:22.622Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
