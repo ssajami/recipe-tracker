@@ -7152,57 +7152,6 @@
       "updatedAt": "2026-07-15T18:09:10.778Z"
     },
     {
-      "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
-      "title": "**Snickers Ice Cream 2",
-      "servings": "creami tub",
-      "source": "alex.new.life",
-      "ingredients": [
-        {
-          "qty": "100 ml",
-          "name": "Milk 0,3 %"
-        },
-        {
-          "qty": "200 g",
-          "name": "Quark"
-        },
-        {
-          "qty": "30 g",
-          "name": "Protein Pudding Caramel"
-        },
-        {
-          "qty": "2 Scoop",
-          "name": "Chunky Flavour Hazelnut & MilkyCream"
-        },
-        {
-          "qty": "10 g",
-          "name": "White Crazy Hazel (@ahead_nutrition)"
-        },
-        {
-          "qty": "",
-          "name": "Topping: chocolate sauce"
-        },
-        {
-          "qty": "",
-          "name": "Topping: peanuts"
-        }
-      ],
-      "instructions": [
-        "Add all ingredients (except toppings) to your container. Whisk until smooth, then freeze flat and level for 24 hours.",
-        "Mix on Ice Cream setting",
-        "Then add another splash of milk and press Re-Spin 1-2 times until you have a creamy consistency.",
-        "add the chocolate sauce and peanuts on top as a topping."
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "snickers",
-        "ice cream"
-      ],
-      "createdAt": "2026-07-01T06:20:36.073Z",
-      "updatedAt": "2026-07-01T06:33:51.954Z"
-    },
-    {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
       "title": "Chocolate Chip Cookie Dough Ice Cream",
       "servings": "creami tub",
