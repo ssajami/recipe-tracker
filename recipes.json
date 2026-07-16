@@ -6893,7 +6893,7 @@
         },
         {
           "qty": "Mix-ins: ",
-          "name": "Mini Chips Ahoy Chocolate Chip Cookies"
+          "name": "chocolate chip cookies"
         }
       ],
       "ingredientLinks": [
@@ -6909,9 +6909,9 @@
         "cookies and cream",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:10:16.589Z",
-      "updatedAt": "2026-07-10T15:49:26.954Z"
+      "updatedAt": "2026-07-16T16:57:05.403Z"
     },
     {
       "id": "e0e9ae3d-43e8-4b9c-bf11-488c01fc97af",
