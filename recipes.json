@@ -7691,30 +7691,30 @@
       "ingredients": [
         {
           "qty": "25 g",
-          "name": "White choc & Pistachio whey"
+          "name": "white chocolate and pistachio protein powder"
         },
         {
           "qty": "300 ml",
-          "name": "Whole milk"
+          "name": "whole milk"
         },
         {
           "qty": "100 ml",
-          "name": "Almond milk"
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "10 g",
-          "name": "Cocoa powder"
+          "name": "cocoa powder"
         },
         {
-          "qty": "",
-          "name": "M&S Pistachio bites (mix ins/toppings)"
+          "qty": "Mix-in: ",
+          "name": "pistachio nuts"
+        },
+        {
+          "qty": "Mix-in:",
+          "name": "chocolate chips"
         }
       ],
-      "instructions": [
-        "Combine base ingredients",
-        "Freeze",
-        "Process then add pistachio bites as mix-ins"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7724,8 +7724,9 @@
         "ice cream",
         "protein"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:58:43.724Z",
-      "updatedAt": "2026-07-01T06:17:37.892Z"
+      "updatedAt": "2026-07-16T16:32:26.178Z"
     },
     {
       "id": "addb1f41-cd4d-415a-ae98-e45fea6bbc95",
