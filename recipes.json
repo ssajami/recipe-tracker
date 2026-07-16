@@ -5498,31 +5498,27 @@
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
       "title": "Toffee Crunch Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 ",
-          "name": "Butterscotch base"
+          "name": "butterscotch base"
         },
         {
-          "qty": "2 Tbsp",
-          "name": "Sugar Free Toffee Syrup"
+          "qty": "2 tbsp",
+          "name": "sugar free toffee syrup"
         },
         {
           "qty": "¼ tsp",
-          "name": "Butter Extract"
+          "name": "butter extract"
         },
         {
-          "qty": "Mix-ins: 2",
-          "name": "Toffee Chocolate Bars Ghirardelli"
+          "qty": "Optional: crushed",
+          "name": "almonds"
         },
         {
-          "qty": "Optional: ",
-          "name": "Crushed almonds"
-        },
-        {
-          "qty": "Optional: ",
-          "name": "Crushed walnuts"
+          "qty": "Optional:  crushed",
+          "name": "walnuts"
         }
       ],
       "ingredientLinks": [
@@ -5530,15 +5526,9 @@
         null,
         null,
         null,
-        null,
         null
       ],
-      "instructions": [
-        "Combine all base ingredients and mix well.",
-        "Freeze in Ninja Creami pint container.",
-        "Process in Creami machine.",
-        "Add toffee chocolate bar mix-ins and run mix-in cycle."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -5547,9 +5537,9 @@
         "protein",
         "toffee"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-10T10:05:25.560Z"
+      "updatedAt": "2026-07-16T18:24:56.154Z"
     },
     {
       "id": "0737b32e-a191-4b32-8cfb-0d1c22c3d444",
