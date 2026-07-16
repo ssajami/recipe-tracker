@@ -8647,33 +8647,27 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "175",
-          "name": "–200 g full fat coconut cream"
+          "qty": "175–200 g",
+          "name": "full fat coconut cream"
         },
         {
-          "qty": "175",
-          "name": "–200 g full fat or light coconut milk"
+          "qty": "175–200 g",
+          "name": "coconut milk"
         },
         {
-          "qty": "80",
-          "name": "–100 g coconut condensed milk"
+          "qty": "80–100 g ",
+          "name": "coconut condensed milk"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Dash of vanilla bean paste or extract (optional)"
+          "qty": "dash",
+          "name": "vanilla bean paste or extract"
         }
       ],
-      "instructions": [
-        "Whisk all ingredients together; taste and adjust salt/vanilla.",
-        "Pour into the tub and freeze with the lid off, 12–24 hours.",
-        "Let thaw 10 minutes before processing (optional, reduces need to re-spin).",
-        "Process on the ice cream function; re-process (no added liquid) if powdery or balled up.",
-        "Store leftovers in the freezer with the lid on."
-      ],
+      "instructions": [],
       "prepNotes": "Choose coconut cream with ~20–25g fat per 100g.",
       "afterPrepNotes": "",
       "rating": null,
@@ -8681,8 +8675,9 @@
         "ice cream",
         "coconut"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:41:13.963Z"
+      "updatedAt": "2026-07-16T16:39:45.692Z"
     },
     {
       "id": "76711da0-b3dc-435c-9660-1e174671a060",
