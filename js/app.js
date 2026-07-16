@@ -1,4 +1,4 @@
-const APP_VERSION = 3;
+const APP_VERSION = 4;
 
 // ── State ──────────────────────────────────────────────────────────────────
 const state = {
@@ -1770,37 +1770,24 @@ function parseQtyAndUnit(ing) {
 }
 
 function combinedMissingItems(recipes) {
-  // Group by (name, unit) so entries within a unit can always be summed
-  const groups = new Map();
+  const groups = new Map(); // normalizedName → { displayName, recipeIds }
   for (const r of recipes) {
     for (const ing of (r.ingredients || [])) {
       const name = normalizeIngredient(ing);
       if (!name) continue;
       if (state.pantry.has(name)) continue;
-      const { qty, unit } = parseQtyAndUnit(ing);
-      const groupKey = `${unit}::${name}`;
-      if (!groups.has(groupKey)) groups.set(groupKey, { name, unit, entries: [] });
-      groups.get(groupKey).entries.push({ qty, original: ing, recipeId: r.id, recipeTitle: r.title });
+      if (!groups.has(name)) {
+        const displayName = typeof ing === 'object' ? ing.name : name;
+        groups.set(name, { displayName, recipeIds: new Map() });
+      }
+      groups.get(name).recipeIds.set(r.id, r.title);
     }
   }
 
   const result = [];
-  for (const { name, unit, entries } of groups.values()) {
-    const seen = new Map();
-    entries.forEach(e => seen.set(e.recipeId, e.recipeTitle));
-    const recipeRefs = [...seen.entries()].map(([id, title]) => ({ id, title }));
-    if (entries.length === 1) {
-      result.push({ display: ingDisplay(entries[0].original), recipes: recipeRefs, key: name });
-      continue;
-    }
-    const allHaveQty = entries.every(e => e.qty !== null);
-    if (allHaveQty) {
-      const total = entries.reduce((s, e) => s + e.qty, 0);
-      const unitStr = unit ? `${unit} ` : '';
-      result.push({ display: `${formatQty(total)} ${unitStr}${name}`, recipes: recipeRefs, key: name, combined: true });
-    } else {
-      for (const e of entries) result.push({ display: ingDisplay(e.original), recipes: [{ id: e.recipeId, title: e.recipeTitle }], key: name });
-    }
+  for (const [key, { displayName, recipeIds }] of groups) {
+    const recipes = [...recipeIds.entries()].map(([id, title]) => ({ id, title }));
+    result.push({ display: displayName, recipes, key });
   }
   result.sort((a, b) => a.key.localeCompare(b.key));
   return result;
@@ -1880,9 +1867,10 @@ function renderShoppingContent() {
 
     const haveRows = haveItems.map(ing => {
       const k = normalizeIngredient(ing);
+      const name = typeof ing === 'object' ? ing.name : k;
       return `<li class="shop-item shop-item--have" onclick="App.togglePantry('${esc(k)}')">
         <span class="shop-check">✓</span>
-        <span class="shop-text">${esc(ingDisplay(ing))}</span>
+        <span class="shop-text">${esc(name)}</span>
       </li>`;
     }).join('');
 
