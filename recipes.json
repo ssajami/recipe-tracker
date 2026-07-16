@@ -5060,8 +5060,8 @@
           "name": "allulose"
         },
         {
-          "qty": "½ cup",
-          "name": "fresh blueberries"
+          "qty": "½ cup fresh ",
+          "name": "blueberries"
         },
         {
           "qty": "pinch",
@@ -5095,7 +5095,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-15T17:17:43.377Z"
+      "updatedAt": "2026-07-16T19:24:04.903Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
