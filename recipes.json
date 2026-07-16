@@ -4293,8 +4293,8 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "Mix-in:",
-          "name": "crushed walnuts"
+          "qty": "Mix-in: crushed",
+          "name": "walnuts"
         }
       ],
       "instructions": [],
@@ -4308,7 +4308,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-14T17:40:45.783Z"
+      "updatedAt": "2026-07-16T19:21:09.592Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
