@@ -8612,23 +8612,19 @@
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "50 g",
-          "name": "fresh espresso, cooled for 5 minutes"
+          "qty": "50 g cooled",
+          "name": "espresso"
         },
         {
           "qty": "200 g",
-          "name": "full fat cream (35% butterfat)"
+          "name": "heavy cream"
         },
         {
           "qty": "100 g",
-          "name": "full fat milk (regular or lactose free)"
+          "name": "whole milk"
         }
       ],
-      "instructions": [
-        "Whisk all ingredients together in a bowl until completely smooth.",
-        "Pour into the tub; optionally chill in the fridge 3 hours to minimize the hump, then freeze with the lid off, 16–24 hours.",
-        "Process on the ice cream function; smooth a balled-up top with a spoon, or re-spin once if powdery (avoid over-processing — it can split the cream)."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -8636,8 +8632,9 @@
         "ice cream",
         "coffee"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:46:40.652Z"
+      "updatedAt": "2026-07-16T16:44:45.091Z"
     },
     {
       "id": "fb1ac5e1-e962-407b-a98f-dc3eafca0267",
