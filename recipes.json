@@ -1204,7 +1204,7 @@
       "ingredients": [
         {
           "qty": "2 cups",
-          "name": "all purpose flour"
+          "name": "all-purpose flour"
         },
         {
           "qty": "⅔ cup",
@@ -1294,7 +1294,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T15:36:26.184Z",
-      "updatedAt": "2026-07-16T18:52:03.603Z"
+      "updatedAt": "2026-07-16T19:08:37.409Z"
     },
     {
       "id": "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
