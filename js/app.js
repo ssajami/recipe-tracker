@@ -380,6 +380,7 @@ const App = {
         ${esc(n)}
       </div>`
     ).join('');
+    sug._activeIdx = -1;
     sug.classList.remove('hidden');
   },
   applyIngSuggestion(i, name) {
@@ -477,6 +478,33 @@ const App = {
   },
 
   handleIngredientKey(e, i) {
+    const sug = document.getElementById(`ing-sug-${i}`);
+    const sugOpen = sug && !sug.classList.contains('hidden');
+    if (sugOpen) {
+      const items = sug.querySelectorAll('.ing-sug-item');
+      let idx = sug._activeIdx ?? -1;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        idx = (idx + 1) % items.length;
+        items.forEach((el, j) => el.classList.toggle('active', j === idx));
+        sug._activeIdx = idx;
+        return;
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        idx = (idx - 1 + items.length) % items.length;
+        items.forEach((el, j) => el.classList.toggle('active', j === idx));
+        sug._activeIdx = idx;
+        return;
+      } else if (e.key === 'Enter' && idx >= 0) {
+        e.preventDefault();
+        items[idx].dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
+        return;
+      } else if (e.key === 'Escape') {
+        sug.classList.add('hidden');
+        sug._activeIdx = -1;
+        return;
+      }
+    }
     if (e.key === 'Enter') { e.preventDefault(); this.addIngredient(); }
     const ing = editIngredients[i];
     if (e.key === 'Backspace' && !ing.qty && !ing.name && editIngredients.length > 1) {
