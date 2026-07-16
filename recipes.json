@@ -1311,8 +1311,8 @@
           "name": "light brown sugar"
         },
         {
-          "qty": "¾ cup",
-          "name": "creamy peanut butter"
+          "qty": "¾ cup creamy ",
+          "name": "peanut butter"
         },
         {
           "qty": "½ cup,  (softened)",
@@ -1389,7 +1389,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:55:39.896Z",
-      "updatedAt": "2026-07-16T19:17:25.938Z"
+      "updatedAt": "2026-07-16T19:18:03.406Z"
     },
     {
       "id": "b1da497c-c152-4421-805e-442e17bfebda",
