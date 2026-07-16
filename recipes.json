@@ -8420,28 +8420,28 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "3",
-          "name": "extra large eggs (150g out of shell)"
+          "qty": "3 extra large  (150g out of shell)",
+          "name": "eggs"
         },
         {
           "qty": "75 g",
-          "name": "caster/superfine sugar"
+          "name": "superfine sugar"
         },
         {
           "qty": "75 g",
-          "name": "thickened cream (30–35% fat)"
+          "name": "heavy cream"
         },
         {
           "qty": "300 g",
-          "name": "full fat (high protein) milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 tsp",
           "name": "vanilla bean extract"
         },
         {
-          "qty": "",
-          "name": "Pinch fine salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -8453,14 +8453,15 @@
         "Cool slightly, then transfer to the tub and freeze 16–24 hours with the lid off.",
         "Spin on the ice cream function — needs two full spins to be perfect."
       ],
-      "prepNotes": "4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
+      "prepNotes": "superfine sugar - not quite powdered. can pulse regular sugar briefly in blender.\n4 eggs can be used for higher protein. Lower sugar to 50g if mixture is too soft.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T18:43:57.247Z"
+      "updatedAt": "2026-07-16T19:00:26.213Z"
     },
     {
       "id": "0cd9ac53-5348-4f91-8b2a-650289d06617",
