@@ -2703,28 +2703,28 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "",
-          "name": "¾ cup half and half (equal parts milk and heavy cream)"
+          "qty": "¾ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "¾ cup pumpkin puree"
+          "qty": "¾ cup",
+          "name": "pumpkin puree"
         },
         {
           "qty": "2 tablespoon",
-          "name": "brown sugar or allulose"
+          "name": "brown sugar allulose"
         },
         {
           "qty": "2 teaspoon",
-          "name": "instant espresso instant coffee mix"
+          "name": "espresso instant powder"
         },
         {
           "qty": "1 teaspoon",
@@ -2751,9 +2751,9 @@
         "unique",
         "pumpkin"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:26:32.083Z",
-      "updatedAt": "2026-07-03T09:35:54.977Z"
+      "updatedAt": "2026-07-16T18:27:44.878Z"
     },
     {
       "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
