@@ -4101,8 +4101,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in: 14 gr. ",
-          "name": "toasted almonds"
+          "qty": "Mix-in: 14 gr.  toasted ",
+          "name": "almonds"
         }
       ],
       "ingredientLinks": [
@@ -4129,7 +4129,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-14T17:24:23.042Z"
+      "updatedAt": "2026-07-16T19:45:03.831Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
