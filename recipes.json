@@ -6986,7 +6986,7 @@
       "ingredients": [
         {
           "qty": "2 cups",
-          "name": "unsweetened almond milk or full fat milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 tsp",
@@ -6994,23 +6994,23 @@
         },
         {
           "qty": "1/16 tsp",
-          "name": "mastic powder or crushed mastic tears"
+          "name": "mastic powder"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla protein powder"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "",
-          "name": "Sweeteners"
+          "name": "sweetener"
         },
         {
           "qty": "",
-          "name": "Cinnamon"
+          "name": "cinnamon"
         },
         {
           "qty": "2 tsp",
-          "name": "Sugar free jello cheesecake pudding"
+          "name": "sugar free cheesecake pudding"
         }
       ],
       "instructions": [
@@ -7028,8 +7028,9 @@
         "ice cream",
         "unique"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T07:34:08.593Z",
-      "updatedAt": "2026-07-01T19:24:53.318Z"
+      "updatedAt": "2026-07-16T18:26:53.263Z"
     },
     {
       "id": "bf4df602-696c-4ac5-b82e-7896ff9f454f",
