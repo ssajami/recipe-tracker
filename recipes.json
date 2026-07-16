@@ -6411,7 +6411,7 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "Option for mixin:  Soak 2 Lldyfingers in a mixture of 4oz strong brewed coffee and ¼ teaspoon rum extract. Leave in the fridge. Add as a mixin.\n\nToppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder",
+      "prepNotes": "Option for mixin:  Soak 2 Ladyfingers in a mixture of 4oz strong brewed coffee and ¼ teaspoon rum extract. Leave in the fridge. Add as a mixin.\n\nToppings: 3 Ladyfingers, Cool Whip, dusting of Espresso Powder",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -6419,9 +6419,9 @@
         "protein",
         "coffee"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-10T16:02:25.613Z"
+      "updatedAt": "2026-07-16T16:40:40.186Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
