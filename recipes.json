@@ -8459,53 +8459,6 @@
       "updatedAt": "2026-06-30T18:28:54.514Z"
     },
     {
-      "id": "a7a16492-c48c-4ffa-af80-915b97b74919",
-      "title": "Watermelon Sorbet",
-      "servings": "creami tub",
-      "source": "georgeats.com",
-      "ingredients": [
-        {
-          "qty": "400 g",
-          "name": "watermelon, chopped into small cubes"
-        },
-        {
-          "qty": "50",
-          "name": "–75 g agave syrup, to taste"
-        },
-        {
-          "qty": "25 g",
-          "name": "lime juice (or more, to taste)"
-        },
-        {
-          "qty": "",
-          "name": "Lime zest, to taste (optional)"
-        },
-        {
-          "qty": "",
-          "name": "Tiny pinch fine salt (optional)"
-        },
-        {
-          "qty": "1",
-          "name": "–1.5 g xanthan gum (optional)"
-        }
-      ],
-      "instructions": [
-        "Blend all ingredients (and optional add-ins) until completely smooth.",
-        "Pour into the tub (don't exceed fill line) and freeze with the lid off, 16–24 hours.",
-        "Process on the gelato function; re-spin once or twice as needed.",
-        "Return leftovers to the freezer with the lid on; re-spin on the gelato function before eating."
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "sorbet",
-        "watermelon"
-      ],
-      "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:48:03.132Z"
-    },
-    {
       "id": "ead8c3a9-2c44-48f8-acb2-533f692e997f",
       "title": "Coffee Ice Cream",
       "servings": "creami tub",
