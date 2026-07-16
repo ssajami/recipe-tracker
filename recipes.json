@@ -1406,16 +1406,16 @@
           "name": "salt"
         },
         {
-          "qty": "2",
-          "name": "sticks unsalted butter"
+          "qty": "226 grams",
+          "name": "unsalted butter"
         },
         {
           "qty": "1 cup",
           "name": "sugar"
         },
         {
-          "qty": "1",
-          "name": "large egg"
+          "qty": "1 large",
+          "name": "eggs"
         },
         {
           "qty": "1 tbsp",
@@ -1426,8 +1426,8 @@
           "name": "---FILLING"
         },
         {
-          "qty": "1½ cups",
-          "name": "creamy peanut butter"
+          "qty": "1½ cups creamy ",
+          "name": "peanut butter"
         },
         {
           "qty": "1 cup",
@@ -1482,7 +1482,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:47:52.274Z",
-      "updatedAt": "2026-07-14T16:46:14.019Z"
+      "updatedAt": "2026-07-16T19:19:11.396Z"
     },
     {
       "id": "78f6113e-31f0-4239-83e4-350c3b2c3136",
