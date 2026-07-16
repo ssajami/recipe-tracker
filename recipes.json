@@ -4661,71 +4661,65 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Skim Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "½ cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free JELLO (Stir/Whisk in 1/2 cup hot water until it dissolves or it will have a grainy texture)"
+          "name": "sugar-free jello"
         },
         {
           "qty": "1 scoop",
-          "name": "of Vanilla Protein Powder"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Pinch of Xanthan gum"
+          "qty": "⅛",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch ",
+          "name": "salt"
         },
         {
-          "qty": "1/4 teaspoon",
-          "name": "Flavored Extract of desired flavor (Lime, Lemon, Strawberry, ...)"
+          "qty": "¼ teaspoon",
+          "name": "flavor extract"
         },
         {
-          "qty": "1/4 Cup",
-          "name": "of desired Blended Fruit"
+          "qty": "¼ cup",
+          "name": "fruit"
         },
         {
-          "qty": "",
-          "name": "Optional: Dash of Zest (Too much will make it bitter)"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Whipped Cream"
+          "qty": "Optional: dash of",
+          "name": "zest"
         }
       ],
       "instructions": [
-        "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
+        "Dissolve sugar-free JELLO (flavor of choice) in 1/2 cup hot water until fully dissolved to avoid grainy texture. Can use microwave and heat in 10 second intervals",
         "Combine all base ingredients and mix well.",
-        "Churn on the SHERBERT setting.",
-        "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
-        "Top with Whipped Cream"
+        "Churn on the SHERBERT setting."
       ],
-      "prepNotes": "",
+      "prepNotes": "* can use unflavored protein powder",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "protein",
-        "sherbert"
+        "sherbert",
+        "lime",
+        "orange",
+        "raspberry",
+        "strawberry"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-04T11:39:56.564Z"
+      "updatedAt": "2026-07-16T17:52:43.153Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
