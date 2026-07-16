@@ -7750,28 +7750,26 @@
         },
         {
           "qty": "1/2 cup",
-          "name": "organic coconut milk"
+          "name": "coconut milk"
         },
         {
-          "qty": "1",
-          "name": "serving vanilla whey protein"
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "pure maple syrup"
+          "name": "maple syrup"
         },
         {
-          "qty": "",
-          "name": "pinch of sea salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "10 g",
+          "qty": "Mix-in: 10 g crushed",
           "name": "pecans"
         }
       ],
-      "instructions": [
-        "Mix in: crushed up pecans"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7781,8 +7779,9 @@
         "pecan",
         "protein"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:45.859Z",
-      "updatedAt": "2026-07-01T06:00:58.457Z"
+      "updatedAt": "2026-07-16T17:23:16.815Z"
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
