@@ -4146,8 +4146,8 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in: 14 grams",
-          "name": "toasted almonds"
+          "qty": "Mix-in: 14 grams toasted",
+          "name": "almonds"
         }
       ],
       "instructions": [
@@ -4166,7 +4166,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-14T17:24:35.478Z"
+      "updatedAt": "2026-07-16T19:45:20.159Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
