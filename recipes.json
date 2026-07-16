@@ -5958,6 +5958,10 @@
           "name": "peach extract"
         }
       ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null
+      ],
       "instructions": [],
       "prepNotes": "* no vanilla extract\n* can use 1 tbsp peach syrup skinny girl instead of extract",
       "afterPrepNotes": "",
@@ -5967,9 +5971,9 @@
         "protein",
         "peach"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-12T17:33:20.084Z"
+      "updatedAt": "2026-07-16T17:25:39.842Z"
     },
     {
       "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
