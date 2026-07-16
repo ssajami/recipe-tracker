@@ -3923,7 +3923,7 @@
     },
     {
       "id": "e81bf5d6-9676-4631-b883-b5ee038137a2",
-      "title": "High Protein Strawberry Cheesecake Ice Cream",
+      "title": "Strawberry Cheesecake Ice Cream",
       "servings": "delux tub",
       "source": "thecreameri.com",
       "ingredients": [
@@ -3932,28 +3932,28 @@
           "name": "strawberries"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "4 ounces",
+          "qty": "113 grams",
           "name": "cream cheese"
         },
         {
-          "qty": "",
-          "name": "½ cup milk"
+          "qty": "½ cup",
+          "name": "milk"
         },
         {
-          "qty": "",
-          "name": "¼ cup allulose"
+          "qty": "¼ cup",
+          "name": "allulose"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Graham crackers (crushed or broken into small pieces)"
+          "qty": "Mix-in: ",
+          "name": "graham crackers"
         }
       ],
       "instructions": [
@@ -3970,11 +3970,12 @@
       "tags": [
         "cheesecake",
         "ice cream",
-        "strawberry"
+        "strawberry",
+        "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:47:31.717Z",
-      "updatedAt": "2026-07-04T04:24:57.819Z"
+      "updatedAt": "2026-07-16T15:45:28.477Z"
     },
     {
       "id": "8a48d4f8-9888-463c-88a9-9f2edbf5d71e",
