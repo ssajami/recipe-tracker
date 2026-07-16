@@ -3394,34 +3394,28 @@
           "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "½ cup heavy cream"
+          "qty": "½ cup",
+          "name": "heavy cream"
         },
         {
           "qty": "2 tablespoons",
           "name": "black sesame paste"
         },
         {
-          "qty": "",
-          "name": "½ cup white sugar"
+          "qty": "½ cup",
+          "name": "white sugar"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
-        "Whisk the whole milk, heavy cream, sugar, black sesame paste, vanilla extract, and salt in a bowl or large measuring cup until the sugar dissolves and the sesame paste is fully blended. The mixture should look smooth and evenly dark gray.",
-        "Pour the mixture into a container, making sure it stays below the max fill line.",
-        "Freeze on a flat, level surface for at least 24 hours.",
-        "Remove the pint from the freezer and let it sit on the counter for 5 minutes before processing.",
-        "Run the Ice Cream cycle.",
-        "Check the texture after the first spin. If it looks crumbly, powdery, or uneven, run the Re-spin cycle. Add 1 tablespoon of milk before respinning if needed.",
-        "Serve right away for a softer texture, or freeze for 30 minutes if you want firmer, more classic ice cream scoops."
+        "Whisk the whole milk, heavy cream, sugar, black sesame paste, vanilla extract, and salt in a bowl or large measuring cup until the sugar dissolves and the sesame paste is fully blended. The mixture should look smooth and evenly dark gray."
       ],
       "prepNotes": "* Whisk until the paste is fully dissolved. Black sesame paste can clump if the milk is cold. If you're having trouble getting it smooth, warm the milk slightly (not hot, just room temp or a little above) before mixing. The paste disperses much more easily.\n\n* Taste your paste first. Black sesame pastes vary a lot by brand. Some are sweetened, some are unsweetened, some are intensely bitter. Taste it before you build the base and adjust the sugar accordingly. This one step saves you from a batch that's too bitter or too sweet.\n\n**Substitute in a pinch:** Tahini works, but you'll lose the signature dark color and get a milder flavor.\n\nVariations\n* Toasted sesame swirl - Toast a tablespoon of whole black sesame seeds in a dry pan for 2 minutes until fragrant, then stir them into the spun ice cream using the Mix-In function. Adds crunch and extra flavor.\n* Black sesame and white chocolate - After spinning, use Mix-In to fold in white chocolate chips or chopped white chocolate. The sweetness of white chocolate plays off the slight bitterness of the sesame really well.\n* Black sesame and miso - Add half a teaspoon of white miso to the base before freezing. It deepens the savory quality of the ice cream and makes it more complex without tasting like miso soup.\n* Coconut black sesame - Swap the heavy cream for full-fat coconut cream. Gives it a slightly tropical edge and pairs naturally with the nuttiness of the sesame.",
       "afterPrepNotes": "",
@@ -3430,9 +3424,9 @@
         "ice cream",
         "unique"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T10:02:24.009Z",
-      "updatedAt": "2026-07-04T03:49:39.744Z"
+      "updatedAt": "2026-07-16T18:33:56.449Z"
     },
     {
       "id": "ff8fc458-0f22-4769-b466-8d63e7a24f03",
