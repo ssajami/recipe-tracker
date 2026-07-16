@@ -540,7 +540,8 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 .ing-sug-item {
   padding: 8px 12px; font-size: 0.9rem; cursor: pointer;
 }
-.ing-sug-item:hover, .ing-sug-item.active { background: var(--hover); }
+.ing-sug-item:hover { background: var(--bg); }
+.ing-sug-item.active { background: var(--accent-light); color: var(--accent-dark); }
 .ing-link-select {
   font-size: 0.8rem; color: var(--text-muted);
   border: 1px solid var(--border); border-radius: var(--radius-sm);

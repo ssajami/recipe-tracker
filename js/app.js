@@ -494,12 +494,14 @@ const App = {
         e.preventDefault();
         idx = (idx + 1) % items.length;
         items.forEach((el, j) => el.classList.toggle('active', j === idx));
+        items[idx]?.scrollIntoView({ block: 'nearest' });
         sug._activeIdx = idx;
         return;
       } else if (e.key === 'ArrowUp') {
         e.preventDefault();
         idx = (idx - 1 + items.length) % items.length;
         items.forEach((el, j) => el.classList.toggle('active', j === idx));
+        items[idx]?.scrollIntoView({ block: 'nearest' });
         sug._activeIdx = idx;
         return;
       } else if (e.key === 'Enter' && idx >= 0) {
