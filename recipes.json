@@ -6096,7 +6096,7 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "Toppings: whipped cream, graham crackers, pumpkin pie OR allspice sprinkled on top",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -6104,9 +6104,9 @@
         "protein",
         "pumpkin"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-10T16:05:12.250Z"
+      "updatedAt": "2026-07-16T17:34:36.411Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
