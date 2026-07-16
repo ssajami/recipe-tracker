@@ -2588,9 +2588,9 @@
         "ice cream",
         "pistachio"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-08T18:46:33.848Z"
+      "updatedAt": "2026-07-16T18:37:47.822Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
