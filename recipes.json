@@ -3164,38 +3164,32 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cup Half and Half"
+          "qty": "1½ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup Cottage Cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "½ cup Sweetened Condensed Milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "2 teaspoons",
-          "name": "Vanilla Bean Extract"
+          "name": "vanilla bean extract"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon Mint chocolate chip flavor (add more if you want)"
+          "qty": "¼ teaspoon",
+          "name": "mint chocolate chip flavor"
         },
         {
-          "qty": "",
-          "name": "Crushed oreo cookies add more if you want"
+          "qty": "Mix-in:",
+          "name": "Oreo minis"
         }
       ],
-      "instructions": [
-        "Blend: Add all the ingredients to a blender or food processor and blend until smooth.",
-        "Freeze: Pour the mixture into a container. Freeze for 24 hours on a level surface.",
-        "Spin: Ice Cream mode",
-        "Respin (if needed): If the texture is crumbly, add 1–2 tablespoons of milk",
-        "Add mix-ins: mix in crushed Oreos"
-      ],
-      "prepNotes": "Substitutions:\n* Half & half - Mix equal parts heavy cream + whole milk\n* Cottage cheese - Try Greek yogurt\n\nFun Mix-Ins and Topping Ideas\n* Crushed Oreos for extra crunch\n* Mini chocolate chips for classic texture\n* Brownie bits if you want it extra rich",
+      "instructions": [],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3203,9 +3197,9 @@
         "mint",
         "cookies and cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:22:14.920Z",
-      "updatedAt": "2026-07-04T03:34:29.856Z"
+      "updatedAt": "2026-07-16T16:55:27.131Z"
     },
     {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
