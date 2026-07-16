@@ -3108,37 +3108,31 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cup Half and half"
+          "qty": "½ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup Sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup Cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon Mint chocolate chip flavor"
+          "qty": "½ teaspoon",
+          "name": "mint chocolate chip flavor"
         },
         {
           "qty": "1 teaspoon",
-          "name": "Vanilla extract or vanilla bean paste"
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "2",
-          "name": "drops  Green food color"
+          "qty": "2 drops",
+          "name": "green food coloring"
         }
       ],
-      "instructions": [
-        "Blend Ingredients – Combine everything in a blender until smooth.",
-        "Freeze for 24 Hours – Pour into a container and freeze on a level surface.",
-        "Spin on Ice Cream Mode",
-        "Respin if Needed – If it’s crumbly, respin for the perfect texture.",
-        "Serve and Enjoy – Scoop it up and enjoy a creamy, minty treat!"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -3146,9 +3140,9 @@
         "ice cream",
         "mint"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:23:46.465Z",
-      "updatedAt": "2026-07-04T03:31:04.629Z"
+      "updatedAt": "2026-07-16T18:46:10.661Z"
     },
     {
       "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
