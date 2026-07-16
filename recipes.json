@@ -7119,11 +7119,11 @@
           "name": "semi-skimmed milk"
         },
         {
-          "qty": "22 g (2 tbsp)",
+          "qty": "2 tbsp",
           "name": "cream cheese"
         },
         {
-          "qty": "5 g (1tsp)",
+          "qty": "1tsp",
           "name": "vanilla bean paste or extract"
         },
         {
@@ -7131,11 +7131,11 @@
           "name": "monk fruit"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g (¼ tsp)",
+          "qty": "¼ tsp",
           "name": "xanthan gum"
         },
         {
@@ -7158,7 +7158,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T06:20:35.980Z",
-      "updatedAt": "2026-07-16T15:49:21.627Z"
+      "updatedAt": "2026-07-16T19:49:06.882Z"
     },
     {
       "id": "33e35945-9af4-4812-9a49-549000cfcf3f",
