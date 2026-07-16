@@ -8413,32 +8413,32 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "100 g",
-          "name": "regular pitted dates, finely chopped"
+          "qty": "100 g finely chopped",
+          "name": "medjool dates"
         },
         {
-          "qty": "3",
-          "name": "–5 g baking soda"
+          "qty": "3–5 g",
+          "name": "baking soda"
         },
         {
-          "qty": "100 g",
-          "name": "boiling water"
+          "qty": "100 g boiling ",
+          "name": "water"
         },
         {
           "qty": "300 g",
-          "name": "milk of choice"
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "Pinch of fine salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1/2",
-          "name": "–1 tsp vanilla bean extract, to taste"
+          "qty": "½-1 tsp",
+          "name": "vanilla bean extract"
         },
         {
           "qty": "30 g",
-          "name": "whey protein isolate with minimal sweetener"
+          "name": "protein powder"
         }
       ],
       "instructions": [
@@ -8455,8 +8455,9 @@
         "ice cream",
         "sticky date"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-06-30T18:28:54.514Z"
+      "updatedAt": "2026-07-16T18:18:06.219Z"
     },
     {
       "id": "ead8c3a9-2c44-48f8-acb2-533f692e997f",
