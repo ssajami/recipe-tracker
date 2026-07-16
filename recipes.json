@@ -2930,55 +2930,50 @@
       "ingredients": [
         {
           "qty": "4",
-          "name": "chai tea bags (any brand)"
+          "name": "chai tea bags"
         },
         {
-          "qty": "",
-          "name": "½ cup hot water"
+          "qty": "½ cup ",
+          "name": "hot water"
         },
         {
           "qty": "1 cup",
           "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese (full-fat)"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon vanilla extract"
+          "qty": "½ teaspoon",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon salt"
+          "qty": "¼ teaspoon",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "¼ teaspoon ground cinnamon"
+          "qty": "¼ teaspoon",
+          "name": "cinnamon"
         }
       ],
       "instructions": [
-        "Steep the tea: Add chai tea bags to 1/2 cup hot water. Steep 5-7 minutes until dark and concentrated. Remove tea bags and let cool to room temperature.",
-        "Blend the base: Add cooled tea, half and half, cottage cheese, sweetened condensed milk, vanilla extract, salt, and cinnamon to a blender. Blend on high for 30 seconds until completely smooth.",
-        "Freeze: Pour into container. Freeze on a flat surface for 24 hours.",
-        "Spin: select **Ice Cream**.",
-        "Check texture: If crumbly or powdery (normal for tea-based ice cream), make a small well in the center and add 1-2 tablespoons half and half or milk. Select **Respin**.",
-        "Serve: Scoop immediately for soft-serve texture, or freeze 20-30 minutes for firmer scoops."
+        "Steep the tea: Add chai tea bags to 1/2 cup hot water. Steep 5-7 minutes until dark and concentrated. Remove tea bags and let cool to room temperature."
       ],
-      "prepNotes": "Substitutions:\n* Half and half: Equal parts heavy cream and whole milk if you don't have it\n* Cottage cheese: Greek yogurt (thicker texture) or cream cheese (richer but harder to blend)\n* Sugar-free: Use sugar-free sweetened condensed milk\n* Extra spicy: Add ¼ teaspoon ground cardamom or ginger\n* Dirty chai: Add 1 teaspoon instant espresso powder to the base before freezing\n\nMix-ins\n* Candied pecans - Adds crunch and a caramel note\n* Cinnamon graham cracker pieces - Like having chai with a cookie\n* Chocolate chunks - Because chai + chocolate is a classic pairing\n\nToppings\n* Whipped cream - Classic chai latte topping\n* Cinnamon stick - Makes it look fancy\n* Caramel drizzle - Adds sweetness and visual appeal\n* Extra cinnamon dusting - Reinforces the spice\n* Chopped pistachios - Adds color and a subtle nuttiness\n\nFlavor Variations You Should Try\n* Dirty Chai. Add 1 teaspoon instant espresso powder or 2 tablespoon cooled strong espresso to the base before freezing. The coffee + chai combo is unreal. If you love coffee ice cream, you'll love this.\n* Vanilla Chai. Double the vanilla extract (use 1 teaspoon total). This makes it taste more like a vanilla chai latte - mellower on the spice, heavier on the sweet vanilla notes.\n* Extra Spiced Chai. Add ¼ teaspoon ground cardamom and ¼ teaspoon ground ginger to the base. Or steep the tea for the full 7 minutes and add a pinch of black pepper for heat. Great if you like your chai seriously spicy.\n* Maple Chai. Replace the sweetened condensed milk with ⅓ cup pure maple syrup + ¼ cup heavy cream. Gives it a fall flavor twist similar to maple walnut but with chai spices.",
+      "prepNotes": "Mix-ins\n* Candied pecans - Adds crunch and a caramel note\n* Cinnamon graham cracker pieces - Like having chai with a cookie\n* Chocolate chunks - Because chai + chocolate is a classic pairing\n\nVariations:\n* Dirty Chai. Add 1 teaspoon instant espresso powder or 2 tablespoon cooled strong espresso to the base before freezing. The coffee + chai combo is unreal. If you love coffee ice cream, you'll love this.\n* Vanilla Chai. Double the vanilla extract (use 1 teaspoon total). This makes it taste more like a vanilla chai latte - mellower on the spice, heavier on the sweet vanilla notes.\n* Extra Spiced Chai. Add ¼ teaspoon ground cardamom and ¼ teaspoon ground ginger to the base. Or steep the tea for the full 7 minutes and add a pinch of black pepper for heat. Great if you like your chai seriously spicy.\n* Maple Chai. Replace the sweetened condensed milk with ⅓ cup pure maple syrup + ¼ cup heavy cream. Gives it a fall flavor twist similar to maple walnut but with chai spices.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "unique",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:25:03.069Z",
-      "updatedAt": "2026-07-03T12:51:59.284Z"
+      "updatedAt": "2026-07-16T18:44:19.377Z"
     },
     {
       "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
