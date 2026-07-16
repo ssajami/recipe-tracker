@@ -4281,8 +4281,8 @@
           "name": "salt"
         },
         {
-          "qty": "½",
-          "name": "ripe banana"
+          "qty": "½ ripe",
+          "name": "banana"
         },
         {
           "qty": "⅛ tsp",
@@ -4308,7 +4308,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T19:21:09.592Z"
+      "updatedAt": "2026-07-16T19:36:52.323Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
