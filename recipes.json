@@ -3854,23 +3854,23 @@
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "strawberries (hulled, fresh or frozen and thawed)"
+          "name": "strawberries"
         },
         {
-          "qty": "",
-          "name": "½ cup whole milk or 2% milk"
+          "qty": "½ cup",
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup full-fat or 2% Greek yogurt"
+          "qty": "¾ cup",
+          "name": "greek yogurt"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "⅓ cup allulose"
+          "qty": "⅓ cup",
+          "name": "allulose"
         },
         {
           "qty": "1 teaspoon",
@@ -3879,10 +3879,6 @@
       ],
       "instructions": [
         "Add the cottage cheese, strawberries, Greek yogurt, allulose, vanilla extract, and milk to a blender. Blend until completely smooth, with no visible cottage cheese curds or strawberry pieces.",
-        "Pour the mixture into a container. freeze on a level surface for 24 hours.",
-        "Remove the pint from the freezer and let it sit at room temperature for 2 to 3 minutes.",
-        "Process on the Lite Ice Cream setting for a lighter froyo texture, or use Ice Cream for a denser result.",
-        "Respin once if the texture is crumbly after the first spin.",
         "Scoop and serve immediately, or refreeze for 20 to 30 minutes for firmer scoops."
       ],
       "prepNotes": "* Strawberries - fresh or frozen and thawed; frozen strawberries are often sweeter and more concentrated in flavor, which works really well here. Hull and drain them before blending.\n* Blend the cottage cheese first, alone. It takes 20 extra seconds and guarantees a completely smooth base. Skipping this step is the most common reason cottage cheese bases come out slightly grainy.\n\nMix-Ins and Topping Ideas\n* Fresh strawberry chunks - fold in after spinning for bursts of fresh fruit throughout the pint\n* Granola - adds crunch and a little extra staying power;\n* Honey drizzle - a light drizzle on top when serving\n* Strawberry jam swirl - a teaspoon folded into the mix-in well gives you a jammy ribbon and intensifies the strawberry flavor",
@@ -3892,9 +3888,9 @@
         "yogurt",
         "strawberry"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:47:56.373Z",
-      "updatedAt": "2026-07-04T04:23:15.993Z"
+      "updatedAt": "2026-07-16T18:19:08.592Z"
     },
     {
       "id": "e81bf5d6-9676-4631-b883-b5ee038137a2",
