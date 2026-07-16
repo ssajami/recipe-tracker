@@ -8099,45 +8099,41 @@
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
-      "title": "**Vanilla Bean FroYo",
+      "title": "Vanilla Bean FroYo",
       "servings": "creami tub",
       "source": "@fitnessproductfinder",
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "Vanilla OIKOS PRO"
+          "name": "vanilla protein yogurt"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) vanilla bean paste"
+          "qty": "1 tsp",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "35",
-          "name": "-40g sugar substitute"
+          "qty": "35-40 g",
+          "name": "sweetener"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) binding agent"
+          "qty": "¼ tsp",
+          "name": "xanthan gum"
         }
       ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Spin on \"Respin\" setting until it reaches your desired texture"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "frozen yogurt"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T19:15:57.506Z",
-      "updatedAt": "2026-07-01T02:49:48.764Z"
+      "updatedAt": "2026-07-16T18:32:14.155Z"
     },
     {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
