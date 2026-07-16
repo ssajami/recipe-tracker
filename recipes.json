@@ -3064,57 +3064,49 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "¼ cup half and half"
+          "qty": "1¼ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "¼ cup sweetened condensed milk"
+          "qty": "¼ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "¼ cup cottage cheese"
+          "qty": "¼ cup",
+          "name": "cottage cheese"
         },
         {
           "qty": "2 tablespoon",
           "name": "maple syrup"
         },
         {
-          "qty": "",
-          "name": "⅔ cup Cinnamon Toast Crunch cereal"
-        },
-        {
           "qty": "1 teaspoon",
           "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "½ teaspoon cinnamon powder"
+          "qty": "½ teaspoon",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "Mix-in: ⅔ cup",
+          "name": "Cinnamon Toast Crunch cereal"
         }
       ],
-      "instructions": [
-        "Add half and half, condensed milk, cottage cheese, maple syrup, vanilla, cinnamon powder, and salt to a blender. Blend until totally smooth.",
-        "Pour into a container up to the max fill line.",
-        "Freeze for 24 hours.",
-        "Spin on Ice Cream cycle.",
-        "If crumbly, Respin. Add 1–2 Tbsp half and half if needed.",
-        "Create a center tunnel, add Cinnamon Toast Crunch, and Mix-In.",
-        "Serve immediately or freeze briefly for a firmer scoop."
-      ],
-      "prepNotes": "Substitutions\n* Swap for Cinnamon Squares, or even granola.\n* Add a swirl of extra maple syrup after the Mix-In for a ribbons effect.\n* Fold in crushed pecans or walnuts for a maple-nutty vibe.\n* Sub half the half-and-half with milk for a lighter base.\n\nTopping & Mix-In Ideas\n* Extra crushed cinnamon cereal after the Mix-In cycle\n* A drizzle of warm maple syrup on top\n* Toasted walnuts or pecans\n* A sprinkle of cinnamon sugar\n* Whipped cream (because why not?)",
+      "instructions": [],
+      "prepNotes": "Substitutions\n* Swap for Cinnamon Squares, or even granola.\n* Add a swirl of extra maple syrup after the Mix-In for a ribbons effect.\n* Fold in crushed pecans or walnuts for a maple-nutty vibe.\n* Sub half the half-and-half with milk for a lighter base.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "cinnamon"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:24:07.283Z",
-      "updatedAt": "2026-07-05T17:41:16.893Z"
+      "updatedAt": "2026-07-16T16:36:48.476Z"
     },
     {
       "id": "d44f4048-6f18-4287-9306-8ac097b6f958",
