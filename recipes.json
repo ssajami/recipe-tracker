@@ -3904,8 +3904,8 @@
           "name": "extra virgin olive oil"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk (or adjust with condensed milk)"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "1 teaspoon",
@@ -3913,14 +3913,11 @@
         },
         {
           "qty": "2 teaspoon",
-          "name": "lemon juice  (or zest of 1 lemon)"
+          "name": "lemon juice "
         }
       ],
       "instructions": [
-        "Blend: Combine half and half, olive oil, sweetened condensed milk, vanilla, and lemon in a blender. Blend until smooth and fully emulsified — meaning the olive oil is completely mixed in with no oily layer on top. It should look creamy and uniform, not separated.",
-        "Freeze for 24 hours on a level surface.",
-        "Spin: Run on “Ice Cream” mode",
-        "Respin: If the texture looks crumbly, make a small well in the center, add about 1 tablespoon of half and half, then respin until smooth."
+        "Blend: Combine half and half, olive oil, sweetened condensed milk, vanilla, and lemon in a blender. Blend until smooth and fully emulsified — meaning the olive oil is completely mixed in with no oily layer on top. It should look creamy and uniform, not separated."
       ],
       "prepNotes": "Topping & Mix-In Ideas\n* Flaked sea salt or Maldon\n* Crushed pistachios or almonds\n* Dark chocolate shavings or nibs\n* Citrus zest flakes\n* Candied nuts or brittle",
       "afterPrepNotes": "",
@@ -3929,9 +3926,9 @@
         "ice cream",
         "unique"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:46:57.084Z",
-      "updatedAt": "2026-07-04T04:26:30.299Z"
+      "updatedAt": "2026-07-16T18:45:07.405Z"
     },
     {
       "id": "41c74812-0fd3-4363-9dbb-f2482ed656e1",
