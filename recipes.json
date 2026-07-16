@@ -2247,7 +2247,7 @@
       "ingredients": [
         {
           "qty": "375 g",
-          "name": "2% milk"
+          "name": "whole milk"
         },
         {
           "qty": "1 scoop",
@@ -2262,16 +2262,16 @@
           "name": "non-fat milk powder"
         },
         {
-          "qty": "⅛ tsp",
+          "qty": "⅛ tsp heaping",
           "name": "xanthan gum"
         },
         {
-          "qty": "",
+          "qty": "¼ tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "½ tsp",
@@ -2287,9 +2287,9 @@
         "protein",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-14T16:27:39.762Z"
+      "updatedAt": "2026-07-16T18:30:42.576Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
