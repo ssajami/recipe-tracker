@@ -8341,37 +8341,35 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "high protein sweetened yogurt"
+          "name": "protein yogurt"
         },
         {
-          "qty": "25",
-          "name": "–50 g light agave syrup or pure maple syrup"
+          "qty": "25-50g",
+          "name": "agave syrup"
         },
         {
-          "qty": "0.5 g",
-          "name": "(lightly heaped 1/8 tsp) xanthan gum"
+          "qty": "0.5 g (lightly heaped 1/8 tsp)",
+          "name": "xanthan gum"
         },
         {
           "qty": "100 g",
-          "name": "milk of choice"
+          "name": "whole milk"
         }
       ],
       "instructions": [
-        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the tub.",
-        "Freeze 16–24 hours with the lid off.",
         "Let sit on the bench 5–15 minutes before processing.",
         "Process on the light ice cream function — generally needs two spins.",
         "Store leftovers in the freezer with the lid on."
       ],
-      "prepNotes": "Use a yogurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yogurt + high protein skim milk.",
+      "prepNotes": "Use a yogurt that's already sweetened.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "frozen yogurt"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-04T04:27:54.789Z"
+      "updatedAt": "2026-07-16T17:04:27.580Z"
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
