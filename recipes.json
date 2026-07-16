@@ -328,8 +328,8 @@
           "name": "blueberry extract"
         },
         {
-          "qty": "Mix-in: ¼ cup",
-          "name": "fresh blueberries"
+          "qty": "Mix-in: ¼ cup fresh",
+          "name": "blueberries"
         },
         {
           "qty": "Mix-in: 3 ",
@@ -359,7 +359,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T17:39:53.597Z",
-      "updatedAt": "2026-07-14T16:42:56.088Z"
+      "updatedAt": "2026-07-16T19:23:47.899Z"
     },
     {
       "id": "9c4c497b-5d8b-4440-ac76-15f5d950c91c",
