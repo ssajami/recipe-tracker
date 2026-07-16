@@ -2599,51 +2599,48 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cup Half and Half"
+          "qty": "1½ cup",
+          "name": "half and half"
         },
         {
           "qty": "4 tablespoons",
           "name": "cocoa powder"
         },
         {
-          "qty": "",
-          "name": "½ cup hot water"
+          "qty": "½ cup",
+          "name": "hot water"
         },
         {
-          "qty": "",
-          "name": "½ cup condensed milk"
-        },
-        {
-          "qty": "1 teaspoon",
-          "name": "Espresso Instant Coffee"
-        },
-        {
-          "qty": "",
-          "name": "½ cup Cottage Cheese"
+          "qty": "½ cup",
+          "name": "condensed milk"
         },
         {
           "qty": "1 teaspoon",
-          "name": "Vanilla extract or vanilla bean paste"
+          "name": "instant coffee"
+        },
+        {
+          "qty": "½ cup",
+          "name": "cottage cheese"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "vanilla bean paste or extract"
         }
       ],
       "instructions": [
         "Dissolve Cocoa Powder: In a small bowl, mix the cocoa powder with a few tablespoons of hot water until smooth. Let it cool slightly.",
-        "Blend: Add all ingredients to a blender and blend until smooth.",
-        "Freeze: Pour into a container and freeze for 24 hours.",
-        "Spin: select the Ice Cream function.",
-        "Respin if needed: If crumbly, add 1-2 tablespoons of milk and respin."
+        "Blend: Add all ingredients to a blender and blend until smooth."
       ],
-      "prepNotes": "* If the ice cream turns out crumbly, add 1-2 tablespoons of milk and respin.\n* For a rich chocolate flavor, use high-quality cocoa powder and dissolve it in hot water first. Blending cocoa powder directly with other ingredients may take longer and create excess bubbles in the mixture.\n\nSubstitutions:\nReplace Half and Half ➝ Use an equal mix of heavy cream and whole milk. However, be cautious when using heavy cream —over-spinning may cause it to turn into butter.\nReplace Cottage Cheese ➝ Use Greek yogurt for a tangy twist.\n\nFun Mix-Ins and Topping Ideas\nClassic: crushed Oreos, peanut butter swirl, chocolate chunks, fresh strawberries (chocolate-covered strawberry vibes).\nExtra treat: brownie chunks, chopped Reese’s, hot fudge, salted caramel.\nCrunchy: chopped nuts, graham crackers, toffee bits, or crushed candy bars like Snickers, Heath, or Butterfinger.",
+      "prepNotes": "Substitutions:\nReplace Half and Half ➝ Use an equal mix of heavy cream and whole milk. However, be cautious when using heavy cream —over-spinning may cause it to turn into butter.\nReplace Cottage Cheese ➝ Use Greek yogurt for a tangy twist.\n\nFun Mix-Ins and Topping Ideas\nClassic: crushed Oreos, peanut butter swirl, chocolate chunks, fresh strawberries (chocolate-covered strawberry vibes).\nExtra treat: brownie chunks, chopped Reese’s, hot fudge, salted caramel.\nCrunchy: chopped nuts, graham crackers, toffee bits, or crushed candy bars like Snickers, Heath, or Butterfinger.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "chocolate"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:27:14.489Z",
-      "updatedAt": "2026-07-03T09:29:42.710Z"
+      "updatedAt": "2026-07-16T16:08:14.659Z"
     },
     {
       "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
