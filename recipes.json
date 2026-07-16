@@ -1239,8 +1239,8 @@
           "name": "large egg"
         },
         {
-          "qty": "1 room temperature",
-          "name": "large egg yolk"
+          "qty": "1 room temperature large",
+          "name": "egg yolk"
         },
         {
           "qty": "1 tsp",
@@ -1256,7 +1256,7 @@
         },
         {
           "qty": "20 oz",
-          "name": "high quality semi sweet chocolate"
+          "name": "semi sweet chocolate"
         },
         {
           "qty": "1 tsp",
@@ -1294,7 +1294,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T15:36:26.184Z",
-      "updatedAt": "2026-07-14T16:46:06.662Z"
+      "updatedAt": "2026-07-16T18:52:03.603Z"
     },
     {
       "id": "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
