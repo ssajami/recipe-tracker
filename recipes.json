@@ -8426,31 +8426,28 @@
           "name": "pumpkin puree"
         },
         {
-          "qty": "75",
-          "name": "–100 g pure maple syrup"
+          "qty": "75–100 g",
+          "name": "maple syrup"
         },
         {
           "qty": "150 g",
-          "name": "cream"
+          "name": "heavy cream"
         },
         {
           "qty": "75 g",
-          "name": "milk"
+          "name": "whole milk"
         },
         {
-          "qty": "1",
-          "name": "–2 tsp pumpkin spice"
+          "qty": "1–2 tsp",
+          "name": "pumpkin spice"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
-        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
-        "Pour into the tub and freeze with the lid off, 16–24 hours.",
-        "Process on the ice cream function; re-spin if needed.",
-        "Return leftovers to the freezer with the lid on."
+        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste."
       ],
       "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
       "afterPrepNotes": "",
@@ -8460,8 +8457,9 @@
         "pumpkin",
         "maple"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-01T06:01:22.954Z"
+      "updatedAt": "2026-07-16T17:24:05.590Z"
     },
     {
       "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
