@@ -3307,16 +3307,16 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "½ cups milk (2% or whole)"
+          "qty": "1½ cups",
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "¼ cup heavy cream"
+          "qty": "¼ cup",
+          "name": "heavy cream"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "2 teaspoons",
@@ -3327,27 +3327,21 @@
           "name": "salt"
         },
         {
-          "qty": "4",
-          "name": "–6 Oreo cookies (broken into chunks (for mix-in))"
+          "qty": "Mix-in: 4-6 broken",
+          "name": "oreo cookies"
         }
       ],
-      "instructions": [
-        "Add the milk, heavy cream, sweetened condensed milk, vanilla extract, and salt directly to the container. Use a small whisk, milk frother, or spoon to mix until fully combined and smooth.",
-        "Freeze on a level surface for 24 hours until completely solid.",
-        "Process using the Ice Cream setting.",
-        "If the texture looks crumbly or powdery, add 1 tablespoon milk and run Respin once.",
-        "Create a hole in the center of the ice cream, add the broken Oreo cookies, and run the Mix-In cycle."
-      ],
-      "prepNotes": "Substitution\n* Different Oreo flavors - Golden Oreos give you a vanilla-on-vanilla situation that's sweeter and more caramel-forward. Mint Oreos add a cool finish. Birthday Cake Oreos lean fun and festive. The base works with any of them - just keep the quantity the same.\n* Dairy-free - Swap the milk for oat milk and the heavy cream for full-fat coconut cream. Use sweetened condensed coconut milk in place of regular. The texture will be slightly softer but still creamy.\n* More chocolate - Add a tablespoon of chocolate sauce into the well before your Oreos go in. It swirls through the base during the mix-in and gives you a little extra chocolate hit.",
+      "instructions": [],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "cookies and cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T10:03:44.820Z",
-      "updatedAt": "2026-07-04T03:42:14.034Z"
+      "updatedAt": "2026-07-16T16:56:50.625Z"
     },
     {
       "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
