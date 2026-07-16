@@ -7828,7 +7828,7 @@
       "ingredients": [
         {
           "qty": "300 ml",
-          "name": "full cream milk"
+          "name": "whole"
         },
         {
           "qty": "100 g",
@@ -7836,22 +7836,23 @@
         },
         {
           "qty": "20 g",
-          "name": "instant pudding, vanilla"
+          "name": "sugar free vanilla pudding"
         },
         {
-          "qty": "2",
-          "name": "heaped tsp (~5g) instant coffee (brewed with 1 tbsp hot water)"
+          "qty": "2 heaped tsp (~5g)",
+          "name": "instant coffee"
         },
         {
           "qty": "20 g",
           "name": "stevia"
         },
         {
-          "qty": "1 tsp",
+          "qty": "Topping: 1 tsp",
           "name": "cacao powder"
         }
       ],
       "instructions": [
+        "Brewed instant coffee with 1 tbsp hot water",
         "Place all ingredients (apart from cacao) in pint & use hand mixer.",
         "Freeze overnight.",
         "When making, run pint under water for 10 seconds.",
@@ -7867,9 +7868,9 @@
         "ice cream",
         "yogurt"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-04T04:27:29.387Z"
+      "updatedAt": "2026-07-16T16:42:21.451Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
