@@ -5859,7 +5859,7 @@
         },
         {
           "qty": "Mix-ins:  sliced",
-          "name": "bananas"
+          "name": "banana"
         },
         {
           "qty": "Topping:",
@@ -5881,7 +5881,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T19:38:05.991Z"
+      "updatedAt": "2026-07-16T19:50:17.925Z"
     },
     {
       "id": "74c47870-c201-4256-9ac4-2de561711ff6",
