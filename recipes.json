@@ -1694,15 +1694,15 @@
         },
         {
           "qty": "5 gr (optional, but helps with softness)",
-          "name": "Vegetable glycerin"
+          "name": "vegetable glycerin"
         },
         {
           "qty": "⅓ tsp",
-          "name": "Ground cinnamon"
+          "name": "cinnamon"
         },
         {
           "qty": "⅓ tsp",
-          "name": "Kosher salt"
+          "name": "kosher salt"
         },
         {
           "qty": "2 tsp",
@@ -1710,7 +1710,7 @@
         },
         {
           "qty": "pinch",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         }
       ],
       "instructions": [
@@ -1728,7 +1728,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:44:30.374Z",
-      "updatedAt": "2026-07-16T19:39:50.794Z"
+      "updatedAt": "2026-07-16T19:42:27.350Z"
     },
     {
       "id": "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38",
