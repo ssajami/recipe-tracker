@@ -2406,16 +2406,16 @@
       "source": "me",
       "ingredients": [
         {
-          "qty": "½ cup halves/pieces",
-          "name": "walnuts"
+          "qty": "½ cup",
+          "name": " walnut halves/pieces"
         },
         {
           "qty": "2 tbsp",
           "name": "maple syrup"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         }
       ],
       "instructions": [
@@ -2433,9 +2433,9 @@
         "snacks",
         "toppings"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-03T05:38:22.343Z",
-      "updatedAt": "2026-07-16T17:53:19.991Z"
+      "updatedAt": "2026-07-08T18:17:10.211Z"
     },
     {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
@@ -2535,9 +2535,9 @@
         "sorbet",
         "raspberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:27:59.554Z",
-      "updatedAt": "2026-07-16T17:34:50.389Z"
+      "updatedAt": "2026-07-08T18:18:52.839Z"
     },
     {
       "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
@@ -2575,18 +2575,22 @@
         }
       ],
       "instructions": [
-        "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth."
+        "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth.",
+        "Freeze – Pour into tub, cover, and freeze for 24 hours on a level surface.",
+        "Spin – use the “Ice Cream” setting.",
+        "Respin if needed – If crumbly, add 1-2 tablespoons of milk and respin.",
+        "Add Mix-Ins – Stir in chopped pistachios, and select the Mix-In function."
       ],
-      "prepNotes": "Substitutions:\nReplace half-and-half – Use equal parts heavy cream and whole milk.\nSwap cottage cheese – Use Greek yogurt for a tangy twist.\nSkip condensed milk – Use honey or maple syrup for a natural sweetener.\nAdd-ins: Dark chocolate chips\n\nVariations:\nDubai Chocolate Ice Cream – Add cocoa powder for a chocolatey twist. \nPistachio Chocolate Ice Cream – Mix in chocolate chips or a fudge swirl. \nHoney Pistachio Ice Cream – Drizzle honey for a floral sweetness. \nCardamom Pistachio Ice Cream – Add a pinch of cardamom for Middle Eastern vibes. \nSalted Caramel Pistachio Ice Cream – Swirl in homemade caramel sauce. \nEspresso Pistachio Ice Cream – Add a shot of espresso for a bold twist. \nCoconut Pistachio Ice Cream – Use coconut milk instead of half-and-half.",
+      "prepNotes": "* If too crumbly, add 1-2 tablespoons of milk. Respin until smooth.\n* Taste your base before freezing. It should be slightly sweeter than your preference.\n\nSubstitutions:\nReplace half-and-half – Use equal parts heavy cream and whole milk.\nSwap cottage cheese – Use Greek yogurt for a tangy twist.\nSkip condensed milk – Use honey or maple syrup for a natural sweetener.\nAdd-ins: Dark chocolate chips\n\nVariations:\nDubai Chocolate Ice Cream – Add cocoa powder for a chocolatey twist. \nPistachio Chocolate Ice Cream – Mix in chocolate chips or a fudge swirl. \nHoney Pistachio Ice Cream – Drizzle honey for a floral sweetness. \nCardamom Pistachio Ice Cream – Add a pinch of cardamom for Middle Eastern vibes. \nSalted Caramel Pistachio Ice Cream – Swirl in homemade caramel sauce. \nEspresso Pistachio Ice Cream – Add a shot of espresso for a bold twist. \nCoconut Pistachio Ice Cream – Use coconut milk instead of half-and-half.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "pistachio"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-16T17:28:59.594Z"
+      "updatedAt": "2026-07-08T18:46:33.848Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
@@ -2699,28 +2703,28 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "¾ cup",
-          "name": "half and half"
+          "qty": "",
+          "name": "¾ cup half and half (equal parts milk and heavy cream)"
         },
         {
-          "qty": "½ cup",
-          "name": "sweetened condensed milk"
+          "qty": "",
+          "name": "½ cup sweetened condensed milk"
         },
         {
-          "qty": "½ cup",
-          "name": "cottage cheese"
+          "qty": "",
+          "name": "½ cup cottage cheese"
         },
         {
-          "qty": "¾ cup",
-          "name": "pumpkin puree"
+          "qty": "",
+          "name": "¾ cup pumpkin puree"
         },
         {
           "qty": "2 tablespoon",
-          "name": "brown sugar allulose"
+          "name": "brown sugar or allulose"
         },
         {
           "qty": "2 teaspoon",
-          "name": "espresso instant powder"
+          "name": "instant espresso instant coffee mix"
         },
         {
           "qty": "1 teaspoon",
@@ -2729,17 +2733,17 @@
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
-        },
-        {
-          "qty": "Min-in:",
-          "name": "toasted pecans"
         }
       ],
       "instructions": [
         "Blend the ingredients on high until completely smooth and creamy — no lumps or grainy bits.",
-        "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half & half before respinning for extra creaminess."
+        "Pour the mixture into a tub, stopping just below the max fill line. Freeze flat for at least 24 hours.",
+        "Spin Select the Ice Cream function and let it run through the full cycle.",
+        "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half & half before respinning for extra creaminess.",
+        "Add mix-ins (optional): Once you’ve hit your ideal texture, add any mix-ins — like crushed gingersnaps, caramel bits, or toasted pecans — and run the Mix-In cycle.",
+        "Scoop it right away or refreeze for 30 minutes if you prefer it firmer."
       ],
-      "prepNotes": "Substitution\nUse heavy cream + milk instead of half & half for extra richness\nSwap cottage cheese for Greek yogurt (full fat) or soft cream cheese\nReplace brown sugar with maple syrup, monk fruit, or stevia\n\n\nVariations\nPumpkin Spice Latte Ice Cream — up the espresso a bit for a bolder coffee hit\nMaple Pumpkin — swap or drizzle in maple syrup\nCaramel Pumpkin Spice — swirl caramel sauce toward the end\nPumpkin Chocolate Chip — fold in mini chocolate chips\nPumpkin Pecan Crunch — add toasted pecans or candied nuts",
+      "prepNotes": "Substitution\nUse heavy cream + milk instead of half & half for extra richness\nSwap cottage cheese for Greek yogurt (full fat) or soft cream cheese\nReplace brown sugar with maple syrup, monk fruit, or stevia\nAdd mix-ins like crushed gingersnaps, toasted pecans, caramel swirl\n\nFlavor Variations to Try\nPumpkin Spice Latte Ice Cream — up the espresso a bit for a bolder coffee hit\nMaple Pumpkin — swap or drizzle in maple syrup\nCaramel Pumpkin Spice — swirl caramel sauce toward the end\nPumpkin Chocolate Chip — fold in mini chocolate chips\nPumpkin Pecan Crunch — add toasted pecans or candied nuts",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2747,9 +2751,9 @@
         "unique",
         "pumpkin"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:26:32.083Z",
-      "updatedAt": "2026-07-16T17:34:21.082Z"
+      "updatedAt": "2026-07-03T09:35:54.977Z"
     },
     {
       "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
@@ -2810,47 +2814,38 @@
           "name": "half and half"
         },
         {
-          "qty": "¼ cup",
-          "name": "sweetened condensed milk"
+          "qty": "",
+          "name": "¼ cup sweetened condensed milk"
         },
         {
-          "qty": "50 g",
-          "name": "cream cheese"
+          "qty": "2 ounces",
+          "name": "full-fat cream cheese"
         },
         {
           "qty": "3 Tablespoons",
-          "name": "maple syrup"
+          "name": "pure maple syrup"
         },
         {
           "qty": "1 teaspoon",
           "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "½ cup chopped candied maple walnuts (see recipe)"
         },
         {
-          "qty": "Mix-in: ½ cup chopped",
-          "name": "candied maple walnuts"
+          "qty": "",
+          "name": "Pinch of salt"
         }
-      ],
-      "ingredientLinks": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "e995b047-6fec-45ed-a80f-10fc96eb5a92"
       ],
       "instructions": [
         "Blend half and half, condensed milk, cream cheese, maple syrup, vanilla, and salt until smooth.",
         "Pour into a tub and freeze 24 hours.",
         "Spin using Ice Cream setting.",
         "If crumbly, add 1 Tbsp half-and-half and Respin.",
-        "Add candied walnuts using Mix-In cycle."
+        "Add candied walnuts using Mix-In cycle. (see recipe for walnuts)"
       ],
-      "prepNotes": "No candied nuts? Toasted walnuts work great too.\nGo full fall mode: .Add ¼ teaspoon cinnamon or nutmeg to the base before freezing.",
+      "prepNotes": "* Half-and-half prevents the “butter problem” heavy cream can cause.\n* Always blend cream cheese fully for a silky base.\n* Add nuts after spinning to keep them crisp.\n\nNo candied nuts? Toasted walnuts work great too.\nGo full fall mode: Add ¼ teaspoon cinnamon or nutmeg to the base before freezing.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2858,9 +2853,9 @@
         "maple",
         "walnut"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:25:38.473Z",
-      "updatedAt": "2026-07-16T17:22:10.665Z"
+      "updatedAt": "2026-07-03T09:39:08.468Z"
     },
     {
       "id": "8f41383b-fcff-4ec5-8dfe-aa0e182668d4",
@@ -3115,31 +3110,37 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1½ cup",
-          "name": "half and half"
+          "qty": "1",
+          "name": "½ cup Half and half"
         },
         {
-          "qty": "½ cup",
-          "name": "sweetened condensed milk"
+          "qty": "",
+          "name": "½ cup Sweetened condensed milk"
         },
         {
-          "qty": "½ cup",
-          "name": "cottage cheese"
+          "qty": "",
+          "name": "½ cup Cottage cheese"
         },
         {
-          "qty": "½ teaspoon",
-          "name": "mint chocolate chip extract"
+          "qty": "",
+          "name": "½ teaspoon Mint chocolate chip flavor"
         },
         {
           "qty": "1 teaspoon",
-          "name": "vanilla bean paste or extract"
+          "name": "Vanilla extract or vanilla bean paste"
         },
         {
-          "qty": "2drops",
-          "name": "green food coloring"
+          "qty": "2",
+          "name": "drops  Green food color"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Blend Ingredients – Combine everything in a blender until smooth.",
+        "Freeze for 24 Hours – Pour into a container and freeze on a level surface.",
+        "Spin on Ice Cream Mode",
+        "Respin if Needed – If it’s crumbly, respin for the perfect texture.",
+        "Serve and Enjoy – Scoop it up and enjoy a creamy, minty treat!"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -3147,9 +3148,9 @@
         "ice cream",
         "mint"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:23:46.465Z",
-      "updatedAt": "2026-07-16T17:25:01.734Z"
+      "updatedAt": "2026-07-04T03:31:04.629Z"
     },
     {
       "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
@@ -3250,6 +3251,51 @@
       "updatedAt": "2026-07-14T17:20:06.745Z"
     },
     {
+      "id": "121e9662-0a03-451f-ae30-b7506ad6ff8f",
+      "title": "Hot Honey Ice Cream",
+      "servings": "delux tub",
+      "source": "thecreameri.com",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "¾ cup Half-and-Half"
+        },
+        {
+          "qty": "",
+          "name": "¼ cup Hot Honey"
+        },
+        {
+          "qty": "",
+          "name": "½ cup Cottage Cheese"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "Vanilla Extract or vanilla bean paste"
+        },
+        {
+          "qty": "",
+          "name": "Pinch Salt"
+        }
+      ],
+      "instructions": [
+        "Blend the ingredients: In a blender, combine half-and-half, hot honey, cottage cheese, vanilla, and salt. Blend until smooth.",
+        "Freeze: Pour the mixture into a container. Freeze for 12-24 hours.",
+        "Spin on the “Ice Cream” setting.",
+        "Re-spin if needed: If the texture is crumbly, add 1-2 tbsp of milk and re-spin until creamy."
+      ],
+      "prepNotes": "Substitution\n* Cottage Cheese for Greek Yogurt – Similar protein boost, different tangy flavor.\n* Heavy Cream Instead of Half-and-Half – For an extra rich texture.\n* Add a Dash of Cinnamon – Enhances the warmth of the hot honey.\n\nFlavor Variations to Try\n* Honey Lavender – Add dried lavender for a floral touch.\n* Chili Chocolate Honey – Mix in cocoa powder and extra chili.\n* Hot Honey & Cinnamon Swirl – Swirl in cinnamon sugar.\n* Spicy Peanut Butter Honey – Add peanut butter for a nutty kick.\n* Maple Hot Honey – Replace honey with maple syrup.\n* Lemon Honey Spice – Add a touch of lemon zest.\n* Chai Honey – Infuse with chai spices like cardamom and cloves.\n* Hot Honey Espresso – A coffee-infused twist!\n\nWhat Goes Well with Hot Honey Ice Cream?\n* Warm Apple Pie – A spicy-sweet contrast.\n* Grilled Peaches – Smoky and caramelized goodness.\n* Buttermilk Waffles – Perfect sweet-savory breakfast treat.\n* Dark Chocolate Brownies – Deep, rich flavors complement the spice.\n* Chili-Spiced Nuts – Extra crunch and heat.\n* Vanilla Bean Shortbread Cookies – Buttery balance to the spice.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "honey",
+        "unique"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-02T10:04:07.714Z",
+      "updatedAt": "2026-07-04T03:39:27.487Z"
+    },
+    {
       "id": "048300fd-295a-4a6f-9959-8434c262f37a",
       "title": "Cookies and Cream Ice Cream",
       "servings": "delux tub",
@@ -3299,43 +3345,46 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1½ cups",
-          "name": "whole milk"
+          "qty": "1",
+          "name": "½ cups milk"
         },
         {
-          "qty": "¼ cup",
-          "name": "heavy cream"
+          "qty": "",
+          "name": "¼ cup heavy cream"
         },
         {
-          "qty": "¼ cup",
-          "name": "sweetened condensed milk"
+          "qty": "",
+          "name": "¼ cup sweetened condensed milk"
         },
         {
-          "qty": "¼ cup",
-          "name": "creamy peanut butter"
+          "qty": "",
+          "name": "¼ cup creamy peanut butter"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         },
         {
-          "qty": "Mix-in: 3-4",
-          "name": "mini peanut butter cups"
+          "qty": "3",
+          "name": "to 4  mini peanut butter cups"
         }
       ],
       "instructions": [
-        "Blend the base. Add the milk, heavy cream, sweetened condensed milk, creamy peanut butter, and salt to a blender. Blend until completely smooth, about 45 to 60 seconds, making sure the peanut butter is fully incorporated with no streaks."
+        "Blend the base. Add the milk, heavy cream, sweetened condensed milk, creamy peanut butter, and salt to a blender. Blend until completely smooth, about 45 to 60 seconds, making sure the peanut butter is fully incorporated with no streaks.",
+        "Pour and freeze. Pour the mixture into your container. Cover with the lid and freeze for 24 hours, or until completely solid.",
+        "Thaw slightly, then spin. Remove the pint from the freezer and let it sit at room temperature for about 5 minutes. Process on the Ice Cream setting. If it looks crumbly after the first spin, run a Re-Spin.",
+        "Add the mix-ins. Make a hole in the center of the ice cream with a spoon. Chop the mini peanut butter cups and add them to the center. Process on the Mix-In setting."
       ],
-      "prepNotes": "Use standard creamy peanut butter, not natural. Natural peanut butter separates and can make the base oily or uneven after freezing. Jif, Skippy, or any standard creamy peanut butter works best here.\n\nVariations:\n* Extra chocolate: Add a tablespoon of cocoa powder to the base before blending for a chocolate peanut butter cup situation.\n* Peanut butter swirl: After the first spin, drop an extra tablespoon of peanut butter into the well before adding your mix-ins. Run the mix-in setting and you'll get a peanut butter ribbon through the whole pint",
+      "prepNotes": "Use standard creamy peanut butter, not natural. Natural peanut butter separates and can make the base oily or uneven after freezing. Jif, Skippy, or any standard creamy peanut butter works best here.\n\nFlavor Variations to Try\n* Extra chocolate: Add a tablespoon of cocoa powder to the base before blending for a chocolate peanut butter cup situation.\n* Peanut butter swirl: After the first spin, drop an extra tablespoon of peanut butter into the well before adding your mix-ins. Run the mix-in setting and you'll get a peanut butter ribbon through the whole pint.\n\nDifferent mix-ins: Reese's Pieces, chocolate chips, or crushed chocolate cookies, Peanut butter cups plus mini chocolate chips together is especially good.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "peanut butter"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T10:03:15.958Z",
-      "updatedAt": "2026-07-16T17:27:10.361Z"
+      "updatedAt": "2026-07-04T03:45:19.617Z"
     },
     {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
@@ -3432,36 +3481,37 @@
     },
     {
       "id": "860d7119-6a2c-4e89-944c-8e7581ba0906",
-      "title": "Watermelon Ice Cream",
+      "title": "Watermelon Ice Cream (2 ingredients)",
       "servings": "delux tub",
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "2 cups - fresh chucks",
-          "name": "watermelon"
+          "qty": "2 cups",
+          "name": "fresh watermelon chunks"
         },
         {
-          "qty": "⅔ cup ",
-          "name": "sweetened condensed milk"
-        },
-        {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "⅔ cup sweetened condensed milk"
         }
       ],
       "instructions": [
-        "Blend watermelon and sweetened condensed milk until smooth."
+        "Blend watermelon and sweetened condensed milk until smooth.",
+        "Pour into a container.",
+        "Freeze on a level surface for 24 hours.",
+        "Spin using “Lite Ice Cream” mode.",
+        "Re-spin if crumbly.",
+        "Scoop and enjoy your creamy watermelon treat!"
       ],
-      "prepNotes": "* Condensed milk - Use full-fat coconut milk for a dairy-free version. Add sugar.",
+      "prepNotes": "Substitutions\n* Condensed milk - Use full-fat coconut milk for a dairy-free version. Add sugar.\n* Add a pinch of sea salt to balance the sweetness",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "sherbert",
         "watermelon"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T10:01:35.905Z",
-      "updatedAt": "2026-07-16T17:35:41.423Z"
+      "updatedAt": "2026-07-04T03:52:54.070Z"
     },
     {
       "id": "175ed17e-2caf-44bc-badf-91bd0b720bfc",
@@ -4023,7 +4073,7 @@
         }
       ],
       "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
         null,
         null,
         "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe"
@@ -4037,9 +4087,9 @@
         "protein",
         "lemon"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-16T17:11:26.191Z"
+      "updatedAt": "2026-07-12T16:26:46.772Z"
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
@@ -4234,8 +4284,8 @@
         "Sprinkle a bit of toasted almonds and toasted coconut flakes on top. "
       ],
       "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
+      "afterPrepNotes": "use more extract - maybe 1/8 tsp?\nchocolate chips not dominant. try chocolate syrup.",
+      "rating": 4,
       "tags": [
         "ice cream",
         "protein",
@@ -4244,7 +4294,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-14T17:24:44.325Z"
+      "updatedAt": "2026-07-16T18:07:48.090Z"
     },
     {
       "id": "6a2aa903-a341-4de0-9ae0-836c129696ed",
@@ -4661,65 +4711,71 @@
       "source": "Dynas Reddit",
       "ingredients": [
         {
-          "qty": "¾ cup",
-          "name": "Fairlife skim milk"
+          "qty": "3/4 cup",
+          "name": "of Fairlife Skim Milk"
         },
         {
-          "qty": "½ cup",
+          "qty": "1/2 cup",
           "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free jello"
+          "name": "sugar-free JELLO (Stir/Whisk in 1/2 cup hot water until it dissolves or it will have a grainy texture)"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "name": "of Vanilla Protein Powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "allulose"
+          "name": "Allulose"
         },
         {
-          "qty": "⅛",
-          "name": "xanthan gum"
+          "qty": "",
+          "name": "Pinch of Xanthan gum"
         },
         {
-          "qty": "pinch ",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         },
         {
-          "qty": "¼ teaspoon",
-          "name": "flavor extract"
+          "qty": "1/4 teaspoon",
+          "name": "Flavored Extract of desired flavor (Lime, Lemon, Strawberry, ...)"
         },
         {
-          "qty": "¼ cup",
-          "name": "fruit"
+          "qty": "1/4 Cup",
+          "name": "of desired Blended Fruit"
         },
         {
-          "qty": "Optional: dash of",
-          "name": "zest"
+          "qty": "",
+          "name": "Optional: Dash of Zest (Too much will make it bitter)"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: Optional Sugar Free/Diet Sprite or 7 Up to make a float"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: Whipped Cream"
         }
       ],
       "instructions": [
-        "Dissolve sugar-free JELLO (flavor of choice) in 1/2 cup hot water until fully dissolved to avoid grainy texture. Can use microwave and heat in 10 second intervals",
+        "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
         "Combine all base ingredients and mix well.",
-        "Churn on the SHERBERT setting."
+        "Churn on the SHERBERT setting.",
+        "Optionally add Sugar Free/Diet Sprite or 7 Up to make a float.",
+        "Top with Whipped Cream"
       ],
-      "prepNotes": "* can use unflavored protein powder",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "protein",
-        "sherbert",
-        "lime",
-        "orange",
-        "raspberry",
-        "strawberry"
+        "sherbert"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-16T17:52:43.153Z"
+      "updatedAt": "2026-07-04T11:39:56.564Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
@@ -4957,9 +5013,9 @@
         "protein",
         "orange"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T17:25:20.288Z"
+      "updatedAt": "2026-07-11T14:28:19.625Z"
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
@@ -5033,9 +5089,9 @@
         "protein",
         "lime"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T17:17:26.850Z"
+      "updatedAt": "2026-07-11T14:32:40.145Z"
     },
     {
       "id": "c65af9dc-df79-435d-bd2a-a43e9cf5576b",
@@ -5534,9 +5590,9 @@
         "lemon",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T17:11:42.579Z"
+      "updatedAt": "2026-07-10T19:34:50.592Z"
     },
     {
       "id": "df256da2-5b1c-4297-8bbb-18bb5761352f",
@@ -5627,9 +5683,9 @@
         "ice cream",
         "peanut butter"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T17:27:18.356Z"
+      "updatedAt": "2026-07-10T19:39:30.837Z"
     },
     {
       "id": "b7af4c20-8a72-4bc1-b822-aae538b5de79",
@@ -5744,9 +5800,9 @@
         "pistachio",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T17:31:39.506Z"
+      "updatedAt": "2026-07-10T19:50:48.535Z"
     },
     {
       "id": "2d33c88d-2709-4287-9c79-0245d8a13cad",
@@ -5857,7 +5913,7 @@
         },
         {
           "qty": "Mix-in: 1 tbsp",
-          "name": "honey"
+          "name": "raw honey"
         },
         {
           "qty": "Mix-in: ¼ cup chopped",
@@ -5867,13 +5923,6 @@
           "qty": "Mix-in: crumbled",
           "name": "baklava"
         }
-      ],
-      "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-        null,
-        null,
-        null,
-        null
       ],
       "instructions": [
         "Add raw honey, chopped walnuts, and crumbled baklava and run mix-in cycle.",
@@ -5889,9 +5938,9 @@
         "protein",
         "unique"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T17:06:49.881Z"
+      "updatedAt": "2026-07-12T17:30:57.545Z"
     },
     {
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
@@ -5944,10 +5993,6 @@
           "name": "peach extract"
         }
       ],
-      "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-        null
-      ],
       "instructions": [],
       "prepNotes": "* no vanilla extract\n* can use 1 tbsp peach syrup skinny girl instead of extract",
       "afterPrepNotes": "",
@@ -5957,9 +6002,9 @@
         "protein",
         "peach"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T17:25:39.842Z"
+      "updatedAt": "2026-07-12T17:33:20.084Z"
     },
     {
       "id": "7d3201d1-a1ca-4256-bb28-04ae612f8704",
@@ -6089,7 +6134,7 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Toppings: whipped cream, graham crackers, pumpkin pie OR allspice sprinkled on top",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -6097,9 +6142,9 @@
         "protein",
         "pumpkin"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T17:34:36.411Z"
+      "updatedAt": "2026-07-10T16:05:12.250Z"
     },
     {
       "id": "5fb6a53f-6727-4786-bdda-c5bb2c35bb2e",
@@ -6209,12 +6254,12 @@
           "name": "maple syrup"
         },
         {
-          "qty": "Mix-ins: 2 tbsp crushed",
-          "name": "walnuts"
+          "qty": "Mix-ins: 2 tbsp",
+          "name": "crushed walnuts "
         },
         {
-          "qty": "Toppings:  crushed",
-          "name": "walnuts"
+          "qty": "Toppings: ",
+          "name": "crushed walnuts"
         }
       ],
       "ingredientLinks": [
@@ -6234,9 +6279,9 @@
         "protein",
         "maple"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T17:22:33.353Z"
+      "updatedAt": "2026-07-10T16:03:03.576Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
@@ -6281,9 +6326,9 @@
         "protein",
         "peanut butter"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T17:27:27.222Z"
+      "updatedAt": "2026-07-14T16:29:01.622Z"
     },
     {
       "id": "cf10506f-888a-439e-a3f7-af0ae37825e4",
@@ -7049,34 +7094,39 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "semi-skimmed milk"
+          "name": "fat free ultra-filtered Milk"
         },
         {
-          "qty": "40-45g",
-          "name": "monk fruit"
+          "qty": "40",
+          "name": "-45g Lakanto Monk Fruit sweetener"
         },
         {
-          "qty": "8 g (½ tbsp)",
-          "name": "peanut butter"
+          "qty": "8 g",
+          "name": "(½ tbsp) Peanut Butter"
         },
         {
-          "qty": "16 g (2 tbsp)",
-          "name": "peanut butter powder"
+          "qty": "16 g",
+          "name": "(2 tbsp) Lakanto Peanut Butter Powder"
         },
         {
-          "qty": "1 g (¼ tsp)",
-          "name": "salt"
+          "qty": "1 g",
+          "name": "(¼ tsp) salt"
         },
         {
-          "qty": "1 g (¼ tsp)",
-          "name": "xanthan gum"
+          "qty": "1 g",
+          "name": "(¼ tsp) xanthan gum"
         },
         {
-          "qty": "Mix-ins: 2 tbsp",
-          "name": "sugar free strawberry jelly"
+          "qty": "",
+          "name": "Mix-ins: 2 tbsp sugar free strawberry jelly"
         }
       ],
       "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Ice Cream\" setting",
+        "Spin on \"Respin\" setting",
+        "Respin again if powdery",
         "Make a hole down to the bottom with a butter knife and fill with the strawberry jelly",
         "Run the \"Mix-in\" cycle"
       ],
@@ -7089,9 +7139,8 @@
         "peanut butter",
         "jelly"
       ],
-      "pinned": true,
       "createdAt": "2026-07-01T06:20:34.487Z",
-      "updatedAt": "2026-07-16T17:10:50.767Z"
+      "updatedAt": "2026-07-01T06:39:21.282Z"
     },
     {
       "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
@@ -7150,6 +7199,57 @@
       "pinned": true,
       "createdAt": "2026-07-01T06:20:35.741Z",
       "updatedAt": "2026-07-15T18:09:10.778Z"
+    },
+    {
+      "id": "277917de-1d64-4fcf-b1f5-351662a431c9",
+      "title": "**Snickers Ice Cream 2",
+      "servings": "creami tub",
+      "source": "alex.new.life",
+      "ingredients": [
+        {
+          "qty": "100 ml",
+          "name": "Milk 0,3 %"
+        },
+        {
+          "qty": "200 g",
+          "name": "Quark"
+        },
+        {
+          "qty": "30 g",
+          "name": "Protein Pudding Caramel"
+        },
+        {
+          "qty": "2 Scoop",
+          "name": "Chunky Flavour Hazelnut & MilkyCream"
+        },
+        {
+          "qty": "10 g",
+          "name": "White Crazy Hazel (@ahead_nutrition)"
+        },
+        {
+          "qty": "",
+          "name": "Topping: chocolate sauce"
+        },
+        {
+          "qty": "",
+          "name": "Topping: peanuts"
+        }
+      ],
+      "instructions": [
+        "Add all ingredients (except toppings) to your container. Whisk until smooth, then freeze flat and level for 24 hours.",
+        "Mix on Ice Cream setting",
+        "Then add another splash of milk and press Re-Spin 1-2 times until you have a creamy consistency.",
+        "add the chocolate sauce and peanuts on top as a topping."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "snickers",
+        "ice cream"
+      ],
+      "createdAt": "2026-07-01T06:20:36.073Z",
+      "updatedAt": "2026-07-01T06:33:51.954Z"
     },
     {
       "id": "c71c6237-ebfc-4e0f-9497-7182af97aa64",
@@ -7418,12 +7518,12 @@
       "source": "@justinanderson_fit",
       "ingredients": [
         {
-          "qty": "1¼ cup",
-          "name": "whole milk"
+          "qty": "1.25 cup",
+          "name": "milk"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "name": "vanilla protein"
         },
         {
           "qty": "2 tbsp",
@@ -7438,11 +7538,15 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
+        "Mix well and pour into a pint container.",
+        "Freeze, then process until smooth and creamy."
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7451,19 +7555,19 @@
         "ice cream",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T05:58:45.329Z",
-      "updatedAt": "2026-07-16T17:28:08.267Z"
+      "updatedAt": "2026-07-07T06:51:03.628Z"
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
-      "title": "Snickerdoodle Ice Cream",
+      "title": "Snickerdoodle Ice Cream - 2",
       "servings": "creami tub",
       "source": "@jennaliveswell",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "unsweetened almond milk"
+          "name": "unsweetened oat, almond, or milk of choice"
         },
         {
           "qty": "1 scoop",
@@ -7474,36 +7578,39 @@
           "name": "collagen powder (unflavored or vanilla)"
         },
         {
-          "qty": "1½–2 tsp",
-          "name": "cinnamon"
+          "qty": "1",
+          "name": "½–2 tsp ground cinnamon"
         },
         {
-          "qty": "¼ tsp",
-          "name": "ground nutmeg"
+          "qty": "",
+          "name": "¼ tsp ground nutmeg"
         },
         {
-          "qty": "¼ tsp ",
-          "name": "ground cream of tartar"
+          "qty": "",
+          "name": "¼ tsp ground cream of tartar (classic snickerdoodle tang)"
         },
         {
-          "qty": "1–2 tsp",
-          "name": "maple syrup"
+          "qty": "1",
+          "name": "–2 tsp maple syrup"
         },
         {
           "qty": "1 tsp",
           "name": "vanilla extract"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "pinch of salt"
         },
         {
-          "qty": "1–2 tsp (optional but goood)",
-          "name": "cashew butter"
+          "qty": "1",
+          "name": "–2 tsp cashew or almond butter (optional, but goooood)"
         }
       ],
       "instructions": [
-        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth."
+        "Blend the milk, protein powder, collagen, cinnamon, nutmeg, cream of tartar, sweetener, vanilla, and salt until fully smooth.",
+        "Pour into a tub, cover, and freeze 12–24 hours.",
+        "Spin on Lite Ice Cream.",
+        "Add 1–2 tbsp milk and \"Re-Spin\"."
       ],
       "prepNotes": "Cashew or almond butter is optional but recommended.",
       "afterPrepNotes": "",
@@ -7513,9 +7620,9 @@
         "snickerdoodle",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T05:58:45.654Z",
-      "updatedAt": "2026-07-16T17:58:08.728Z"
+      "updatedAt": "2026-07-04T13:47:00.284Z"
     },
     {
       "id": "5720b764-b2fd-479e-a40e-db9f0f408127",
@@ -7676,26 +7783,28 @@
         },
         {
           "qty": "1/2 cup",
-          "name": "coconut milk"
+          "name": "organic coconut milk"
         },
         {
-          "qty": "1 scoop",
-          "name": "vanilla protein powder"
+          "qty": "1",
+          "name": "serving vanilla whey protein"
         },
         {
           "qty": "1 tbsp",
-          "name": "maple syrup"
+          "name": "pure maple syrup"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "pinch of sea salt"
         },
         {
-          "qty": "Mix-in: 10 g crushed",
+          "qty": "10 g",
           "name": "pecans"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Mix in: crushed up pecans"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7705,9 +7814,8 @@
         "pecan",
         "protein"
       ],
-      "pinned": true,
       "createdAt": "2026-07-01T05:23:45.859Z",
-      "updatedAt": "2026-07-16T17:23:16.815Z"
+      "updatedAt": "2026-07-01T06:00:58.457Z"
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
@@ -8055,12 +8163,12 @@
       "source": "@pursuitofhealth",
       "ingredients": [
         {
-          "qty": "1½ cup",
-          "name": "whole milk"
+          "qty": "1 1/2",
+          "name": "c milk"
         },
         {
-          "qty": "½ cup roasted",
-          "name": "pistachios"
+          "qty": "1/2",
+          "name": "c roasted pistachios"
         },
         {
           "qty": "1 tbsp",
@@ -8072,18 +8180,23 @@
         },
         {
           "qty": "3 tbsp",
-          "name": "vanilla protein powder"
+          "name": "vanilla protein"
         },
         {
-          "qty": "½ tsp",
+          "qty": "1/2 tsp",
           "name": "salt"
         },
         {
-          "qty": "Mix-in:",
-          "name": "pistachios"
+          "qty": "",
+          "name": "Mix Ins: Pistachios"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Combine the ingredients for the ice cream in a blender until smooth. Transfer into the tub and freeze overnight.",
+        "Mix the on the Lite Ice Cream setting.",
+        "Respin as many times as needed until you reach the desired consistency, adding in 1 tbsp milk before each respin.",
+        "Add in the pistachios and hit Mix In."
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -8091,47 +8204,50 @@
         "pistachio",
         "ice cream"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T19:15:55.905Z",
-      "updatedAt": "2026-07-16T17:32:33.935Z"
+      "updatedAt": "2026-06-30T19:19:10.238Z"
     },
     {
       "id": "651d6f36-8a56-4505-99c1-02503bb3ce4f",
-      "title": "Vanilla Bean FroYo",
+      "title": "**Vanilla Bean FroYo",
       "servings": "creami tub",
       "source": "@fitnessproductfinder",
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "vanilla protein yogurt"
+          "name": "Vanilla OIKOS PRO"
         },
         {
-          "qty": "5 g (1 tsp)",
-          "name": "vanilla bean paste or extract"
+          "qty": "5 g",
+          "name": "(1 tsp) vanilla bean paste"
         },
         {
-          "qty": "35-40",
-          "name": "sweetener"
+          "qty": "35",
+          "name": "-40g sugar substitute"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "A pinch of salt"
         },
         {
-          "qty": "1 g (¼ tsp)",
-          "name": "xanthan gum"
+          "qty": "1 g",
+          "name": "(¼ tsp) binding agent"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "Blend all ingredients for the base and freeze (at least 16 hours)",
+        "Run your pint under hot water for at least 60 seconds",
+        "Spin on \"Lite Ice Cream\" setting",
+        "Spin on \"Respin\" setting until it reaches your desired texture"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "frozen yogurt"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T19:15:57.506Z",
-      "updatedAt": "2026-07-16T17:03:28.718Z"
+      "updatedAt": "2026-07-01T02:49:48.764Z"
     },
     {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
@@ -8229,35 +8345,37 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "protein yogurt"
+          "name": "high protein sweetened yogurt"
         },
         {
-          "qty": "25-50g",
-          "name": "agave syrup"
+          "qty": "25",
+          "name": "–50 g light agave syrup or pure maple syrup"
         },
         {
-          "qty": "0.5 g (lightly heaped 1/8 tsp)",
-          "name": "xanthan gum"
+          "qty": "0.5 g",
+          "name": "(lightly heaped 1/8 tsp) xanthan gum"
         },
         {
           "qty": "100 g",
-          "name": "whole milk"
+          "name": "milk of choice"
         }
       ],
       "instructions": [
+        "Whisk all ingredients together (mixing in a separate bowl helps remove air lumps), then pour into the tub.",
+        "Freeze 16–24 hours with the lid off.",
         "Let sit on the bench 5–15 minutes before processing.",
         "Process on the light ice cream function — generally needs two spins.",
         "Store leftovers in the freezer with the lid on."
       ],
-      "prepNotes": "Use a yogurt that's already sweetened.",
+      "prepNotes": "Use a yogurt that's already sweetened. Approx. 48g protein with Danone high protein vanilla yogurt + high protein skim milk.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "frozen yogurt"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-16T17:04:27.580Z"
+      "updatedAt": "2026-07-04T04:27:54.789Z"
     },
     {
       "id": "8cd9a518-a0c9-4007-b990-77c96d31e6ab",
@@ -8348,28 +8466,31 @@
           "name": "pumpkin puree"
         },
         {
-          "qty": "75–100 g",
-          "name": "maple syrup"
+          "qty": "75",
+          "name": "–100 g pure maple syrup"
         },
         {
           "qty": "150 g",
-          "name": "heavy cream"
+          "name": "cream"
         },
         {
           "qty": "75 g",
-          "name": "whole milk"
+          "name": "milk"
         },
         {
-          "qty": "1–2 tsp",
-          "name": "pumpkin spice"
+          "qty": "1",
+          "name": "–2 tsp pumpkin spice"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of salt"
         }
       ],
       "instructions": [
-        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste."
+        "Whisk ingredients together in a bowl; taste and adjust maple syrup to taste.",
+        "Pour into the tub and freeze with the lid off, 16–24 hours.",
+        "Process on the ice cream function; re-spin if needed.",
+        "Return leftovers to the freezer with the lid on."
       ],
       "prepNotes": "Homemade pumpkin puree is sweeter than canned, so needs less maple syrup. Stick to 75–100g maple syrup for proper texture.",
       "afterPrepNotes": "",
@@ -8379,9 +8500,8 @@
         "pumpkin",
         "maple"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T18:26:09.465Z",
-      "updatedAt": "2026-07-16T17:24:05.590Z"
+      "updatedAt": "2026-07-01T06:01:22.954Z"
     },
     {
       "id": "794f5c1c-920b-45a3-b59a-486767e85a89",
@@ -8753,28 +8873,28 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "80–100 g",
-          "name": "allulose"
+          "qty": "80",
+          "name": "–100 g pure allulose"
         },
         {
-          "qty": "0.5 –1 g",
-          "name": "stevia powder"
+          "qty": "0.5",
+          "name": "–1 g stevia powder"
         },
         {
-          "qty": "zest of 2",
-          "name": "lemons"
+          "qty": "",
+          "name": "Zest of two lemons"
         },
         {
           "qty": "325 g",
           "name": "water"
         },
         {
-          "qty": "pinch",
-          "name": "salt"
+          "qty": "",
+          "name": "Pinch of fine salt"
         },
         {
-          "qty": "75-100g",
-          "name": "lemon juice"
+          "qty": "75",
+          "name": "–100 g lemon juice, to taste"
         }
       ],
       "instructions": [
@@ -8792,9 +8912,8 @@
         "sorbet",
         "lemon"
       ],
-      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-07-16T17:12:36.518Z"
+      "updatedAt": "2026-06-30T18:44:22.430Z"
     },
     {
       "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
@@ -8978,11 +9097,11 @@
       "ingredients": [
         {
           "qty": "⅓ cup",
-          "name": "whole milk"
+          "name": "milk"
         },
         {
           "qty": "⅔ cup",
-          "name": "heavy cream"
+          "name": "cream"
         },
         {
           "qty": "30 g",
@@ -8997,7 +9116,9 @@
           "name": "vanilla"
         }
       ],
-      "instructions": [],
+      "instructions": [
+        "mix all and pour in tub"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": 4,
@@ -9005,9 +9126,9 @@
         "peanut butter",
         "ice cream"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T16:43:37.207Z",
-      "updatedAt": "2026-07-16T17:28:26.885Z"
+      "updatedAt": "2026-07-14T16:30:05.788Z"
     },
     {
       "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
