@@ -6249,11 +6249,11 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "Nestle espresso powder"
+          "name": "espresso instant powder"
         },
         {
-          "qty": "OR 1oz",
-          "name": "brewed shot of chilled espresso"
+          "qty": "OR 1oz shot (chilled)",
+          "name": "espresso"
         },
         {
           "qty": "2 tbsp (28gr)",
@@ -6275,7 +6275,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-16T16:40:40.186Z"
+      "updatedAt": "2026-07-16T19:14:21.667Z"
     },
     {
       "id": "935c1689-7ffc-4546-aab5-736bd8f19920",
