@@ -8676,28 +8676,28 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "300 g",
-          "name": "fresh strawberries, weighed after hulling"
+          "qty": "300 g fresh",
+          "name": "strawberries"
         },
         {
-          "qty": "100",
-          "name": "–125 g pure granulated allulose"
+          "qty": "100-125",
+          "name": "allulose"
         },
         {
-          "qty": "125",
-          "name": "–150 g thickened cream, 35% milkfat"
+          "qty": "125-150",
+          "name": "heavy cream"
         },
         {
-          "qty": "",
-          "name": "Optional: Tiny dash balsamic vinegar"
+          "qty": "Optional: Tiny dash",
+          "name": "balsamic vinegar"
         },
         {
-          "qty": "",
-          "name": "Optional: Few cracks freshly cracked black pepper"
+          "qty": "Optional: Few cracks ",
+          "name": "freshly cracked black pepper"
         },
         {
-          "qty": "",
-          "name": "Optional: Tiny pinch fine salt"
+          "qty": "Optional: Tiny pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -8717,8 +8717,9 @@
         "ice cream",
         "strawberry"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T18:44:47.648Z"
+      "updatedAt": "2026-07-16T18:20:59.383Z"
     },
     {
       "id": "6b088c63-a663-47ee-82b8-236b09d2a764",
