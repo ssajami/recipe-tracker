@@ -2777,12 +2777,12 @@
           "name": "cream cheese"
         },
         {
-          "qty": "",
-          "name": "½  cup equivalent sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup pumpkin puree"
+          "qty": "¾ cup",
+          "name": "pumpkin puree"
         },
         {
           "qty": "1 teaspoon",
@@ -2793,19 +2793,12 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "1",
-          "name": "sheets  graham cracker"
+          "qty": "Mix-in: 1 ",
+          "name": "graham cracker"
         }
       ],
-      "instructions": [
-        "Blend all but the graham crackers until ultra smooth.",
-        "Pour into tub, freeze 24 hours",
-        "Remove, spin on Ice Cream mode.",
-        "Create a small well, add 1 Tbsp extra liquid if needed, respin.",
-        "Add graham cracker crumbs to the well, hit mix-in mode or stir gently.",
-        "Serve immediately or level and freeze for future respinning."
-      ],
-      "prepNotes": "* Use full-fat half and half and cream cheese for better texture\n* Let the pint rest 2–3 minutes before spinning if extremely firm\n* Graham cracker substitution: Lotus Biscoff, Petit Beurre, Digestive biscuits\n\nSubstitution and Additions\n* Swap cream cheese for cottage cheese for a lighter tang\n* Use evaporated milk or a half heavy cream / half milk combo\n* Add a splash of maple syrup for extra fall flavor\n* Mix in pecans, toffee bits, or white chocolate chips\n* Boost spice with extra cinnamon or a pinch of ginger",
+      "instructions": [],
+      "prepNotes": "* Graham cracker substitution: Lotus Biscoff, Petit Beurre, Digestive biscuits\n\nSubstitution and Additions\n* Swap cream cheese for cottage cheese for a lighter tang\n* Use evaporated milk or a half heavy cream / half milk combo\n* Add a splash of maple syrup for extra fall flavor\n* Mix in pecans, toffee bits, or white chocolate chips\n* Boost spice with extra cinnamon or a pinch of ginger",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2813,9 +2806,9 @@
         "pumpkin",
         "cheesecake"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:25:56.719Z",
-      "updatedAt": "2026-07-03T09:37:26.688Z"
+      "updatedAt": "2026-07-16T15:43:47.269Z"
     },
     {
       "id": "83a29f37-815a-44bc-82b6-8bb82775561a",
