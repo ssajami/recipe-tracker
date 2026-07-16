@@ -53,16 +53,16 @@ const Storage = {
     if (Array.isArray(data)) {
       return { recipes: data, pantry: [], sha: file.sha };
     }
-    return { recipes: data.recipes || [], pantry: data.pantry || [], notes: data.notes || '', version: data.version || 0, sha: file.sha };
+    return { recipes: data.recipes || [], pantry: data.pantry || [], notes: data.notes || '', sha: file.sha };
   },
 
-  async saveRecipes(recipes, pantry, notes, version, sha) {
+  async saveRecipes(recipes, pantry, notes, sha) {
     const { pat } = this.getConfig();
     if (!pat) throw new Error('No GitHub PAT configured — add it in Settings.');
 
     const body = {
       message: 'Update recipes',
-      content: this._b64encode(JSON.stringify({ recipes, pantry, notes, version }, null, 2)),
+      content: this._b64encode(JSON.stringify({ recipes, pantry, notes }, null, 2)),
     };
     if (sha) body.sha = sha;
 

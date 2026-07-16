@@ -1,3 +1,5 @@
+const APP_VERSION = 1;
+
 // ── State ──────────────────────────────────────────────────────────────────
 const state = {
   recipes: [],
@@ -14,7 +16,6 @@ const state = {
   importImages: [],       // [{base64, mediaType, dataUrl}, ...]
   importUrl: '',
   importPreview: null,  // [{recipe, include: true}, ...]
-  version: 0,
   syncStatus: 'idle',   // 'idle' | 'loading' | 'saving' | 'error'
   viewHistory: [],
   pantry: new Set(),
@@ -148,7 +149,7 @@ function updateSyncDot() {
 
 function updateVersionDisplay() {
   const el = document.getElementById('app-version');
-  if (el) el.textContent = state.version ? `v${state.version}` : '';
+  if (el) el.textContent = `v${APP_VERSION}`;
 }
 
 // ── Navigation ─────────────────────────────────────────────────────────────
@@ -264,10 +265,7 @@ const App = {
     updateSyncDot();
     try {
       const latest = await Storage.loadRecipes();
-      const newVersion = (latest.version || state.version) + 1;
-      state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], state.notes, newVersion, latest.sha);
-      state.version = newVersion;
-      updateVersionDisplay();
+      state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], state.notes, latest.sha);
       state.syncStatus = 'idle';
       toast('Saved', 'success');
     } catch (err) {
@@ -1962,14 +1960,13 @@ async function init() {
 
   setLoading(true, 'Loading recipes…');
   try {
-    const { recipes, pantry, notes, version, sha } = await Storage.loadRecipes();
+    const { recipes, pantry, notes, sha } = await Storage.loadRecipes();
     state.recipes = recipes.map(r => ({
       ...r,
       ingredients: (r.ingredients || []).map(migrateIngredient),
     }));
     state.pantry = new Set(pantry);
     state.notes = notes || '';
-    state.version = version || 0;
     state.sha = sha;
     updateVersionDisplay();
   } catch (err) {
