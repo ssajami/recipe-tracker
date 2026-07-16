@@ -6171,12 +6171,12 @@
           "name": "maple syrup"
         },
         {
-          "qty": "Mix-ins: 2 tbsp",
-          "name": "crushed walnuts "
+          "qty": "Mix-ins: 2 tbsp crushed",
+          "name": "walnuts"
         },
         {
-          "qty": "Toppings: ",
-          "name": "crushed walnuts"
+          "qty": "Toppings:  crushed",
+          "name": "walnuts"
         }
       ],
       "ingredientLinks": [
@@ -6196,9 +6196,9 @@
         "protein",
         "maple"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-10T16:03:03.576Z"
+      "updatedAt": "2026-07-16T19:04:39.045Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
