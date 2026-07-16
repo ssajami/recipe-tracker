@@ -7880,23 +7880,19 @@
       "ingredients": [
         {
           "qty": "1 1/2 cups",
-          "name": "milk"
+          "name": "whole milk"
         },
         {
-          "qty": "2",
-          "name": "shots of espresso"
+          "qty": "2 shots",
+          "name": "espresso"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein"
+          "name": "vanilla protein powder"
         },
         {
-          "qty": "",
-          "name": "Chopped coffee beans"
-        },
-        {
-          "qty": "",
-          "name": "Chocolate chips"
+          "qty": "Mix-in: ",
+          "name": "chocolate chips"
         }
       ],
       "instructions": [
@@ -7912,8 +7908,9 @@
         "ice cream",
         "coffee"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:23:47.133Z",
-      "updatedAt": "2026-07-01T05:31:31.436Z"
+      "updatedAt": "2026-07-16T16:43:27.311Z"
     },
     {
       "id": "4b8c1e18-d95e-4e47-a785-1f3a3f9d8aa5",
