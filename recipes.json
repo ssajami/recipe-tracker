@@ -7723,13 +7723,13 @@
     },
     {
       "id": "fcb72eee-7234-4457-b09f-7b56ac9b4f92",
-      "title": "Tiramisu Ice Cream 1",
+      "title": "Tiramisu Ice Cream",
       "servings": "creami tub",
       "source": "@julzhealth",
       "ingredients": [
         {
           "qty": "300 ml",
-          "name": "whole"
+          "name": "whole milk"
         },
         {
           "qty": "100 g",
@@ -7752,14 +7752,7 @@
           "name": "cacao powder"
         }
       ],
-      "instructions": [
-        "Brewed instant coffee with 1 tbsp hot water",
-        "Place all ingredients (apart from cacao) in pint & use hand mixer.",
-        "Freeze overnight.",
-        "When making, run pint under water for 10 seconds.",
-        "Press scoop, then Lite Icecream.",
-        "Dust with cacao powder, scoop & enjoy!"
-      ],
+      "instructions": [],
       "prepNotes": "if icy just re-spin, do not add more liquid.",
       "afterPrepNotes": "",
       "rating": null,
@@ -7771,7 +7764,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-16T16:42:21.451Z"
+      "updatedAt": "2026-07-16T18:23:56.543Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
