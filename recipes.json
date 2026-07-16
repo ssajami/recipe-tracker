@@ -2208,7 +2208,7 @@
       "ingredients": [
         {
           "qty": "1 cup  (cold)",
-          "name": "heavy whipping cream"
+          "name": "heavy cream"
         },
         {
           "qty": "1-2 tbsp",
@@ -2235,9 +2235,9 @@
       "tags": [
         "toppings"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-04T14:50:13.039Z",
-      "updatedAt": "2026-07-08T18:11:25.271Z"
+      "updatedAt": "2026-07-16T18:25:12.636Z"
     },
     {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
