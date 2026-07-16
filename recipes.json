@@ -8851,11 +8851,11 @@
       "ingredients": [
         {
           "qty": "⅓ cup",
-          "name": "milk"
+          "name": "whole milk"
         },
         {
           "qty": "⅔ cup",
-          "name": "cream"
+          "name": "heavy cream"
         },
         {
           "qty": "30 g",
@@ -8867,12 +8867,10 @@
         },
         {
           "qty": "½ tsp",
-          "name": "vanilla"
+          "name": "vanilla bean paste or extract"
         }
       ],
-      "instructions": [
-        "mix all and pour in tub"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": 4,
@@ -8880,9 +8878,9 @@
         "peanut butter",
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-06-30T16:43:37.207Z",
-      "updatedAt": "2026-07-14T16:30:05.788Z"
+      "updatedAt": "2026-07-16T18:46:37.530Z"
     },
     {
       "id": "410f5b3b-a2d8-4f71-a469-2fa301d62e73",
