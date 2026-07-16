@@ -1799,31 +1799,31 @@
       "ingredients": [
         {
           "qty": "48 gr",
-          "name": "Swerve Brown Sugar"
+          "name": "Swerve brown sugar"
         },
         {
           "qty": "30 gr",
-          "name": "Splenda Multi Use Allulose Syrup"
+          "name": "Splenda sugar free multi use syrup"
         },
         {
           "qty": "5 gr (optional, but helps with softness)",
-          "name": "Vegetable glycerin"
+          "name": "vegetable glycerin"
         },
         {
           "qty": "⅓ tsp",
-          "name": "Ground cinnamon"
+          "name": "cinnamon"
         },
         {
           "qty": "⅓ tsp",
-          "name": "Kosher salt"
+          "name": "kosher salt"
         },
         {
           "qty": "2 tsp",
-          "name": "Unsweetened almond milk"
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "pinch",
-          "name": "Xanthan gum"
+          "name": "xanthan gum"
         }
       ],
       "instructions": [
@@ -1841,7 +1841,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-09T16:27:57.858Z",
-      "updatedAt": "2026-07-14T16:46:36.789Z"
+      "updatedAt": "2026-07-16T19:40:35.842Z"
     },
     {
       "id": "b62e3998-d7d8-44e7-8216-e12c65018a1a",
