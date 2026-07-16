@@ -8825,28 +8825,28 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "80",
-          "name": "–100 g pure allulose"
+          "qty": "80–100 g",
+          "name": "allulose"
         },
         {
-          "qty": "0.5",
-          "name": "–1 g stevia powder"
+          "qty": "0.5 –1 g",
+          "name": "stevia powder"
         },
         {
-          "qty": "",
-          "name": "Zest of two lemons"
+          "qty": "zest of 2",
+          "name": "lemons"
         },
         {
           "qty": "325 g",
           "name": "water"
         },
         {
-          "qty": "",
-          "name": "Pinch of fine salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "75",
-          "name": "–100 g lemon juice, to taste"
+          "qty": "75-100g",
+          "name": "lemon juice"
         }
       ],
       "instructions": [
@@ -8864,8 +8864,9 @@
         "sorbet",
         "lemon"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T18:44:22.430Z"
+      "updatedAt": "2026-07-16T17:12:36.518Z"
     },
     {
       "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
