@@ -2699,28 +2699,28 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "",
-          "name": "¾ cup half and half (equal parts milk and heavy cream)"
+          "qty": "¾ cup",
+          "name": "half and half"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
-          "qty": "",
-          "name": "¾ cup pumpkin puree"
+          "qty": "¾ cup",
+          "name": "pumpkin puree"
         },
         {
           "qty": "2 tablespoon",
-          "name": "brown sugar or allulose"
+          "name": "brown sugar allulose"
         },
         {
           "qty": "2 teaspoon",
-          "name": "instant espresso instant coffee mix"
+          "name": "espresso instant powder"
         },
         {
           "qty": "1 teaspoon",
@@ -2729,17 +2729,17 @@
         {
           "qty": "1 teaspoon",
           "name": "vanilla extract"
+        },
+        {
+          "qty": "Min-in:",
+          "name": "toasted pecans"
         }
       ],
       "instructions": [
         "Blend the ingredients on high until completely smooth and creamy — no lumps or grainy bits.",
-        "Pour the mixture into a tub, stopping just below the max fill line. Freeze flat for at least 24 hours.",
-        "Spin Select the Ice Cream function and let it run through the full cycle.",
-        "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half & half before respinning for extra creaminess.",
-        "Add mix-ins (optional): Once you’ve hit your ideal texture, add any mix-ins — like crushed gingersnaps, caramel bits, or toasted pecans — and run the Mix-In cycle.",
-        "Scoop it right away or refreeze for 30 minutes if you prefer it firmer."
+        "Check texture: If it looks crumbly after the first spin, press Respin until smooth and creamy. You can add a splash of half & half before respinning for extra creaminess."
       ],
-      "prepNotes": "Substitution\nUse heavy cream + milk instead of half & half for extra richness\nSwap cottage cheese for Greek yogurt (full fat) or soft cream cheese\nReplace brown sugar with maple syrup, monk fruit, or stevia\nAdd mix-ins like crushed gingersnaps, toasted pecans, caramel swirl\n\nFlavor Variations to Try\nPumpkin Spice Latte Ice Cream — up the espresso a bit for a bolder coffee hit\nMaple Pumpkin — swap or drizzle in maple syrup\nCaramel Pumpkin Spice — swirl caramel sauce toward the end\nPumpkin Chocolate Chip — fold in mini chocolate chips\nPumpkin Pecan Crunch — add toasted pecans or candied nuts",
+      "prepNotes": "Substitution\nUse heavy cream + milk instead of half & half for extra richness\nSwap cottage cheese for Greek yogurt (full fat) or soft cream cheese\nReplace brown sugar with maple syrup, monk fruit, or stevia\n\n\nVariations\nPumpkin Spice Latte Ice Cream — up the espresso a bit for a bolder coffee hit\nMaple Pumpkin — swap or drizzle in maple syrup\nCaramel Pumpkin Spice — swirl caramel sauce toward the end\nPumpkin Chocolate Chip — fold in mini chocolate chips\nPumpkin Pecan Crunch — add toasted pecans or candied nuts",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2747,9 +2747,9 @@
         "unique",
         "pumpkin"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:26:32.083Z",
-      "updatedAt": "2026-07-03T09:35:54.977Z"
+      "updatedAt": "2026-07-16T17:34:21.082Z"
     },
     {
       "id": "69c645da-4ae3-4771-a458-2cb0eab320f6",
