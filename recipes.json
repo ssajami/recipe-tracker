@@ -105,7 +105,7 @@
     },
     {
       "id": "bcacc2c2-1b76-43f4-aeca-6d22f686c845",
-      "title": "Chocolate Chip Cookie Dough",
+      "title": "Chocolate Chip Cookie Dough Ice Cream",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -118,8 +118,8 @@
           "name": "brown sugar substitute"
         },
         {
-          "qty": "Mix-in: (hand stir)",
-          "name": "38 g cookie dough"
+          "qty": "Mix-in: (hand stir) 38 g",
+          "name": "cookie dough"
         }
       ],
       "ingredientLinks": [
@@ -138,7 +138,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-14T16:34:38.687Z",
-      "updatedAt": "2026-07-14T16:42:51.048Z"
+      "updatedAt": "2026-07-16T18:51:09.057Z"
     },
     {
       "id": "133bba6c-3ad3-440c-a8b9-0c1f2780c5f2",
