@@ -4996,8 +4996,8 @@
           "name": "allulose"
         },
         {
-          "qty": "½ cup",
-          "name": "fresh Blackberries"
+          "qty": "½ cup fresh ",
+          "name": "blackberries"
         },
         {
           "qty": "pinch",
@@ -5031,7 +5031,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-14T17:45:30.870Z"
+      "updatedAt": "2026-07-16T19:23:29.795Z"
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
