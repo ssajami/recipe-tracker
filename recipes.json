@@ -7414,51 +7414,42 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "fat free ultra-filtered milk"
+          "name": "semi-skimmed milk"
         },
         {
-          "qty": "22 g",
-          "name": "(2 tbsp) whipped (or regular) cream cheese"
+          "qty": "22 g (2 tbsp)",
+          "name": "cream cheese"
         },
         {
-          "qty": "40",
-          "name": "-45g Lakanto monk fruit sweetener"
+          "qty": "40-45g",
+          "name": "monk fruit"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp) vanilla bean paste (or extract)"
+          "qty": "5 g (1 tsp)",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) xanthan gum"
+          "qty": "1 g (¼ tsp)",
+          "name": "xanthan gum"
         },
         {
           "qty": "",
           "name": "Mix-in/toppings:"
         },
         {
-          "qty": "4",
+          "qty": "Mix-in: 4",
           "name": "Oreo Thins (cream removed)"
-        },
-        {
-          "qty": "30 g",
-          "name": "cheesecake bites (~100 calories worth of any cheesecake, chopped into bite size pieces)"
         }
       ],
       "instructions": [
         "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "At the same time, put the cheesecake bites and Oreos into the freezer. This allows it to firm up and withstand the power of the Mix-in setting (so it doesn't get completely pulverized)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Ice Cream\" setting",
-        "Spin on \"Respin\" setting if very powdery",
-        "Make a hole down to the bottom with a butter knife and add the frozen cheesecake bites and Oreos",
-        "Run the \"Mix-in\" cycle"
+        "At the same time, put the cheesecake bites and Oreos into the freezer. This allows it to firm up and withstand the power of the Mix-in setting (so it doesn't get completely pulverized)"
       ],
-      "prepNotes": "355 calories 26g protein for the entire pint, toppings/mix-ins included. All recipe books (200+ flavors) are in the creator's bio.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -7467,8 +7458,9 @@
         "cookies and cream",
         "cheesecake"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T06:20:36.701Z",
-      "updatedAt": "2026-07-01T06:36:37.396Z"
+      "updatedAt": "2026-07-16T15:47:40.310Z"
     },
     {
       "id": "f026f9b2-3768-4118-a461-7e930580b845",
