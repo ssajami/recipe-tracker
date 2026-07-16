@@ -8317,7 +8317,7 @@
         },
         {
           "qty": "60 g",
-          "name": "vanilla 0% Greek yogurt"
+          "name": "vanilla greek yogurt"
         },
         {
           "qty": "300 ml",
@@ -8336,8 +8336,9 @@
         "coffee",
         "ice cream"
       ],
+      "pinned": false,
       "createdAt": "2026-06-30T18:54:33.740Z",
-      "updatedAt": "2026-06-30T19:00:30.637Z"
+      "updatedAt": "2026-07-16T16:44:03.372Z"
     },
     {
       "id": "da8477ed-ed02-474d-98ef-4b6eb9deb7c5",
