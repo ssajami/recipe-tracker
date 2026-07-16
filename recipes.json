@@ -7480,12 +7480,12 @@
       "source": "@justinanderson_fit",
       "ingredients": [
         {
-          "qty": "1.25 cup",
-          "name": "milk"
+          "qty": "1¼ cup",
+          "name": "whole milk"
         },
         {
           "qty": "1 scoop",
-          "name": "vanilla protein"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "2 tbsp",
@@ -7500,15 +7500,11 @@
           "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
-      "instructions": [
-        "Combine milk, vanilla protein, peanut butter powder, butterscotch pudding mix, vanilla extract, and salt.",
-        "Mix well and pour into a pint container.",
-        "Freeze, then process until smooth and creamy."
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7517,9 +7513,9 @@
         "ice cream",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T05:58:45.329Z",
-      "updatedAt": "2026-07-07T06:51:03.628Z"
+      "updatedAt": "2026-07-16T17:28:08.267Z"
     },
     {
       "id": "8509cccc-db6a-4b36-bd35-facf1188b910",
