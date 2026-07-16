@@ -8263,48 +8263,6 @@
       "updatedAt": "2026-07-01T02:49:48.764Z"
     },
     {
-      "id": "a6c1ff12-77b0-49f5-9642-d63a2e9072bb",
-      "title": "Chocolate Ice Cream 2",
-      "servings": "creami tub",
-      "source": "@fit_jumar",
-      "ingredients": [
-        {
-          "qty": "2 tbsp",
-          "name": "chocolate protein powder"
-        },
-        {
-          "qty": "2 tbsp",
-          "name": "unsweetened cocoa powder"
-        },
-        {
-          "qty": "150 ml",
-          "name": "high-protein almond milk"
-        },
-        {
-          "qty": "50 ml",
-          "name": "low fat milk"
-        },
-        {
-          "qty": "1 tsp",
-          "name": "date paste or honey (to taste)"
-        },
-        {
-          "qty": "0.5",
-          "name": "-1 tsp guar gum"
-        }
-      ],
-      "instructions": [],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "chocolate",
-        "ice cream"
-      ],
-      "createdAt": "2026-06-30T19:15:54.776Z",
-      "updatedAt": "2026-07-01T02:13:40.174Z"
-    },
-    {
       "id": "395aec11-ba5d-47a3-b0de-d43cd1c911e2",
       "title": "Barebells Ice Cream",
       "servings": "creami tub",
