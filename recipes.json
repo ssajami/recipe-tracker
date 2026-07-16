@@ -2575,22 +2575,18 @@
         }
       ],
       "instructions": [
-        "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth.",
-        "Freeze – Pour into tub, cover, and freeze for 24 hours on a level surface.",
-        "Spin – use the “Ice Cream” setting.",
-        "Respin if needed – If crumbly, add 1-2 tablespoons of milk and respin.",
-        "Add Mix-Ins – Stir in chopped pistachios, and select the Mix-In function."
+        "Blend Ingredients – Combine all ingredients in a blender or food processor until smooth."
       ],
-      "prepNotes": "* If too crumbly, add 1-2 tablespoons of milk. Respin until smooth.\n* Taste your base before freezing. It should be slightly sweeter than your preference.\n\nSubstitutions:\nReplace half-and-half – Use equal parts heavy cream and whole milk.\nSwap cottage cheese – Use Greek yogurt for a tangy twist.\nSkip condensed milk – Use honey or maple syrup for a natural sweetener.\nAdd-ins: Dark chocolate chips\n\nVariations:\nDubai Chocolate Ice Cream – Add cocoa powder for a chocolatey twist. \nPistachio Chocolate Ice Cream – Mix in chocolate chips or a fudge swirl. \nHoney Pistachio Ice Cream – Drizzle honey for a floral sweetness. \nCardamom Pistachio Ice Cream – Add a pinch of cardamom for Middle Eastern vibes. \nSalted Caramel Pistachio Ice Cream – Swirl in homemade caramel sauce. \nEspresso Pistachio Ice Cream – Add a shot of espresso for a bold twist. \nCoconut Pistachio Ice Cream – Use coconut milk instead of half-and-half.",
+      "prepNotes": "Substitutions:\nReplace half-and-half – Use equal parts heavy cream and whole milk.\nSwap cottage cheese – Use Greek yogurt for a tangy twist.\nSkip condensed milk – Use honey or maple syrup for a natural sweetener.\nAdd-ins: Dark chocolate chips\n\nVariations:\nDubai Chocolate Ice Cream – Add cocoa powder for a chocolatey twist. \nPistachio Chocolate Ice Cream – Mix in chocolate chips or a fudge swirl. \nHoney Pistachio Ice Cream – Drizzle honey for a floral sweetness. \nCardamom Pistachio Ice Cream – Add a pinch of cardamom for Middle Eastern vibes. \nSalted Caramel Pistachio Ice Cream – Swirl in homemade caramel sauce. \nEspresso Pistachio Ice Cream – Add a shot of espresso for a bold twist. \nCoconut Pistachio Ice Cream – Use coconut milk instead of half-and-half.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "pistachio"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:27:35.610Z",
-      "updatedAt": "2026-07-08T18:46:33.848Z"
+      "updatedAt": "2026-07-16T17:28:59.594Z"
     },
     {
       "id": "1a99cba4-faf1-4f05-92d5-9d33b9e0c055",
