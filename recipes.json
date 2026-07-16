@@ -8795,7 +8795,7 @@
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
-      "title": "Classic Ice Cream Base Recipe (stop)",
+      "title": "Classic Ice Cream Base Recipe",
       "servings": "creami tub",
       "source": "insta: ninja_creami_recipes",
       "ingredients": [
@@ -8816,20 +8816,16 @@
           "name": "sugar"
         }
       ],
-      "instructions": [
-        "Mix all ingredients together in a pint tub and freeze 24 hours",
-        "Once frozen, spin on the ice cream setting.",
-        "The ice cream will come out slightly crumbly — add 1 tbsp milk and respin."
-      ],
+      "instructions": [],
       "prepNotes": "For a thicker, still-creamy texture, freeze an additional 1–3 hours.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-06-30T17:10:58.648Z",
-      "updatedAt": "2026-07-13T17:27:53.721Z"
+      "updatedAt": "2026-07-16T18:56:38.632Z"
     },
     {
       "id": "c88ac260-59a7-4cb3-8243-d80c3bd5a51e",
