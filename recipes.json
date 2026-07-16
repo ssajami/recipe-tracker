@@ -2406,16 +2406,16 @@
       "source": "me",
       "ingredients": [
         {
-          "qty": "½ cup",
-          "name": " walnut halves/pieces"
+          "qty": "½ cup  halves/pieces",
+          "name": " walnuts"
         },
         {
           "qty": "2 tbsp",
           "name": "maple syrup"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -2433,9 +2433,9 @@
         "snacks",
         "toppings"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-03T05:38:22.343Z",
-      "updatedAt": "2026-07-08T18:17:10.211Z"
+      "updatedAt": "2026-07-16T18:25:31.815Z"
     },
     {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
