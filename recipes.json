@@ -7470,41 +7470,36 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "fat free Fairlife milk"
+          "name": "semi-skimmed milk"
         },
         {
-          "qty": "22 g",
-          "name": "(2 tbsp) whipped (or regular) cream cheese"
+          "qty": "22 g (2 tbsp)",
+          "name": "cream cheese"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp)  vanilla bean paste"
+          "qty": "5 g (1tsp)",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "40",
-          "name": "-45g Lakanto monk fruit sweetener"
+          "qty": "40-45g",
+          "name": "monk fruit"
         },
         {
           "qty": "",
           "name": "A pinch of salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) xanthan gum"
+          "qty": "1 g (¼ tsp)",
+          "name": "xanthan gum"
         },
         {
-          "qty": "3",
-          "name": "chocolate chip cookies (can sub with any crunchy chocolate chip cookies)"
+          "qty": "Mix-in: 3",
+          "name": "chocolate chip cookies"
         }
       ],
       "instructions": [
         "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Place your cookies in a plastic bag and freeze alongside your pint (this allows them to firm up and not get pulverized by the Mix-in setting)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Spin on \"Respin\" setting if very powdery",
-        "Make a hole down to the bottom with a butter knife and add the frozen cookies",
-        "Run the \"Mix-in\" cycle"
+        "Place your cookies in a plastic bag and freeze alongside your pint (this allows them to firm up and not get pulverized by the Mix-in setting)"
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
@@ -7515,8 +7510,9 @@
         "cheesecake",
         "chocolate chip cookie"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T06:20:35.980Z",
-      "updatedAt": "2026-07-01T06:48:39.523Z"
+      "updatedAt": "2026-07-16T15:49:21.627Z"
     },
     {
       "id": "72a2728e-5a16-493e-b35d-1c9cd09cbd5c",
