@@ -4028,7 +4028,7 @@
         }
       ],
       "ingredientLinks": [
-        null,
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         null,
         null,
         "4b2c9fb5-f64d-4c6a-92c1-1fbfa1c344fe"
@@ -4042,9 +4042,9 @@
         "protein",
         "lemon"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-12T16:26:46.772Z"
+      "updatedAt": "2026-07-16T17:11:26.191Z"
     },
     {
       "id": "eb6312b7-053e-4eb5-b0a3-19d10be0d8d3",
