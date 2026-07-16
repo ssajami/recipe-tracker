@@ -2991,7 +2991,7 @@
         },
         {
           "qty": "(Optional) squeeze",
-          "name": "lemon"
+          "name": "lemons"
         }
       ],
       "instructions": [],
@@ -3003,7 +3003,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:24:43.449Z",
-      "updatedAt": "2026-07-16T16:58:08.804Z"
+      "updatedAt": "2026-07-16T19:28:58.383Z"
     },
     {
       "id": "3ffcea8c-b1d4-4146-9144-469db43bffde",
