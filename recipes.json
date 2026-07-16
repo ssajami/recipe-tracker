@@ -1519,8 +1519,8 @@
           "name": "large egg"
         },
         {
-          "qty": "--------",
-          "name": "ICING"
+          "qty": "",
+          "name": "---ICING"
         },
         {
           "qty": "2 cups",
@@ -1567,7 +1567,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-10T10:10:55.194Z",
-      "updatedAt": "2026-07-14T16:46:17.849Z"
+      "updatedAt": "2026-07-16T19:26:35.386Z"
     },
     {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
