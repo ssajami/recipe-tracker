@@ -2649,56 +2649,52 @@
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "¼ cups half and half"
+          "qty": "1¼ cups",
+          "name": "half and half"
         },
         {
           "qty": "3 tablespoons",
           "name": "cocoa powder"
         },
         {
-          "qty": "",
-          "name": "½ cup hot water"
+          "qty": "½ cup",
+          "name": "hot water"
         },
         {
-          "qty": "",
-          "name": "½ cup sweetened condensed milk"
+          "qty": "½ cup",
+          "name": "sweetened condensed milk"
+        },
+        {
+          "qty": "1.5 teaspoon",
+          "name": "instant coffee"
+        },
+        {
+          "qty": "½ cup",
+          "name": "cottage cheese"
         },
         {
           "qty": "1 teaspoon",
-          "name": "instant espresso powder"
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "½ cup cottage cheese"
-        },
-        {
-          "qty": "1 teaspoon",
-          "name": "vanilla extract or vanilla bean paste"
-        },
-        {
-          "qty": "",
-          "name": "¾ cup brownie chunks (for mix-in)"
+          "qty": "Mix-in:¾ cup ",
+          "name": "brownie chunks"
         }
       ],
       "instructions": [
         "Whisk cocoa powder with hot water until smooth.",
-        "Blend cocoa mixture with all remaining ingredients (except brownies) until fully smooth.",
-        "Pour into a tub and freeze 24 hours.",
-        "Spin on Ice Cream.",
-        "Respin once until creamy.",
-        "Add brownie chunks and run Mix-In cycle."
+        "Blend cocoa mixture with all remaining ingredients (except brownies) until fully smooth."
       ],
-      "prepNotes": "* Respin is expected — this isn’t a failure, it’s the process\n* Add mix-ins only using the Mix-In cycle",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream",
         "chocolate"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:26:42.818Z",
-      "updatedAt": "2026-07-03T03:58:34.697Z"
+      "updatedAt": "2026-07-16T16:10:46.993Z"
     },
     {
       "id": "a6da4888-e7e5-44f9-802b-91f74e991d49",
