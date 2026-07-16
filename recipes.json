@@ -7745,27 +7745,27 @@
       "ingredients": [
         {
           "qty": "300 g",
-          "name": "Fat free cottage cheese"
+          "name": "cottage cheese"
         },
         {
           "qty": "160 ml",
-          "name": "Almond milk"
+          "name": "unsweetened almond milk"
         },
         {
-          "qty": "3",
-          "name": "-4 Medjool dates"
+          "qty": "3-4",
+          "name": "medjool dates"
         },
         {
           "qty": "15 g",
-          "name": "Cocoa powder"
+          "name": "unsweetened cocoa powder"
         },
         {
-          "qty": "",
-          "name": "Strawberries (topping)"
+          "qty": "Topping: ",
+          "name": "strawberries"
         },
         {
-          "qty": "",
-          "name": "Honey (topping)"
+          "qty": "Topping:",
+          "name": "honey"
         }
       ],
       "instructions": [
@@ -7781,8 +7781,9 @@
         "chocolate",
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T05:58:44.360Z",
-      "updatedAt": "2026-07-01T06:13:11.712Z"
+      "updatedAt": "2026-07-16T15:50:17.232Z"
     },
     {
       "id": "f36d7f6c-b04f-430b-95b7-a99ba6f235f8",
