@@ -8872,30 +8872,26 @@
         },
         {
           "qty": "150 g",
-          "name": "sweetened condensed milk (not evaporated milk)"
+          "name": "sweetened condensed milk"
         },
         {
           "qty": "100 g",
-          "name": "thickened cream (30–35% fat)"
+          "name": "heavy cream"
         },
         {
           "qty": "75 g",
-          "name": "full fat milk"
+          "name": "whole milk"
         },
         {
-          "qty": "",
-          "name": "Good pinch of fine salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1/2",
-          "name": "–3/4 tsp pumpkin spice (optional)"
+          "qty": "½-¾ tsp",
+          "name": "pumpkin spice"
         }
       ],
-      "instructions": [
-        "Whisk all ingredients together until smooth and spices are integrated.",
-        "Pour into the tub and freeze 16–24 hours with the lid off.",
-        "Process on the ice cream function. Re-spin for a fluffier texture if desired."
-      ],
+      "instructions": [],
       "prepNotes": "Sweet potato must be 100% puree, no added sugar/syrup. Canned sweet potato not tested.",
       "afterPrepNotes": "",
       "rating": null,
@@ -8903,8 +8899,9 @@
         "ice cream",
         "sweet potato"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-06-30T18:45:11.025Z"
+      "updatedAt": "2026-07-16T18:21:58.389Z"
     },
     {
       "id": "aafadb3d-9545-453a-9fa0-15dab6580ad0",
