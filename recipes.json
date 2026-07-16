@@ -8585,8 +8585,8 @@
       "source": "georgeats.com",
       "ingredients": [
         {
-          "qty": "200 g",
-          "name": "ripe strawberries (weighed after de-hulling)"
+          "qty": "200 g ripe ",
+          "name": "strawberries"
         },
         {
           "qty": "350 g",
@@ -8597,8 +8597,8 @@
           "name": "agave syrup"
         },
         {
-          "qty": "",
-          "name": "Pinch of fine salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -8613,8 +8613,9 @@
         "ice cream",
         "strawberry"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-06-30T18:46:48.268Z"
+      "updatedAt": "2026-07-16T18:19:47.872Z"
     },
     {
       "id": "9b6abd40-6db3-4cf3-ab14-f4d0bf9b7711",
