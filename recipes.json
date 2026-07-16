@@ -7067,42 +7067,34 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "fat free ultra-filtered Milk"
+          "name": "semi-skimmed milk"
         },
         {
-          "qty": "40",
-          "name": "-45g Lakanto Monk Fruit sweetener"
+          "qty": "40-45",
+          "name": "monk fruit"
         },
         {
-          "qty": "8 g",
-          "name": "(½ tbsp) Peanut Butter"
+          "qty": "½ tbsp",
+          "name": "peanut butter"
         },
         {
-          "qty": "16 g",
-          "name": "(2 tbsp) Lakanto Peanut Butter Powder"
+          "qty": "2 tbsp",
+          "name": "peanut butter powder"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) salt"
+          "qty": "¼ tsp",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp) xanthan gum"
+          "qty": "¼ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 2 tbsp sugar free strawberry jelly"
+          "qty": "Mix-ins: 2 tbsp ",
+          "name": "sugar free strawberry jelly"
         }
       ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Ice Cream\" setting",
-        "Spin on \"Respin\" setting",
-        "Respin again if powdery",
-        "Make a hole down to the bottom with a butter knife and fill with the strawberry jelly",
-        "Run the \"Mix-in\" cycle"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -7112,8 +7104,9 @@
         "peanut butter",
         "jelly"
       ],
+      "pinned": true,
       "createdAt": "2026-07-01T06:20:34.487Z",
-      "updatedAt": "2026-07-01T06:39:21.282Z"
+      "updatedAt": "2026-07-16T18:39:34.846Z"
     },
     {
       "id": "aa0e4daa-2f67-4a42-aa2b-d8ab1273b473",
