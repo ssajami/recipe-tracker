@@ -7862,45 +7862,39 @@
       "ingredients": [
         {
           "qty": "400 g",
-          "name": "Fat Free fairlife milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "45 g",
-          "name": "Lakanto monk fruit sweetener"
+          "name": "monk fruit"
         },
         {
-          "qty": "5 g",
-          "name": "(1 tsp)  vanilla bean paste (or extract)"
+          "qty": "1 tsp",
+          "name": "vanilla bean paste or extract"
         },
         {
-          "qty": "",
-          "name": "A pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "1 g",
-          "name": "(¼ tsp)  xanthan gum"
+          "qty": "¼ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Mix-ins: 5 OREO Thins (cream removed)"
+          "qty": "Mix-ins: 5 - cream removed",
+          "name": "oreo cookies"
         }
       ],
-      "instructions": [
-        "Blend all ingredients for the base and freeze (at least 16 hours)",
-        "Run your pint under hot water for at least 60 seconds",
-        "Spin on \"Lite Ice Cream\" setting",
-        "Spin on \"Respin\" setting if very powdery",
-        "Make a hole down to the bottom with a butter knife and fill with the Oreos",
-        "Run the \"Mix-in\" cycle"
-      ],
+      "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
         "ice cream"
       ],
+      "pinned": true,
       "createdAt": "2026-06-30T19:15:57.123Z",
-      "updatedAt": "2026-07-01T02:16:36.408Z"
+      "updatedAt": "2026-07-16T19:03:11.586Z"
     },
     {
       "id": "394074bf-c766-4f91-a18f-0dce012e35d7",
