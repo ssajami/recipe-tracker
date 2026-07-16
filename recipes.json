@@ -609,8 +609,8 @@
           "name": "brown sugar"
         },
         {
-          "qty": "2",
-          "name": "large eggs"
+          "qty": "2 large",
+          "name": "eggs"
         },
         {
           "qty": "1 ½ tsp",
@@ -655,7 +655,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-13T16:09:39.361Z",
-      "updatedAt": "2026-07-14T16:43:26.686Z"
+      "updatedAt": "2026-07-16T19:27:56.768Z"
     },
     {
       "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
