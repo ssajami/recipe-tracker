@@ -4247,41 +4247,6 @@
       "updatedAt": "2026-07-15T17:38:45.824Z"
     },
     {
-      "id": "045adf90-cc24-4b6d-b0d1-17f4ebe9c159",
-      "title": "Cookies Over Texas Ice Cream",
-      "servings": "creami tub",
-      "source": "Dynas Reddit",
-      "ingredients": [
-        {
-          "qty": "",
-          "name": "vanilla base"
-        },
-        {
-          "qty": "Mix in: ",
-          "name": "chocolate chip cookie dough"
-        }
-      ],
-      "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-        "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e"
-      ],
-      "instructions": [
-        "Mix all ingredients together. Freeze. Spin.",
-        "Add mix-ins",
-        "Optional toppings:  chocolate syrup, crumbled cookie bits."
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "Good - used 1 chocolate chip cookie. Try something cookie dough and add syrup?",
-      "rating": 3,
-      "tags": [
-        "ice cream",
-        "protein"
-      ],
-      "pinned": false,
-      "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-12T17:06:03.017Z"
-    },
-    {
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
       "title": "Banana Nut Ice Cream",
       "servings": "creami tub",
