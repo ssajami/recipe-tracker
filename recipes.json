@@ -5455,9 +5455,9 @@
         "strawberry",
         "sorbet"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T18:14:47.382Z"
+      "updatedAt": "2026-07-17T14:07:08.515Z"
     },
     {
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
