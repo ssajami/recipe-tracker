@@ -2803,7 +2803,7 @@
         },
         {
           "qty": " (fill to the line)",
-          "name": "Lemonade"
+          "name": "lemonade"
         }
       ],
       "instructions": [
@@ -2817,11 +2817,12 @@
       "rating": null,
       "tags": [
         "sorbet",
-        "raspberry"
+        "raspberry",
+        "lemon"
       ],
       "pinned": false,
       "createdAt": "2026-07-02T11:27:59.554Z",
-      "updatedAt": "2026-07-17T16:08:27.351Z"
+      "updatedAt": "2026-07-17T16:08:44.356Z"
     },
     {
       "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
