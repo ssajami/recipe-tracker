@@ -4637,7 +4637,7 @@
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "ice cream",
         "protein",
@@ -4646,7 +4646,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-17T14:05:43.929Z"
+      "updatedAt": "2026-07-17T17:27:50.715Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
