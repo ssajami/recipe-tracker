@@ -7695,9 +7695,9 @@
         "ice cream",
         "yogurt"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T05:23:46.495Z",
-      "updatedAt": "2026-07-16T18:23:56.543Z"
+      "updatedAt": "2026-07-17T14:10:57.979Z"
     },
     {
       "id": "4b524de8-0fe9-4d6a-81d6-baffc5d5599a",
