@@ -2,20 +2,21 @@
   "recipes": [
     {
       "id": "3ff02913-884d-4fc1-bad8-66bf80fad731",
-      "title": "Keto Banana Bread (Perfect for Breakfast!)",
+      "title": "Keto Banana Bread",
       "servings": "12",
+      "source": "healthyrecipesblogs.com",
       "ingredients": [
         {
           "qty": "",
-          "name": "Cooking spray for the pan (I use avocado oil spray)"
+          "name": "cooking spray"
         },
         {
-          "qty": "3",
-          "name": "large eggs"
+          "qty": "3 large",
+          "name": "eggs"
         },
         {
-          "qty": "2",
-          "name": "large bananas (well mashed, 1 cup; three bananas or 1.5 cups for a paleo version)"
+          "qty": "2 large  (well mashed, 1 cup)",
+          "name": "bananas"
         },
         {
           "qty": "1 tablespoon",
@@ -23,27 +24,27 @@
         },
         {
           "qty": "2 tablespoons",
-          "name": "sugar-free sweetener  (or honey for a paleo version)"
+          "name": "sweetener"
         },
         {
-          "qty": "8 ounces",
-          "name": "almond flour (2 cups; please measure by weight)"
+          "qty": "8 ounces (2 cups, measure by weight)",
+          "name": "almond flour"
         },
         {
           "qty": "1 tablespoon",
-          "name": "ground cinnamon (reduce to 1-2 teaspoons for milder flavor)"
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Pinch kosher salt"
+          "qty": "pinch",
+          "name": "kosher salt"
         },
         {
           "qty": "1 teaspoon",
-          "name": "baking soda (or a tablespoon of baking powder, gluten-free if needed)"
+          "name": "baking soda"
         }
       ],
       "instructions": [
-        "Preheat the oven to 350°F. Line a small loaf pan (8.5 X 4.5 inches) with parchment paper strips, leaving an overhang on each side of the pan. Lightly spray the lined pan with oil.",
+        "Preheat the oven to 175-180°C. Line a small loaf pan (22 X 11 inches) with parchment paper strips, leaving an overhang on each side of the pan. Lightly spray the lined pan with oil.",
         "In a medium bowl, whisk together the eggs, mashed bananas, vanilla, and sweetener.",
         "Gradually whisk in the almond flour, cinnamon, kosher salt, and baking soda. Whisk until smooth.",
         "Using a rubber spatula, transfer the batter to the prepared pan. Gently tap the pan on the countertop to distribute the batter evenly.",
@@ -51,16 +52,16 @@
         "Using the excess parchment paper as handles, carefully remove the bread from the pan and transfer it to a wire rack. Carefully remove the parchment to allow air to circulate.",
         "Cool the bread completely on the cooling rack for about 2 hours. Slice it into 12 slices and serve."
       ],
-      "prepNotes": "Fragrant, delicious, and comforting, this keto banana bread is perfect as a tasty breakfast or a filling snack.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "Breakfast",
-        "American"
+        "bread",
+        "banana"
       ],
-      "source": "https://healthyrecipesblogs.com/paleo-banana-bread/#recipe",
+      "pinned": false,
       "createdAt": "2026-07-17T06:51:24.919Z",
-      "updatedAt": "2026-07-17T06:51:24.919Z"
+      "updatedAt": "2026-07-17T06:55:39.070Z"
     },
     {
       "id": "81939727-98dd-4cc2-879f-a0b140872f61",
