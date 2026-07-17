@@ -8943,11 +8943,11 @@
           "name": "milk"
         },
         {
-          "qty": "1/2 scoop",
+          "qty": "½ scoop",
           "name": "salted caramel protein"
         },
         {
-          "qty": "1/2 scoop",
+          "qty": "½ scoop",
           "name": "vanilla protein powder"
         },
         {
@@ -8977,7 +8977,7 @@
         null
       ],
       "instructions": [],
-      "prepNotes": "Substitute:\n* for salted caramel protein powder: Vanilla protein powder, Pinch of salt, 1/2 tsp caramel extract OR 1 tsp caramel sauce, a little brown sugar for caramel-y depth\n*  for apple butter: apple pie filling",
+      "prepNotes": "Substitute:\n* for salted caramel protein powder: Vanilla protein powder, Pinch of salt, ½ tsp caramel extract OR 1 tsp caramel sauce, a little brown sugar for caramel-y depth\n*  for apple butter: apple pie filling",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -8987,7 +8987,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-17T06:11:18.054Z"
+      "updatedAt": "2026-07-17T16:22:45.933Z"
     },
     {
       "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
