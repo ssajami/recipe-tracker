@@ -1,6 +1,97 @@
 {
   "recipes": [
     {
+      "id": "f097d1a4-d772-42b9-b9c7-950edfad018f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-17T17:41:05.911Z",
+      "updatedAt": "2026-07-17T17:41:05.911Z",
+      "title": "Monster Cookie",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "of Fairlife Fat Free Milk"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar-free Vanilla pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Vanilla Ice Cream Whey Protein powder OR Ryse Peanut Butter Whey Protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Xanthan Gum"
+        },
+        {
+          "qty": "1 Tbsp",
+          "name": "Peanut Butter Powder"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "15 g",
+          "name": "Finely Ground Bob Red Mill Protein Rolled Oats OR Oat flour OR Instant Oatmeal (easiest)"
+        },
+        {
+          "qty": "",
+          "name": "½ tsp Ground Cinnamon"
+        },
+        {
+          "qty": "15 mL",
+          "name": "(1tsbp) Sugar Free Maple Syrup (Maple Grove)"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Swerve Brown Sugar (Brown Sugar Cinnamon Flavor)"
+        },
+        {
+          "qty": "",
+          "name": "½ tsp Imitation Butter Extract"
+        },
+        {
+          "qty": "",
+          "name": "¼ tsp Maple Extract"
+        },
+        {
+          "qty": "15",
+          "name": "gr Lily Milk Chocolate Chips"
+        },
+        {
+          "qty": "28",
+          "name": "gr Plain M&M (Or Substitute your favorite kind)"
+        },
+        {
+          "qty": "",
+          "name": "Optional: 1 Monster Cookie"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "A base blend of peanut butter and oatmeal ice cream with milk chocolate chips and M&M mix ins.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high protein",
+        "sugar free",
+        "low carb",
+        "peanut butter",
+        "oatmeal"
+      ],
+      "source": ""
+    },
+    {
       "id": "c0f5e914-b80a-41c6-869d-1f95d158cce7",
       "title": "Sugar Free Oatmeal Cookies",
       "servings": "22 cookies",
