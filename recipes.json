@@ -59,52 +59,68 @@
     {
       "id": "ad0805dc-d188-4e27-b2e5-30a159438087",
       "title": "Honey Sopapilla",
-      "servings": "",
-      "source": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "of Fairlife Fat Free Milk"
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "¾ cup",
+          "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Protein powder"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/8 teaspoon",
-          "name": "of Xanthan Gum"
+          "qty": "⅛ teaspoon",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "½ tsp ground Cinnamon"
+          "qty": "½ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "1/8 teaspoon",
-          "name": "of Vanilla Extract"
+          "qty": "⅛ teaspoon",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "¼ tsp Lorann's Honey Extract OR 1 tbsp Wholesome YUM SF Honey"
+          "qty": "1 tbsp",
+          "name": "sugar free honey"
+        },
+        {
+          "qty": "Mix-in: (hand stir)",
+          "name": "Ooey Gooey Honey Swirl"
         }
       ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3c9de3db-cc9c-47d6-8eb4-98ecebc0df79"
+      ],
       "instructions": [
-        "Mix-ins - 30 mL Ooey Gooey Honey Swirls",
         "Sopapilla Dust: 5gr Powdered Serve, 1 tsp cinnamon, pinch of ground cloves",
         "Optional: Sopapilla Phyllo Pastry: 8gr (1 phyllo sheet), 5 gr SF Honey YUM OR Organic Raw Honey, 1 tsp cinnamon, 4 gr (1.5 tsp) powder Swerve Confectioners sugar. Crumple phyllo into small pieces. Lightly mist with cooking spray or water. Drizzle with honey. Sprinkle with cinnamon and swerve. Bake 375° 4-5 mins or Air Fry 375 for 2-3 mins. Nutrition: Servings 1 (≈20 gr), Cal 45, Pr 1, Carb 9, Fat <.5, Sugar 0",
         "Toppings - Optional: 1 Tbsp Zero Sugar Honey (Yum), Dash of Cinnamon, Dash Swerve SF Powder Sugar, Cool Whip"
@@ -113,16 +129,12 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "latin american",
-        "low calorie",
-        "sugar free",
-        "high protein"
+        "honey"
       ],
       "pinned": false,
       "createdAt": "2026-07-17T18:02:31.751Z",
-      "updatedAt": "2026-07-17T18:06:39.901Z"
+      "updatedAt": "2026-07-17T18:15:14.046Z"
     },
     {
       "id": "be0c7edd-fda5-4f5f-900d-c1bed4e3cefa",
