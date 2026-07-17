@@ -1,6 +1,85 @@
 {
   "recipes": [
     {
+      "id": "b75a7933-b510-45a8-8f17-d51b96bef654",
+      "title": "Big Giant Monster Cookies",
+      "servings": "24",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "and 1/2 cups (188g) all-purpose flour (spooned &amp; leveled)"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "baking powder"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "baking soda"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "salt"
+        },
+        {
+          "qty": "1 cup",
+          "name": "(16 Tbsp; 226g) unsalted butter, softened to room temperature"
+        },
+        {
+          "qty": "1 cup",
+          "name": "(200g) granulated sugar"
+        },
+        {
+          "qty": "1/2 cup",
+          "name": "(100g) packed light or dark brown sugar"
+        },
+        {
+          "qty": "2",
+          "name": "large eggs, at room temperature"
+        },
+        {
+          "qty": "1 cup",
+          "name": "(240g) creamy peanut butter*"
+        },
+        {
+          "qty": "2 teaspoons",
+          "name": "pure vanilla extract"
+        },
+        {
+          "qty": "2 cups",
+          "name": "(170g) old-fashioned whole rolled oats"
+        },
+        {
+          "qty": "1",
+          "name": "and 1/2 cups (345g) mini M&amp;Ms"
+        },
+        {
+          "qty": "1",
+          "name": "and 1/2 cups (270g) semi-sweet chocolate chips, plus more for topping if desired"
+        }
+      ],
+      "instructions": [
+        "Whisk the flour, baking powder, baking soda, and salt together in a medium bowl. Set aside.",
+        "In a large bowl using a hand mixer or a stand mixer fitted with a paddle attachment, beat the butter on medium-high speed until smooth, about 1 minute. Add the granulated sugar and brown sugar and beat on medium-high speed until creamed, about 2 minutes. Stop and scrape down the sides of the bowl as needed. (Here’s a helpful tutorial if you need guidance on how to cream butter and sugar.) Add the eggs, peanut butter, and vanilla and beat on high speed until combined, about 1 minute. Scrape down the sides and bottom of the bowl and beat again as needed to combine.",
+        "Add the dry ingredients and oats to the wet ingredients and beat on low speed until combined. Finally, beat in the mini M&amp;Ms and chocolate chips. The dough will be thick, creamy, and sticky.",
+        "Cover and chill the dough for at least 30 minutes in the refrigerator (and up to 4 days). If chilling for longer than 1 hour, allow to sit at room temperature for at least 30 minutes before scooping and baking because the dough will be quite hard.",
+        "Preheat oven to 350°F (177°C). Line baking sheets with parchment paper or silicone baking mats. Set aside.",
+        "Scoop large mounds of dough, 65g each (a heaping 3 Tablespoons of dough per cookie), and arrange 3 inches apart on the baking sheets (about 6 cookies per baking sheet). Bake for 14–16 minutes, or until the edges are set and lightly browned. The centers will look very soft but the cookies will continue to set as they cool.",
+        "Remove from the oven and allow the cookies to cool on the baking sheet for 10 minutes before transferring to a cooling rack to cool completely. While the cookies are still warm, I like to press a few more chocolate chips and M&amp;Ms into the tops—this is only for looks!",
+        "Cookies stay fresh covered at room temperature for up to 1 week."
+      ],
+      "prepNotes": "This recipe for big giant monster cookies yields 2 dozen XL cookies that are extra-perfect for cookie monsters who have a hard time choosing between oatmeal cookies, peanut butter cookies, and chocolate chip cookies!",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "Cookies",
+        "American"
+      ],
+      "source": "https://sallysbakingaddiction.com/monster-cookies/",
+      "createdAt": "2026-07-17T17:50:59.676Z",
+      "updatedAt": "2026-07-17T17:50:59.676Z"
+    },
+    {
       "id": "f097d1a4-d772-42b9-b9c7-950edfad018f",
       "title": "Monster Cookie Ice Cream",
       "servings": "creami tub",
