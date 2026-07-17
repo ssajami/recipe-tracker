@@ -2433,9 +2433,9 @@
         "snacks",
         "toppings"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-03T05:38:22.343Z",
-      "updatedAt": "2026-07-16T18:25:31.815Z"
+      "updatedAt": "2026-07-17T06:46:28.206Z"
     },
     {
       "id": "dd703ab8-1b60-4442-a516-6b8f4e13615f",
