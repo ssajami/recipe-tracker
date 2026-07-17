@@ -4630,6 +4630,11 @@
           "name": "almonds"
         }
       ],
+      "ingredientLinks": [
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        null,
+        null
+      ],
       "instructions": [
         "Toast almonds in toaster oven (careful not to burn!).",
         "Optional: Squirt SF Chocolate Syrup in the bottom of the pint.",
@@ -4646,7 +4651,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-17T17:27:50.715Z"
+      "updatedAt": "2026-07-17T17:34:03.141Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
