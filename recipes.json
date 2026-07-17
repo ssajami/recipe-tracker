@@ -3851,9 +3851,9 @@
         "banana",
         "ice cream"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T09:50:39.244Z",
-      "updatedAt": "2026-07-16T19:37:14.581Z"
+      "updatedAt": "2026-07-17T14:03:43.725Z"
     },
     {
       "id": "c3ddd393-262d-437e-bb70-05d6fbdc2ab0",
