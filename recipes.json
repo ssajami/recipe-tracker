@@ -1,6 +1,72 @@
 {
   "recipes": [
     {
+      "id": "fa5c1243-03b6-4d01-b594-717e1a8c16b5",
+      "title": "Cherry Limeade Sherbert",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "½ cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "½ cup",
+          "name": "unsweetened almond milk"
+        },
+        {
+          "qty": "½ tbsp",
+          "name": "sugar free cherry jello"
+        },
+        {
+          "qty": "½ tbsp",
+          "name": "sugar free lime jello"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "allulose"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "½ cup",
+          "name": "cherries"
+        },
+        {
+          "qty": "1 cut into pieces",
+          "name": "lime"
+        },
+        {
+          "qty": "1 tbsp fresh",
+          "name": "lime juice"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "citric acid"
+        }
+      ],
+      "instructions": [
+        "Remove pits from cherries"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sherbert",
+        "lime",
+        "cherry"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T16:12:36.507Z",
+      "updatedAt": "2026-07-17T16:12:36.507Z"
+    },
+    {
       "id": "0d4478a7-1c6b-4fe4-a08b-0d1bb04caaef",
       "title": "Sherbert Raspberry Lemonade",
       "servings": "creami tub",
