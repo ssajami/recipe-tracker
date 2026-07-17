@@ -5408,9 +5408,9 @@
         "sorbet",
         "watermelon"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-16T18:11:58.881Z"
+      "updatedAt": "2026-07-17T14:06:58.941Z"
     },
     {
       "id": "0da3faf5-31b5-4de3-a4ab-bbe3b600a3dc",
