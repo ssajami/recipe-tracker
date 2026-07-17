@@ -2,20 +2,17 @@
   "recipes": [
     {
       "id": "0bc29bdd-9bc8-45b9-beac-457628ec0428",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-17T14:03:27.899Z",
-      "updatedAt": "2026-07-17T14:03:27.899Z",
       "title": "Brown Butter Ice Cream",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "reddit",
       "ingredients": [
         {
-          "qty": "20 g",
-          "name": "real butter, browned"
+          "qty": "20 g, browned",
+          "name": "butter"
         },
         {
-          "qty": "30 g",
-          "name": "light heavy cream (19%)"
+          "qty": "30 g (19%)",
+          "name": "light cream"
         },
         {
           "qty": "175 g",
@@ -31,19 +28,19 @@
         },
         {
           "qty": "5 g",
-          "name": "whey vanilla"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "5 g",
-          "name": "whey salted caramel"
+          "name": "salted caramel protein"
         },
         {
           "qty": "5 g",
-          "name": "casein white chocolate"
+          "name": "white chocolate protein"
         },
         {
           "qty": "200 g",
-          "name": "milk 3.5%"
+          "name": "whole milk"
         },
         {
           "qty": "1 g",
@@ -56,15 +53,15 @@
       ],
       "instructions": [],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "vegetarian",
-        "low-carb",
-        "high-protein",
-        "sugar-free"
+        "unique"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-17T14:03:27.899Z",
+      "updatedAt": "2026-07-17T14:08:57.743Z"
     },
     {
       "id": "3ff02913-884d-4fc1-bad8-66bf80fad731",
