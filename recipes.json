@@ -4641,17 +4641,18 @@
         "Optional toppings: SF Chocolate Syrup."
       ],
       "prepNotes": "",
-      "afterPrepNotes": "",
+      "afterPrepNotes": "had a faint alcoholic smell/taste - maybe from almond extract, use only a drop or two.",
       "rating": 3,
       "tags": [
         "ice cream",
         "protein",
         "chocolate",
-        "almond"
+        "almond",
+        "retry"
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-17T17:34:03.141Z"
+      "updatedAt": "2026-07-17T17:39:59.940Z"
     },
     {
       "id": "9990d236-b05f-4909-8e2b-9c85eaf580c9",
