@@ -2535,9 +2535,9 @@
         "sorbet",
         "raspberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:27:59.554Z",
-      "updatedAt": "2026-07-16T18:09:25.461Z"
+      "updatedAt": "2026-07-17T06:46:33.720Z"
     },
     {
       "id": "83ace87f-4f06-4593-a4e8-e944e011a552",
