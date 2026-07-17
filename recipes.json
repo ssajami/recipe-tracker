@@ -1,6 +1,58 @@
 {
   "recipes": [
     {
+      "id": "0689926a-e3cc-4087-ad27-d746dffb1420",
+      "title": "Seventh Inning Swirl",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "salted caramel base"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "butter extract"
+        },
+        {
+          "qty": "Mix-in: 28g",
+          "name": "sugar free praline peanuts"
+        },
+        {
+          "qty": "14g chopped",
+          "name": "peanuts"
+        },
+        {
+          "qty": "",
+          "name": "Ooey Gooey Caramel Swirl"
+        },
+        {
+          "qty": "Optional:",
+          "name": "Ooey Gooey Peanut Butter Swirl"
+        }
+      ],
+      "ingredientLinks": [
+        "3cce119c-f294-4007-9da8-a538561d3f99",
+        null,
+        "b62e3998-d7d8-44e7-8216-e12c65018a1a",
+        null,
+        "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
+        "6d4a08c8-450e-47cf-b07e-60e98d8c8f11"
+      ],
+      "instructions": [
+        "make praline peanuts like pecans"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "untested"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T18:27:06.847Z",
+      "updatedAt": "2026-07-17T18:27:06.847Z"
+    },
+    {
       "id": "d04ee867-57af-4a84-aaa0-95361fc3eed0",
       "title": "Tres Leches",
       "servings": "creami tub",
