@@ -1,6 +1,72 @@
 {
   "recipes": [
     {
+      "id": "0bc29bdd-9bc8-45b9-beac-457628ec0428",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-17T14:03:27.899Z",
+      "updatedAt": "2026-07-17T14:03:27.899Z",
+      "title": "Brown Butter Ice Cream",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "20 g",
+          "name": "real butter, browned"
+        },
+        {
+          "qty": "30 g",
+          "name": "light heavy cream (19%)"
+        },
+        {
+          "qty": "175 g",
+          "name": "water"
+        },
+        {
+          "qty": "1/2 tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "40 g",
+          "name": "erythritol"
+        },
+        {
+          "qty": "5 g",
+          "name": "whey vanilla"
+        },
+        {
+          "qty": "5 g",
+          "name": "whey salted caramel"
+        },
+        {
+          "qty": "5 g",
+          "name": "casein white chocolate"
+        },
+        {
+          "qty": "200 g",
+          "name": "milk 3.5%"
+        },
+        {
+          "qty": "1 g",
+          "name": "salt"
+        },
+        {
+          "qty": "",
+          "name": "vanilla extract"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "vegetarian",
+        "low-carb",
+        "high-protein",
+        "sugar-free"
+      ],
+      "source": ""
+    },
+    {
       "id": "3ff02913-884d-4fc1-bad8-66bf80fad731",
       "title": "Keto Banana Bread",
       "servings": "12",
