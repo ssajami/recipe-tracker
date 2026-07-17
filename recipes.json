@@ -2,94 +2,91 @@
   "recipes": [
     {
       "id": "f097d1a4-d772-42b9-b9c7-950edfad018f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-17T17:41:05.911Z",
-      "updatedAt": "2026-07-17T17:41:05.911Z",
-      "title": "Monster Cookie",
-      "servings": "",
+      "title": "Monster Cookie Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "1 cup",
-          "name": "of Fairlife Fat Free Milk"
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "¾ cup",
+          "name": "unsweetened vanilla almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Vanilla pudding"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Vanilla Ice Cream Whey Protein powder OR Ryse Peanut Butter Whey Protein powder"
+          "name": "vanilla ice cream protein powder"
         },
         {
           "qty": "1 tbsp",
-          "name": "Allulose"
+          "name": "allulose"
         },
         {
-          "qty": "1/8 teaspoon",
-          "name": "of Xanthan Gum"
+          "qty": "⅛ teaspoon",
+          "name": "xanthan gum"
         },
         {
           "qty": "1 Tbsp",
-          "name": "Peanut Butter Powder"
+          "name": "peanut butter powder"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
           "qty": "15 g",
-          "name": "Finely Ground Bob Red Mill Protein Rolled Oats OR Oat flour OR Instant Oatmeal (easiest)"
+          "name": "rolled oats"
         },
         {
-          "qty": "",
-          "name": "½ tsp Ground Cinnamon"
+          "qty": "½ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "15 mL",
-          "name": "(1tsbp) Sugar Free Maple Syrup (Maple Grove)"
+          "qty": "15 mL (1 tbsp)",
+          "name": "sugar free maple syrup"
         },
         {
           "qty": "1 tbsp",
-          "name": "Swerve Brown Sugar (Brown Sugar Cinnamon Flavor)"
+          "name": "Swerve brown sugar"
         },
         {
-          "qty": "",
-          "name": "½ tsp Imitation Butter Extract"
+          "qty": "½ tsp",
+          "name": "butter extract"
         },
         {
-          "qty": "",
-          "name": "¼ tsp Maple Extract"
+          "qty": "¼ tsp",
+          "name": "maple extract"
         },
         {
-          "qty": "15",
-          "name": "gr Lily Milk Chocolate Chips"
+          "qty": "15gr",
+          "name": "chocolate chips"
         },
         {
-          "qty": "28",
-          "name": "gr Plain M&M (Or Substitute your favorite kind)"
+          "qty": "28gr",
+          "name": "M&M's"
         },
         {
-          "qty": "",
-          "name": "Optional: 1 Monster Cookie"
+          "qty": "Mix-in: (optional) 1",
+          "name": "Monster cookie"
         }
       ],
       "instructions": [],
-      "prepNotes": "A base blend of peanut butter and oatmeal ice cream with milk chocolate chips and M&M mix ins.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high protein",
-        "sugar free",
-        "low carb",
         "peanut butter",
         "oatmeal"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-17T17:41:05.911Z",
+      "updatedAt": "2026-07-17T17:50:42.971Z"
     },
     {
       "id": "c0f5e914-b80a-41c6-869d-1f95d158cce7",
