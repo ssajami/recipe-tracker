@@ -8666,9 +8666,9 @@
         "sorbet",
         "lemon"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T17:52:05.342Z",
-      "updatedAt": "2026-07-16T18:16:45.846Z"
+      "updatedAt": "2026-07-17T14:12:03.325Z"
     },
     {
       "id": "a4dad14e-6745-431c-be8a-6cc4c071567d",
