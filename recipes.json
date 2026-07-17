@@ -8568,7 +8568,7 @@
         },
         {
           "qty": "1/2 scoop",
-          "name": "vanilla protein"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "1–2 tbsp",
@@ -8605,9 +8605,9 @@
         "apples",
         "biscoff"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-06-30T17:29:44.270Z",
-      "updatedAt": "2026-07-14T17:35:42.492Z"
+      "updatedAt": "2026-07-17T06:11:18.054Z"
     },
     {
       "id": "ccb08fad-847e-4cdd-97b9-f6ca433f19c6",
