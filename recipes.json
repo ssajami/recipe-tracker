@@ -5,15 +5,56 @@
       "title": "Ooey Gooey Honey Swirls",
       "servings": "",
       "source": "Dynas",
-      "ingredients": [],
-      "instructions": [],
-      "prepNotes": ": [Hand Stirred at end] 30gr allulose, 20 gr SF Maple Syrup (Maple Grove), 15 gr Splenda Multi Purpose Syrup, 20gr water, 5gr Vegetable Glycerin (optional, but helps with softness), ¼ tsp honey extract, pinch of salt, 1/8 tsp xanthan gum. Whisk all ingredients except xanthan gum. Whisk all dry ingredients together first. Let sit 5 minutes to thicken. Refrigerate 15 minutes before use. Makes 3 servings (90gr).",
+      "ingredients": [
+        {
+          "qty": "30gr",
+          "name": "allulose"
+        },
+        {
+          "qty": "20gr",
+          "name": "sugar free maple syrup"
+        },
+        {
+          "qty": "15 gr",
+          "name": "Splenda sugar free multi use syrup"
+        },
+        {
+          "qty": "20 gr",
+          "name": "water"
+        },
+        {
+          "qty": "5gr",
+          "name": "vegetable glycerin"
+        },
+        {
+          "qty": "¼tsp",
+          "name": "honey extract"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
+        }
+      ],
+      "instructions": [
+        "Whisk all dry ingredients together first.",
+        "Whisk all ingredients except xanthan gum",
+        "Let sit 5 minutes to thicken.",
+        "Refrigerate 15 minutes before use."
+      ],
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
-      "tags": [],
+      "tags": [
+        "honey",
+        "toppings"
+      ],
       "pinned": false,
       "createdAt": "2026-07-17T18:04:12.168Z",
-      "updatedAt": "2026-07-17T18:06:51.384Z"
+      "updatedAt": "2026-07-17T18:09:38.776Z"
     },
     {
       "id": "ad0805dc-d188-4e27-b2e5-30a159438087",
