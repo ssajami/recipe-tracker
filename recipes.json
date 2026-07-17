@@ -1,6 +1,51 @@
 {
   "recipes": [
     {
+      "id": "ada35c98-9933-4f78-bc23-14e0e0e79d82",
+      "title": "Peanut Butter Pecan Praline Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "butterscotch base"
+        },
+        {
+          "qty": "¼ tso",
+          "name": "butter extract"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "peanut butter powder"
+        },
+        {
+          "qty": "Mix-in: 28g",
+          "name": "sugar free pecan pralines"
+        },
+        {
+          "qty": "Mix-in: 14g halved",
+          "name": "pecans"
+        }
+      ],
+      "ingredientLinks": [
+        "4bfa4212-f9dc-446a-aaa4-bc1fb3ef6291",
+        null,
+        null,
+        "b62e3998-d7d8-44e7-8216-e12c65018a1a",
+        null
+      ],
+      "instructions": [],
+      "prepNotes": "* can use Ryse Skippy instead of Vanilla protein - and then omit pb powder",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "untested"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T18:30:27.885Z",
+      "updatedAt": "2026-07-17T18:30:27.885Z"
+    },
+    {
       "id": "0689926a-e3cc-4087-ad27-d746dffb1420",
       "title": "Seventh Inning Swirl",
       "servings": "creami tub",
