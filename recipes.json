@@ -4313,7 +4313,7 @@
       "id": "b23070f8-2959-4447-92a4-127d9d0f4e0a",
       "title": "Banana Nut Ice Cream",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "¾ cup",
@@ -4358,10 +4358,28 @@
         {
           "qty": "Mix-in: crushed",
           "name": "walnuts"
+        },
+        {
+          "qty": "Mix-in: (hand stirred)",
+          "name": "banana bread"
         }
       ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3ff02913-884d-4fc1-bad8-66bf80fad731"
+      ],
       "instructions": [],
-      "prepNotes": "optional: add Keto Banana nut bread",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4371,7 +4389,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-07-17T06:50:57.069Z"
+      "updatedAt": "2026-07-17T06:56:39.160Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
