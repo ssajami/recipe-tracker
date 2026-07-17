@@ -1,6 +1,72 @@
 {
   "recipes": [
     {
+      "id": "0d4478a7-1c6b-4fe4-a08b-0d1bb04caaef",
+      "title": "Sherbert Raspberry Lemonade",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "½ cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "½ cup",
+          "name": "unsweetened almond milk"
+        },
+        {
+          "qty": "1 tbsp ",
+          "name": "sugar free jello"
+        },
+        {
+          "qty": "½ cup",
+          "name": "sugar free lemonade"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "allulose"
+        },
+        {
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "lemon extract"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "citric acid"
+        },
+        {
+          "qty": "½ cup whole",
+          "name": "raspberries"
+        }
+      ],
+      "instructions": [
+        "Run on SHERBERT setting"
+      ],
+      "prepNotes": "* can use unflavored protein powder",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "sherbert",
+        "raspberry",
+        "lemon"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T16:08:08.481Z",
+      "updatedAt": "2026-07-17T16:08:08.481Z"
+    },
+    {
       "id": "351eac14-8021-4721-8b90-7bd6bed14df9",
       "title": "Crème Brûlée Ice Cream",
       "servings": "creami tub",
