@@ -5,8 +5,50 @@
       "title": "Pumpkin Peanut Butter Ice Cream",
       "servings": "creami tub",
       "source": "Dynas",
-      "ingredients": [],
-      "instructions": [],
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "peanut butter icecream"
+        },
+        {
+          "qty": "",
+          "name": "pumpkin spice ice cream"
+        },
+        {
+          "qty": "Mix-in: 28g",
+          "name": "sugar free peanut butter chips"
+        },
+        {
+          "qty": "OR Mix-in: frozen chunks",
+          "name": "peanut butter"
+        },
+        {
+          "qty": "",
+          "name": "Ooey Gooey Peanut Butter Swirl"
+        },
+        {
+          "qty": "PB Base Mix-in: ½ cup",
+          "name": "pumpkin puree"
+        },
+        {
+          "qty": "PB Base Mix-in: ½tsp",
+          "name": "pumpkin pie spice"
+        }
+      ],
+      "ingredientLinks": [
+        "692de0de-76c0-4f86-8425-18006a49d547",
+        "74c47870-c201-4256-9ac4-2de561711ff6",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "instructions": [
+        "Option 1: PB base with pumpkin puree mixed in",
+        "Option 2: Pumpkin base with peanut butter chunks/pb chips mixed in",
+        "Option 3: split bases with pb chips mixed in"
+      ],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
@@ -17,7 +59,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-17T18:32:03.195Z",
-      "updatedAt": "2026-07-17T18:32:03.195Z"
+      "updatedAt": "2026-07-17T18:39:49.518Z"
     },
     {
       "id": "ada35c98-9933-4f78-bc23-14e0e0e79d82",
