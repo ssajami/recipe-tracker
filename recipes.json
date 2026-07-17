@@ -2638,9 +2638,9 @@
         "ice cream",
         "chocolate"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T11:27:14.489Z",
-      "updatedAt": "2026-07-16T19:16:50.116Z"
+      "updatedAt": "2026-07-17T06:46:51.874Z"
     },
     {
       "id": "e3d3b0f8-e993-4d4d-9d80-bfa576a49f77",
