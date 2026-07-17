@@ -4676,7 +4676,7 @@
       "id": "5e9b657d-b12a-4623-a1c6-7f88eb82c416",
       "title": "Sherbert (Lime, Orange, Raspberry, Strawberry)",
       "servings": "creami tub",
-      "source": "Dynas Reddit",
+      "source": "Dynas",
       "ingredients": [
         {
           "qty": "¾ cup",
@@ -4688,7 +4688,7 @@
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free jello"
+          "name": "sugar free jello"
         },
         {
           "qty": "1 scoop",
@@ -4728,11 +4728,15 @@
       "rating": null,
       "tags": [
         "protein",
-        "sherbert"
+        "sherbert",
+        "lime",
+        "orange",
+        "raspberry",
+        "strawberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-16T19:07:19.308Z"
+      "updatedAt": "2026-07-17T14:06:39.421Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
