@@ -1,6 +1,23 @@
 {
   "recipes": [
     {
+      "id": "75f266e3-22c3-45ca-9d51-a12df75dd347",
+      "title": "Cherry Chocolate Almond Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "untested"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T17:58:04.749Z",
+      "updatedAt": "2026-07-17T17:58:04.749Z"
+    },
+    {
       "id": "b0983c15-6481-484c-9d7d-27c3e98eeb9d",
       "title": "Butter Pecan Ice Cream",
       "servings": "creami tub",
