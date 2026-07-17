@@ -17,12 +17,9 @@
     },
     {
       "id": "ad0805dc-d188-4e27-b2e5-30a159438087",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-17T18:02:31.751Z",
-      "updatedAt": "2026-07-17T18:02:31.752Z",
       "title": "Honey Sopapilla",
       "servings": "",
+      "source": "",
       "ingredients": [
         {
           "qty": "1 cup",
@@ -66,12 +63,14 @@
         }
       ],
       "instructions": [
-        "Mix-ins - 30 mL Ooey Gooey Honey Swirls: [Hand Stirred at end] 30gr allulose, 20 gr SF Maple Syrup (Maple Grove), 15 gr Splenda Multi Purpose Syrup, 20gr water, 5gr Vegetable Glycerin (optional, but helps with softness), ¼ tsp honey extract, pinch of salt, 1/8 tsp xanthan gum. Whisk all ingredients except xanthan gum. Whisk all dry ingredients together first. Let sit 5 minutes to thicken. Refrigerate 15 minutes before use. Makes 3 servings (90gr). Nutrition: Servings 2 (30 gr), Cal 135, Pr 0, Carb 3 Fat 0, Pr 0, Sugar 0",
+        "Mix-ins - 30 mL Ooey Gooey Honey Swirls",
         "Sopapilla Dust: 5gr Powdered Serve, 1 tsp cinnamon, pinch of ground cloves",
         "Optional: Sopapilla Phyllo Pastry: 8gr (1 phyllo sheet), 5 gr SF Honey YUM OR Organic Raw Honey, 1 tsp cinnamon, 4 gr (1.5 tsp) powder Swerve Confectioners sugar. Crumple phyllo into small pieces. Lightly mist with cooking spray or water. Drizzle with honey. Sprinkle with cinnamon and swerve. Bake 375° 4-5 mins or Air Fry 375 for 2-3 mins. Nutrition: Servings 1 (≈20 gr), Cal 45, Pr 1, Carb 9, Fat <.5, Sugar 0",
         "Toppings - Optional: 1 Tbsp Zero Sugar Honey (Yum), Dash of Cinnamon, Dash Swerve SF Powder Sugar, Cool Whip"
       ],
       "prepNotes": "Note: For Tortilla Crunch Sopapilla see 'Easy Low Cal Recipes Section'",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -80,7 +79,9 @@
         "sugar free",
         "high protein"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-07-17T18:02:31.751Z",
+      "updatedAt": "2026-07-17T18:06:39.901Z"
     },
     {
       "id": "be0c7edd-fda5-4f5f-900d-c1bed4e3cefa",
