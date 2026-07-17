@@ -52,6 +52,10 @@
       </div>
       <hr style="margin:16px 0;border:none;border-top:1px solid var(--border)">
       <button class="btn-secondary" style="width:100%" onclick="App.backupRecipes()">&#8659; Download Backup</button>
+      <label class="btn-secondary" style="width:100%;display:block;text-align:center;cursor:pointer;margin-top:8px">
+        &#8657; Restore from Backup
+        <input type="file" accept=".json" style="display:none" onchange="App.restoreFromBackup(this)">
+      </label>
     </div>
   </div>
 
@@ -62,6 +66,18 @@
         <button class="btn-danger" id="confirm-ok">Delete</button>
         <button class="btn-secondary" onclick="App.hideConfirm()">Cancel</button>
       </div>
+    </div>
+  </div>
+
+  <div id="modal-conflict" class="modal-overlay hidden">
+    <div class="modal-box">
+      <h2>Page Out of Date</h2>
+      <p style="margin:12px 0">Another tab or device saved changes after this page was loaded. Saving now will overwrite those changes.</p>
+      <div class="modal-actions">
+        <button class="btn-primary" onclick="location.reload()">Reload Page</button>
+        <button class="btn-secondary" onclick="App.resolveConflict(false)">Cancel</button>
+      </div>
+      <button class="btn-danger" style="width:100%;margin-top:8px" onclick="App.resolveConflict(true)">Save Anyway</button>
     </div>
   </div>
 

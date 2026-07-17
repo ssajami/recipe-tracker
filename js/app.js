@@ -1,4 +1,4 @@
-const APP_VERSION = 4;
+const APP_VERSION = 5;
 
 // ── State ──────────────────────────────────────────────────────────────────
 const state = {
@@ -260,11 +260,19 @@ const App = {
   },
 
   // ── Sync ─────────────────────────────────────────────────────────────────
-  async _syncSave() {
+  async _syncSave(force = false) {
     state.syncStatus = 'saving';
     updateSyncDot();
     try {
       const latest = await Storage.loadRecipes();
+      if (!force && state.sha && latest.sha !== state.sha) {
+        const proceed = await this._confirmConflict();
+        if (!proceed) {
+          state.syncStatus = 'idle';
+          updateSyncDot();
+          return;
+        }
+      }
       state.sha = await Storage.saveRecipes(state.recipes, [...state.pantry], state.notes, latest.sha);
       state.syncStatus = 'idle';
       toast('Saved', 'success');
@@ -275,6 +283,39 @@ const App = {
     } finally {
       updateSyncDot();
     }
+  },
+
+  _confirmConflict() {
+    return new Promise(resolve => {
+      this._conflictResolve = resolve;
+      document.getElementById('modal-conflict').classList.remove('hidden');
+    });
+  },
+
+  resolveConflict(saveAnyway) {
+    document.getElementById('modal-conflict').classList.add('hidden');
+    if (this._conflictResolve) { this._conflictResolve(saveAnyway); this._conflictResolve = null; }
+  },
+
+  async restoreFromBackup(input) {
+    const file = input.files[0];
+    input.value = '';
+    if (!file) return;
+    let data;
+    try { data = JSON.parse(await file.text()); } catch { toast('Invalid JSON file', 'error'); return; }
+    const recipes = data.recipes || (Array.isArray(data) ? data : null);
+    if (!recipes) { toast('No recipes found in file', 'error'); return; }
+    this._confirm('Restore from backup? This will replace all current recipes.', async () => {
+      state.recipes = recipes.map(r => ({ ...r, ingredients: (r.ingredients || []).map(migrateIngredient) }));
+      state.pantry = new Set(data.pantry || []);
+      state.notes = data.notes || '';
+      try {
+        setLoading(true, 'Restoring…');
+        await this._syncSave(true);
+      } catch (_) {} finally { setLoading(false); }
+      this.hideSettings();
+      render();
+    });
   },
 
   // ── Recipe CRUD ───────────────────────────────────────────────────────────
@@ -1946,6 +1987,9 @@ async function init() {
   });
   document.getElementById('modal-confirm').addEventListener('click', e => {
     if (e.target.id === 'modal-confirm') App.hideConfirm();
+  });
+  document.getElementById('modal-conflict').addEventListener('click', e => {
+    if (e.target.id === 'modal-conflict') App.resolveConflict(false);
   });
 
   setLoading(true, 'Loading recipes…');
