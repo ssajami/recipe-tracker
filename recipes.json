@@ -3547,9 +3547,9 @@
         "sorbet",
         "blackberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T10:01:16.727Z",
-      "updatedAt": "2026-07-14T17:45:18.598Z"
+      "updatedAt": "2026-07-17T06:52:47.698Z"
     },
     {
       "id": "8e879d6b-38fe-496f-96cf-85b1a319bdad",
