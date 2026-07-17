@@ -1,6 +1,87 @@
 {
   "recipes": [
     {
+      "id": "c0f5e914-b80a-41c6-869d-1f95d158cce7",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-17T16:42:40.251Z",
+      "updatedAt": "2026-07-17T16:42:40.251Z",
+      "title": "Sugar Free Oatmeal Cookies",
+      "servings": "22 cookies",
+      "ingredients": [
+        {
+          "qty": "4 tablespoon",
+          "name": "unsalted butter, melted brown butter"
+        },
+        {
+          "qty": "1 cup",
+          "name": "almond flour"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon salt"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon baking soda"
+        },
+        {
+          "qty": "",
+          "name": "¼ teaspoon cinnamon"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "unflavored gelatin powder"
+        },
+        {
+          "qty": "2",
+          "name": "large eggs"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "",
+          "name": "½ cup coconut oil, melted if hard"
+        },
+        {
+          "qty": "1 cup",
+          "name": "brown sweetener"
+        },
+        {
+          "qty": "3 cups",
+          "name": "old fashioned rolled oats"
+        },
+        {
+          "qty": "",
+          "name": "½ cup unsweetened or low carb chocolate chips"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F.",
+        "In a saucepan melt the butter over medium heat and continue stirring until butter has browned, about 5-8 minutes. Set aside and allow to slightly cool.",
+        "In a medium bowl whisk together the dry ingredients except the brown sweetener. Set aside.",
+        "In a large bowl whisk together the eggs and the vanilla extract. Then whisk in the cooled melted brown butter and coconut oil until incorporated. Then add the brown sweetener and whisk again until well incorporated.",
+        "Next mix in the dry ingredients and then fold in the old fashioned rolled oats and the chocolate chips (if using) with a wooden spoon or strong rubber spatula. Mix until all ingredients are well combined.",
+        "Using an ice cream scoop, scoop out the cookies on a parchment lined baking sheet. Then flatten the cookies to about a half inch thick with a rubber spatula. You will likely need to use two baking sheets.",
+        "Bake the cookies at 375°F for about 8-10 minutes until the edges are slightly brown and crispy. Remove from the oven and allow to cool before moving them to a cooling rack."
+      ],
+      "prepNotes": "Use room temperature eggs and butter (remove 30 minutes before baking) for creamy binding. Use organic old-fashioned rolled oats for best texture; avoid quick oats. Cookies will not spread much, so flatten before baking. Remove when edges are set but center still looks slightly soft; they firm up as they cool. Recommended sweetener is Swerve Brown (1:1 ratio); monk fruit or allulose can substitute. Store 4-5 days at room temperature, 1 week refrigerated, or up to 3-4 months frozen with parchment between layers. Make dairy-free by using all coconut oil; nut-free by using sunflower seed flour with 1 tsp lemon juice; vegan with flax eggs. Per cookie: 125 kcal, 7g net carbs, 0g sugar.",
+      "tags": [
+        "sugar-free",
+        "low-carb",
+        "gluten-free",
+        "dessert",
+        "cookies",
+        "diabetic-friendly",
+        "keto-friendly",
+        "dairy-free option",
+        "quick"
+      ],
+      "source": "The Sugar Free Diva / recipe author's blog"
+    },
+    {
       "id": "5f742c19-7d89-4002-b109-663e98c356da",
       "title": "Oatmeal Ice Cream",
       "servings": "creami tub",
