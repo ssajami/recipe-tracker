@@ -1,6 +1,43 @@
 {
   "recipes": [
     {
+      "id": "351eac14-8021-4721-8b90-7bd6bed14df9",
+      "title": "Crème Brûlée Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "instant coffee"
+        },
+        {
+          "qty": "Mix-in: ",
+          "name": "creme brulee custard"
+        }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        "f06d95a0-b662-4fa4-b87a-f29a9d60a32a"
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "unique",
+        "untested"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-17T14:22:40.944Z",
+      "updatedAt": "2026-07-17T14:22:40.944Z"
+    },
+    {
       "id": "f06d95a0-b662-4fa4-b87a-f29a9d60a32a",
       "title": "Crème Brûlée",
       "servings": "4",
