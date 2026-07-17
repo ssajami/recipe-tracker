@@ -5581,9 +5581,9 @@
         "mint",
         "chocolate"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-16T16:11:12.507Z"
+      "updatedAt": "2026-07-17T14:07:15.725Z"
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
