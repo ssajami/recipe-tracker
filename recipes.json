@@ -4776,7 +4776,7 @@
           "name": "unsweetened vanilla almond milk"
         },
         {
-          "qty": "1 tbsp",
+          "qty": "1 tbsp (flavor of choice)",
           "name": "sugar free jello"
         },
         {
@@ -4800,8 +4800,12 @@
           "name": "extract"
         },
         {
-          "qty": "¼ cup blended",
+          "qty": "½ cup blended",
           "name": "fruit"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "citric acid"
         },
         {
           "qty": "Optional: dash of",
@@ -4809,10 +4813,10 @@
         }
       ],
       "instructions": [
-        "Dissolve sugar-free JELLO in 1/2 cup hot water until fully dissolved to avoid grainy texture.",
+        "Dissolve sugar-free JELLO in 1/2 cup heated almond milk until fully dissolved. use microwave in 10sec intervals.",
         "Churn on the SHERBERT setting."
       ],
-      "prepNotes": "",
+      "prepNotes": "* can use unflavored protein",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -4825,7 +4829,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-07-17T14:06:39.421Z"
+      "updatedAt": "2026-07-17T14:27:18.088Z"
     },
     {
       "id": "85edaae9-bbcc-4439-98f4-5e7839e0ff78",
