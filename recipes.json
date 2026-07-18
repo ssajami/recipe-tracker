@@ -2,35 +2,32 @@
   "recipes": [
     {
       "id": "c5bf4ccb-9157-42e3-b719-bf517b832eaf",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-07-18T10:54:43.488Z",
-      "updatedAt": "2026-07-18T10:54:43.489Z",
-      "title": "Pumpkin Cheesecake Ice Cream - Copy",
-      "servings": "1 pint",
+      "title": "Pumpkin Cheesecake Ice Cream (custard)",
+      "servings": "1 FreezeWand container",
+      "source": "",
       "ingredients": [
         {
-          "qty": "240",
-          "name": "milliliters whole milk"
+          "qty": "120 ml",
+          "name": "whole milk"
         },
         {
-          "qty": "120",
-          "name": "milliliters heavy cream"
+          "qty": "60 ml",
+          "name": "heavy cream"
         },
         {
-          "qty": "60 grams",
-          "name": "cream cheese, softened"
+          "qty": "30 gram softened",
+          "name": "cream cheese"
         },
         {
-          "qty": "4 tablespoons",
+          "qty": "2 tablespoons",
           "name": "pumpkin cheesecake mix"
         },
         {
-          "qty": "2",
+          "qty": "1",
           "name": "egg yolks"
         },
         {
-          "qty": "1 teaspoons",
+          "qty": "½ teaspoon",
           "name": "vanilla extract"
         },
         {
@@ -50,7 +47,9 @@
         "Chill fully: Cover and chill in the fridge until cold, ideally overnight. A cold base freezes finer.",
         "Freeze with FreezeWand: Freeze your pint solid, then run the FreezeWand in multiple passes until smooth and creamy. Re-freeze briefly between passes if it warms too much."
       ],
-      "prepNotes": "Sugar here aids scoopability (freezing-point depression), so no anti-freeze tricks needed. The mix's cornstarch (anti-caking) plus xanthan gives you a slightly custardy set — go easy on xanthan or it turns gummy. Want stronger cheesecake tang? Push cream cheese to 90 g and drop cream slightly to keep fat balanced. Skip the yolks for a simpler Philadelphia-style base, but you'll lose some richness and crystal resistance.",
+      "prepNotes": "Sugar here aids scoopability (freezing-point depression), so no anti-freeze tricks needed. The mix's cornstarch (anti-caking) plus xanthan gives you a slightly custardy set — go easy on xanthan or it turns gummy. Want stronger cheesecake tang? Push cream cheese to 90 g and drop cream slightly to keep fat balanced.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -61,7 +60,9 @@
         "fall",
         "custard-based"
       ],
-      "source": "FreezeWand"
+      "pinned": false,
+      "createdAt": "2026-07-18T10:54:43.488Z",
+      "updatedAt": "2026-07-18T10:58:10.355Z"
     },
     {
       "id": "5698a958-b7eb-4015-be59-6ebbaf33abdd",
