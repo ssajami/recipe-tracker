@@ -1,6 +1,62 @@
 {
   "recipes": [
     {
+      "id": "914079bc-0ec7-4e33-acf7-083a3a36ad4f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-18T14:29:40.702Z",
+      "updatedAt": "2026-07-18T14:29:40.702Z",
+      "title": "Pumpkin Cheesecake Protein Ice Cream",
+      "servings": "1 pint",
+      "ingredients": [
+        {
+          "qty": "120",
+          "name": "milliliters whole milk"
+        },
+        {
+          "qty": "100",
+          "name": "milliliters unsweetened almond milk"
+        },
+        {
+          "qty": "45 grams",
+          "name": "cream cheese, softened"
+        },
+        {
+          "qty": "22 grams",
+          "name": "vanilla whey protein (~3/4 scoop)"
+        },
+        {
+          "qty": "2 tablespoons",
+          "name": "pumpkin cheesecake mix"
+        },
+        {
+          "qty": "0.1 teaspoons",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "0.1 teaspoons",
+          "name": "fine salt"
+        }
+      ],
+      "instructions": [
+        "Combine everything cold: Add 120 milliliters whole milk, 100 milliliters unsweetened almond milk, 45 grams cream cheese, softened, 22 grams vanilla whey protein (~3/4 scoop), 2 tablespoons pumpkin cheesecake mix, 0.1 teaspoons xanthan gum, and 0.1 teaspoons fine salt to a tall cup.",
+        "Blend smooth: Immersion-blend 30–60 s until fully smooth and the xanthan is dispersed (no specks). Cream cheese should be softened first or it leaves lumps.",
+        "Taste and adjust: Taste. It should read slightly too sweet while cold-but-unfrozen. If flat, add more 2 tablespoons pumpkin cheesecake mix; if under-sweet but you don't want more pumpkin flavour, add allulose 1 tsp at a time.",
+        "Freeze the pint: Pour into your FreezeWand pint and freeze solid.",
+        "Process to smooth: Run the FreezeWand in multiple passes until creamy, re-freezing briefly between passes if it warms too much."
+      ],
+      "prepNotes": "Allulose removed on purpose. The packet's sucrose covers both sweetness and scoopability. If the tasted base is under-sweet, add allulose 1 tsp at a time — but expect softer scoop as you do. This base has more fat than your usual, so it should resist crystals better, not worse. Want more tang without more sweetness? Push cream cheese to 70 g and trim almond milk to ~70 ml to keep it from going watery. Whey can go slightly grainy if boiled — you're not heating here, so blend cold and it stays smooth. Casein binds free water better than whey; if crystals still bug you, swapping ~1/3 of the whey for casein helps more than extra xanthan.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high-protein",
+        "frozen",
+        "vegetarian",
+        "pumpkin"
+      ],
+      "source": "FreezeWand"
+    },
+    {
       "id": "c5bf4ccb-9157-42e3-b719-bf517b832eaf",
       "title": "Pumpkin Cheesecake Ice Cream (custard)",
       "servings": "1 FreezeWand container",
