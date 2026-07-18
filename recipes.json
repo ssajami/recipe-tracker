@@ -1,6 +1,69 @@
 {
   "recipes": [
     {
+      "id": "c5bf4ccb-9157-42e3-b719-bf517b832eaf",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-07-18T10:54:43.488Z",
+      "updatedAt": "2026-07-18T10:54:43.489Z",
+      "title": "Pumpkin Cheesecake Ice Cream - Copy",
+      "servings": "1 pint",
+      "ingredients": [
+        {
+          "qty": "240",
+          "name": "milliliters whole milk"
+        },
+        {
+          "qty": "120",
+          "name": "milliliters heavy cream"
+        },
+        {
+          "qty": "60 grams",
+          "name": "cream cheese, softened"
+        },
+        {
+          "qty": "4 tablespoons",
+          "name": "pumpkin cheesecake mix"
+        },
+        {
+          "qty": "2",
+          "name": "egg yolks"
+        },
+        {
+          "qty": "1 teaspoons",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "0.3 teaspoons",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "0.1 teaspoons",
+          "name": "fine salt"
+        }
+      ],
+      "instructions": [
+        "Bloom the base: Whisk 2 egg yolks in a bowl. In a saucepan, warm 240 milliliters whole milk and 120 milliliters heavy cream until steaming (not boiling).",
+        "Temper the yolks: Slowly pour about half the hot dairy into 2 egg yolks while whisking, then return everything to the pan.",
+        "Cook to nappe: Cook on low, stirring constantly, until it coats the back of a spoon (~75–78°C). Do not boil.",
+        "Blend in flavour + stabiliser: Off heat, whisk in 60 grams cream cheese, softened, 4 tablespoons pumpkin cheesecake mix, 1 teaspoons vanilla extract, 0.1 teaspoons fine salt, and 0.1 teaspoons fine salt... then blend with an immersion blender until fully smooth. Taste — it should read slightly too sweet while warm. Add more 4 tablespoons pumpkin cheesecake mix if needed.",
+        "Chill fully: Cover and chill in the fridge until cold, ideally overnight. A cold base freezes finer.",
+        "Freeze with FreezeWand: Freeze your pint solid, then run the FreezeWand in multiple passes until smooth and creamy. Re-freeze briefly between passes if it warms too much."
+      ],
+      "prepNotes": "Sugar here aids scoopability (freezing-point depression), so no anti-freeze tricks needed. The mix's cornstarch (anti-caking) plus xanthan gives you a slightly custardy set — go easy on xanthan or it turns gummy. Want stronger cheesecake tang? Push cream cheese to 90 g and drop cream slightly to keep fat balanced. Skip the yolks for a simpler Philadelphia-style base, but you'll lose some richness and crystal resistance.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "frozen",
+        "pumpkin",
+        "cheesecake",
+        "vegetarian",
+        "fall",
+        "custard-based"
+      ],
+      "source": "FreezeWand"
+    },
+    {
       "id": "5698a958-b7eb-4015-be59-6ebbaf33abdd",
       "title": "Sugar-Free Chocolate Caramel Syrup",
       "servings": "",
