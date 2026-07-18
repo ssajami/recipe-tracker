@@ -1,6 +1,26 @@
 {
   "recipes": [
     {
+      "id": "5698a958-b7eb-4015-be59-6ebbaf33abdd",
+      "title": "Chocolate Caramel Coffee Concentrate",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "1 tbsp hot",
+          "name": "water"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "1 tsp cocoa powder\n¼ tsp instant espresso powder\n½ tsp caramel/toffee extract\n¼ tsp vanilla extract\npinch of salt\nsweetener to taste",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [],
+      "pinned": false,
+      "createdAt": "2026-07-18T08:54:59.296Z",
+      "updatedAt": "2026-07-18T08:54:59.300Z"
+    },
+    {
       "id": "5631e8da-b883-4015-8032-8684b6880733",
       "title": "Pumpkin Peanut Butter Ice Cream",
       "servings": "creami tub",
