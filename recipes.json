@@ -2,23 +2,53 @@
   "recipes": [
     {
       "id": "5698a958-b7eb-4015-be59-6ebbaf33abdd",
-      "title": "Chocolate Caramel Coffee Concentrate",
+      "title": "Sugar-Free Chocolate Caramel Syrup",
       "servings": "",
-      "source": "",
+      "source": "chat",
       "ingredients": [
         {
-          "qty": "1 tbsp hot",
+          "qty": "180g ",
+          "name": "allulose"
+        },
+        {
+          "qty": "200 ml just boiled",
           "name": "water"
+        },
+        {
+          "qty": "25 gr",
+          "name": "cocoa powder"
+        },
+        {
+          "qty": "15 gr",
+          "name": "non-fat milk powder"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "salt"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "caramel extract"
         }
       ],
-      "instructions": [],
-      "prepNotes": "1 tsp cocoa powder\n¼ tsp instant espresso powder\n½ tsp caramel/toffee extract\n¼ tsp vanilla extract\npinch of salt\nsweetener to taste",
+      "instructions": [
+        "Caramelise the allulose: Add 180 grams allulose to a small saucepan with a splash of water to wet it. Heat over medium, swirling (don't stir), until it melts and turns deep amber. Watch closely — allulose browns faster than sugar and goes from amber to bitter-burnt within seconds.",
+        "Add the water: Off the heat, carefully pour in 200 milliliters water (just-boiled). It will bubble violently and seize — stand back. Return to low heat and whisk until the hardened caramel fully dissolves.",
+        "Add milk powder, cocoa, salt — then reduce: Whisk 10 grams skim milk powder, 25 grams Dutch-process cocoa powder and ½ teaspoons fine salt together dry first (this prevents lumps), then whisk into the pan. Simmer gently, whisking often, for 8-12 minutes   to reduce and let the milk solids brown into a toffee note. It will darken and thicken. the longer you reduce, the deeper and browner the toffee note. 8 minutes is a floor, not a target.",
+        "Finish: Off the heat, stir in 1 teaspoons vanilla extract (and ½ teaspoons caramel extract if using — you'll likely need less or none now). Taste and adjust salt.",
+        "Cool and store: Cool fully — it thickens as it cools. If too thick, whisk in a little hot water; if too thin, simmer to reduce. Store in a jar in the fridge."
+      ],
+      "prepNotes": "Store in the fridge for about 1–2 weeks. Freeze in icecube tray",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [],
       "pinned": false,
       "createdAt": "2026-07-18T08:54:59.296Z",
-      "updatedAt": "2026-07-18T08:54:59.300Z"
+      "updatedAt": "2026-07-18T10:23:37.045Z"
     },
     {
       "id": "5631e8da-b883-4015-8032-8684b6880733",
