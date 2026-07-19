@@ -3527,7 +3527,7 @@
       ],
       "instructions": [],
       "prepNotes": "Flav city - vanilla latte 7",
-      "afterPrepNotes": "Increase qty.",
+      "afterPrepNotes": "Ingredient                     Original            Scaled (0.64×)\nWhole milk                   375 g                **240 g** \nProtein powder            1 scoop             **⅔ scoop** \nAllulose                        1 tbsp                **2 tsp** \nNon-fat milk powder   2 tsp                  **1¼ tsp**\nXanthan gum               ⅛ tsp heaping  **scant ⅛ tsp**\nVanilla extract              ¼ tsp                 **heaping ⅛ tsp** \nSalt                              pinch                  **pinch** \nVeg glycerine               ½ tsp                 **⅓ tsp** \n\n**Note:** The dry ingredients (protein powder, milk powder, allulose) add a bit of volume too, so this will land close to the max line. If your first attempt still fills a touch high, drop the milk to 230 g next time. The freeze-wand needs that headroom for expansion during churning.",
       "rating": 5,
       "tags": [
         "vanilla",
@@ -3536,7 +3536,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-19T18:10:54.908Z"
+      "updatedAt": "2026-07-19T18:58:15.274Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
