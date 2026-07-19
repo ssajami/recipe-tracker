@@ -3526,9 +3526,9 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
+      "prepNotes": "Flav city - vanilla latte 7",
+      "afterPrepNotes": "Increase qty.",
+      "rating": 5,
       "tags": [
         "vanilla",
         "protein",
@@ -3536,7 +3536,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-17T14:13:36.809Z"
+      "updatedAt": "2026-07-19T18:10:49.848Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
