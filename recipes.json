@@ -1,6 +1,32 @@
 {
   "recipes": [
     {
+      "id": "0e8b01ee-0a94-46d6-9bf3-8fcb63bbc469",
+      "title": "Substitution: evaporated milk",
+      "servings": "1 cup",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "2/3 cup",
+          "name": "powdered milk"
+        },
+        {
+          "qty": "3/4 cup warm",
+          "name": "water"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "substitution"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-20T07:51:31.345Z",
+      "updatedAt": "2026-07-20T07:51:31.345Z"
+    },
+    {
       "id": "914079bc-0ec7-4e33-acf7-083a3a36ad4f",
       "afterPrepNotes": "",
       "rating": null,
