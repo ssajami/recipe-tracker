@@ -79,12 +79,12 @@
       "source": "FreezeWand",
       "ingredients": [
         {
-          "qty": "120 nl",
+          "qty": "120 ml",
           "name": "whole milk"
         },
         {
           "qty": "100 ml",
-          "name": "milliliters unsweetened almond milk"
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "45 grams softened",
@@ -127,7 +127,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-18T14:29:40.702Z",
-      "updatedAt": "2026-07-20T07:55:07.187Z"
+      "updatedAt": "2026-07-20T07:57:19.093Z"
     },
     {
       "id": "c5bf4ccb-9157-42e3-b719-bf517b832eaf",
