@@ -1999,8 +1999,8 @@
           "name": "sesame oil"
         },
         {
-          "qty": "3 tbsp  (for soaking shrimp)",
-          "name": "warm water"
+          "qty": "3 tbsp  (for soaking shrimp) warm",
+          "name": "water"
         }
       ],
       "instructions": [
@@ -2019,7 +2019,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-12T17:53:08.657Z",
-      "updatedAt": "2026-07-17T16:21:00.658Z"
+      "updatedAt": "2026-07-20T07:53:41.271Z"
     },
     {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
