@@ -1,6 +1,26 @@
 {
   "recipes": [
     {
+      "id": "1c4a0220-f99c-46a8-bec1-dc1a8a3b6e75",
+      "title": "Substitution: Espresso shot",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "1/2-1 tsp",
+          "name": "coffee extract"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "* coffee extract  - start small, taste, add more for stronger flavor\n *Add ¼ cup extra liquid** (milk or water) to replace the 2 oz of espresso you're removing",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [],
+      "pinned": false,
+      "createdAt": "2026-07-20T07:56:54.853Z",
+      "updatedAt": "2026-07-20T07:56:54.853Z"
+    },
+    {
       "id": "b4722a26-04a8-4fc1-a5bc-aeb38f1eb2a1",
       "title": "Substitution: Half and half",
       "servings": "1 cup",
