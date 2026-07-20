@@ -1,6 +1,32 @@
 {
   "recipes": [
     {
+      "id": "b4722a26-04a8-4fc1-a5bc-aeb38f1eb2a1",
+      "title": "Substitution: Half and half",
+      "servings": "1 cup",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "1/2 cup",
+          "name": "whole milk"
+        },
+        {
+          "qty": "1/2 cup",
+          "name": "heavy cream"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "substitution"
+      ],
+      "pinned": false,
+      "createdAt": "2026-07-20T07:53:14.380Z",
+      "updatedAt": "2026-07-20T07:53:14.380Z"
+    },
+    {
       "id": "0e8b01ee-0a94-46d6-9bf3-8fcb63bbc469",
       "title": "Substitution: evaporated milk",
       "servings": "1 cup",
