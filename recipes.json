@@ -15,10 +15,12 @@
       "prepNotes": "* coffee extract  - start small, taste, add more for stronger flavor\n *Add ¼ cup extra liquid** (milk or water) to replace the 2 oz of espresso you're removing",
       "afterPrepNotes": "",
       "rating": null,
-      "tags": [],
+      "tags": [
+        "substitution"
+      ],
       "pinned": false,
       "createdAt": "2026-07-20T07:56:54.853Z",
-      "updatedAt": "2026-07-20T07:56:54.853Z"
+      "updatedAt": "2026-07-20T07:58:09.053Z"
     },
     {
       "id": "b4722a26-04a8-4fc1-a5bc-aeb38f1eb2a1",
