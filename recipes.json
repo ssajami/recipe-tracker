@@ -7040,16 +7040,16 @@
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 4,
       "tags": [
         "ice cream",
         "caramel",
         "chocolate",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-17T18:52:32.147Z"
+      "updatedAt": "2026-07-22T18:39:54.335Z"
     },
     {
       "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
