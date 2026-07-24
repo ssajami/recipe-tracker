@@ -4468,50 +4468,6 @@
       "updatedAt": "2026-07-17T06:47:52.366Z"
     },
     {
-      "id": "0709624a-c202-4025-87c6-6bfd0f7f9ab1",
-      "title": "Mint Cookies and Cream Ice Cream",
-      "servings": "delux tub",
-      "source": "thecreameri.com",
-      "ingredients": [
-        {
-          "qty": "1½ cup",
-          "name": "half and half"
-        },
-        {
-          "qty": "½ cup",
-          "name": "cottage cheese"
-        },
-        {
-          "qty": "½ cup",
-          "name": "sweetened condensed milk"
-        },
-        {
-          "qty": "2 teaspoons",
-          "name": "vanilla bean extract"
-        },
-        {
-          "qty": "¼ teaspoon",
-          "name": "mint chocolate chip extract"
-        },
-        {
-          "qty": "Mix-in:",
-          "name": "Oreo minis"
-        }
-      ],
-      "instructions": [],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "ice cream",
-        "mint",
-        "cookies and cream"
-      ],
-      "pinned": false,
-      "createdAt": "2026-07-02T11:22:14.920Z",
-      "updatedAt": "2026-07-17T06:47:56.080Z"
-    },
-    {
       "id": "b922e3ed-1452-4d5a-98ab-8a5f58e57ab4",
       "title": "Mint Chocolate Chip Ice Cream",
       "servings": "delux tub",
