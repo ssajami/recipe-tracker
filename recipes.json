@@ -3563,32 +3563,32 @@
     },
     {
       "id": "98882322-91cf-4e31-b57b-fc28c5021828",
-      "title": "Vanilla Ice Cream (Base Recipe - milk powder)",
-      "servings": "creami tub",
+      "title": "Vanilla Ice Cream (Base Recipe - milk powder) - scaled for me",
+      "servings": "1 tub",
       "source": "pint lab",
       "ingredients": [
         {
-          "qty": "375 g",
+          "qty": "240 g",
           "name": "whole milk"
         },
         {
-          "qty": "1 scoop",
+          "qty": "⅔ scoop",
           "name": "protein powder"
         },
         {
-          "qty": "1 tbsp",
+          "qty": "2 tsp",
           "name": "allulose"
         },
         {
-          "qty": "2 tsp",
+          "qty": "1¼ tsp",
           "name": "non-fat milk powder"
         },
         {
-          "qty": "⅛ tsp heaping",
+          "qty": "⅛ tsp scant",
           "name": "xanthan gum"
         },
         {
-          "qty": "¼ tsp",
+          "qty": "heaping ⅛ tsp",
           "name": "vanilla extract"
         },
         {
@@ -3596,13 +3596,13 @@
           "name": "salt"
         },
         {
-          "qty": "½ tsp",
+          "qty": "⅓ tsp",
           "name": "vegetable glycerine"
         }
       ],
       "instructions": [],
-      "prepNotes": "Flav city - vanilla latte 7",
-      "afterPrepNotes": "Ingredient          Original      Scaled (0.64×)\nWhole milk         375 g         **240 g** \nProtein powder  1 scoop      **⅔ scoop** \nAllulose              1 tbsp         **2 tsp** \nmilk powder       2 tsp          **1¼ tsp**\nXanthan gum      ⅛ tsp he   **scant ⅛ tsp**\nVanilla extract     ¼ tsp       **heaping ⅛ tsp** \nSalt                     pinch       **pinch** \nVeg glycerine      ½ tsp      **⅓ tsp**",
+      "prepNotes": "Flav city - vanilla latte 7\n              - chocolate mint 4",
+      "afterPrepNotes": "",
       "rating": 5,
       "tags": [
         "vanilla",
@@ -3611,7 +3611,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-04T13:42:31.877Z",
-      "updatedAt": "2026-07-23T04:11:32.013Z"
+      "updatedAt": "2026-07-24T09:30:47.941Z"
     },
     {
       "id": "e5846dbf-3ee4-47f5-838a-bda130be63f1",
