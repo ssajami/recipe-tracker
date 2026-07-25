@@ -6839,16 +6839,16 @@
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 2,
       "tags": [
         "ice cream",
         "coconut",
         "caramel",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-20T17:57:49.875Z"
+      "updatedAt": "2026-07-25T16:44:06.635Z"
     },
     {
       "id": "95f2d92e-3893-4884-a79f-63bd61fe328a",
