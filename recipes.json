@@ -814,11 +814,11 @@
           "name": "maple extract"
         },
         {
-          "qty": "15gr",
+          "qty": "Mix-in: 15gr",
           "name": "chocolate chips"
         },
         {
-          "qty": "28gr",
+          "qty": "Mix-in: 28gr",
           "name": "M&M's"
         },
         {
@@ -856,7 +856,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-17T17:41:05.911Z",
-      "updatedAt": "2026-07-26T10:57:43.903Z"
+      "updatedAt": "2026-07-26T11:33:43.456Z"
     },
     {
       "id": "c0f5e914-b80a-41c6-869d-1f95d158cce7",
