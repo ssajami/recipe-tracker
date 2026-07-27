@@ -6142,16 +6142,17 @@
       ],
       "instructions": [],
       "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
+      "afterPrepNotes": "Swap the ½ cup fresh juice for ~2-3 tbsp concentrate, then add a little extra milk if you need to hit the fill line.",
+      "rating": 3,
       "tags": [
         "ice cream",
         "protein",
-        "orange"
+        "orange",
+        "retry"
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-26T10:57:02.889Z"
+      "updatedAt": "2026-07-27T17:09:45.362Z"
     },
     {
       "id": "ba95ab2c-da5e-4a45-ad63-1b6639fa170d",
