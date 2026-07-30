@@ -2163,11 +2163,12 @@
       "rating": 4,
       "tags": [
         "ice cream",
-        "protein"
+        "protein",
+        "retry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-12T17:40:26.520Z",
-      "updatedAt": "2026-07-30T17:00:15.591Z"
+      "updatedAt": "2026-07-30T17:00:32.172Z"
     },
     {
       "id": "e7a10f0e-d5b3-4e87-9fd3-11a7511e88f9",
