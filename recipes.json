@@ -6622,12 +6622,12 @@
           "name": "xanthan gum"
         },
         {
-          "qty": "¼ tsp",
+          "qty": "Optional:  ¼ tsp",
           "name": "extract"
         }
       ],
       "instructions": [],
-      "prepNotes": "* can add 1 scoop protein powder in flavor of choice, vanilla or unflavored",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -6636,7 +6636,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-17T16:14:22.319Z"
+      "updatedAt": "2026-08-01T07:55:45.937Z"
     },
     {
       "id": "c69006b8-d705-497d-9c9e-cd5b4d7aeb8b",
