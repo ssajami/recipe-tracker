@@ -1,6 +1,49 @@
 {
   "recipes": [
     {
+      "id": "30319974-4415-4559-927e-44e62947c2a2",
+      "title": "Strawberry Sorbet",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "500 g chopped",
+          "name": "strawberries"
+        },
+        {
+          "qty": "3 tbsp",
+          "name": "honey"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "lemon juice"
+        },
+        {
+          "qty": "1 zest",
+          "name": "lemon"
+        },
+        {
+          "qty": "250 ml ",
+          "name": "water"
+        }
+      ],
+      "instructions": [
+        "Add the  strawberries, honey, lemon juice, and zest to a large bowl. \n",
+        "Using a cordless immersion blender, blend until smooth. ",
+        "Add the water and blend briefly to combine."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "strawberry",
+        "sorbet"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-01T08:59:44.787Z",
+      "updatedAt": "2026-08-01T08:59:44.787Z"
+    },
+    {
       "id": "ad6b772c-5d9e-419c-8cbf-74bca8dad4de",
       "title": "Raspberry Ice Cream",
       "servings": "",
