@@ -1,6 +1,60 @@
 {
   "recipes": [
     {
+      "id": "ad6b772c-5d9e-419c-8cbf-74bca8dad4de",
+      "title": "Raspberry Ice Cream",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "600 grams, pureed and drained",
+          "name": "raspberries"
+        },
+        {
+          "qty": "170g",
+          "name": "sugar"
+        },
+        {
+          "qty": "200 ml",
+          "name": "semi-skimmed milk"
+        },
+        {
+          "qty": "200 ml ",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "4",
+          "name": "egg yolks"
+        },
+        {
+          "qty": "40 g ",
+          "name": "powdered milk"
+        },
+        {
+          "qty": "1½ tsp",
+          "name": "vanilla extract"
+        }
+      ],
+      "instructions": [
+        "Place the sugar, cream, and semi-skimmed milk in a saucepan, bring to a boil over medium heat, stirring to dissolve the sugar. Keep warm over low heat.\n",
+        "Place the egg yolks in a medium bowl and whisk until thickened, about 2 minutes.\n",
+        "While beating the eggs, add half of the hot sugar, milk, and cream mixture and beat until combined. Then, stir in the remaining sugar, cream, and milk and increase the heat to medium.\n",
+        "Stir constantly with a wooden spoon until the mixture thickens like custard.\n",
+        "Add the powdered milk and remove from the heat. Strain the mixture into a bowl through a fine-mesh sieve.\n",
+        "Add the raspberry puree and vanilla extract to the mixture and mix thoroughly\n"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "raspberry",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-01T08:53:15.721Z",
+      "updatedAt": "2026-08-01T08:53:15.721Z"
+    },
+    {
       "id": "f14a278b-fc19-454b-9d24-385f555f8e54",
       "title": "mascarpone recipes",
       "servings": "",
