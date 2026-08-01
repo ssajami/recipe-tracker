@@ -2627,8 +2627,8 @@
           "name": "dark brown sugar"
         },
         {
-          "qty": "1 room temperature",
-          "name": "large egg"
+          "qty": "1 room temperature large",
+          "name": "eggs"
         },
         {
           "qty": "1 room temperature large",
@@ -2686,7 +2686,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-10T15:36:26.184Z",
-      "updatedAt": "2026-08-01T08:49:39.149Z"
+      "updatedAt": "2026-08-01T08:55:07.564Z"
     },
     {
       "id": "d10a9b1a-6ea0-4f89-9c58-c2fa1a476077",
