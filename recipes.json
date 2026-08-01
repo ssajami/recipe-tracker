@@ -2907,8 +2907,8 @@
           "name": "lemon extract"
         },
         {
-          "qty": "1",
-          "name": "large egg"
+          "qty": "1 large",
+          "name": "eggs"
         },
         {
           "qty": "",
@@ -2959,7 +2959,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-10T10:10:55.194Z",
-      "updatedAt": "2026-07-17T16:31:52.424Z"
+      "updatedAt": "2026-08-01T08:54:16.617Z"
     },
     {
       "id": "3cce119c-f294-4007-9da8-a538561d3f99",
