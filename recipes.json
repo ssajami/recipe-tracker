@@ -1,6 +1,50 @@
 {
   "recipes": [
     {
+      "id": "09b95cad-97e4-4303-b3fa-a492196f6a1f",
+      "title": "Peanut Butter Cheesecake Ice Cream",
+      "servings": "1 tub",
+      "source": "chat",
+      "ingredients": [
+        {
+          "qty": "50g",
+          "name": "mascarpone cheese"
+        },
+        {
+          "qty": "140 ml",
+          "name": "semi-skimmed milk"
+        },
+        {
+          "qty": "15 g",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "15g ",
+          "name": "peanut butter powder"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "peanut butter",
+        "ice cream",
+        "cheesecake"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-01T15:35:34.849Z",
+      "updatedAt": "2026-08-01T15:35:34.849Z"
+    },
+    {
       "id": "dea9986f-6157-442a-83bd-3ac79751f1c2",
       "title": "Blueberry Cheesecake Frozen Yogurt",
       "servings": "",
