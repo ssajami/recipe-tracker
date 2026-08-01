@@ -1,6 +1,53 @@
 {
   "recipes": [
     {
+      "id": "dea9986f-6157-442a-83bd-3ac79751f1c2",
+      "title": "Blueberry Cheesecake Frozen Yogurt",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "¼ cup",
+          "name": "vanilla greek yogurt"
+        },
+        {
+          "qty": "¼ cup thawed, mashed frozen",
+          "name": "blueberries"
+        },
+        {
+          "qty": "56g room temperature",
+          "name": "cream cheese"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "Mixin: ½",
+          "name": "graham crackers"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "blueberry",
+        "frozen yogurt"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-01T09:04:26.660Z",
+      "updatedAt": "2026-08-01T09:04:26.660Z"
+    },
+    {
       "id": "4914d9ae-781c-4e32-90c2-3563df8f666c",
       "title": "Banana Split Protein Ice Cream",
       "servings": "",
