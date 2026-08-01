@@ -3694,8 +3694,8 @@
           "name": "ground chicken"
         },
         {
-          "qty": "1",
-          "name": "large egg"
+          "qty": "1 large",
+          "name": "eggs"
         },
         {
           "qty": "40 grams",
@@ -3745,7 +3745,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-04T11:22:08.228Z",
-      "updatedAt": "2026-07-17T06:46:20.986Z"
+      "updatedAt": "2026-08-01T08:53:35.082Z"
     },
     {
       "id": "26bc6365-6c89-4d91-92b8-883ee4f389bc",
