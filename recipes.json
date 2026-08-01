@@ -1,6 +1,51 @@
 {
   "recipes": [
     {
+      "id": "4914d9ae-781c-4e32-90c2-3563df8f666c",
+      "title": "Banana Split Protein Ice Cream",
+      "servings": "",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "½ cup",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "¼ cup",
+          "name": "vanilla greek yogurt"
+        },
+        {
+          "qty": "1 small ripe",
+          "name": "banana"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "agave syrup"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "chocolate syrup"
+        }
+      ],
+      "instructions": [
+        "Put the cream, yogurt, banana, protein powder and agave into a blender jar and blend together on Low. \n"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "banana",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-01T09:02:07.239Z",
+      "updatedAt": "2026-08-01T09:02:07.239Z"
+    },
+    {
       "id": "30319974-4415-4559-927e-44e62947c2a2",
       "title": "Strawberry Sorbet",
       "servings": "",
