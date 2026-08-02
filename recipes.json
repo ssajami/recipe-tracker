@@ -1,6 +1,56 @@
 {
   "recipes": [
     {
+      "id": "ba9902cb-593f-4a3e-ba7c-072178d90edc",
+      "title": "Coffee Cheesecake Ice Cream",
+      "servings": "1 tub",
+      "source": "chat",
+      "ingredients": [
+        {
+          "qty": "50g",
+          "name": "mascarpone cheese"
+        },
+        {
+          "qty": "140 ml",
+          "name": "semi-skimmed milk"
+        },
+        {
+          "qty": "15g",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "2 tsp",
+          "name": "instant coffee"
+        },
+        {
+          "qty": "18g ",
+          "name": "allulose"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        }
+      ],
+      "instructions": [
+        "Dissolve coffee in 1 tbsp boiling water before."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "coffee",
+        "ice cream",
+        "cheesecake"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-02T17:10:04.012Z",
+      "updatedAt": "2026-08-02T17:10:04.012Z"
+    },
+    {
       "id": "09b95cad-97e4-4303-b3fa-a492196f6a1f",
       "title": "Peanut Butter Cheesecake Ice Cream",
       "servings": "1 tub",
