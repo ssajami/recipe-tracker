@@ -40,7 +40,7 @@
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "coffee",
         "ice cream",
@@ -48,7 +48,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-08-02T17:10:04.012Z",
-      "updatedAt": "2026-08-02T17:10:04.012Z"
+      "updatedAt": "2026-08-02T17:10:33.308Z"
     },
     {
       "id": "09b95cad-97e4-4303-b3fa-a492196f6a1f",
