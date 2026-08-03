@@ -1,6 +1,54 @@
 {
   "recipes": [
     {
+      "id": "a844e2c9-7db2-46b8-b853-a3e60fb75b62",
+      "title": "Strawberry Cheesecake Ice Cream",
+      "servings": "1 tub",
+      "source": "chat",
+      "ingredients": [
+        {
+          "qty": "50g",
+          "name": "mascarpone cheese"
+        },
+        {
+          "qty": "70 g",
+          "name": "strawberries"
+        },
+        {
+          "qty": "90 ml",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "15g",
+          "name": "vanilla protein powder"
+        },
+        {
+          "qty": "18g",
+          "name": "allulose"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "pinch",
+          "name": "salt"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": 4,
+      "tags": [
+        "strawberry",
+        "ice cream",
+        "cheesecake"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-03T18:19:51.175Z",
+      "updatedAt": "2026-08-03T18:19:51.175Z"
+    },
+    {
       "id": "ba9902cb-593f-4a3e-ba7c-072178d90edc",
       "title": "Coffee Cheesecake Ice Cream",
       "servings": "1 tub",
