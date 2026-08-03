@@ -2321,7 +2321,7 @@
     {
       "id": "db5262f6-3be7-4196-ab5c-b3e76eb2ed52",
       "title": "Dried Shrimp Fried Rice",
-      "servings": "2 servings",
+      "servings": "2",
       "source": "claude",
       "ingredients": [
         {
@@ -2381,7 +2381,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-12T17:53:08.657Z",
-      "updatedAt": "2026-07-20T07:53:41.271Z"
+      "updatedAt": "2026-08-03T18:22:16.937Z"
     },
     {
       "id": "483768ee-a49d-4ff8-8f36-2ace1c90ef3f",
