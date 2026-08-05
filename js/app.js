@@ -98,7 +98,8 @@ function getAllTags() {
 function filterRecipes() {
   let list = [...state.recipes];
   if (state.tagFilter.size) list = list.filter(r => [...state.tagFilter].every(t => (r.tags || []).includes(t)));
-  if (state.ratingFilter) list = list.filter(r => (r.rating || 0) >= state.ratingFilter);
+  if (state.ratingFilter === 'none') list = list.filter(r => !r.rating);
+  else if (state.ratingFilter) list = list.filter(r => (r.rating || 0) >= state.ratingFilter);
   if (state.search.trim()) {
     const q = state.search.toLowerCase();
     list = list.filter(r =>
@@ -911,7 +912,8 @@ Answer questions about substitutions, techniques, or anything related to this re
     document.getElementById('recipe-grid').innerHTML = renderGrid();
     // Update active state on buttons
     document.querySelectorAll('.rating-filter-btn').forEach(btn => {
-      btn.classList.toggle('active', Number(btn.dataset.rating) === state.ratingFilter);
+      const val = btn.dataset.rating === 'none' ? 'none' : Number(btn.dataset.rating);
+      btn.classList.toggle('active', val === state.ratingFilter);
     });
   },
 
@@ -1276,6 +1278,12 @@ function renderList() {
                     title="${n}★ and above">
               ${'★'.repeat(n)}${'☆'.repeat(5-n)}
             </button>`).join('')}
+          <button class="rating-filter-btn${state.ratingFilter === 'none' ? ' active' : ''}"
+                  data-rating="none"
+                  onclick="App.setRatingFilter('none')"
+                  title="No rating">
+            Not rated
+          </button>
         </div>
         ${allTags.length ? `
         <details class="tag-filter-details"${state.tagFilter.size ? ' open' : ''}>
