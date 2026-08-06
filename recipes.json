@@ -5565,9 +5565,9 @@
         "strawberry",
         "protein"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T09:47:31.717Z",
-      "updatedAt": "2026-07-17T14:03:53.587Z"
+      "updatedAt": "2026-08-06T18:55:26.802Z"
     },
     {
       "id": "8a48d4f8-9888-463c-88a9-9f2edbf5d71e",
@@ -8078,9 +8078,9 @@
         "cheesecake",
         "strawberry"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-17T14:10:08.209Z"
+      "updatedAt": "2026-08-06T18:55:26.729Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
