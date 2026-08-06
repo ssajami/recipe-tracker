@@ -110,9 +110,9 @@
         "ice cream",
         "cheesecake"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-08-03T18:19:51.175Z",
-      "updatedAt": "2026-08-03T18:19:51.175Z"
+      "updatedAt": "2026-08-06T18:55:30.942Z"
     },
     {
       "id": "ba9902cb-593f-4a3e-ba7c-072178d90edc",
@@ -5565,7 +5565,7 @@
         "strawberry",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-02T09:47:31.717Z",
       "updatedAt": "2026-08-06T18:55:26.802Z"
     },
@@ -8078,9 +8078,9 @@
         "cheesecake",
         "strawberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-08-06T18:55:26.729Z"
+      "updatedAt": "2026-08-06T18:55:30.862Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
