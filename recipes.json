@@ -1,6 +1,49 @@
 {
   "recipes": [
     {
+      "id": "230b7c97-b6ed-4a75-a5e1-d89065c42140",
+      "title": "Cake Batter Ice Cream",
+      "servings": "delux tub",
+      "source": "",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "unsweetened almond milk"
+        },
+        {
+          "qty": "1½ cup",
+          "name": "Fairlife skim milk"
+        },
+        {
+          "qty": "1½ tsp",
+          "name": "cake batter extract"
+        },
+        {
+          "qty": "12 gram",
+          "name": "sugar free cheesecake pudding"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "greek yogurt"
+        },
+        {
+          "qty": "1½ scoop",
+          "name": "vanilla protein powder"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "cake batter",
+        "ice cream"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-06T15:49:44.521Z",
+      "updatedAt": "2026-08-06T15:49:44.521Z"
+    },
+    {
       "id": "a844e2c9-7db2-46b8-b853-a3e60fb75b62",
       "title": "Strawberry Cheesecake Ice Cream",
       "servings": "1 tub",
