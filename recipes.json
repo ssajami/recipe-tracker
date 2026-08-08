@@ -1,6 +1,56 @@
 {
   "recipes": [
     {
+      "id": "ed243553-7e2c-4ce8-afe7-80aadd45ba18",
+      "title": "Blueberry Sorbet",
+      "servings": "creami tub",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "200g",
+          "name": "blueberries"
+        },
+        {
+          "qty": "185g ",
+          "name": "sugar"
+        },
+        {
+          "qty": "336g",
+          "name": "water"
+        },
+        {
+          "qty": "2g (2/3tsp)",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "23g (1.5tbsp) ",
+          "name": "invert sugar"
+        },
+        {
+          "qty": "5gr",
+          "name": "lemon juice"
+        }
+      ],
+      "instructions": [
+        "Put blueberries in a small pot. Add sugar and a splash of the water.  ",
+        "Heat for 3-5 till skin breaks apart and blueberries release color. Stir so it doesn't burn.",
+        "Mix xanthan to 5 gr sugar to combine. Add invert sugar to remaining water and stir.",
+        "Add water solution to blueberries. Add stabilizer mix.",
+        "Min with immersion blender till its a smooth mixture. ",
+        "Add lemon juice"
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "blueberry",
+        "sorbet"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-08T15:07:53.030Z",
+      "updatedAt": "2026-08-08T15:07:53.041Z"
+    },
+    {
       "id": "3f8e8256-4444-4ae8-9307-108109a139a1",
       "title": "Cake batter extract recipes",
       "servings": "",
