@@ -1,6 +1,53 @@
 {
   "recipes": [
     {
+      "id": "2ec3ec0f-d3d6-4f6c-9a3f-45e3e2d381ad",
+      "title": "Apple Sorbet",
+      "servings": "delux tub",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "675g peeled finely chopped ",
+          "name": "apples"
+        },
+        {
+          "qty": "112g",
+          "name": "water"
+        },
+        {
+          "qty": "180g",
+          "name": "sugar"
+        },
+        {
+          "qty": "18g",
+          "name": "glucose syrup"
+        },
+        {
+          "qty": "3g",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "15g ",
+          "name": "lemon juice"
+        }
+      ],
+      "instructions": [
+        "Toss apples with lemon juice and water",
+        "Add sugar, glucose syrup and xanthan gum.",
+        "Cook till soft. Blend till smooth"
+      ],
+      "prepNotes": "Use granny smith apples",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "apples",
+        "sorbet"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-09T19:29:40.643Z",
+      "updatedAt": "2026-08-09T19:29:40.652Z"
+    },
+    {
       "id": "42de98b5-82e8-4c4a-a8d8-71f9c68fa2be",
       "title": "Peach Sorbet",
       "servings": "delux tub",
