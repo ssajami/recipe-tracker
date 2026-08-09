@@ -1,6 +1,51 @@
 {
   "recipes": [
     {
+      "id": "42de98b5-82e8-4c4a-a8d8-71f9c68fa2be",
+      "title": "Peach Sorbet",
+      "servings": "delux tub",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "1 1/3 cups canned (342 g) and syrup",
+          "name": "peaches"
+        },
+        {
+          "qty": "256g",
+          "name": "water"
+        },
+        {
+          "qty": "128g",
+          "name": "allulose"
+        },
+        {
+          "qty": "3gr",
+          "name": "guar gum"
+        },
+        {
+          "qty": "20 g",
+          "name": "glucose syrup"
+        }
+      ],
+      "instructions": [
+        "Add peaches and syrup to blender. Puree for a minute or so. ",
+        "Strain into bowl. Add water",
+        "Mix together allulose and guar gum. ",
+        "Add glucose syrup to peach mixture. Then add allulose mixture. Stir to dissolved.",
+        "Add to container"
+      ],
+      "prepNotes": "* make sure has sugar content of approx 16g per 125ml (1/2 cup)",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "peach",
+        "sorbet"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-09T15:13:18.236Z",
+      "updatedAt": "2026-08-09T15:13:18.236Z"
+    },
+    {
       "id": "ed243553-7e2c-4ce8-afe7-80aadd45ba18",
       "title": "Blueberry Sorbet",
       "servings": "creami tub",
