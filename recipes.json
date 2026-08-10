@@ -1,6 +1,64 @@
 {
   "recipes": [
     {
+      "id": "aa9b0500-d087-469a-8388-1b6f03950cd7",
+      "title": "Hazelnut Gelato",
+      "servings": "delux tub",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "567g",
+          "name": "10% cream"
+        },
+        {
+          "qty": "46g",
+          "name": "milk powder"
+        },
+        {
+          "qty": "5g",
+          "name": "hazelnut extract"
+        },
+        {
+          "qty": "124g",
+          "name": "sugar"
+        },
+        {
+          "qty": "3-4g (optional)",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "5g",
+          "name": "lecithin"
+        },
+        {
+          "qty": "",
+          "name": "---PRALINE"
+        },
+        {
+          "qty": "100g",
+          "name": "sugar"
+        },
+        {
+          "qty": "100g ",
+          "name": "hazelnuts"
+        }
+      ],
+      "instructions": [
+        "make ice cream and freeze.",
+        "for prailine: heat sugar to make dark caramel. pour over hazelnuts and let harden. after it's hard, pulse in food processor to create a paste.\n\nif praline splits (fat breaks apart from solids) during processing: take 1/2tsp warm water with 3 grams lecithin. create emulsion and put that into the blender with the hazelnuts. Pour a bit over icecream."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "hazelnut",
+        "gelato"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-10T10:36:25.645Z",
+      "updatedAt": "2026-08-10T10:36:25.645Z"
+    },
+    {
       "id": "94020b94-f5c3-45f9-92ea-be19c4975a6c",
       "title": "Baskin Robins Cookie Dough",
       "servings": "delux tub",
