@@ -108,7 +108,7 @@ function filterRecipes() {
         .some(f => f && String(f).toLowerCase().includes(q))
     );
   }
-  list.sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0));
+  list.sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || a.title.localeCompare(b.title));
   return list;
 }
 
