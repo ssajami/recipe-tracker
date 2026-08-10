@@ -1,6 +1,52 @@
 {
   "recipes": [
     {
+      "id": "ac745923-d6a2-4b5c-b787-3c49801d3f87",
+      "title": "Salted Caramel Gelato",
+      "servings": "delux tub",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "632g ",
+          "name": "18% cream"
+        },
+        {
+          "qty": "80g",
+          "name": "allulose"
+        },
+        {
+          "qty": "32g",
+          "name": "milk powder"
+        },
+        {
+          "qty": "3g",
+          "name": "salt"
+        },
+        {
+          "qty": "2g",
+          "name": "stevia drops"
+        }
+      ],
+      "instructions": [
+        "Pour allulose in small pot. Heat on medium/high to a light caramel color",
+        "Pour into a different cream, milk powder. whisk together and heat to 60-70 degrees C.",
+        "Pour a little of the milk into the caramelized allulose. It will bubble a lot. Whisk to incorporate and then transfer all the allulose back into the milk pot.",
+        "If milk isn't hot enough and allulose clumps a bit, can put back on heat to mix well.",
+        "Add salt. And then stevia drops",
+        "Pour into container and freeze."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "gelato",
+        "caramel"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-10T13:45:35.219Z",
+      "updatedAt": "2026-08-10T13:45:35.219Z"
+    },
+    {
       "id": "aa9b0500-d087-469a-8388-1b6f03950cd7",
       "title": "Hazelnut Gelato",
       "servings": "delux tub",
