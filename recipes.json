@@ -1,6 +1,62 @@
 {
   "recipes": [
     {
+      "id": "94020b94-f5c3-45f9-92ea-be19c4975a6c",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-10T03:25:14.825Z",
+      "updatedAt": "2026-08-10T03:25:14.825Z",
+      "title": "Baskin Robins Vanilla Base",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Milk 3.25% - 734.3g / 3 cups + 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Skim milk powder - 83.9g / 3/4 cup + 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Cream 33% - 384.6g / 1 cup + 2.5 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Sugar - 237.8g / 1 cup + 3 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Glucose syrup - 35g / 1.5 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Locust Bean gum - 2.8g / 3/4 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Lecithin - 5.6g / 1 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Vanilla extract - 14g / 3 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Salt - 2.1g / scant 0.5 tsp"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "vegetarian",
+        "base"
+      ],
+      "source": "Baskin Robins"
+    },
+    {
       "id": "2ec3ec0f-d3d6-4f6c-9a3f-45e3e2d381ad",
       "title": "Apple Sorbet",
       "servings": "delux tub",
