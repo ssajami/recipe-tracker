@@ -2509,7 +2509,7 @@
     },
     {
       "id": "9274cbed-0e07-4f38-9d1a-cf8b5bd2dcc7",
-      "title": "Ben & Jerry's Honey Graham Latte",
+      "title": "Ben & Jerry's Honey Graham Latte Ice Cream",
       "servings": "creami tub",
       "source": "Dynas",
       "ingredients": [
@@ -2557,11 +2557,13 @@
       "rating": null,
       "tags": [
         "honey",
-        "coffee"
+        "coffee",
+        "ice cream",
+        "sugar-free"
       ],
       "pinned": true,
       "createdAt": "2026-07-13T16:56:44.285Z",
-      "updatedAt": "2026-08-03T18:23:46.843Z"
+      "updatedAt": "2026-08-10T13:30:32.583Z"
     },
     {
       "id": "2bf3f135-62f3-434e-b355-9dda28ee4229",
