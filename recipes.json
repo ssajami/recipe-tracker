@@ -1552,11 +1552,12 @@
         "ice cream",
         "peanut butter",
         "oatmeal",
-        "retry"
+        "retry",
+        "sugar-free"
       ],
       "pinned": false,
       "createdAt": "2026-07-17T17:41:05.911Z",
-      "updatedAt": "2026-08-05T12:56:57.531Z"
+      "updatedAt": "2026-08-10T13:24:46.423Z"
     },
     {
       "id": "c0f5e914-b80a-41c6-869d-1f95d158cce7",
