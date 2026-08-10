@@ -2,59 +2,109 @@
   "recipes": [
     {
       "id": "94020b94-f5c3-45f9-92ea-be19c4975a6c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-10T03:25:14.825Z",
-      "updatedAt": "2026-08-10T03:25:14.825Z",
-      "title": "Baskin Robins Vanilla Base",
-      "servings": "",
+      "title": "Baskin Robins Cookie Dough",
+      "servings": "delux tub",
+      "source": "Polar Ice Creamery",
       "ingredients": [
         {
-          "qty": "",
-          "name": "Milk 3.25% - 734.3g / 3 cups + 1 tbsp"
+          "qty": "735g",
+          "name": "whole milk"
+        },
+        {
+          "qty": "84g",
+          "name": "milk powder"
+        },
+        {
+          "qty": "385g",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "238g",
+          "name": "sugar"
+        },
+        {
+          "qty": "35g",
+          "name": "glucose syrup"
+        },
+        {
+          "qty": "2.8g",
+          "name": "locust bean gum"
+        },
+        {
+          "qty": "4-5g",
+          "name": "lecithin"
+        },
+        {
+          "qty": "14g",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "1/2 tsp",
+          "name": "vanilla bean powder"
+        },
+        {
+          "qty": "2g",
+          "name": "salt"
         },
         {
           "qty": "",
-          "name": "Skim milk powder - 83.9g / 3/4 cup + 1 tbsp"
+          "name": "---DOUGH"
         },
         {
-          "qty": "",
-          "name": "Cream 33% - 384.6g / 1 cup + 2.5 tbsp"
+          "qty": "120g",
+          "name": "butter"
         },
         {
-          "qty": "",
-          "name": "Sugar - 237.8g / 1 cup + 3 tbsp"
+          "qty": "140g",
+          "name": "sugar"
         },
         {
-          "qty": "",
-          "name": "Glucose syrup - 35g / 1.5 tbsp"
+          "qty": "60g",
+          "name": "glucose syrup"
         },
         {
-          "qty": "",
-          "name": "Locust Bean gum - 2.8g / 3/4 tsp"
+          "qty": "140g heat treated",
+          "name": "all-purpose flour"
         },
         {
-          "qty": "",
-          "name": "Lecithin - 5.6g / 1 tsp"
+          "qty": "15g",
+          "name": "non-fat milk powder"
         },
         {
-          "qty": "",
-          "name": "Vanilla extract - 14g / 3 tsp"
+          "qty": "120g",
+          "name": "chocolate chips"
         },
         {
-          "qty": "",
-          "name": "Salt - 2.1g / scant 0.5 tsp"
+          "qty": "5g",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "2g",
+          "name": "salt"
+        },
+        {
+          "qty": "20g",
+          "name": "heavy cream"
         }
       ],
-      "instructions": [],
-      "prepNotes": "",
-      "tags": [
-        "dessert",
-        "ice cream",
-        "vegetarian",
-        "base"
+      "instructions": [
+        "Mix liquids in pot. Mix dry ingredients separately and then add to pot.",
+        "Bring up to 80-85degrees C",
+        "Add vanilla extract and vanilla bean powder",
+        "Let cool then refrigerate for a couple hours.",
+        "For dough: mix dry. mix wet and add. add chocolate chips. spread on paper on a cookie sheet and chill for a few hours.",
+        "Chop the dough into little squares as mix-in"
       ],
-      "source": "Baskin Robins"
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "ice cream",
+        "cookie dough"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-10T03:25:14.825Z",
+      "updatedAt": "2026-08-10T03:48:34.087Z"
     },
     {
       "id": "2ec3ec0f-d3d6-4f6c-9a3f-45e3e2d381ad",
