@@ -416,9 +416,9 @@
         "ice cream",
         "cheesecake"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-08-03T18:19:51.175Z",
-      "updatedAt": "2026-08-06T18:55:30.942Z"
+      "updatedAt": "2026-08-10T13:23:01.596Z"
     },
     {
       "id": "ba9902cb-593f-4a3e-ba7c-072178d90edc",
