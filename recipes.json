@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "314ebff8-324a-46ee-bc55-aa7de86cae97",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-13T09:47:26.113Z",
-      "updatedAt": "2026-08-13T09:47:26.113Z",
       "title": "High-Protein Peach Ice Cream (Ninja Creami)",
       "servings": "Makes 1 pint",
+      "source": "Claude",
       "ingredients": [
         {
           "qty": "250 g",
@@ -65,6 +62,8 @@
         "Spin on LITE ICE CREAM. It will look crumbly - normal. Add 15 ml milk and RE-SPIN, twice if still powdery."
       ],
       "prepNotes": "Use peaches in juice or water, NOT syrup. Heavy syrup adds ~35 g sugar: drop allulose to zero or the pint stays soupy. Light syrup: cut allulose to 15 g. Total solids ~30-32%. With no fat, solids are the only defence against ice crystals - that's the milk powder and pudding mix. Allulose depresses freezing point ~1.9x sucrose per gram; peach sugars are mostly monosaccharides (also ~1.9x). 25 g is calibrated for this fruit load. Add the puree last. Canned peach pH ~3.8; acid hitting undispersed milk protein causes graininess. Almond extract isn't decorative - benzaldehyde amplifies stone fruit, which cold and protein both mute. Optional richness: 8 g coconut oil or 20 g light cream cheese (+~70 kcal), noticeably better mouthfeel. Too hard on first spin? Add 5 g allulose next batch, don't just re-spin more. ~43 g protein | ~440 kcal | near-zero fat",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -74,7 +73,9 @@
         "frozen",
         "Ninja Creami"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-08-13T09:47:26.113Z",
+      "updatedAt": "2026-08-13T10:08:25.217Z"
     },
     {
       "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
