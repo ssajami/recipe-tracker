@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-13T09:41:50.685Z",
-      "updatedAt": "2026-08-13T09:41:50.686Z",
       "title": "High-Protein Peach Ice Cream — Ninja Creami",
       "servings": "Makes 1 Creami pint",
+      "source": "Chatgpt",
       "ingredients": [
         {
           "qty": "200 g",
@@ -52,6 +49,8 @@
         "If you want stronger peach flavor, add a few pieces of chopped canned peach as a Mix-In after the first spin."
       ],
       "prepNotes": "For an even stronger peach flavor: reserve 50 g of the peaches and chop them fairly small. Blend the other 150 g into the base, then add the chopped peaches as a Mix-In. You'll get little pockets of peach rather than the flavor getting diluted into the dairy.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "high-protein",
@@ -61,7 +60,9 @@
         "vegetarian",
         "low-sugar"
       ],
-      "source": "Ninja Creami"
+      "pinned": false,
+      "createdAt": "2026-08-13T09:41:50.685Z",
+      "updatedAt": "2026-08-13T09:42:05.763Z"
     },
     {
       "id": "b3b85a17-0b23-48e3-b474-439a2db3ccdb",
