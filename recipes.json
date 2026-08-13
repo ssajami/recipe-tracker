@@ -2,21 +2,21 @@
   "recipes": [
     {
       "id": "314ebff8-324a-46ee-bc55-aa7de86cae97",
-      "title": "High-Protein Peach Ice Cream (Ninja Creami)",
-      "servings": "Makes 1 pint",
+      "title": "Peach Ice Cream",
+      "servings": "creami tub",
       "source": "Claude",
       "ingredients": [
         {
-          "qty": "250 g",
-          "name": "canned peach slices in juice or water, drained"
+          "qty": "250 g, canned in juice, drained",
+          "name": "peaches"
         },
         {
           "qty": "180 g",
-          "name": "ultra-filtered / high-protein skim milk"
+          "name": "milk"
         },
         {
           "qty": "30 g",
-          "name": "vanilla whey protein isolate"
+          "name": "vanilla protein powder"
         },
         {
           "qty": "12 g",
@@ -28,26 +28,26 @@
         },
         {
           "qty": "8 g",
-          "name": "sugar-free instant vanilla pudding mix"
+          "name": "sugar free vanilla pudding"
         },
         {
-          "qty": "1/4 tsp",
+          "qty": "¼ tsp",
           "name": "xanthan gum"
         },
         {
-          "qty": "1/8 tsp",
-          "name": "fine salt"
+          "qty": "⅛ tsp",
+          "name": "salt"
         },
         {
           "qty": "1 tsp",
           "name": "lemon juice"
         },
         {
-          "qty": "1/8 tsp",
-          "name": "almond extract (optional but recommended)"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "1/2 tsp",
+          "qty": "½ tsp",
           "name": "vanilla extract"
         }
       ],
@@ -61,21 +61,17 @@
         "Freeze 24 h on a flat shelf.",
         "Spin on LITE ICE CREAM. It will look crumbly - normal. Add 15 ml milk and RE-SPIN, twice if still powdery."
       ],
-      "prepNotes": "Use peaches in juice or water, NOT syrup. Heavy syrup adds ~35 g sugar: drop allulose to zero or the pint stays soupy. Light syrup: cut allulose to 15 g. Total solids ~30-32%. With no fat, solids are the only defence against ice crystals - that's the milk powder and pudding mix. Allulose depresses freezing point ~1.9x sucrose per gram; peach sugars are mostly monosaccharides (also ~1.9x). 25 g is calibrated for this fruit load. Add the puree last. Canned peach pH ~3.8; acid hitting undispersed milk protein causes graininess. Almond extract isn't decorative - benzaldehyde amplifies stone fruit, which cold and protein both mute. Optional richness: 8 g coconut oil or 20 g light cream cheese (+~70 kcal), noticeably better mouthfeel. Too hard on first spin? Add 5 g allulose next batch, don't just re-spin more. ~43 g protein | ~440 kcal | near-zero fat",
+      "prepNotes": "Use peaches in juice or water, NOT syrup. Heavy syrup adds ~35 g sugar: drop allulose to zero or the pint stays soupy. Light syrup: cut allulose to 15 g. Total solids ~30-32%. With no fat, solids are the only defence against ice crystals - that's the milk powder and pudding mix. Allulose depresses freezing point ~1.9x sucrose per gram; peach sugars are mostly monosaccharides (also ~1.9x). 25 g is calibrated for this fruit load. Add the puree last. Canned peach pH ~3.8; acid hitting undispersed milk protein causes graininess. Almond extract isn't decorative - benzaldehyde amplifies stone fruit, which cold and protein both mute. \n\nOptional richness: 8 g coconut oil or 20 g light cream cheese (+~70 kcal), noticeably better mouthfeel. Too hard on first spin? Add 5 g allulose next batch, don't just re-spin more.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "high-protein",
-        "low-fat",
-        "healthy",
-        "frozen",
-        "Ninja Creami"
+        "peach",
+        "sugar-free"
       ],
       "pinned": false,
       "createdAt": "2026-08-13T09:47:26.113Z",
-      "updatedAt": "2026-08-13T10:08:25.217Z"
+      "updatedAt": "2026-08-13T17:05:45.752Z"
     },
     {
       "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
