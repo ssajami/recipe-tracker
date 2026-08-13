@@ -6803,15 +6803,15 @@
       ],
       "prepNotes": "Pre-freeze cream cheese it in small clumps for chunks, or leave at fridge temperature for a more dispersed icing-like flavor through the pint.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 2,
       "tags": [
         "ice cream",
         "protein",
         "unique"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-08-12T16:39:10.277Z"
+      "updatedAt": "2026-08-13T17:02:07.448Z"
     },
     {
       "id": "b8da5c5a-78bb-4096-b684-681ba70cbb16",
