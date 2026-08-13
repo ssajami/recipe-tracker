@@ -2,24 +2,17 @@
   "recipes": [
     {
       "id": "b3b85a17-0b23-48e3-b474-439a2db3ccdb",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-13T02:58:39.707Z",
-      "updatedAt": "2026-08-13T02:58:39.707Z",
-      "title": "75g Protein Tiramisu | High Protein. No added sugar. Built for indulgence",
-      "servings": "1 Deluxe pint (~75g protein)",
+      "title": "Tiramisu",
+      "servings": "delux tub",
+      "source": "Reddit",
       "ingredients": [
-        {
-          "qty": "",
-          "name": "Base:"
-        },
         {
           "qty": "250 g",
           "name": "whole milk"
         },
         {
           "qty": "90 g",
-          "name": "5% Greek yogurt"
+          "name": "greek yogurt"
         },
         {
           "qty": "45 g",
@@ -70,20 +63,20 @@
           "name": "locust bean gum"
         },
         {
-          "qty": "",
-          "name": "High-intensity sweetener, calibrated to taste"
+          "qty": "To taste ",
+          "name": "sweetener"
         },
         {
           "qty": "",
-          "name": "Espresso Almond Crumble:"
+          "name": "---CRUMBLE"
         },
         {
           "qty": "25 g",
           "name": "almond flour"
         },
         {
-          "qty": "12 g",
-          "name": "unsalted butter"
+          "qty": "12 g unsalted",
+          "name": "butter"
         },
         {
           "qty": "12 g",
@@ -106,8 +99,8 @@
           "name": "fine sea salt"
         },
         {
-          "qty": "",
-          "name": "Dutch-process cocoa, to dust"
+          "qty": "To dust:",
+          "name": "cocoa powder"
         }
       ],
       "instructions": [
@@ -116,19 +109,25 @@
         "Heat to 65°C.",
         "Temper the yolks, return to the pan and cook to 82–83°C for 30 seconds.",
         "Remove from the heat, add the espresso and salt, then cool rapidly to below 30°C.",
-        "Blend in the mascarpone, Greek yogurt, whey and vanilla."
+        "Blend in the mascarpone, Greek yogurt, whey and vanilla.",
+        "Add sweetness. Age in fridge 8-13 hours. Freeze.",
+        "For Crumble: rub butter into dry ingredients then bond woth the egg white.",
+        "Spread thinly on parchment paper and bake on 140° for 25-30 minutes. Turn off oven and leave inside to dry completely.",
+        "Cool. Break onto pieces and freeze.",
+        "Hand fold 40g into pint."
       ],
-      "prepNotes": "This is not a low-calorie ice cream. The goal is ~75g protein per Deluxe pint while getting as close as possible to the richness, density and mouthfeel of premium ice cream. It's not a quick 'blend and freeze' recipe — it needs specialist ingredients, a cooked base, hydration and ageing. The crumble recipe makes more than needed; use ~40g in the finished pint.",
+      "prepNotes": "The crumble recipe makes more than needed; use ~40g in the finished pint.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "high-protein",
-        "no added sugar",
         "ice cream",
         "tiramisu",
-        "dessert",
         "coffee",
-        "frozen"
+        "sugar-free"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-08-13T02:58:39.707Z",
+      "updatedAt": "2026-08-13T03:09:09.220Z"
     },
     {
       "id": "ac745923-d6a2-4b5c-b787-3c49801d3f87",
