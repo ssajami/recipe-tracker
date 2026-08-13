@@ -1,6 +1,69 @@
 {
   "recipes": [
     {
+      "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-13T09:41:50.685Z",
+      "updatedAt": "2026-08-13T09:41:50.686Z",
+      "title": "High-Protein Peach Ice Cream — Ninja Creami",
+      "servings": "Makes 1 Creami pint",
+      "ingredients": [
+        {
+          "qty": "200 g",
+          "name": "canned peaches, drained (about 1 cup)"
+        },
+        {
+          "qty": "180 ml",
+          "name": "milk — 2% or whole milk works best"
+        },
+        {
+          "qty": "120 g",
+          "name": "cottage cheese"
+        },
+        {
+          "qty": "30 g",
+          "name": "vanilla protein powder — about 1 scoop, depending on brand"
+        },
+        {
+          "qty": "15",
+          "name": "–20 g allulose, to taste"
+        },
+        {
+          "qty": "",
+          "name": "½ tsp vanilla extract"
+        },
+        {
+          "qty": "",
+          "name": "⅛ tsp salt"
+        },
+        {
+          "qty": "",
+          "name": "¼ tsp xanthan gum (optional, but gives a smoother texture)"
+        }
+      ],
+      "instructions": [
+        "Blend everything until completely smooth. A regular blender is best for getting rid of the cottage cheese texture.",
+        "Taste the mixture before freezing. Add more allulose if needed.",
+        "Pour into the Creami container, staying below the max-fill line.",
+        "Freeze level for at least 18–24 hours.",
+        "Spin on Lite Ice Cream.",
+        "If crumbly, add 1–2 tbsp milk and use Re-spin.",
+        "If you want stronger peach flavor, add a few pieces of chopped canned peach as a Mix-In after the first spin."
+      ],
+      "prepNotes": "For an even stronger peach flavor: reserve 50 g of the peaches and chop them fairly small. Blend the other 150 g into the base, then add the chopped peaches as a Mix-In. You'll get little pockets of peach rather than the flavor getting diluted into the dairy.",
+      "tags": [
+        "dessert",
+        "high-protein",
+        "ice cream",
+        "frozen",
+        "Ninja Creami",
+        "vegetarian",
+        "low-sugar"
+      ],
+      "source": "Ninja Creami"
+    },
+    {
       "id": "b3b85a17-0b23-48e3-b474-439a2db3ccdb",
       "title": "Tiramisu",
       "servings": "delux tub",
