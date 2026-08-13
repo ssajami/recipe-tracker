@@ -79,29 +79,29 @@
     },
     {
       "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
-      "title": "High-Protein Peach Ice Cream — Ninja Creami",
-      "servings": "Makes 1 Creami pint",
+      "title": "Peach Ice Cream",
+      "servings": "creami tub",
       "source": "Chatgpt",
       "ingredients": [
         {
-          "qty": "200 g",
-          "name": "canned peaches, drained (about 1 cup)"
+          "qty": "200 g canned, drained (1 cup)",
+          "name": "peaches"
+        },
+        {
+          "qty": "30 g",
+          "name": "vanilla protein powder"
         },
         {
           "qty": "180 ml",
-          "name": "milk — 2% or whole milk works best"
+          "name": "milk"
+        },
+        {
+          "qty": "15-20g",
+          "name": "allulose"
         },
         {
           "qty": "120 g",
           "name": "cottage cheese"
-        },
-        {
-          "qty": "30 g",
-          "name": "vanilla protein powder — about 1 scoop, depending on brand"
-        },
-        {
-          "qty": "15",
-          "name": "–20 g allulose, to taste"
         },
         {
           "qty": "",
@@ -129,17 +129,13 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "dessert",
-        "high-protein",
         "ice cream",
-        "frozen",
-        "Ninja Creami",
-        "vegetarian",
-        "low-sugar"
+        "peach",
+        "sugar-free"
       ],
       "pinned": false,
       "createdAt": "2026-08-13T09:41:50.685Z",
-      "updatedAt": "2026-08-13T09:42:05.763Z"
+      "updatedAt": "2026-08-13T10:10:54.252Z"
     },
     {
       "id": "b3b85a17-0b23-48e3-b474-439a2db3ccdb",
