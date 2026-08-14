@@ -1,6 +1,89 @@
 {
   "recipes": [
     {
+      "id": "08e92513-fd1b-4817-a50e-142c764ad24c",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-14T16:13:53.163Z",
+      "updatedAt": "2026-08-14T16:13:53.163Z",
+      "title": "Peanut Butter Base Ice Cream with Lily Dark Chocolate Chips and Ooey Gooey Chocolate Swirl Ribbons",
+      "servings": "1",
+      "ingredients": [
+        {
+          "qty": "1 cup",
+          "name": "fairlife milk"
+        },
+        {
+          "qty": "3/4 cup",
+          "name": "unsweetened vanilla almond milk (Silk)"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Ryse Skippy PB whey protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "PB Fit Powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "SF butterscotch pudding"
+        },
+        {
+          "qty": "1/4 tsp",
+          "name": "imitation butter extract"
+        },
+        {
+          "qty": "1/8 tsp",
+          "name": "Xanthan gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "15",
+          "name": "gr Lily dark chocolate chips"
+        },
+        {
+          "qty": "1",
+          "name": "serving ooey gooey chocolate swirl"
+        },
+        {
+          "qty": "",
+          "name": "Non fat Reddi Whip"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "SF chocolate syrup"
+        },
+        {
+          "qty": "",
+          "name": "Dash of chocolate sprinkles"
+        }
+      ],
+      "instructions": [
+        "Mix together fairlife milk, almond milk, protein powder, allulose, PB Fit powder, SF butterscotch pudding, imitation butter extract, xanthan gum, and a pinch of salt to make the base.",
+        "Churn or freeze the base into ice cream.",
+        "Add 15 gr Lily dark chocolate chips as a mix-in.",
+        "Hand stir in 1 serving of ooey gooey chocolate swirl and freeze for 5-10 minutes.",
+        "Top with non fat Reddi Whip, 1 tbsp SF chocolate syrup, and a dash of chocolate sprinkles."
+      ],
+      "prepNotes": "Base is approx 265 cals with 41 gr protein and 8 gr sugar (mostly from milk). Lily chocolate chips add about 50 cals, the ooey gooey chocolate swirl about 22 cals, and toppings about 20 cals total.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "high protein",
+        "low sugar",
+        "vegetarian"
+      ],
+      "source": ""
+    },
+    {
       "id": "314ebff8-324a-46ee-bc55-aa7de86cae97",
       "title": "Peach Ice Cream",
       "servings": "creami tub",
