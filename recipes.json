@@ -3279,14 +3279,14 @@
         },
         {
           "qty": "1 tbsp (hand stirred)",
-          "name": "sugar free caramel syrup"
+          "name": "Ooey Gooey Caramel Swirl"
         }
       ],
       "ingredientLinks": [
         "98882322-91cf-4e31-b57b-fc28c5021828",
         null,
         "b62e3998-d7d8-44e7-8216-e12c65018a1a",
-        null
+        "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163"
       ],
       "instructions": [],
       "prepNotes": "",
@@ -3298,7 +3298,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-12T17:12:52.717Z",
-      "updatedAt": "2026-08-06T16:12:48.711Z"
+      "updatedAt": "2026-08-14T16:27:20.149Z"
     },
     {
       "id": "9a7be1a5-5ad9-4079-ad93-57c077c2fe2e",
