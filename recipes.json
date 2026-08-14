@@ -7034,16 +7034,16 @@
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 4,
       "tags": [
         "ice cream",
         "protein",
         "toffee",
         "sugar-free"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:07:16.074Z",
-      "updatedAt": "2026-08-10T13:31:10.734Z"
+      "updatedAt": "2026-08-14T11:07:22.997Z"
     },
     {
       "id": "85183f50-1883-410d-91ce-5670ee6460f7",
