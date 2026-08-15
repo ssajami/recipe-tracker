@@ -43,7 +43,7 @@
           "name": "salt"
         },
         {
-          "qty": "2-3g",
+          "qty": "3g",
           "name": "guar gum"
         },
         {
@@ -63,7 +63,7 @@
           "name": "all-purpose flour"
         },
         {
-          "qty": "1g",
+          "qty": "1.5g",
           "name": "salt"
         },
         {
@@ -96,7 +96,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-08-15T19:50:40.103Z",
-      "updatedAt": "2026-08-15T19:50:40.103Z"
+      "updatedAt": "2026-08-15T19:53:33.905Z"
     },
     {
       "id": "08e92513-fd1b-4817-a50e-142c764ad24c",
