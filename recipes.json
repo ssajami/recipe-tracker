@@ -1,6 +1,104 @@
 {
   "recipes": [
     {
+      "id": "d8021bca-42e1-4984-bd50-37838e246c8f",
+      "title": "Roasted Peach Crumble Gelato",
+      "servings": "1500 g",
+      "source": "Polar Ice Creamery",
+      "ingredients": [
+        {
+          "qty": "320g flesh",
+          "name": "Peach "
+        },
+        {
+          "qty": "30g ",
+          "name": "brown sugar"
+        },
+        {
+          "qty": "200g",
+          "name": "peaches"
+        },
+        {
+          "qty": "20g ",
+          "name": "sugar"
+        },
+        {
+          "qty": "5g",
+          "name": "lemon juice"
+        },
+        {
+          "qty": "286g",
+          "name": "milk"
+        },
+        {
+          "qty": "100g",
+          "name": "skim milk powder"
+        },
+        {
+          "qty": "184 g",
+          "name": "sugar"
+        },
+        {
+          "qty": "Pinch",
+          "name": "salt"
+        },
+        {
+          "qty": "2-3g",
+          "name": "guar gum"
+        },
+        {
+          "qty": "325g",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "",
+          "name": "---CRUMBLE"
+        },
+        {
+          "qty": "65g cold cubed",
+          "name": "butter"
+        },
+        {
+          "qty": "70g ",
+          "name": "all-purpose flour"
+        },
+        {
+          "qty": "1g",
+          "name": "salt"
+        },
+        {
+          "qty": "30g",
+          "name": "oats"
+        },
+        {
+          "qty": "60g",
+          "name": "brown sugar"
+        }
+      ],
+      "instructions": [
+        "Heat oven to 205°C",
+        "Take stones out of peaches. Cut into quarters.  Add brown sugar. Mix around. Add to baking pan. Bake 25-30 minutes. Let cool for 10-15 minutes.",
+        "Cut another peach onto quarters and remove skin. Chop into cubes and put in bowl. Add sugar and toss till covered. Add lemon juice. Set aside.",
+        "Add milk to bowl. Combine milk powder, sugar, salt and guar gum. Mix together. Add to milk.  Add cream.",
+        "Strain into bowl. Chill for 24 hrs.",
+        "Crumble: mix all ingredients and mix by hand. Don't want all powdery but keep lumps of butter.",
+        "Once peaches sre dome roasting, take off skins and put into blender.  Add milk base.  Blend 30-60 sec. Till all is combined.",
+        "Pour mixture into small baking pan. Oven at 177°C.  Bake 10-15 minutes. Chill ",
+        "Add up to 50g milk to chilled ice cream base. ",
+        "Blend peaches that were in sugar in a blender to a puree. Add 1-2 tbsp condensed milk. To make a swirl"
+      ],
+      "prepNotes": "For creami divide qty by 3.",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "peach",
+        "gelato"
+      ],
+      "pinned": false,
+      "createdAt": "2026-08-15T19:50:40.103Z",
+      "updatedAt": "2026-08-15T19:50:40.103Z"
+    },
+    {
       "id": "08e92513-fd1b-4817-a50e-142c764ad24c",
       "title": "Peanut Butter Chip Ice Cream",
       "servings": "creami tub",
