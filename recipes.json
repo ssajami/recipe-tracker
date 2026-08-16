@@ -4195,14 +4195,14 @@
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 5,
       "tags": [
         "peanut butter",
         "toppings"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-09T16:45:50.217Z",
-      "updatedAt": "2026-08-13T04:22:08.406Z"
+      "updatedAt": "2026-08-16T17:01:06.067Z"
     },
     {
       "id": "7b7f2c8d-f358-4a6d-b3f8-b9cd2bf70163",
