@@ -4313,9 +4313,9 @@
         "chocolate",
         "toppings"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-09T16:34:04.709Z",
-      "updatedAt": "2026-07-17T06:14:34.372Z"
+      "updatedAt": "2026-08-16T18:06:47.532Z"
     },
     {
       "id": "d37f25ae-86e6-4403-a0a4-a8cb96db70a7",
