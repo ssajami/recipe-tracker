@@ -6819,8 +6819,8 @@
       ],
       "instructions": [],
       "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
+      "afterPrepNotes": "add only walnuts, not banana bread",
+      "rating": 4,
       "tags": [
         "ice cream",
         "protein",
@@ -6829,7 +6829,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-08-10T13:30:59.441Z"
+      "updatedAt": "2026-08-18T17:26:03.175Z"
     },
     {
       "id": "437a0cce-a20a-402a-8752-0b7c0197d45a",
