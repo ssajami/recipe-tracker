@@ -2517,9 +2517,9 @@
         "banana",
         "sugar-free"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-17T06:51:24.919Z",
-      "updatedAt": "2026-08-20T06:09:36.344Z"
+      "updatedAt": "2026-08-20T06:09:41.544Z"
     },
     {
       "id": "81939727-98dd-4cc2-879f-a0b140872f61",
