@@ -6605,16 +6605,16 @@
       ],
       "prepNotes": "Substitution:\n* Ryse cosmic brownie protein\n* Zero sugar brownie mix instead of pb brownie mix",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 5,
       "tags": [
         "ice cream",
         "protein",
         "almond",
         "chocolate"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-08-12T16:52:50.390Z"
+      "updatedAt": "2026-08-20T15:58:32.722Z"
     },
     {
       "id": "9e1169c5-cafb-4315-8155-c048672e3c7e",
