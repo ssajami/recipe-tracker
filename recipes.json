@@ -3269,7 +3269,7 @@
         }
       ],
       "ingredientLinks": [
-        null,
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
         null,
         null,
         "2bf3f135-62f3-434e-b355-9dda28ee4229"
@@ -3286,7 +3286,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-12T17:48:09.091Z",
-      "updatedAt": "2026-08-13T04:23:47.531Z"
+      "updatedAt": "2026-08-20T16:33:46.638Z"
     },
     {
       "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
