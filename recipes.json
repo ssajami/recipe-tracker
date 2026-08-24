@@ -3277,16 +3277,16 @@
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 4,
       "tags": [
         "ice cream",
         "cheesecake",
         "caramel",
         "chocolate"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-12T17:48:09.091Z",
-      "updatedAt": "2026-08-20T16:33:46.638Z"
+      "updatedAt": "2026-08-24T17:02:23.677Z"
     },
     {
       "id": "f6498c8f-02f1-4b14-a34a-3ae250f22025",
