@@ -1,6 +1,80 @@
 {
   "recipes": [
     {
+      "id": "c99442fb-8d8a-45a7-be6f-b17e0662f594",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-25T18:15:49.199Z",
+      "updatedAt": "2026-08-25T18:15:49.199Z",
+      "title": "Honey Butter Cinnamon Swirl",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Fairlife Fat Free Ultra Filtered Milk 240 gr"
+        },
+        {
+          "qty": "",
+          "name": "Unsweetened Vanilla Almond Milk-Almond Breeze 180 gr"
+        },
+        {
+          "qty": "",
+          "name": "Optimum Nutrition Cinnamon Roll whey Protein 1 scoop"
+        },
+        {
+          "qty": "",
+          "name": "Allulose 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Sugar Free Butterscotch Pudding Mix 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Xanthan gum 1/8 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Salt Pinch"
+        },
+        {
+          "qty": "",
+          "name": "Ground cinnamon 1/2 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Swerve Sugar Free Brown Sugar 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Butter extract 1/4 tsp"
+        },
+        {
+          "qty": "",
+          "name": "LorAnns Honey Extract 1/4 tsp"
+        },
+        {
+          "qty": "",
+          "name": "YUM Wholesome Sugar Free Honey 1/2 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Ooey Gooey Cinnamon Swirls 50 gr"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "tags": [
+        "protein",
+        "dessert",
+        "high-protein",
+        "sugar-free",
+        "low-carb",
+        "cinnamon"
+      ],
+      "source": ""
+    },
+    {
       "id": "d8021bca-42e1-4984-bd50-37838e246c8f",
       "title": "Roasted Peach Crumble Gelato",
       "servings": "1500 g",
