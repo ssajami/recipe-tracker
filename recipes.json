@@ -7487,19 +7487,17 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "Variation:  \n* use cheesecake pudding for cheesecake flavor \n* blueberry muffin protein powder, \n\n* mix-in add 2 tbsp cream cheese  (dice into small pieces for ease of mixing)",
-      "afterPrepNotes": "retry with cheesecake pudding + blueberry muffin protein",
+      "prepNotes": "",
+      "afterPrepNotes": "better without blueberry protein. use vanilla protein+ jam + fresh blueberries.",
       "rating": 4,
       "tags": [
         "ice cream",
         "protein",
-        "blueberry",
-        "retry",
-        "sugar-free"
+        "blueberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-08-19T07:15:33.905Z"
+      "updatedAt": "2026-08-25T17:52:48.887Z"
     },
     {
       "id": "41d5484c-7925-4df6-a196-ca439c9903be",
