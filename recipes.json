@@ -2,77 +2,90 @@
   "recipes": [
     {
       "id": "c99442fb-8d8a-45a7-be6f-b17e0662f594",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-25T18:15:49.199Z",
-      "updatedAt": "2026-08-25T18:15:49.199Z",
       "title": "Honey Butter Cinnamon Swirl",
-      "servings": "",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "",
-          "name": "Fairlife Fat Free Ultra Filtered Milk 240 gr"
+          "qty": "240 gr",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "Unsweetened Vanilla Almond Milk-Almond Breeze 180 gr"
+          "qty": "180 gr",
+          "name": "unsweetened almond milk"
         },
         {
-          "qty": "",
-          "name": "Optimum Nutrition Cinnamon Roll whey Protein 1 scoop"
+          "qty": "1 scoop",
+          "name": "Ryse Cinnamon Roll protein powder"
         },
         {
-          "qty": "",
-          "name": "Allulose 1 tbsp"
+          "qty": "1 tbsp",
+          "name": "allulose"
         },
         {
-          "qty": "",
-          "name": "Sugar Free Butterscotch Pudding Mix 1 tbsp"
+          "qty": "1 tbsp",
+          "name": "sugar free butterscotch pudding"
         },
         {
-          "qty": "",
-          "name": "Xanthan gum 1/8 tsp"
+          "qty": "⅛ tsp",
+          "name": "xanthan gum"
         },
         {
-          "qty": "",
-          "name": "Salt Pinch"
+          "qty": "pinch",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Ground cinnamon 1/2 tsp"
+          "qty": "½ tsp",
+          "name": "cinnamon"
         },
         {
-          "qty": "",
-          "name": "Swerve Sugar Free Brown Sugar 1 tbsp"
+          "qty": "1 tbsp ",
+          "name": "brown sugar allulose"
         },
         {
-          "qty": "",
-          "name": "Butter extract 1/4 tsp"
+          "qty": "¼ tsp",
+          "name": "butter extract"
         },
         {
-          "qty": "",
-          "name": "LorAnns Honey Extract 1/4 tsp"
+          "qty": "¼ tsp",
+          "name": "honey extract"
         },
         {
-          "qty": "",
-          "name": "YUM Wholesome Sugar Free Honey 1/2 tbsp"
+          "qty": "Mix-in: ½ tbsp",
+          "name": "sugar free honey"
         },
         {
-          "qty": "",
-          "name": "Ooey Gooey Cinnamon Swirls 50 gr"
+          "qty": "Mix-in: 50gr",
+          "name": "Ooey Gooey Cinnamon Swirls"
         }
+      ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "d37f25ae-86e6-4403-a0a4-a8cb96db70a7"
       ],
       "instructions": [],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "protein",
-        "dessert",
-        "high-protein",
-        "sugar-free",
-        "low-carb",
-        "cinnamon"
+        "cinnamon",
+        "honey",
+        "ice cream"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-08-25T18:15:49.199Z",
+      "updatedAt": "2026-08-25T18:19:31.321Z"
     },
     {
       "id": "d8021bca-42e1-4984-bd50-37838e246c8f",
