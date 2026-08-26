@@ -1,6 +1,58 @@
 {
   "recipes": [
     {
+      "id": "80a34960-21d6-4829-9056-c414d692c891",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-26T10:53:19.881Z",
+      "updatedAt": "2026-08-26T10:53:19.881Z",
+      "title": "Air Fryer Hamburgers",
+      "servings": "4 patties",
+      "ingredients": [
+        {
+          "qty": "1 pound",
+          "name": "(450 g) ground beef 80/20"
+        },
+        {
+          "qty": "2 teaspoons",
+          "name": "(10 ml) Worcestershire sauce"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "garlic powder"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon onion powder"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon ground black pepper"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon salt"
+        }
+      ],
+      "instructions": [
+        "Preheat the Air Fryer to 370°F/190°C for 5 minutes.",
+        "In a bowl, combine ground beef with Worcestershire sauce, garlic powder, onion powder, salt, and pepper. Use your hands to combine well, but do not over work to get a better texture.",
+        "Divide the mixture into 4 portions (about half an inch thick), and gently flatten and shape into patties, making an indent in the center of each patty with your thumb or the back of a spoon.",
+        "Place the patties in the air fryer, and cook for 6 minutes, flip the patties and cook for 3 more minutes. Add cheese in the last minute of cooking if using.",
+        "Remove the patties, and assemble with your favorite condiments."
+      ],
+      "prepNotes": "Ready in just 20 minutes. Equipment: Air fryer. Check for Doneness: Insert an instant-read thermometer through the side of the burger into the center. Ground beef should reach 160°F or 71°C before serving. Cooking time may vary depending on the thickness of the patties and your air fryer model. Easy hamburger sauce recipe: Mix together ¼ cup mayo, 2 tablespoons of ketchup, 1 teaspoon of sweet relish, 1 teaspoon of apple cider vinegar, ½ teaspoon of honey, and ¼ teaspoon of ground black pepper.",
+      "tags": [
+        "air fryer",
+        "quick",
+        "dinner",
+        "beef",
+        "main course",
+        "American"
+      ],
+      "source": ""
+    },
+    {
       "id": "199fe450-6259-4e40-a550-36eb35285414",
       "afterPrepNotes": "",
       "rating": null,
