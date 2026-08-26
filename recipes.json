@@ -1,6 +1,64 @@
 {
   "recipes": [
     {
+      "id": "199fe450-6259-4e40-a550-36eb35285414",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-08-26T10:51:19.880Z",
+      "updatedAt": "2026-08-26T10:51:19.880Z",
+      "title": "Zagnut",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "300 g",
+          "name": "2% milk"
+        },
+        {
+          "qty": "30 g",
+          "name": "Fage Greek yogurt"
+        },
+        {
+          "qty": "15 g",
+          "name": "creamy PB"
+        },
+        {
+          "qty": "10 g",
+          "name": "PB2"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Clean Simple Eats Coconut Cream"
+        },
+        {
+          "qty": "14 g",
+          "name": "SF vanilla pudding mix"
+        },
+        {
+          "qty": "6 g",
+          "name": "Monk Fruit sweetener"
+        },
+        {
+          "qty": "3/4",
+          "name": "t. Lorann toasted coconut"
+        },
+        {
+          "qty": "3/4",
+          "name": "t. Lorann Peanut Butter"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "",
+      "tags": [
+        "smoothie",
+        "protein shake",
+        "high-protein",
+        "peanut butter",
+        "coconut",
+        "low-sugar"
+      ],
+      "source": ""
+    },
+    {
       "id": "c99442fb-8d8a-45a7-be6f-b17e0662f594",
       "title": "Honey Butter Cinnamon Swirl",
       "servings": "creami tub",
