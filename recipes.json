@@ -2,15 +2,12 @@
   "recipes": [
     {
       "id": "80a34960-21d6-4829-9056-c414d692c891",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-26T10:53:19.881Z",
-      "updatedAt": "2026-08-26T10:53:19.881Z",
       "title": "Air Fryer Hamburgers",
       "servings": "4 patties",
+      "source": "littlesunnykitchen.com",
       "ingredients": [
         {
-          "qty": "1 pound",
+          "qty": "",
           "name": "(450 g) ground beef 80/20"
         },
         {
@@ -42,15 +39,14 @@
         "Remove the patties, and assemble with your favorite condiments."
       ],
       "prepNotes": "Ready in just 20 minutes. Equipment: Air fryer. Check for Doneness: Insert an instant-read thermometer through the side of the burger into the center. Ground beef should reach 160°F or 71°C before serving. Cooking time may vary depending on the thickness of the patties and your air fryer model. Easy hamburger sauce recipe: Mix together ¼ cup mayo, 2 tablespoons of ketchup, 1 teaspoon of sweet relish, 1 teaspoon of apple cider vinegar, ½ teaspoon of honey, and ¼ teaspoon of ground black pepper.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "air fryer",
-        "quick",
-        "dinner",
-        "beef",
-        "main course",
-        "American"
+        "beef"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-08-26T10:53:19.881Z",
+      "updatedAt": "2026-08-26T10:54:28.386Z"
     },
     {
       "id": "199fe450-6259-4e40-a550-36eb35285414",
