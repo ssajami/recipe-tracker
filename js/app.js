@@ -92,6 +92,13 @@ function normalizeIngredient(ing) {
     .trim();
 }
 
+function getQtyMultiplier(recipe) {
+  const servings = recipe?.servings || '';
+  if (/creami/i.test(servings)) return 0.5;
+  if (/delux/i.test(servings)) return 1 / 3;
+  return 1;
+}
+
 function getAllTags() {
   const set = new Set();
   state.recipes.forEach(r => (r.tags || []).forEach(t => set.add(t)));
@@ -181,7 +188,7 @@ const App = {
     state.detailId = id;
     state.cookChecked = { ingredients: new Set(), instructions: new Set() };
     const recipe = state.recipes.find(x => x.id === id);
-    state.qtyMultiplier = /creami/i.test(recipe?.servings || '') ? 0.5 : /delux/i.test(recipe?.servings || '') ? 1/3 : 1;
+    state.qtyMultiplier = getQtyMultiplier(recipe);
     state.chatMessages = [];
     state.chatOpen = false;
     state.chatLoading = false;
@@ -2052,7 +2059,7 @@ function expandRecipeIngredients(recipe, visited, sourceTitle) {
 }
 
 function batchIngredientGroups(recipes) {
-  const groups = new Map(); // normalizedName → { key, displayName, cells: Map(recipeId → ing) }
+  const groups = new Map(); // normalizedName → { key, displayName, cells: Map(recipeId → ing[]) }
   for (const r of recipes) {
     for (const ing of expandRecipeIngredients(r)) {
       const key = normalizeIngredient(ing);
@@ -2061,7 +2068,9 @@ function batchIngredientGroups(recipes) {
         const displayName = typeof ing === 'object' ? ing.name : key;
         groups.set(key, { key, displayName, cells: new Map() });
       }
-      groups.get(key).cells.set(r.id, ing);
+      const cells = groups.get(key).cells;
+      if (!cells.has(r.id)) cells.set(r.id, []);
+      cells.get(r.id).push(ing); // a recipe can list the same ingredient more than once (e.g. base + mix-in section)
     }
   }
   const rows = [...groups.values()].sort((a, b) => a.displayName.localeCompare(b.displayName));
@@ -2110,18 +2119,30 @@ function renderBatchContent() {
   const doneCount = allRows.filter(row => state.batchDone.has(row.key)).length;
   const pct = allRows.length ? Math.round(doneCount / allRows.length * 100) : 0;
 
-  const headCells = recipes.map((r, i) => `
+  const mults = new Map(recipes.map(r => [r.id, getQtyMultiplier(r)]));
+  const multLabel = { [1/3]: '⅓×', 0.5: '½×' };
+
+  const headCells = recipes.map((r, i) => {
+    const m = mults.get(r.id);
+    const badge = m !== 1 ? `<span class="batch-mult-badge" title="Scaled for ${esc(r.servings)}">${multLabel[m]}</span>` : '';
+    return `
     <th class="batch-data-head" style="--col:${BATCH_COL_COLORS[i % BATCH_COL_COLORS.length]}">
-      <span class="batch-rname">${esc(r.title)}</span>
-    </th>`).join('');
+      <span class="batch-rname">${esc(r.title)}${badge}</span>
+    </th>`;
+  }).join('');
 
   const rowHtml = row => {
     const isDone = state.batchDone.has(row.key);
     const cells = recipes.map(r => {
-      const ing = row.cells.get(r.id);
-      if (!ing) return `<td class="batch-qty"><span class="batch-dash" aria-hidden="true">&ndash;</span><span class="sr-only">not used</span></td>`;
-      const amt = typeof ing === 'object' ? (ing.qty || '✓') : ingDisplay(ing);
-      const via = ing._via ? `<span class="batch-via">via ${esc(ing._via)}</span>` : '';
+      const ings = row.cells.get(r.id);
+      if (!ings || !ings.length) return `<td class="batch-qty"><span class="batch-dash" aria-hidden="true">&ndash;</span><span class="sr-only">not used</span></td>`;
+      const mult = mults.get(r.id);
+      const amt = ings.map(ing => {
+        const rawAmt = typeof ing === 'object' ? (ing.qty || '') : ingDisplay(ing);
+        return rawAmt ? scaleIngredient(rawAmt, mult) : '✓';
+      }).join(' + ');
+      const vias = [...new Set(ings.map(ing => ing._via).filter(Boolean))];
+      const via = vias.length ? `<span class="batch-via">via ${vias.map(esc).join(', ')}</span>` : '';
       return `<td class="batch-qty"><span class="batch-amt">${esc(amt)}</span>${via}</td>`;
     }).join('');
     return `
