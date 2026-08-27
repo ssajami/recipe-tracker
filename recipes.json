@@ -8277,15 +8277,15 @@
           "name": "chocolate base"
         },
         {
-          "qty": "Mix-ins: ¼ cup ",
+          "qty": "Mix-in: ¼ cup ",
           "name": "mini Oreos"
         },
         {
-          "qty": "Mix-ins: 2 tbsp",
+          "qty": "Mix-in: 2 tbsp",
           "name": "dark chocolate chips"
         },
         {
-          "qty": "Mix-ins: ",
+          "qty": "Mix-in:",
           "name": "sugar free hershey chocolate syrup"
         }
       ],
@@ -8309,7 +8309,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-17T14:07:23.605Z"
+      "updatedAt": "2026-08-27T18:05:48.065Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
