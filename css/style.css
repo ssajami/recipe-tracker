@@ -863,7 +863,8 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 .batch-progress-fill { height: 100%; background: var(--accent); border-radius: 999px; transition: width 0.2s ease; }
 
 .batch-table-wrap {
-  overflow-x: auto;
+  overflow: auto;
+  max-height: 65vh;
   border: 1.5px solid var(--border);
   border-radius: var(--radius);
   -webkit-overflow-scrolling: touch;
@@ -878,6 +879,7 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
 .batch-col-data { width: 104px; }
 
 .batch-table thead th {
+  position: sticky; top: 0; z-index: 2;
   background: var(--surface);
   border-bottom: 1.5px solid var(--border);
   text-align: left;
@@ -885,8 +887,7 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   font-size: 0.72rem;
 }
 .batch-ing-head {
-  position: sticky; left: 0; z-index: 2;
-  background: var(--surface);
+  left: 0; z-index: 3;
   border-right: 1px solid var(--border);
 }
 .batch-data-head { border-top: 3px solid var(--col); }
