@@ -50,61 +50,59 @@
     },
     {
       "id": "199fe450-6259-4e40-a550-36eb35285414",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-08-26T10:51:19.880Z",
-      "updatedAt": "2026-08-26T10:51:19.880Z",
-      "title": "Zagnut",
-      "servings": "",
+      "title": "Zagnut Ice Cream",
+      "servings": "creami tub",
+      "source": "",
       "ingredients": [
         {
           "qty": "300 g",
-          "name": "2% milk"
+          "name": "Fairlife skim milk"
         },
         {
           "qty": "30 g",
-          "name": "Fage Greek yogurt"
+          "name": "greek yogurt"
         },
         {
           "qty": "15 g",
-          "name": "creamy PB"
+          "name": "peanut butter"
         },
         {
           "qty": "10 g",
-          "name": "PB2"
+          "name": "peanut butter powder"
         },
         {
           "qty": "1 scoop",
-          "name": "Clean Simple Eats Coconut Cream"
+          "name": "coconut cream protein "
         },
         {
           "qty": "14 g",
-          "name": "SF vanilla pudding mix"
+          "name": "sugar free vanilla pudding"
         },
         {
           "qty": "6 g",
-          "name": "Monk Fruit sweetener"
+          "name": "monk fruit sweetener"
         },
         {
           "qty": "3/4",
-          "name": "t. Lorann toasted coconut"
+          "name": "toasted coconut extract"
         },
         {
           "qty": "3/4",
-          "name": "t. Lorann Peanut Butter"
+          "name": "peanut butter extract"
         }
       ],
       "instructions": [],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "smoothie",
-        "protein shake",
-        "high-protein",
         "peanut butter",
         "coconut",
-        "low-sugar"
+        "ice cream"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-08-26T10:51:19.880Z",
+      "updatedAt": "2026-08-27T16:39:59.624Z"
     },
     {
       "id": "c99442fb-8d8a-45a7-be6f-b17e0662f594",
