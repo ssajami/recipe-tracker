@@ -8721,11 +8721,11 @@
           "name": "sugar free maple syrup"
         },
         {
-          "qty": "Mix-ins: 2 tbsp",
+          "qty": "Mix-in: 2 tbsp",
           "name": "maple syrup"
         },
         {
-          "qty": "Mix-ins: 2 tbsp crushed",
+          "qty": "Mix-in: 2 tbsp crushed",
           "name": "walnuts"
         },
         {
@@ -8752,7 +8752,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-07-17T06:08:44.676Z"
+      "updatedAt": "2026-08-27T18:03:44.611Z"
     },
     {
       "id": "692de0de-76c0-4f86-8425-18006a49d547",
