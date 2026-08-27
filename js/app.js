@@ -23,6 +23,9 @@ const state = {
   shoppingSelected: new Set(),
   shopPickerOpen: true,
   shopHaveOpen: false,
+  batchSelected: new Set(),
+  batchPickerOpen: true,
+  batchDone: new Set(),
   chatMessages: [],
   chatOpen: false,
   chatLoading: false,
@@ -728,6 +731,41 @@ Answer questions about substitutions, techniques, or anything related to this re
   onShopPickerToggle(isOpen) { state.shopPickerOpen = isOpen; },
   onShopHaveToggle(isOpen)   { state.shopHaveOpen   = isOpen; },
 
+  showBatchPrep() {
+    state.viewHistory.push({ view: state.view, detailId: state.detailId, editId: state.editId });
+    state.batchSelected = new Set();
+    state.batchDone = new Set();
+    state.batchPickerOpen = true;
+    state.view = 'batchprep';
+    render();
+  },
+
+  toggleBatchRecipe(id) {
+    if (state.batchSelected.has(id)) state.batchSelected.delete(id);
+    else state.batchSelected.add(id);
+    document.getElementById('batch-content').innerHTML = renderBatchContent();
+    const summary = document.getElementById('batch-picker-count');
+    if (summary) summary.textContent = `(${state.batchSelected.size} selected)`;
+  },
+
+  deselectAllBatch() {
+    state.batchSelected.clear();
+    renderBatchPrep();
+  },
+
+  selectPinnedBatch() {
+    state.batchSelected = new Set(state.recipes.filter(r => r.pinned).map(r => r.id));
+    renderBatchPrep();
+  },
+
+  onBatchPickerToggle(isOpen) { state.batchPickerOpen = isOpen; },
+
+  toggleBatchRow(key) {
+    if (state.batchDone.has(key)) state.batchDone.delete(key);
+    else state.batchDone.add(key);
+    document.getElementById('batch-content').innerHTML = renderBatchContent();
+  },
+
   toggleNotes() {
     state.notesOpen = !state.notesOpen;
     renderList();
@@ -1241,6 +1279,7 @@ function render() {
     case 'edit':     renderEdit();         break;
     case 'import':   renderImport();       break;
     case 'shopping': renderShoppingList(); break;
+    case 'batchprep': renderBatchPrep();   break;
   }
 }
 
@@ -1250,6 +1289,7 @@ function renderList() {
     <span id="sync-dot" class="sync-dot" title="Synced"></span>
     <button class="icon-btn" title="Notes" onclick="App.toggleNotes()">&#128221;</button>
     <button class="icon-btn" title="Shopping list" onclick="App.showGlobalShoppingList()">&#128722;</button>
+    <button class="icon-btn" title="Batch prep" onclick="App.showBatchPrep()">&#9878;&#65039;</button>
     <button class="icon-btn" title="Import" onclick="App.showImport()">&#8675;</button>
     <button class="icon-btn" title="Settings" onclick="App.showSettings()">&#9881;</button>
   `);
@@ -1977,6 +2017,125 @@ function renderShoppingContent() {
     </details>` : '';
 
   return statusLine + `<ul class="shop-list">${missingRows}</ul>` + haveSection;
+}
+
+// ── Batch Prep ─────────────────────────────────────────────────────────────
+function batchIngredientGroups(recipes) {
+  const groups = new Map(); // normalizedName → { key, displayName, cells: Map(recipeId → ing) }
+  for (const r of recipes) {
+    for (const ing of (r.ingredients || [])) {
+      const key = normalizeIngredient(ing);
+      if (!key) continue;
+      if (!groups.has(key)) {
+        const displayName = typeof ing === 'object' ? ing.name : key;
+        groups.set(key, { key, displayName, cells: new Map() });
+      }
+      groups.get(key).cells.set(r.id, ing);
+    }
+  }
+  const rows = [...groups.values()].sort((a, b) => a.displayName.localeCompare(b.displayName));
+  const shared = rows.filter(row => recipes.every(r => row.cells.has(r.id)));
+  const specific = rows.filter(row => !recipes.every(r => row.cells.has(r.id)));
+  return { shared, specific };
+}
+
+const BATCH_COL_COLORS = ['#3d7a5a', '#b5566f', '#8a6a4f', '#a97b2f', '#6b6398', '#3f7ea8'];
+
+function renderBatchPrep() {
+  updateHeader('Batch Prep', true);
+  const nSel = state.batchSelected.size;
+  document.getElementById('app-main').innerHTML = `
+    <div class="shopping-view batch-view">
+      <details class="shop-collapsible" ${state.batchPickerOpen ? 'open' : ''}
+               ontoggle="App.onBatchPickerToggle(this.open)">
+        <summary class="shop-section-summary">
+          <span>Recipes&nbsp;<span class="shop-section-count" id="batch-picker-count">(${nSel} selected)</span></span>
+          <div class="shop-picker-actions" onclick="event.stopPropagation()">
+            <button class="btn-text-sm" onclick="App.deselectAllBatch()">Deselect all</button>
+            <button class="btn-text-sm" onclick="App.selectPinnedBatch()">Pinned only</button>
+          </div>
+        </summary>
+        <div class="shopping-recipe-picker">
+          ${state.recipes.map(r => `
+            <label class="recipe-pick-row">
+              <input type="checkbox" ${state.batchSelected.has(r.id) ? 'checked' : ''}
+                     onchange="App.toggleBatchRecipe('${r.id}')">
+              <span>${r.pinned ? '📌 ' : ''}${esc(r.title)}</span>
+            </label>`).join('')}
+        </div>
+      </details>
+      <div id="batch-content">${renderBatchContent()}</div>
+    </div>`;
+}
+
+function renderBatchContent() {
+  const recipes = state.recipes.filter(r => state.batchSelected.has(r.id));
+  if (recipes.length < 2) {
+    return `<p class="chat-empty">Select at least 2 recipes above to line up their ingredients.</p>`;
+  }
+
+  const { shared, specific } = batchIngredientGroups(recipes);
+  const allRows = [...shared, ...specific];
+  const doneCount = allRows.filter(row => state.batchDone.has(row.key)).length;
+  const pct = allRows.length ? Math.round(doneCount / allRows.length * 100) : 0;
+
+  const headCells = recipes.map((r, i) => `
+    <th class="batch-data-head" style="--col:${BATCH_COL_COLORS[i % BATCH_COL_COLORS.length]}">
+      <span class="batch-rname">${esc(r.title)}</span>
+    </th>`).join('');
+
+  const rowHtml = row => {
+    const isDone = state.batchDone.has(row.key);
+    const cells = recipes.map(r => {
+      const ing = row.cells.get(r.id);
+      if (!ing) return `<td class="batch-qty"><span class="batch-dash" aria-hidden="true">&ndash;</span><span class="sr-only">not used</span></td>`;
+      const amt = typeof ing === 'object' ? (ing.qty || '✓') : ingDisplay(ing);
+      return `<td class="batch-qty"><span class="batch-amt">${esc(amt)}</span></td>`;
+    }).join('');
+    return `
+      <tr class="${isDone ? 'done' : ''}">
+        <td class="batch-ing-cell" onclick="App.toggleBatchRow('${esc(row.key)}')">
+          <span class="batch-row-inner">
+            <span class="batch-check">✓</span>
+            <span class="batch-ing-name">${esc(row.displayName)}</span>
+          </span>
+        </td>
+        ${cells}
+      </tr>`;
+  };
+
+  const sharedSection = shared.length ? `
+    <tr class="batch-section-row"><th colspan="${recipes.length + 1}">Shared &mdash; portion once for all ${recipes.length}</th></tr>
+    ${shared.map(rowHtml).join('')}` : '';
+
+  const specificSection = specific.length ? `
+    <tr class="batch-section-row"><th colspan="${recipes.length + 1}">Flavor-specific &mdash; portion individually</th></tr>
+    ${specific.map(rowHtml).join('')}` : '';
+
+  return `
+    <div class="batch-progress-row">
+      <div class="batch-progress-label"><span>Portioned</span><strong>${doneCount} of ${allRows.length}</strong></div>
+      <div class="batch-progress-track"><div class="batch-progress-fill" style="width:${pct}%"></div></div>
+    </div>
+    <div class="batch-table-wrap">
+      <table class="batch-table" style="--n:${recipes.length}">
+        <colgroup>
+          <col class="batch-col-ing">
+          ${recipes.map(() => '<col class="batch-col-data">').join('')}
+        </colgroup>
+        <thead>
+          <tr>
+            <th class="batch-ing-head"><span class="sr-only">Ingredient</span></th>
+            ${headCells}
+          </tr>
+        </thead>
+        <tbody>
+          ${sharedSection}
+          ${specificSection}
+        </tbody>
+      </table>
+    </div>
+    <p class="batch-hint">Tap an ingredient to check it off as you portion it into all trays</p>`;
 }
 
 // ── Init ────────────────────────────────────────────────────────────────────
