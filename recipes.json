@@ -8070,11 +8070,11 @@
           "name": "mint extract"
         },
         {
-          "qty": "Mix-ins: 4  broken up",
+          "qty": "Mix-in: 4  broken up",
           "name": "Thin Mint Girl Scout Cookies"
         },
         {
-          "qty": "Optional: 2 tbsp",
+          "qty": "Mix-in: (optional) 2 tbsp",
           "name": "sugar free hershey chocolate syrup"
         }
       ],
@@ -8095,7 +8095,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-08-19T09:16:39.605Z"
+      "updatedAt": "2026-08-27T18:06:06.727Z"
     },
     {
       "id": "d2056f7c-f2c8-4d95-9ed9-048c203411b7",
