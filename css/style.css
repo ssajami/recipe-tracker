@@ -917,6 +917,10 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   vertical-align: middle;
   font-size: 0.85rem;
   font-variant-numeric: tabular-nums;
+  background: var(--surface);
+}
+.batch-data-head:nth-of-type(even), .batch-qty:nth-of-type(even) {
+  background: var(--bg);
 }
 .batch-ing-cell {
   position: sticky; left: 0; z-index: 1;
