@@ -2020,10 +2020,41 @@ function renderShoppingContent() {
 }
 
 // ── Batch Prep ─────────────────────────────────────────────────────────────
+// An ingredient row counts as a "Mix-in" (and is never expanded through its link)
+// if its qty field starts with the word Mix-in/Mixin, e.g. "Mix-in: 28g", "Mixin: ½".
+function isMixInQty(qty) {
+  return /^\s*mix-?ins?\b/i.test(qty || '');
+}
+
+// Resolves a recipe's effective ingredient list for batch comparison: any ingredient
+// row that links to another recipe (and isn't itself a Mix-in) is replaced by that
+// linked recipe's own ingredients, recursively, instead of showing the bare link line.
+function expandRecipeIngredients(recipe, visited, sourceTitle) {
+  visited = visited || new Set([recipe.id]);
+  const links = recipe.ingredientLinks || [];
+  const result = [];
+  (recipe.ingredients || []).forEach((ing, i) => {
+    const qty = typeof ing === 'object' ? (ing.qty || '') : '';
+    const linkedId = !isMixInQty(qty) ? links[i] : null;
+    const linkedRecipe = linkedId ? state.recipes.find(r => r.id === linkedId) : null;
+
+    if (linkedRecipe && !visited.has(linkedRecipe.id)) {
+      const nextVisited = new Set(visited);
+      nextVisited.add(linkedRecipe.id);
+      result.push(...expandRecipeIngredients(linkedRecipe, nextVisited, sourceTitle || linkedRecipe.title));
+    } else if (sourceTitle && typeof ing === 'object') {
+      result.push({ ...ing, _via: sourceTitle });
+    } else {
+      result.push(ing);
+    }
+  });
+  return result;
+}
+
 function batchIngredientGroups(recipes) {
   const groups = new Map(); // normalizedName → { key, displayName, cells: Map(recipeId → ing) }
   for (const r of recipes) {
-    for (const ing of (r.ingredients || [])) {
+    for (const ing of expandRecipeIngredients(r)) {
       const key = normalizeIngredient(ing);
       if (!key) continue;
       if (!groups.has(key)) {
@@ -2090,7 +2121,8 @@ function renderBatchContent() {
       const ing = row.cells.get(r.id);
       if (!ing) return `<td class="batch-qty"><span class="batch-dash" aria-hidden="true">&ndash;</span><span class="sr-only">not used</span></td>`;
       const amt = typeof ing === 'object' ? (ing.qty || '✓') : ingDisplay(ing);
-      return `<td class="batch-qty"><span class="batch-amt">${esc(amt)}</span></td>`;
+      const via = ing._via ? `<span class="batch-via">via ${esc(ing._via)}</span>` : '';
+      return `<td class="batch-qty"><span class="batch-amt">${esc(amt)}</span>${via}</td>`;
     }).join('');
     return `
       <tr class="${isDone ? 'done' : ''}">

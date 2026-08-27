@@ -938,6 +938,7 @@ tr.done .batch-ing-name { text-decoration: line-through; color: var(--text-muted
 .batch-qty { transition: opacity 0.15s; }
 tr.done .batch-qty { opacity: 0.4; }
 .batch-amt { font-weight: 700; }
+.batch-via { display: block; font-size: 0.68rem; color: var(--text-muted); font-weight: 500; }
 .batch-dash { color: var(--border); font-weight: 700; }
 
 .batch-hint { font-size: 0.78rem; color: var(--text-muted); margin-top: 10px; text-align: center; }
