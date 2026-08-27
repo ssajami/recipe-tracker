@@ -3789,15 +3789,15 @@
           "name": "pecans"
         },
         {
-          "qty": "Mix-ins (hand stirred): ",
+          "qty": "Mix-in: (hand stirred)",
           "name": "Ooey Gooey Caramel Swirl"
         },
         {
-          "qty": "Toppings: crumbled",
+          "qty": "Topping: crumbled",
           "name": "pecans"
         },
         {
-          "qty": "Toppings: 1 tbsp",
+          "qty": "Topping: 1 tbsp",
           "name": "sugar free caramel syrup"
         },
         {
@@ -3832,7 +3832,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-11T06:04:27.693Z",
-      "updatedAt": "2026-07-17T06:39:14.226Z"
+      "updatedAt": "2026-08-27T18:02:09.281Z"
     },
     {
       "id": "57e927a1-ebf2-4752-8adb-0136bacce8cf",
