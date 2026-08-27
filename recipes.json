@@ -2330,7 +2330,7 @@
           "name": "sugar free maple syrup"
         },
         {
-          "qty": "Mix-in",
+          "qty": "Mix-in:",
           "name": "oatmeal cookie"
         },
         {
@@ -2356,7 +2356,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-07-17T16:41:07.425Z",
-      "updatedAt": "2026-08-24T02:55:02.036Z"
+      "updatedAt": "2026-08-27T17:58:13.076Z"
     },
     {
       "id": "fa5c1243-03b6-4d01-b594-717e1a8c16b5",
