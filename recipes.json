@@ -7464,7 +7464,7 @@
           "name": "butter extract"
         },
         {
-          "qty": "Mix-ins: 2 tbsp",
+          "qty": "Mix-in: 2 tbsp",
           "name": "sugar free peanut butter chips"
         },
         {
@@ -7472,7 +7472,7 @@
           "name": "banana"
         },
         {
-          "qty": "Mix-ins: 1 tbsp",
+          "qty": "Mix-in: 1 tbsp",
           "name": "sugar free chocolate chips"
         }
       ],
@@ -7486,7 +7486,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-07-17T06:52:23.757Z"
+      "updatedAt": "2026-08-27T18:06:59.795Z"
     },
     {
       "id": "5bd2ef34-27eb-41d4-b586-8aa6571498e7",
