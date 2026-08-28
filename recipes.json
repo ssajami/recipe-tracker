@@ -1424,16 +1424,16 @@
       "source": "",
       "ingredients": [
         {
-          "qty": "1/2 cup",
-          "name": "whole milk"
+          "qty": "3 parts",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "1/2 cup",
+          "qty": "1 part",
           "name": "heavy cream"
         }
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "using 15% cream: ⅓ milk, ⅔cream",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -1441,7 +1441,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-20T07:53:14.380Z",
-      "updatedAt": "2026-07-20T07:53:14.380Z"
+      "updatedAt": "2026-08-28T12:27:00.816Z"
     },
     {
       "id": "0e8b01ee-0a94-46d6-9bf3-8fcb63bbc469",
