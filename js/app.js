@@ -105,6 +105,10 @@ function getAllTags() {
   return [...set].sort();
 }
 
+function sortPinnedFirst(recipes) {
+  return [...recipes].sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || a.title.localeCompare(b.title));
+}
+
 function filterRecipes() {
   let list = [...state.recipes];
   if (state.tagFilter.size) list = list.filter(r => [...state.tagFilter].every(t => (r.tags || []).includes(t)));
@@ -118,8 +122,7 @@ function filterRecipes() {
         .some(f => f && String(f).toLowerCase().includes(q))
     );
   }
-  list.sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || a.title.localeCompare(b.title));
-  return list;
+  return sortPinnedFirst(list);
 }
 
 // ── Toast & Loading ────────────────────────────────────────────────────────
@@ -1911,7 +1914,7 @@ function renderShoppingList() {
             </div>
           </summary>
           <div class="shopping-recipe-picker">
-            ${state.recipes.map(r => `
+            ${sortPinnedFirst(state.recipes).map(r => `
               <label class="recipe-pick-row">
                 <input type="checkbox" ${state.shoppingSelected.has(r.id) ? 'checked' : ''}
                        onchange="App.toggleShoppingRecipe('${r.id}')">
@@ -2096,7 +2099,7 @@ function renderBatchPrep() {
           </div>
         </summary>
         <div class="shopping-recipe-picker">
-          ${state.recipes.map(r => `
+          ${sortPinnedFirst(state.recipes).map(r => `
             <label class="recipe-pick-row">
               <input type="checkbox" ${state.batchSelected.has(r.id) ? 'checked' : ''}
                      onchange="App.toggleBatchRecipe('${r.id}')">
