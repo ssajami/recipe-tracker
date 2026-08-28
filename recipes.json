@@ -433,9 +433,9 @@
         "Freeze 24 h on a flat shelf.",
         "Spin on LITE ICE CREAM. It will look crumbly - normal. Add 15 ml milk and RE-SPIN, twice if still powdery."
       ],
-      "prepNotes": "Use peaches in juice or water, NOT syrup. Heavy syrup adds ~35 g sugar: drop allulose to zero or the pint stays soupy. Light syrup: cut allulose to 15 g. Total solids ~30-32%. With no fat, solids are the only defence against ice crystals - that's the milk powder and pudding mix. Allulose depresses freezing point ~1.9x sucrose per gram; peach sugars are mostly monosaccharides (also ~1.9x). 25 g is calibrated for this fruit load. Add the puree last. Canned peach pH ~3.8; acid hitting undispersed milk protein causes graininess. Almond extract isn't decorative - benzaldehyde amplifies stone fruit, which cold and protein both mute. \n\nOptional richness: 8 g coconut oil or 20 g light cream cheese (+~70 kcal), noticeably better mouthfeel. Too hard on first spin? Add 5 g allulose next batch, don't just re-spin more.",
-      "afterPrepNotes": "",
-      "rating": null,
+      "prepNotes": "",
+      "afterPrepNotes": "didn't finish. not sure i like peaches and cream together",
+      "rating": 1,
       "tags": [
         "ice cream",
         "peach",
@@ -443,7 +443,7 @@
       ],
       "pinned": true,
       "createdAt": "2026-08-13T09:47:26.113Z",
-      "updatedAt": "2026-08-16T18:08:58.695Z"
+      "updatedAt": "2026-08-28T15:28:55.812Z"
     },
     {
       "id": "114fde62-219e-41ea-bb7e-1fee1370bbe3",
