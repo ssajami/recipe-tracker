@@ -2128,9 +2128,13 @@ function renderBatchContent() {
   const headCells = recipes.map((r, i) => {
     const m = mults.get(r.id);
     const badge = m !== 1 ? `<span class="batch-mult-badge" title="Scaled for ${esc(r.servings)}">${multLabel[m]}</span>` : '';
+    const notesLink = (r.prepNotes || r.afterPrepNotes)
+      ? `<button type="button" class="shop-recipe-link batch-notes-link" onclick="App.showDetail('${r.id}')">📝 Notes</button>`
+      : '';
     return `
     <th class="batch-data-head" style="--col:${BATCH_COL_COLORS[i % BATCH_COL_COLORS.length]}">
       <span class="batch-rname">${esc(r.title)}${badge}</span>
+      ${notesLink}
     </th>`;
   }).join('');
 

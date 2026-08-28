@@ -901,6 +901,11 @@ ol.cooking-checklist .checklist-item:not(.checked) .check-box::before {
   padding: 1px 5px; border-radius: 999px;
   vertical-align: middle;
 }
+.batch-notes-link {
+  display: block; margin-top: 3px;
+  font-size: 0.68rem;
+  white-space: nowrap;
+}
 
 .batch-section-row th {
   background: var(--accent-light);
