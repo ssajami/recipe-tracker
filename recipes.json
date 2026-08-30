@@ -40,13 +40,13 @@
       ],
       "prepNotes": "Check for Doneness: Insert a thermometer through the side of the burger into the center. Ground beef should reach  71°C before serving.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 5,
       "tags": [
         "beef"
       ],
       "pinned": false,
       "createdAt": "2026-08-26T10:53:19.881Z",
-      "updatedAt": "2026-08-27T16:18:52.214Z"
+      "updatedAt": "2026-08-30T18:04:07.437Z"
     },
     {
       "id": "199fe450-6259-4e40-a550-36eb35285414",
