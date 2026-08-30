@@ -4605,14 +4605,14 @@
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 5,
       "tags": [
         "pecan",
         "toppings"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-09T16:27:24.233Z",
-      "updatedAt": "2026-08-20T16:36:21.828Z"
+      "updatedAt": "2026-08-30T18:03:10.981Z"
     },
     {
       "id": "b9e73bfd-cab2-4b21-a730-6a4a856bdcba",
