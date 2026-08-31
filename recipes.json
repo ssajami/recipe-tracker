@@ -5637,9 +5637,9 @@
         "ice cream",
         "apples"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-02T11:25:19.392Z",
-      "updatedAt": "2026-08-24T02:58:30.434Z"
+      "updatedAt": "2026-08-31T04:18:38.219Z"
     },
     {
       "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
