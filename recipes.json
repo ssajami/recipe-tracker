@@ -5959,23 +5959,23 @@
     {
       "id": "73691a8d-d5a9-42ba-b62a-c8f3b184b66b",
       "title": "Peanut Butter Cup Ice Cream",
-      "servings": "delux tub",
+      "servings": "1 tub",
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1½ cups",
+          "qty": "145ml",
           "name": "milk"
         },
         {
-          "qty": "¼ cup",
+          "qty": "24ml",
           "name": "heavy cream"
         },
         {
-          "qty": "¼ cup",
+          "qty": "24ml",
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "¼ cup creamy ",
+          "qty": "24ml",
           "name": "peanut butter"
         },
         {
@@ -5983,7 +5983,7 @@
           "name": "salt"
         },
         {
-          "qty": "Mix-in: 3-4",
+          "qty": "Mix-in: 1-2",
           "name": "mini peanut butter cups"
         }
       ],
@@ -5995,11 +5995,12 @@
       "rating": null,
       "tags": [
         "ice cream",
-        "peanut butter"
+        "peanut butter",
+        "scaled"
       ],
       "pinned": true,
       "createdAt": "2026-07-02T10:03:15.958Z",
-      "updatedAt": "2026-09-02T18:33:49.626Z"
+      "updatedAt": "2026-09-02T18:36:19.068Z"
     },
     {
       "id": "3049a1b8-6a91-4674-8f58-9e22371ab420",
