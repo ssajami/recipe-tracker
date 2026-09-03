@@ -773,7 +773,15 @@ Answer questions about substitutions, techniques, or anything related to this re
   toggleBatchRow(key) {
     if (state.batchDone.has(key)) state.batchDone.delete(key);
     else state.batchDone.add(key);
+    // The ingredient table scrolls inside .batch-table-wrap (max-height + overflow:auto).
+    // Re-rendering its innerHTML replaces that div, so the fresh copy starts at scrollTop 0
+    // unless we carry the old scroll position over — otherwise every checkbox tap jumps
+    // the list back to the top.
+    const oldWrap = document.querySelector('.batch-table-wrap');
+    const scrollTop = oldWrap ? oldWrap.scrollTop : 0;
     document.getElementById('batch-content').innerHTML = renderBatchContent();
+    const newWrap = document.querySelector('.batch-table-wrap');
+    if (newWrap) newWrap.scrollTop = scrollTop;
   },
 
   toggleNotes() {
