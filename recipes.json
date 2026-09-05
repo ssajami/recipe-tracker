@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "1af3e3a6-d1b2-4356-bcab-4ba6c18b7f03",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-09-05T04:53:48.577Z",
-      "updatedAt": "2026-09-05T04:53:48.577Z",
       "title": "Coffee Ice Cream - Copy",
       "servings": "",
+      "source": "Ninja CREAMi Deluxe",
       "ingredients": [
         {
           "qty": "360 g",
@@ -60,6 +57,8 @@
         "Select Mix-In."
       ],
       "prepNotes": "Refrigerate custard until completely cold, ideally 4 hours or overnight. Freeze CREAMi container for at least 24 hours before spinning. Freeze Heath Bar for 15–20 minutes for easier chopping. If result is powdery, add 20–30 g cold milk and re-spin.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "ice cream",
@@ -69,7 +68,9 @@
         "coffee",
         "sugar-free"
       ],
-      "source": "Ninja CREAMi Deluxe"
+      "pinned": false,
+      "createdAt": "2026-09-05T04:53:48.577Z",
+      "updatedAt": "2026-09-05T04:56:16.301Z"
     },
     {
       "id": "80a34960-21d6-4829-9056-c414d692c891",
