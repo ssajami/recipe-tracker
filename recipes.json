@@ -1,6 +1,77 @@
 {
   "recipes": [
     {
+      "id": "1af3e3a6-d1b2-4356-bcab-4ba6c18b7f03",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-05T04:53:48.577Z",
+      "updatedAt": "2026-09-05T04:53:48.577Z",
+      "title": "Coffee Ice Cream - Copy",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "360 g",
+          "name": "whole milk"
+        },
+        {
+          "qty": "180 g",
+          "name": "heavy cream"
+        },
+        {
+          "qty": "60 g",
+          "name": "xylitol (can use sugar too)"
+        },
+        {
+          "qty": "54 g",
+          "name": "egg yolks (3 yolks)"
+        },
+        {
+          "qty": "7.5 g",
+          "name": "Nescafé Gold Espresso Decaf"
+        },
+        {
+          "qty": "7.5 g",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "1.5 g",
+          "name": "salt"
+        },
+        {
+          "qty": "90 g",
+          "name": "Heath Bar, chopped into small pieces and slightly larger chunks"
+        }
+      ],
+      "instructions": [
+        "Make the Coffee Custard: Put 54 g egg yolks and 60 g xylitol in a saucepan and whisk well.",
+        "Add 360 g milk, 180 g heavy cream, 7.5 g espresso powder, and 1.5 g salt.",
+        "Heat over medium-low heat, stirring constantly, until the mixture reaches 78–80°C. Do not boil.",
+        "Remove from heat and stir in 7.5 g vanilla extract.",
+        "Cool Completely: Pour the custard into a bowl. Let it cool briefly, then refrigerate until completely cold—ideally 4 hours or overnight. Do not put the warm mixture directly into the freezer.",
+        "Freeze the CREAMi Deluxe Container: Pour the completely cold coffee base into the Ninja CREAMi Deluxe container.",
+        "Secure the lid.",
+        "Place the container upright and level in the freezer.",
+        "Freeze for at least 24 hours, until completely solid.",
+        "Spin: Remove the frozen container from the freezer and remove the lid. Place it into the outer bowl and lock it into the machine. Select Ice Cream. If the result is powdery or crumbly, add 20–30 g cold milk to the center and run Re-spin.",
+        "Add the Heath: For easier chopping, freeze the Heath Bar for 15–20 minutes.",
+        "Chop 90 g Heath into a mixture of small pieces and larger crunchy chunks.",
+        "Make a hole down the center of the spun ice cream.",
+        "Add the Heath pieces.",
+        "Select Mix-In."
+      ],
+      "prepNotes": "Refrigerate custard until completely cold, ideally 4 hours or overnight. Freeze CREAMi container for at least 24 hours before spinning. Freeze Heath Bar for 15–20 minutes for easier chopping. If result is powdery, add 20–30 g cold milk and re-spin.",
+      "tags": [
+        "dessert",
+        "ice cream",
+        "frozen",
+        "vegetarian",
+        "Ninja CREAMi",
+        "coffee",
+        "sugar-free"
+      ],
+      "source": "Ninja CREAMi Deluxe"
+    },
+    {
       "id": "80a34960-21d6-4829-9056-c414d692c891",
       "title": "Air Fryer Hamburgers",
       "servings": "4 patties",
