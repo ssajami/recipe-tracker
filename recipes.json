@@ -6599,31 +6599,31 @@
     {
       "id": "41c74812-0fd3-4363-9dbb-f2482ed656e1",
       "title": "Cinnamon Churro Ice Cream",
-      "servings": "delux tub",
+      "servings": "1 tub",
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "1½ cups",
+          "qty": "⅔ cups (160ml)",
           "name": "half and half"
         },
         {
-          "qty": "⅓ cup (100g)",
+          "qty": "2½ tablespoons (44g)",
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "⅓ cup softened (75g)",
+          "qty": "2½ tablespoons (33g), softened",
           "name": "cream cheese"
         },
         {
-          "qty": "2 tablespoons",
+          "qty": "< 1 tablespoon",
           "name": "brown sugar"
         },
         {
-          "qty": "½ teaspoon",
+          "qty": "heaping ¼ teaspoon",
           "name": "cinnamon"
         },
         {
-          "qty": "1 teaspoon",
+          "qty": "½ teaspoon",
           "name": "vanilla extract"
         },
         {
@@ -6632,16 +6632,17 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "* Use softened cream cheese — cold blocks won’t blend smoothly.\n* For stronger churro flavor, add a pinch more cinnamon.\n* If your pint freezes rock hard, give it 5 minutes on the counter before spinning.",
+      "prepNotes": "* Use softened cream cheese — cold blocks won’t blend smoothly.\n* For stronger churro flavor, add a pinch more cinnamon.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 4,
       "tags": [
         "ice cream",
-        "unique"
+        "unique",
+        "scaled"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:21:27.938Z",
-      "updatedAt": "2026-09-05T03:32:37.273Z"
+      "updatedAt": "2026-09-05T03:35:48.848Z"
     },
     {
       "id": "0e5f4638-17aa-4c45-89e1-d0132781a6fc",
