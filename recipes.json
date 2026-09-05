@@ -9066,18 +9066,18 @@
         }
       ],
       "instructions": [],
-      "prepNotes": "Topping: 1 rectangle graham cracker, 2 tbsp whipped cream, Optional: diced strawberries",
+      "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 4,
       "tags": [
         "ice cream",
         "protein",
         "cheesecake",
         "strawberry"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T18:46:54.057Z",
-      "updatedAt": "2026-09-05T12:24:13.877Z"
+      "updatedAt": "2026-09-05T12:24:32.721Z"
     },
     {
       "id": "73fd935b-06d4-412a-afcc-24a64f4c4cc2",
