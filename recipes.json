@@ -3712,7 +3712,7 @@
           "name": "unsalted butter "
         },
         {
-          "qty": "85 g",
+          "qty": "80 g",
           "name": "erythritol"
         },
         {
@@ -3724,6 +3724,10 @@
           "name": "vanilla extract"
         },
         {
+          "qty": "",
+          "name": "---FILLING"
+        },
+        {
           "qty": "100 g (chilled and cut into cubes)",
           "name": "butter"
         },
@@ -3732,12 +3736,12 @@
           "name": "allulose"
         },
         {
-          "qty": "120 g",
-          "name": "lemon juice"
-        },
-        {
           "qty": "(finely microplaned) zest of 1",
           "name": "lemons"
+        },
+        {
+          "qty": "120 g",
+          "name": "lemon juice"
         },
         {
           "qty": "4 large",
@@ -3774,7 +3778,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-12T16:23:47.819Z",
-      "updatedAt": "2026-07-17T16:28:15.148Z"
+      "updatedAt": "2026-09-09T07:14:43.240Z"
     },
     {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
