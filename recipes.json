@@ -1,6 +1,27 @@
 {
   "recipes": [
     {
+      "id": "54739c8a-329c-4e71-bfdc-bd6a8df92fce",
+      "title": "Magic Shell Mix in",
+      "servings": "",
+      "source": "Dynas",
+      "ingredients": [],
+      "instructions": [
+        "Magic Shell Chocolate\n1 tsp coconut oil, melted, with 1 tbsp cocoa powder and 1/2 tsp allulose OR 7 gr melted chocolate chips with 1 tsp coconut oil\n",
+        "Magic Shell Caramel\n1 tsp coconut oil melted with 1 tbsp Skinny Girl sugar-free caramel syrup.",
+        "Mix together. Dig two holes off-center for mix-ins and add chocolate in one, and caramel in the other. Run mix in cycle."
+      ],
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
+      "tags": [
+        "toppings"
+      ],
+      "pinned": false,
+      "createdAt": "2026-09-11T06:42:45.752Z",
+      "updatedAt": "2026-09-11T06:42:45.752Z"
+    },
+    {
       "id": "1af3e3a6-d1b2-4356-bcab-4ba6c18b7f03",
       "title": "Coffee Ice Cream (custard)",
       "servings": "delux tub",
