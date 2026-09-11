@@ -1,6 +1,103 @@
 {
   "recipes": [
     {
+      "id": "76b02141-b963-483a-8759-00df383ffe66",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-11T09:32:10.561Z",
+      "updatedAt": "2026-09-11T09:32:10.561Z",
+      "title": "Moo-lennium Crunch",
+      "servings": "1 pint",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Fat Free Ultra-Filtered Milk (Fairlife) – 240ml (1 cup)"
+        },
+        {
+          "qty": "",
+          "name": "Unsweetened Vanilla Almond Milk (Almond Breeze) – 180ml (3/4 cup)"
+        },
+        {
+          "qty": "",
+          "name": "Optimum Nutrition Vanilla Ice Cream Whey Protein Powder – 31g (1 scoop)"
+        },
+        {
+          "qty": "",
+          "name": "Allulose – 10g (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Xanthan gum – 0.4g (1/8 tsp)"
+        },
+        {
+          "qty": "",
+          "name": "McCormick Vanilla extract – 1g (1/4 tsp)"
+        },
+        {
+          "qty": "",
+          "name": "Sugar Free Vanilla Pudding Mix – 7g (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Salt – 1 pinch"
+        },
+        {
+          "qty": "",
+          "name": "Fat Free Reddi Whip – 5g (optional, not counted in macros)"
+        },
+        {
+          "qty": "",
+          "name": "Sugar Free Chocolate Syrup (Great Value) – optional, not counted in macros"
+        },
+        {
+          "qty": "",
+          "name": "Almonds – 6g"
+        },
+        {
+          "qty": "",
+          "name": "Pecans – 6g"
+        },
+        {
+          "qty": "",
+          "name": "Walnuts – 6g"
+        },
+        {
+          "qty": "",
+          "name": "Coconut Oil (Magic Shell) – 1 tsp"
+        },
+        {
+          "qty": "",
+          "name": "Unsweetened Cocoa Powder (Magic Shell) – 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Skinny Girl SF Caramel Syrup – 1 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Allulose (Magic Shell) – 1/2 tsp"
+        }
+      ],
+      "instructions": [
+        "Combine the base ingredients: fat free milk, almond milk, whey protein powder, allulose, xanthan gum, vanilla extract, sugar free vanilla pudding mix, and salt.",
+        "Blend until smooth to form the ice cream base.",
+        "Churn or freeze the base according to your ice cream maker instructions.",
+        "For the Magic Shell, combine coconut oil, unsweetened cocoa powder, and allulose.",
+        "Add chopped almonds, pecans, and walnuts as mix-ins.",
+        "Top with fat free Reddi Whip, sugar free chocolate syrup, and Skinny Girl SF caramel syrup as desired."
+      ],
+      "prepNotes": "Base pint: 254 cal, 38g protein. Reddi Whip and chocolate syrup are optional and not counted in the macros.",
+      "tags": [
+        "dessert",
+        "high-protein",
+        "low-sugar",
+        "sugar-free",
+        "ice cream",
+        "keto-friendly"
+      ],
+      "source": ""
+    },
+    {
       "id": "4787e0d6-0529-4ec1-9e85-ad244299a42a",
       "title": "Cinnamon Cookie Crumble",
       "servings": "1 pint",
