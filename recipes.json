@@ -1,6 +1,83 @@
 {
   "recipes": [
     {
+      "id": "4787e0d6-0529-4ec1-9e85-ad244299a42a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-11T06:48:46.996Z",
+      "updatedAt": "2026-09-11T06:48:46.996Z",
+      "title": "Cinnamon Cookie Crumble",
+      "servings": "1 pint",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Fairlife Fat Free Milk - 240ml (1 cup)"
+        },
+        {
+          "qty": "",
+          "name": "Unsweetened Vanilla Almond Milk - 180ml (¾ cup)"
+        },
+        {
+          "qty": "",
+          "name": "BUM Snickerdoodle OR Gold Standard Vanilla Protein powder - 1 scoop"
+        },
+        {
+          "qty": "",
+          "name": "Sugar-Free Cheesecake Pudding - 7gr (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Allulose - 10gr (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Xanthan Gum - 1/8 teaspoon"
+        },
+        {
+          "qty": "",
+          "name": "Salt - Pinch"
+        },
+        {
+          "qty": "",
+          "name": "Ground Cinnamon - 1 teaspoon"
+        },
+        {
+          "qty": "",
+          "name": "Vanilla Extract - 1/8 teaspoon"
+        },
+        {
+          "qty": "",
+          "name": "Non-Fat Cream Cheese (Or Low fat) - 1 Tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Fat Free Reddi Whip - 2 tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Ground Cinnamon - Dash"
+        },
+        {
+          "qty": "",
+          "name": "Crumbled Cinnamon Cookie - 2 Cookies"
+        }
+      ],
+      "instructions": [
+        "Combine Fairlife fat free milk, unsweetened vanilla almond milk, protein powder, sugar-free cheesecake pudding, allulose, xanthan gum, salt, ground cinnamon, and vanilla extract to make the base.",
+        "Blend the base until smooth and freeze/churn to make the pint.",
+        "Top with non-fat cream cheese, fat free Reddi Whip, a dash of ground cinnamon, and crumbled cinnamon cookies."
+      ],
+      "prepNotes": "Base pint: 251 cal · 38g protein. Protein powder ranked BUM Snickerdoodle over Gold Standard Vanilla.",
+      "tags": [
+        "dessert",
+        "high-protein",
+        "low-sugar",
+        "ice cream",
+        "healthy"
+      ],
+      "source": ""
+    },
+    {
       "id": "54739c8a-329c-4e71-bfdc-bd6a8df92fce",
       "title": "Magic Shell Mix in",
       "servings": "",
