@@ -1,6 +1,80 @@
 {
   "recipes": [
     {
+      "id": "0178b17b-528d-4b26-8394-8c25176277c3",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-12T04:37:37.041Z",
+      "updatedAt": "2026-09-12T04:37:37.041Z",
+      "title": "Graeter's Buckeye Blitz",
+      "servings": "1 pint",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Fairlife Fat Free Milk - 240mL (1 cup)"
+        },
+        {
+          "qty": "",
+          "name": "Unsweetened Vanilla Almond Milk - 180mL (3/4 cup)"
+        },
+        {
+          "qty": "",
+          "name": "Ryse Chocolate Peanut Butter OR Ryse Peanut Butter Whey Protein OR Vanilla - 1 scoop"
+        },
+        {
+          "qty": "",
+          "name": "Sugar-free Butterscotch Pudding - 7gr (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Allulose - 10gr (1 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Xanthan Gum - 1/8 teaspoon"
+        },
+        {
+          "qty": "",
+          "name": "Salt - Pinch"
+        },
+        {
+          "qty": "",
+          "name": "McCormick Vanilla Extract - 1/8 tsp"
+        },
+        {
+          "qty": "",
+          "name": "PB2 Peanut Butter Powder - 1 Tbsp"
+        },
+        {
+          "qty": "",
+          "name": "Lily's 72% Dark Chocolate Chips - 14gr (1 Tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "Frozen Peanut Butter Cookie Dough, frozen - 14gr (1 Cookie)"
+        },
+        {
+          "qty": "",
+          "name": "Non Fat Reddi Whip - Optional, not counted in the macros"
+        },
+        {
+          "qty": "",
+          "name": "Sugar Free Chocolate Syrup - Great Value/NuNaturals - Optional, not counted in the macros"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "Base pint: 300 cal, 42g protein. Non Fat Reddi Whip and Sugar Free Chocolate Syrup are optional and not counted in the macros.",
+      "tags": [
+        "dessert",
+        "protein",
+        "low-sugar",
+        "ice cream",
+        "high-protein",
+        "keto-friendly"
+      ],
+      "source": "Graeter's"
+    },
+    {
       "id": "76b02141-b963-483a-8759-00df383ffe66",
       "title": "Moo-lennium Crunch",
       "servings": "creami tub",
