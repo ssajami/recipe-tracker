@@ -1,6 +1,95 @@
 {
   "recipes": [
     {
+      "id": "641c3f1a-34e8-4f80-90ae-776d149f91df",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-12T04:56:38.011Z",
+      "updatedAt": "2026-09-12T04:56:38.011Z",
+      "title": "Keto Cookie Dough - Copy",
+      "servings": "24 Servings",
+      "ingredients": [
+        {
+          "qty": "6 oz",
+          "name": "Lily Dark Chocolate Chips"
+        },
+        {
+          "qty": "1/2 tsp",
+          "name": "salt"
+        },
+        {
+          "qty": "1/2 cup",
+          "name": "Allulose (or sweetener of choice)"
+        },
+        {
+          "qty": "1/4 tsp",
+          "name": "xanthan gum"
+        },
+        {
+          "qty": "1/4 cup",
+          "name": "oat fiber (NuNaturals)"
+        },
+        {
+          "qty": "1/4 tsp",
+          "name": "baking powder"
+        },
+        {
+          "qty": "1/4 cup",
+          "name": "Swerve Brown Sugar"
+        },
+        {
+          "qty": "1/2 tsp",
+          "name": "baking soda"
+        },
+        {
+          "qty": "3/4 cup",
+          "name": "almond flour"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "qty": "60",
+          "name": "gr Applesauce, no added sugar"
+        },
+        {
+          "qty": "25",
+          "name": "gr eggwhites"
+        },
+        {
+          "qty": "1",
+          "name": "large egg"
+        },
+        {
+          "qty": "1/4 cup",
+          "name": "unsalted butter, softened"
+        },
+        {
+          "qty": "1/4",
+          "name": "to 1/2 cup water (or Almond Milk) AS NEEDED"
+        }
+      ],
+      "instructions": [
+        "Whisk together all dry ingredients in a bowl EXCEPT your Allulose. Set aside.",
+        "Beat butter, allulose, and vanilla extract until creamy with a mixer.",
+        "Add egg, egg whites, and applesauce to wet ingredients and mix until smooth.",
+        "Gradually pour in your dry ingredient mixture and beat on low speed until well combined.",
+        "Fold in Lily Dark Chocolate chips.",
+        "Place dough in tupperware and flatten smooth. Cut into 24 even-sized squares. Place plastic wrap on top of cookie dough, ensuring a tight fit before sealing with lid.",
+        "Optional Baking Instructions: Preheat oven to 350. Chill mixture for 20-30 minutes in the fridge. With a cookie scoop, place a dozen cookie-sized balls and press with a spoon to flatten. Bake 7-9 mins. Do a Pan drop after removing from the oven for those nice cracks."
+      ],
+      "prepNotes": "Feel free to bake these, but you may need to add a bit of water as needed, or even coconut oil. I just make it for the dough and freeze it. I prefer to pre-cut squares in a Tupperware to measure the portions and then freeze the dough. Be sure to wrap with plastic wrap and seal in an airtight container. Macros: (per cookie) 74 cal, 11.5 carbs, 6.3 fat, 2.2 protein",
+      "tags": [
+        "keto",
+        "dessert",
+        "low-carb",
+        "cookies",
+        "vegetarian"
+      ],
+      "source": ""
+    },
+    {
       "id": "0178b17b-528d-4b26-8394-8c25176277c3",
       "title": "Buckeye Blitz",
       "servings": "creami tub",
