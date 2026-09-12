@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "641c3f1a-34e8-4f80-90ae-776d149f91df",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-09-12T04:56:38.011Z",
-      "updatedAt": "2026-09-12T04:56:38.011Z",
       "title": "Keto Cookie Dough - Copy",
       "servings": "24 Servings",
+      "source": "",
       "ingredients": [
         {
           "qty": "6 oz",
@@ -80,6 +77,8 @@
         "Optional Baking Instructions: Preheat oven to 350. Chill mixture for 20-30 minutes in the fridge. With a cookie scoop, place a dozen cookie-sized balls and press with a spoon to flatten. Bake 7-9 mins. Do a Pan drop after removing from the oven for those nice cracks."
       ],
       "prepNotes": "Feel free to bake these, but you may need to add a bit of water as needed, or even coconut oil. I just make it for the dough and freeze it. I prefer to pre-cut squares in a Tupperware to measure the portions and then freeze the dough. Be sure to wrap with plastic wrap and seal in an airtight container. Macros: (per cookie) 74 cal, 11.5 carbs, 6.3 fat, 2.2 protein",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "keto",
         "dessert",
@@ -87,7 +86,9 @@
         "cookies",
         "vegetarian"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-09-12T04:56:38.011Z",
+      "updatedAt": "2026-09-12T04:58:08.409Z"
     },
     {
       "id": "0178b17b-528d-4b26-8394-8c25176277c3",
