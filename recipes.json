@@ -2,12 +2,9 @@
   "recipes": [
     {
       "id": "0178b17b-528d-4b26-8394-8c25176277c3",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-09-12T04:37:37.041Z",
-      "updatedAt": "2026-09-12T04:37:37.041Z",
       "title": "Graeter's Buckeye Blitz",
       "servings": "1 pint",
+      "source": "Graeter's",
       "ingredients": [
         {
           "qty": "",
@@ -64,6 +61,8 @@
       ],
       "instructions": [],
       "prepNotes": "Base pint: 300 cal, 42g protein. Non Fat Reddi Whip and Sugar Free Chocolate Syrup are optional and not counted in the macros.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "dessert",
         "protein",
@@ -72,7 +71,9 @@
         "high-protein",
         "keto-friendly"
       ],
-      "source": "Graeter's"
+      "pinned": false,
+      "createdAt": "2026-09-12T04:37:37.041Z",
+      "updatedAt": "2026-09-12T04:39:42.035Z"
     },
     {
       "id": "76b02141-b963-483a-8759-00df383ffe66",
