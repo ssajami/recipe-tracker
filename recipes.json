@@ -4070,14 +4070,14 @@
       ],
       "prepNotes": "half qty adjustment:\n- **Base bake:** Check at ~12-15 min instead of 15-20. Look for light golden brown.\n- **Filling bake:** Check at ~8-10 min. Look for set edges, jiggly center.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "lemon",
         "dessert"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-12T16:23:47.819Z",
-      "updatedAt": "2026-09-11T09:14:58.838Z"
+      "updatedAt": "2026-09-15T16:51:09.839Z"
     },
     {
       "id": "8aaff6d7-3e7f-4ad1-9701-3b77a25ca98d",
