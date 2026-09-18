@@ -6001,39 +6001,39 @@
     {
       "id": "5ecc6d48-8f8d-4872-bcd2-eb505c0a8470",
       "title": "Chai Tea Latte Ice Cream",
-      "servings": "delux tub",
+      "servings": "1 pint",
       "source": "thecreameri.com",
       "ingredients": [
         {
-          "qty": "4",
+          "qty": "2",
           "name": "chai tea bags"
         },
         {
-          "qty": "½ cup ",
+          "qty": "¼ cup (59g)",
           "name": "hot water"
         },
         {
-          "qty": "1 cup",
+          "qty": "½ cup (60g)",
           "name": "half and half"
         },
         {
-          "qty": "½ cup",
+          "qty": "¼ cup (57g)",
           "name": "cottage cheese"
         },
         {
-          "qty": "½ cup",
+          "qty": "¼ cup (76.5g)",
           "name": "sweetened condensed milk"
         },
         {
-          "qty": "½ teaspoon",
+          "qty": "¼ teaspoon",
           "name": "vanilla extract"
         },
         {
-          "qty": "¼ teaspoon",
+          "qty": "⅛ teaspoon",
           "name": "salt"
         },
         {
-          "qty": "¼ teaspoon",
+          "qty": "⅛ teaspoon",
           "name": "cinnamon"
         }
       ],
@@ -6045,11 +6045,12 @@
       "rating": null,
       "tags": [
         "unique",
-        "ice cream"
+        "ice cream",
+        "scaled"
       ],
       "pinned": true,
       "createdAt": "2026-07-02T11:25:03.069Z",
-      "updatedAt": "2026-09-18T03:50:34.536Z"
+      "updatedAt": "2026-09-18T16:08:34.360Z"
     },
     {
       "id": "45859096-5b0b-46ba-96a4-27e23dc26457",
