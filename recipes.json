@@ -2252,7 +2252,7 @@
         "Let sit 5 minutes to thicken.",
         "Refrigerate 15 minutes before use."
       ],
-      "prepNotes": "Recipe Assistant\n📋\n✕\nCan i use real honey here instead of extract. Iiniw its a lot of sugar\nYes, you can! But here are the practical trade-offs:\n\n**Using real honey:**\n- Swap the honey extract (¼ tsp) for real honey to taste—start with 1-2 tsp and adjust.\n- Since honey is much less concentrated than extract, you'll add more volume/liquid.\n- Honey adds sugar (as you noted): ~5-6g carbs per teaspoon.\n\n**Adjustments to make:**\n- Reduce or cut the **water** (20g) to compensate for the added liquid from honey.\n- You may be able to reduce the **allulose/Splenda syrup** slightly since honey brings its own sweetness.\n- The xanthan will still thicken it fine.\n\n**Bottom line:** This recipe is clearly built to be sugar-free/low-carb, so real honey defeats that purpose—but if you just want the authentic flavor and don't mind the sugar, a small amount of real honey works great and tastes better than extract. Just balance the liquids.\n\nWant me to help rework the ratios for a real-honey version?\nYes\nHere's a reworked version using real honey:\n\n**Ooey Gooey Honey Swirls (Real Honey Version)**\n\n- 30g allulose\n- 20g sugar-free maple syrup\n- 15g Splenda multi-use syrup\n- **15g real honey** (replaces extract; adjust to taste)\n- **5-10g water** (reduced from 20g)\n- 5g vegetable glycerin\n- pinch salt\n- ⅛ tsp xanthan gum\n\n**Notes:**\n- Cut the water roughly in half since honey adds liquid. Start with 5g and add more only if it's too thick.\n- Honey is sweeter than the extract adds, so you *could* trim the allulose to ~25g if you want it less sweet—but leave it if you like it sweet.\n- Warm the honey slightly (a few seconds) so it whisks in smoothly.\n\n**Method** (same as original):\n1. Whisk dry ingredients (allulose, salt, xanthan) together.\n2. Whisk in wet ingredients except xanthan—actually, sprinkle xanthan in slowly while whisking to avoid clumps.\n3. Let sit 5 min to thicken.\n4. Refrigerate 15 min before use.",
+      "prepNotes": "Real Honey Version**\n\n- 30g allulose\n- 20g sugar-free maple syrup\n- 15g Splenda multi-use syrup\n- **15g real honey** (replaces extract; adjust to taste)\n- **5-10g water** (reduced from 20g)\n- 5g vegetable glycerin\n- pinch salt\n- ⅛ tsp xanthan gum\n\n**Notes:**\n- Cut the water roughly in half since honey adds liquid. Start with 5g and add more only if it's too thick.\n- Honey is sweeter than the extract adds, so you *could* trim the allulose to ~25g if you want it less sweet—but leave it if you like it sweet.\n- Warm the honey slightly (a few seconds) so it whisks in smoothly.",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -2261,7 +2261,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-17T18:04:12.168Z",
-      "updatedAt": "2026-09-19T09:46:29.821Z"
+      "updatedAt": "2026-09-19T09:47:22.238Z"
     },
     {
       "id": "ad0805dc-d188-4e27-b2e5-30a159438087",
