@@ -1,4 +1,4 @@
-const APP_VERSION = 5;
+const APP_VERSION = 6;
 
 // ── State ──────────────────────────────────────────────────────────────────
 const state = {
@@ -31,6 +31,8 @@ const state = {
   chatLoading: false,
   notes: '',
   notesOpen: false,
+  randomRatingMode: 'any', // 'any' | 'rated' | 'unrated'
+  randomText: '',
 };
 
 // Edit-specific mutable state (avoids full re-render on each keystroke)
@@ -123,6 +125,21 @@ function filterRecipes() {
     );
   }
   return sortPinnedFirst(list);
+}
+
+function getRandomCandidates() {
+  let list = [...state.recipes];
+  if (state.randomRatingMode === 'rated') list = list.filter(r => (r.rating || 0) >= 4);
+  else if (state.randomRatingMode === 'unrated') list = list.filter(r => !r.rating);
+  const q = state.randomText.trim().toLowerCase();
+  if (q) {
+    list = list.filter(r =>
+      [r.title, r.servings, r.source, r.prepNotes, r.afterPrepNotes,
+       ...(r.ingredients || []).map(ingDisplay), ...(r.instructions || []), ...(r.tags || [])]
+        .some(f => f && String(f).toLowerCase().includes(q))
+    );
+  }
+  return list;
 }
 
 // ── Toast & Loading ────────────────────────────────────────────────────────
@@ -1100,6 +1117,48 @@ Answer questions about substitutions, techniques, or anything related to this re
       toast(`${toAdd.length} recipe${toAdd.length > 1 ? 's' : ''} imported!`, 'success');
     } catch (_) { } finally { setLoading(false); }
   },
+
+  // ── Random Recipe ─────────────────────────────────────────────────────────
+  showRandomModal() {
+    state.randomRatingMode = 'any';
+    state.randomText = '';
+    document.getElementById('random-text').value = '';
+    document.getElementById('random-result').innerHTML = '';
+    document.querySelectorAll('#random-rating-row .rating-filter-btn')
+      .forEach(b => b.classList.toggle('active', b.dataset.mode === 'any'));
+    document.getElementById('modal-random').classList.remove('hidden');
+  },
+
+  hideRandomModal() {
+    document.getElementById('modal-random').classList.add('hidden');
+  },
+
+  setRandomRatingMode(mode) {
+    state.randomRatingMode = mode;
+    document.querySelectorAll('#random-rating-row .rating-filter-btn')
+      .forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
+  },
+
+  onRandomTextInput(v) { state.randomText = v; },
+
+  pickRandom() {
+    const candidates = getRandomCandidates();
+    const resultEl = document.getElementById('random-result');
+    if (!candidates.length) {
+      resultEl.innerHTML = `<p class="no-rating" style="padding:12px 0">No recipes match those filters.</p>`;
+      return;
+    }
+    const pick = candidates[Math.floor(Math.random() * candidates.length)];
+    resultEl.innerHTML = `
+      <div class="recipe-card" style="cursor:default;margin-top:4px">
+        <div class="recipe-card-title">${esc(pick.title)}</div>
+        <div class="recipe-card-meta">
+          ${pick.source ? `<span class="card-source">${esc(pick.source)}</span>` : ''}
+          ${stars(pick.rating)}
+        </div>
+        <button class="btn-primary" style="width:100%;margin-top:10px" onclick="App.hideRandomModal();App.showDetail('${pick.id}')">View Recipe</button>
+      </div>`;
+  },
 };
 
 // ── Partial re-renders (avoid full render during edits) ─────────────────────
@@ -1308,6 +1367,7 @@ function renderList() {
     <button class="icon-btn" title="Notes" onclick="App.toggleNotes()">&#128221;</button>
     <button class="icon-btn" title="Shopping list" onclick="App.showGlobalShoppingList()">&#128722;</button>
     <button class="icon-btn" title="Batch prep" onclick="App.showBatchPrep()">&#9878;&#65039;</button>
+    <button class="icon-btn" title="Random recipe" onclick="App.showRandomModal()">&#127922;</button>
     <button class="icon-btn" title="Import" onclick="App.showImport()">&#8675;</button>
     <button class="icon-btn" title="Settings" onclick="App.showSettings()">&#9881;</button>
   `);
