@@ -2342,14 +2342,14 @@
       ],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 5,
       "tags": [
         "ice cream",
         "honey"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-17T18:02:31.751Z",
-      "updatedAt": "2026-09-11T09:23:07.629Z"
+      "updatedAt": "2026-09-21T04:54:41.780Z"
     },
     {
       "id": "be0c7edd-fda5-4f5f-900d-c1bed4e3cefa",
