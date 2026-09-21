@@ -1872,15 +1872,15 @@
       ],
       "prepNotes": "Allulose removed on purpose. The packet's sucrose covers both sweetness and scoopability. If the tasted base is under-sweet, add allulose 1 tsp at a time — but expect softer scoop as you do. This base has more fat than your usual, so it should resist crystals better, not worse. Want more tang without more sweetness? Push cream cheese to 70 g and trim almond milk to ~70 ml to keep it from going watery. Whey can go slightly grainy if boiled — you're not heating here, so blend cold and it stays smooth. Casein binds free water better than whey; if crystals still bug you, swapping ~1/3 of the whey for casein helps more than extra xanthan.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "ice cream",
         "pumpkin",
         "cheesecake"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-18T14:29:40.702Z",
-      "updatedAt": "2026-09-15T16:11:12.374Z"
+      "updatedAt": "2026-09-21T13:44:28.103Z"
     },
     {
       "id": "c5bf4ccb-9157-42e3-b719-bf517b832eaf",
