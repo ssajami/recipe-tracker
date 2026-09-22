@@ -1,6 +1,61 @@
 {
   "recipes": [
     {
+      "id": "ce5c0275-9a19-407b-871d-0d73f385dabc",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-09-22T16:56:03.910Z",
+      "updatedAt": "2026-09-22T16:56:03.910Z",
+      "title": "No Bake Keto Peanut Butter Cookie Dough Balls",
+      "servings": "12",
+      "ingredients": [
+        {
+          "qty": "1/2 cup",
+          "name": "PB Fit Peanut Butter Powder, No Added Sugar"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "Allulose - 20 gr"
+        },
+        {
+          "qty": "1/4 cup",
+          "name": "Lily Dark Chocolate Chips and/or Peanut Butter Chips (Optional)"
+        },
+        {
+          "qty": "8 oz",
+          "name": "Water"
+        },
+        {
+          "qty": "2 tbsp",
+          "name": "Coconut Oil"
+        },
+        {
+          "qty": "1/2 tsp",
+          "name": "Vanilla Extract"
+        }
+      ],
+      "instructions": [
+        "Whisk together all dry ingredients in a bowl EXCEPT chocolate chips. Set aside.",
+        "Melt the coconut oil in the microwave.",
+        "Add Vanilla Extract to oil and whisk together. Then add to water and blend together.",
+        "Add wet mixture to dry ingredients and whisk together until a dough forms.",
+        "Fold in your Chocolate chips (Or Peanut Butter Chips).",
+        "Scoop dough into balls and place in paper cupcake liners.",
+        "Store in refrigerator or freezer overnight. These must be kept cool or they will melt."
+      ],
+      "prepNotes": "Macros per cookie: 59 cal, 7 carbs, 4.4 fat, 3 protein. Must be kept cool or they will melt.",
+      "tags": [
+        "keto",
+        "no-bake",
+        "dessert",
+        "low-carb",
+        "vegetarian",
+        "peanut butter",
+        "gluten-free"
+      ],
+      "source": ""
+    },
+    {
       "id": "641c3f1a-34e8-4f80-90ae-776d149f91df",
       "title": "Keto Cookie Dough - 2",
       "servings": "24 Servings",
