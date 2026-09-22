@@ -3551,6 +3551,10 @@
         {
           "qty": "",
           "name": "cookie dough"
+        },
+        {
+          "qty": "",
+          "name": "Ooey Gooey Chocolate"
         }
       ],
       "ingredientLinks": [
@@ -3558,10 +3562,11 @@
         "3cce119c-f294-4007-9da8-a538561d3f99",
         null,
         "ce5c0275-9a19-407b-871d-0d73f385dabc",
-        "641c3f1a-34e8-4f80-90ae-776d149f91df"
+        "641c3f1a-34e8-4f80-90ae-776d149f91df",
+        "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38"
       ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "Either make 2 pints of this or use half amounts. mix one type, freeze 1 day. add second type. freeze. Hand mix the Mixins",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -3571,7 +3576,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-13T17:03:33.568Z",
-      "updatedAt": "2026-09-22T17:07:01.673Z"
+      "updatedAt": "2026-09-22T17:08:51.037Z"
     },
     {
       "id": "3e05a637-556d-4035-a170-b0b11cca585a",
