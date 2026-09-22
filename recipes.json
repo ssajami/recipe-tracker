@@ -3528,20 +3528,50 @@
     },
     {
       "id": "26e603c4-251b-4206-b4e2-689acc9d9c2a",
-      "title": "Ben & Jerry's Tonight Dough (untested)",
-      "servings": "",
+      "title": "Ben & Jerry's Tonight Dough",
+      "servings": "creami tub",
       "source": "Dynas",
-      "ingredients": [],
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "chocolate base"
+        },
+        {
+          "qty": "",
+          "name": "salted caramel base"
+        },
+        {
+          "qty": "¼ tsp",
+          "name": "caramel extract"
+        },
+        {
+          "qty": "Mix-ins:",
+          "name": "peanut butter cookie dough"
+        },
+        {
+          "qty": "",
+          "name": "cookie dough"
+        }
+      ],
+      "ingredientLinks": [
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        "3cce119c-f294-4007-9da8-a538561d3f99",
+        null,
+        "ce5c0275-9a19-407b-871d-0d73f385dabc",
+        "641c3f1a-34e8-4f80-90ae-776d149f91df"
+      ],
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "untested"
+        "caramel",
+        "chocolate",
+        "cookie dough"
       ],
       "pinned": false,
       "createdAt": "2026-07-13T17:03:33.568Z",
-      "updatedAt": "2026-07-16T19:19:43.246Z"
+      "updatedAt": "2026-09-22T17:07:01.673Z"
     },
     {
       "id": "3e05a637-556d-4035-a170-b0b11cca585a",
