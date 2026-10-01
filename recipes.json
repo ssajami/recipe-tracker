@@ -2,67 +2,61 @@
   "recipes": [
     {
       "id": "a1b2cc52-e5ed-4662-b28d-7659e5dc8299",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-10-01T13:21:48.784Z",
-      "updatedAt": "2026-10-01T13:21:48.784Z",
       "title": "Cointreau Creamsicle",
-      "servings": "4 1/2 cup servings",
+      "servings": "creami tub",
+      "source": "spiritedlicks.com",
       "ingredients": [
         {
-          "qty": "235 g",
-          "name": "heavy cream (1 cup)"
+          "qty": "235 g (1 cup)",
+          "name": "heavy cream"
         },
         {
-          "qty": "185 g",
-          "name": "whole milk (¾ cup)"
+          "qty": "185 g (¾ cup)",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "50 g",
-          "name": "granulated sugar (¼ cup)"
+          "qty": "50 g (¼ cup)",
+          "name": "sugar"
         },
         {
-          "qty": "30 g",
-          "name": "cream cheese (2 tbsp, softened)"
+          "qty": "30 g (2 tbsp, softened)",
+          "name": "cream cheese"
         },
         {
-          "qty": "15 g",
-          "name": "Cointreau (1 tbsp)"
+          "qty": "15 g (1 tbsp)",
+          "name": "Cointreau"
         },
         {
-          "qty": "15 g",
-          "name": "fresh orange juice (1 tbsp)"
+          "qty": "15 g (1 tbsp)",
+          "name": "orange juice"
         },
         {
-          "qty": "",
-          "name": "½ tsp orange zest"
+          "qty": "½ tsp",
+          "name": "orange zest"
         },
         {
-          "qty": "4.5 g",
-          "name": "vanilla extract (1 tsp)"
+          "qty": "4.5 g (1 tsp)",
+          "name": "vanilla extract"
         },
         {
-          "qty": "1.5 g",
-          "name": "fine salt (¼ tsp)"
+          "qty": "1.5 g (¼ tsp)",
+          "name": "salt"
         }
       ],
       "instructions": [
         "Whisk cream cheese and sugar until smooth. Add zest and combine.",
-        "Whisk in cream, milk, salt, Cointreau, juice, and vanilla until uniform.",
-        "Pour into pint container. Do not exceed MAX FILL. Freeze flat 24 hours.",
-        "Spin on ICE CREAM. Re-spin if crumbly.",
-        "Serve immediately or refreeze 1–2 hours."
+        "Whisk in cream, milk, salt, Cointreau, juice, and vanilla until uniform."
       ],
       "prepNotes": "Cointreau is 80 proof — keep at 1 tbsp. The creamsicle identity comes from balancing orange and vanilla equally. This is not the same flavor profile as Grand Marnier Orange Cream; it's sweeter, more nostalgic, deliberately reminiscent of the childhood ice cream bar. Orange zest goes directly into the base.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "dessert",
         "ice cream",
-        "frozen",
-        "cocktail-inspired",
-        "vegetarian",
-        "boozy"
+        "orange"
       ],
-      "source": ""
+      "pinned": true,
+      "createdAt": "2026-10-01T13:21:48.784Z",
+      "updatedAt": "2026-10-01T13:24:25.832Z"
     },
     {
       "id": "ce5c0275-9a19-407b-871d-0d73f385dabc",
