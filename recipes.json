@@ -1,6 +1,68 @@
 {
   "recipes": [
     {
+      "id": "12cf90df-c5d0-47f6-8799-9752412adbd9",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-10-03T15:35:51.908Z",
+      "updatedAt": "2026-10-03T15:35:51.908Z",
+      "title": "Sugar Free Lemon Curd",
+      "servings": "5 servings (17 g each)",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "large egg"
+        },
+        {
+          "qty": "20 g",
+          "name": "allulose"
+        },
+        {
+          "qty": "20 g",
+          "name": "fresh lemon juice (about ½ large lemon)"
+        },
+        {
+          "qty": "3 g",
+          "name": "lemon zest"
+        },
+        {
+          "qty": "7 g",
+          "name": "unsalted butter (1/2 tbsp)"
+        },
+        {
+          "qty": "",
+          "name": "½ tsp lemon extract"
+        },
+        {
+          "qty": "",
+          "name": "⅛ tsp vanilla extract"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        }
+      ],
+      "instructions": [
+        "Whisk the egg, allulose, lemon juice, lemon zest, and salt in a small heatproof metal or glass bowl.",
+        "Fill a pot halfway with water, bring to boil then turn down on low. We are doing a double boil. Place mixture bowl on top, make sure the bottom of the bowl doesn't touch the water. Cook over low heat, stirring constantly, until the mixture thickens enough to coat the back of a spoon. Avoid boiling or overheating the egg.",
+        "Remove from the heat and stir in the butter until melted.",
+        "Mix in the lemon extract and vanilla extract.",
+        "For a smoother curd, strain if desired.",
+        "Let cool. Place in air tight container and press plastic wrap against the curd. Then seal with lid and refrigerate in a covered container."
+      ],
+      "prepNotes": "Macros per serving: 25 calories, 1.2 g protein, 1.6 g fat, 1 carb. Total batch 85 g.",
+      "tags": [
+        "sugar-free",
+        "dessert",
+        "low-carb",
+        "keto",
+        "vegetarian",
+        "gluten-free",
+        "lemon"
+      ],
+      "source": ""
+    },
+    {
       "id": "a1b2cc52-e5ed-4662-b28d-7659e5dc8299",
       "title": "Cointreau Creamsicle",
       "servings": "creami tub",
