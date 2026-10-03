@@ -2,44 +2,41 @@
   "recipes": [
     {
       "id": "12cf90df-c5d0-47f6-8799-9752412adbd9",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-10-03T15:35:51.908Z",
-      "updatedAt": "2026-10-03T15:35:51.908Z",
       "title": "Sugar Free Lemon Curd",
-      "servings": "5 servings (17 g each)",
+      "servings": "",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "1",
-          "name": "large egg"
+          "qty": "1 large",
+          "name": "eggs"
         },
         {
           "qty": "20 g",
           "name": "allulose"
         },
         {
-          "qty": "20 g",
-          "name": "fresh lemon juice (about ½ large lemon)"
+          "qty": "20 g (about ½ large lemon) fresh",
+          "name": "lemon juice"
         },
         {
           "qty": "3 g",
           "name": "lemon zest"
         },
         {
-          "qty": "7 g",
-          "name": "unsalted butter (1/2 tbsp)"
+          "qty": "7 g  (½ tbsp) unsalted",
+          "name": "butter"
         },
         {
-          "qty": "",
-          "name": "½ tsp lemon extract"
+          "qty": "½ tsp",
+          "name": "lemon extract"
         },
         {
-          "qty": "",
-          "name": "⅛ tsp vanilla extract"
+          "qty": "⅛ tsp",
+          "name": "vanilla extract"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
+          "qty": "pinch",
+          "name": "salt"
         }
       ],
       "instructions": [
@@ -51,16 +48,16 @@
         "Let cool. Place in air tight container and press plastic wrap against the curd. Then seal with lid and refrigerate in a covered container."
       ],
       "prepNotes": "Macros per serving: 25 calories, 1.2 g protein, 1.6 g fat, 1 carb. Total batch 85 g.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
-        "sugar-free",
-        "dessert",
-        "low-carb",
-        "keto",
-        "vegetarian",
-        "gluten-free",
-        "lemon"
+        "lemon",
+        "toppings",
+        "sticky date"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-10-03T15:35:51.908Z",
+      "updatedAt": "2026-10-03T15:37:35.088Z"
     },
     {
       "id": "a1b2cc52-e5ed-4662-b28d-7659e5dc8299",
