@@ -2,29 +2,29 @@
   "recipes": [
     {
       "id": "41e34d66-7af9-431a-9925-361e0ffbc426",
-      "title": "Orange Sherbet Recipe for Ninja Creami",
+      "title": "Orange Sherbet",
       "servings": "1 pint",
-      "source": "",
+      "source": "fresh-from-the-freezer.blogspot.com",
       "ingredients": [
         {
-          "qty": "",
-          "name": "Zest of 1 orange"
+          "qty": "Zest of 1",
+          "name": "orange zest"
         },
         {
-          "qty": "1 cup",
-          "name": "(237 g) orange juice (freshly squeezed; I used 3 ½ oranges)"
+          "qty": "1 cup (237 g)  (freshly squeezed; I used 3 ½ oranges)",
+          "name": "orange juice"
         },
         {
-          "qty": "",
-          "name": "½ cup (106 g) sugar"
+          "qty": "½ cup (106 g)",
+          "name": "sugar"
         },
         {
-          "qty": "",
-          "name": "¼ cup (59 g) heavy cream, cold"
+          "qty": "¼ cup (59 g) cold",
+          "name": "heavy cream"
         },
         {
-          "qty": "",
-          "name": "¼ cup (61 g) milk, cold"
+          "qty": "¼ cup (61 g) cold",
+          "name": "Fairlife skim milk"
         }
       ],
       "instructions": [
@@ -37,16 +37,13 @@
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "dessert",
-        "frozen",
-        "vegetarian",
-        "Ninja Creami",
-        "sherbet",
-        "citrus"
+        "orange",
+        "sherbert",
+        "peach"
       ],
       "pinned": false,
       "createdAt": "2026-10-03T15:49:58.257Z",
-      "updatedAt": "2026-10-03T15:50:18.658Z"
+      "updatedAt": "2026-10-03T15:51:53.830Z"
     },
     {
       "id": "12cf90df-c5d0-47f6-8799-9752412adbd9",
