@@ -8755,26 +8755,22 @@
           "name": "almond extract"
         },
         {
-          "qty": "Mix-in:",
-          "name": "pistachio nuts"
-        },
-        {
           "qty": "Mix-in: (optional) crushed",
           "name": "almonds"
         }
       ],
       "instructions": [],
       "prepNotes": "Substitution: 2tsp pistachio butter for pudding\nVariation: make Pistachio Almond by adding 3 drops of almond extract and almond slivers as mix-in",
-      "afterPrepNotes": "",
-      "rating": null,
+      "afterPrepNotes": "don't add pistachio mixin - becomes bitter. add only almonds",
+      "rating": 4,
       "tags": [
         "ice cream",
         "pistachio",
         "protein"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-09-11T09:21:31.374Z"
+      "updatedAt": "2026-10-04T17:07:23.841Z"
     },
     {
       "id": "c7abe730-11e9-45ac-bf04-dd8df8077879",
