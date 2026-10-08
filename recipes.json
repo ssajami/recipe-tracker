@@ -7,76 +7,45 @@
       "source": "Dynas",
       "ingredients": [
         {
-          "qty": "¾ cup",
-          "name": "Fairlife skim milk"
+          "qty": "1",
+          "name": "chocolate base"
         },
         {
-          "qty": "¾ cup",
-          "name": "unsweetened almond milk"
+          "qty": "⅛ tsp",
+          "name": "cherry extract"
         },
         {
-          "qty": "1 tbsp",
-          "name": "sugar free chocolate pudding"
+          "qty": "⅛ tsp",
+          "name": "almond extract"
         },
         {
-          "qty": "1 scoop",
-          "name": "choco"
+          "qty": "48 gr",
+          "name": "dark cherries"
         },
         {
-          "qty": "1 tbsp",
-          "name": "Allulose"
+          "qty": "Mix-ins: 48gram frozen",
+          "name": "dark cherries"
         },
         {
-          "qty": "1/8 teaspoon",
-          "name": "of Xanthan Gum"
+          "qty": "Mix-in: 28 gr",
+          "name": "almonds"
         },
         {
-          "qty": "",
-          "name": "Pinch of salt"
-        },
-        {
-          "qty": "1 Tbsp",
-          "name": "of Cocoa OR Dark Cocoa Powder"
-        },
-        {
-          "qty": "1/8 teaspoon",
-          "name": "of Cherry Extract OR 2 Tbsp of Maraschino Cherry Juice"
-        },
-        {
-          "qty": "1/8 teaspoon",
-          "name": "Vanilla Extract"
-        },
-        {
-          "qty": "48",
-          "name": "gr Dark Sweet Cherries, Frozen"
-        },
-        {
-          "qty": "",
-          "name": "Almond Chocolate Cherry Option: Add 1/8 tsp of Almond Extract"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 48 gr Dark Sweet Cherries, frozen (Kroger) OR Maraschino Cherries"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: 2 Ghirardelli 72% Cacao Dark chocolate bar"
-        },
-        {
-          "qty": "",
-          "name": "Mix-ins: Almond Chocolate Cherry Option: Add 28 gr Almonds (+170 Cal, not included in above macro's)"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: 2 tbsp Non Fat Cool Whip"
-        },
-        {
-          "qty": "",
-          "name": "Toppings: Optional: Maraschino Cherry Juice AND/OR More Cherries"
+          "qty": "Mix-in",
+          "name": "Ooey Gooey Chocolate"
         }
       ],
+      "ingredientLinks": [
+        "357a23b3-53ed-412b-8c99-5bf2f21d23eb",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "65e8d94e-7e1d-4e01-91cb-13a14e0a9d38"
+      ],
       "instructions": [],
-      "prepNotes": "Rich milk or dark chocolate ice cream base with cherries (and Almonds) mix-in's. Almond Chocolate Cherry Option adds +170 Cal, not included in above macros.",
+      "prepNotes": "",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
@@ -87,7 +56,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-10-08T09:11:35.695Z",
-      "updatedAt": "2026-10-08T09:14:36.137Z"
+      "updatedAt": "2026-10-08T09:19:32.364Z"
     },
     {
       "id": "505df7d4-c744-4098-81a4-6960c7c465f9",
