@@ -1,6 +1,97 @@
 {
   "recipes": [
     {
+      "id": "bd5fc457-45a7-4c01-9646-cf49c0ba5a6c",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-10-08T09:11:35.695Z",
+      "updatedAt": "2026-10-08T09:11:35.695Z",
+      "title": "Cherry Chocolate / Cherry Chocolate Almond (Pending)",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "3/4 cup",
+          "name": "of Fairlife Fat Free Milk"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup unsweetened vanilla almond milk"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "sugar-free Chocolate pudding"
+        },
+        {
+          "qty": "1 scoop",
+          "name": "Chocolate Protein powder"
+        },
+        {
+          "qty": "1 tbsp",
+          "name": "Allulose"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Xanthan Gum"
+        },
+        {
+          "qty": "",
+          "name": "Pinch of salt"
+        },
+        {
+          "qty": "1 Tbsp",
+          "name": "of Cocoa OR Dark Cocoa Powder"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "of Cherry Extract OR 2 Tbsp of Maraschino Cherry Juice"
+        },
+        {
+          "qty": "1/8 teaspoon",
+          "name": "Vanilla Extract"
+        },
+        {
+          "qty": "48",
+          "name": "gr Dark Sweet Cherries, Frozen"
+        },
+        {
+          "qty": "",
+          "name": "Almond Chocolate Cherry Option: Add 1/8 tsp of Almond Extract"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: 48 gr Dark Sweet Cherries, frozen (Kroger) OR Maraschino Cherries"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: 2 Ghirardelli 72% Cacao Dark chocolate bar"
+        },
+        {
+          "qty": "",
+          "name": "Mix-ins: Almond Chocolate Cherry Option: Add 28 gr Almonds (+170 Cal, not included in above macro's)"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: 2 tbsp Non Fat Cool Whip"
+        },
+        {
+          "qty": "",
+          "name": "Toppings: Optional: Maraschino Cherry Juice AND/OR More Cherries"
+        }
+      ],
+      "instructions": [],
+      "prepNotes": "Rich milk or dark chocolate ice cream base with cherries (and Almonds) mix-in's. Almond Chocolate Cherry Option adds +170 Cal, not included in above macros.",
+      "tags": [
+        "ice cream",
+        "dessert",
+        "chocolate",
+        "cherry",
+        "high protein",
+        "sugar-free",
+        "low calorie"
+      ],
+      "source": ""
+    },
+    {
       "id": "505df7d4-c744-4098-81a4-6960c7c465f9",
       "title": "Persimmon Sherbet Recipe",
       "servings": "creami tub",
