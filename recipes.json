@@ -2,28 +2,25 @@
   "recipes": [
     {
       "id": "bd5fc457-45a7-4c01-9646-cf49c0ba5a6c",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-10-08T09:11:35.695Z",
-      "updatedAt": "2026-10-08T09:11:35.695Z",
-      "title": "Cherry Chocolate / Cherry Chocolate Almond (Pending)",
-      "servings": "",
+      "title": "Cherry Chocolate Almond Ice Cream",
+      "servings": "creami tub",
+      "source": "Dynas",
       "ingredients": [
         {
-          "qty": "3/4 cup",
-          "name": "of Fairlife Fat Free Milk"
+          "qty": "¾ cup",
+          "name": "Fairlife skim milk"
         },
         {
-          "qty": "",
-          "name": "¾ cup unsweetened vanilla almond milk"
+          "qty": "¾ cup",
+          "name": "unsweetened almond milk"
         },
         {
           "qty": "1 tbsp",
-          "name": "sugar-free Chocolate pudding"
+          "name": "sugar free chocolate pudding"
         },
         {
           "qty": "1 scoop",
-          "name": "Chocolate Protein powder"
+          "name": "choco"
         },
         {
           "qty": "1 tbsp",
@@ -80,16 +77,17 @@
       ],
       "instructions": [],
       "prepNotes": "Rich milk or dark chocolate ice cream base with cherries (and Almonds) mix-in's. Almond Chocolate Cherry Option adds +170 Cal, not included in above macros.",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "ice cream",
-        "dessert",
         "chocolate",
         "cherry",
-        "high protein",
-        "sugar-free",
-        "low calorie"
+        "almond"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-10-08T09:11:35.695Z",
+      "updatedAt": "2026-10-08T09:14:36.137Z"
     },
     {
       "id": "505df7d4-c744-4098-81a4-6960c7c465f9",
