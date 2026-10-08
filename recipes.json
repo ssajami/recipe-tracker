@@ -2660,17 +2660,57 @@
       "title": "Strawberry Banana Ice Cream",
       "servings": "creami tub",
       "source": "Dynas",
-      "ingredients": [],
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "vanilla base"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "sugar free strawberry pudding"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "sugar free banana cream pudding"
+        },
+        {
+          "qty": "¼ cup",
+          "name": "strawberries"
+        },
+        {
+          "qty": "¼ cup",
+          "name": "banana"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "strawberry extract"
+        },
+        {
+          "qty": "½ tsp",
+          "name": "banana extract"
+        }
+      ],
+      "ingredientLinks": [
+        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "instructions": [],
-      "prepNotes": "",
+      "prepNotes": "- only 3/8 milk",
       "afterPrepNotes": "",
       "rating": null,
       "tags": [
-        "untested"
+        "strawberry",
+        "banana",
+        "ice cream"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-17T17:58:24.355Z",
-      "updatedAt": "2026-07-17T17:58:24.355Z"
+      "updatedAt": "2026-10-08T09:25:54.505Z"
     },
     {
       "id": "b0983c15-6481-484c-9d7d-27c3e98eeb9d",
