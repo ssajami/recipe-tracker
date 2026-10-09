@@ -2393,13 +2393,13 @@
       "instructions": [],
       "prepNotes": "* can use Ryse Skippy instead of Vanilla protein - and then omit pb powder",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "untested"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-17T18:30:27.885Z",
-      "updatedAt": "2026-09-02T18:32:00.766Z"
+      "updatedAt": "2026-10-09T12:53:39.432Z"
     },
     {
       "id": "0689926a-e3cc-4087-ad27-d746dffb1420",
