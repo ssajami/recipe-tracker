@@ -5362,7 +5362,7 @@
       "instructions": [],
       "prepNotes": "",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "ice cream",
         "butterscotch",
@@ -5370,7 +5370,7 @@
       ],
       "pinned": false,
       "createdAt": "2026-07-07T07:09:52.591Z",
-      "updatedAt": "2026-07-17T06:14:56.079Z"
+      "updatedAt": "2026-10-09T12:53:54.308Z"
     },
     {
       "id": "9f55fc60-1fd3-469e-8090-30271185d2fe",
