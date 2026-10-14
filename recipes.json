@@ -8782,58 +8782,6 @@
       "updatedAt": "2026-08-27T18:01:47.521Z"
     },
     {
-      "id": "22d71d44-d855-4af7-8ed1-d902c932406f",
-      "title": "Baklava Ice Cream",
-      "servings": "creami tub",
-      "source": "Dynas",
-      "ingredients": [
-        {
-          "qty": "",
-          "name": "vanilla base"
-        },
-        {
-          "qty": "¼ tsp",
-          "name": "cinnamon"
-        },
-        {
-          "qty": "Mix-in: 1 tbsp",
-          "name": "honey"
-        },
-        {
-          "qty": "Mix-in: ¼ cup chopped",
-          "name": "walnuts"
-        },
-        {
-          "qty": "Mix-in: crumbled",
-          "name": "baklava"
-        }
-      ],
-      "ingredientLinks": [
-        "df258ecd-2cc7-4ea8-9d53-08bba948d5f3",
-        null,
-        null,
-        null,
-        null
-      ],
-      "instructions": [
-        "Add raw honey, chopped walnuts, and crumbled baklava and run mix-in cycle.",
-        "Top with crumbled phyllo shells, nuts, and drizzled honey."
-      ],
-      "prepNotes": "",
-      "afterPrepNotes": "",
-      "rating": null,
-      "tags": [
-        "ice cream",
-        "honey",
-        "walnut",
-        "protein",
-        "unique"
-      ],
-      "pinned": false,
-      "createdAt": "2026-07-01T19:02:52.993Z",
-      "updatedAt": "2026-07-17T14:09:00.593Z"
-    },
-    {
       "id": "2c4ba2ab-4e59-45a5-b01e-1b6c1148685b",
       "title": "Candy Bar Ice Cream",
       "servings": "creami tub",
