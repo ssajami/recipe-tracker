@@ -3678,9 +3678,9 @@
         "chocolate",
         "cookie dough"
       ],
-      "pinned": false,
+      "pinned": true,
       "createdAt": "2026-07-13T17:16:29.220Z",
-      "updatedAt": "2026-08-28T15:58:41.599Z"
+      "updatedAt": "2026-10-14T16:55:35.155Z"
     },
     {
       "id": "26e603c4-251b-4206-b4e2-689acc9d9c2a",
