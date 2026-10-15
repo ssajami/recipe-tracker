@@ -7246,16 +7246,16 @@
       "instructions": [],
       "prepNotes": "Substitution: use 1 scoop of Nespresso instead of espresso and increase the milk to 1 cup\nOR use coffee extract (see main note)",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "ice cream",
         "protein",
         "coffee",
         "caramel"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:10:07.257Z",
-      "updatedAt": "2026-10-15T16:57:19.693Z"
+      "updatedAt": "2026-10-15T16:57:28.007Z"
     },
     {
       "id": "a4e57f42-935f-4855-83de-3ab0859a95fd",
