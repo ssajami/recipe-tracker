@@ -1,6 +1,112 @@
 {
   "recipes": [
     {
+      "id": "d002f583-a55e-48d2-a40e-829dde5660c5",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-10-23T05:55:09.178Z",
+      "updatedAt": "2026-10-23T05:55:09.182Z",
+      "title": "Grated Apple Pecan Sheet Cake",
+      "servings": "Makes one quarter sheet tray (or a 9×13 inch baking dish)",
+      "ingredients": [
+        {
+          "qty": "1",
+          "name": "½ cup (195 grams) all-purpose flour"
+        },
+        {
+          "qty": "2 teaspoons",
+          "name": "baking powder"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "ground cinnamon"
+        },
+        {
+          "qty": "1 teaspoon",
+          "name": "kosher salt"
+        },
+        {
+          "qty": "",
+          "name": "½ teaspoon ground ginger"
+        },
+        {
+          "qty": "",
+          "name": "¼ teaspoon grated nutmeg"
+        },
+        {
+          "qty": "2",
+          "name": "eggs, room temperature"
+        },
+        {
+          "qty": "",
+          "name": "¾ cup (150 grams) granulated sugar"
+        },
+        {
+          "qty": "",
+          "name": "¼ cup (50 grams) dark brown sugar"
+        },
+        {
+          "qty": "",
+          "name": "¼ cup (60 grams) unsweetened applesauce, room temperature"
+        },
+        {
+          "qty": "",
+          "name": "½ cup canola oil"
+        },
+        {
+          "qty": "2 teaspoons",
+          "name": "vanilla bean paste"
+        },
+        {
+          "qty": "2",
+          "name": "Gala apples, peeled and grated on the big holes of a box grater (see note)"
+        },
+        {
+          "qty": "5 tablespoons",
+          "name": "unsalted butter"
+        },
+        {
+          "qty": "1",
+          "name": "¼ cup (150 grams) powdered sugar"
+        },
+        {
+          "qty": "1",
+          "name": "½ teaspoons vanilla extract"
+        },
+        {
+          "qty": "2",
+          "name": "½ – 4 tablespoons milk, any milk will do"
+        },
+        {
+          "qty": "",
+          "name": "½ cup (60 grams) finely chopped toasted pecans"
+        },
+        {
+          "qty": "",
+          "name": "Flaky salt, to finish"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 375F. Grease (with butter or baking spray) a 9×13” quarter sheet tray all over, then line the bottom with parchment paper.",
+        "Add the flour, baking powder, cinnamon, salt, ginger, and nutmeg to a large bowl. Whisk to combine and set aside.",
+        "Add the eggs, sugar, dark brown sugar, applesauce, canola oil, and vanilla to a medium bowl. Whisk to combine, then stir in the grated apples.",
+        "Pour the wet ingredients into the dry and mix until just moistened. Pour the batter into the prepared sheet tray and spread it out evenly with a spatula.",
+        "Bake for 18-20 minutes, until the cake is lightly golden and a toothpick inserted into the center comes out with a few moist crumbs. Set aside.",
+        "Once the cake is out of the oven, make the glaze: Add the butter to a small pan and melt over medium heat. Continue to cook, stirring constantly, until the butter is fragrant and browned, 3-5 minutes. Immediately transfer it to a heatproof bowl.",
+        "Add in the powdered sugar, vanilla, and 2 ½ tablespoons of milk to start. Whisk until smooth, adding 1 teaspoon or so more milk as needed to create a slightly thick but pourable glaze. Stir in the pecans.",
+        "While the cake is still warm, pour the glaze over the top. Spread it out evenly to cover. Be gentle when spreading it out, as you don’t want the nuts to tear the cake. Sprinkle all over with a touch of flaky salt, let the cake cool to room temperature for at least 1 hour, then enjoy!"
+      ],
+      "prepNotes": "You want to yield 200 grams of grated apples, about 1 ¾ cups.",
+      "tags": [
+        "dessert",
+        "cake",
+        "vegetarian",
+        "baking",
+        "apple"
+      ],
+      "source": ""
+    },
+    {
       "id": "186efa99-7384-45a3-9e7a-8d396a2e84d4",
       "afterPrepNotes": "",
       "rating": null,
