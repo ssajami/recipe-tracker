@@ -8275,15 +8275,15 @@
       "instructions": [],
       "prepNotes": "Variation:  use Margaritaville Coconut Key Lime Pudding",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 1,
       "tags": [
         "ice cream",
         "protein",
         "lime"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-01T19:04:57.229Z",
-      "updatedAt": "2026-10-08T09:28:16.998Z"
+      "updatedAt": "2026-10-24T12:17:01.987Z"
     },
     {
       "id": "13d09918-9554-4751-936b-a6e426f7a72a",
