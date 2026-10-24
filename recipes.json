@@ -2838,15 +2838,15 @@
       "instructions": [],
       "prepNotes": "- only 3/8 milk\nusing 30g banana 20 gr strawberry",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "strawberry",
         "banana",
         "ice cream"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-07-17T17:58:24.355Z",
-      "updatedAt": "2026-10-17T10:26:05.488Z"
+      "updatedAt": "2026-10-24T12:16:36.527Z"
     },
     {
       "id": "b75a7933-b510-45a8-8f17-d51b96bef654",
