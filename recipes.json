@@ -1,6 +1,255 @@
 {
   "recipes": [
     {
+      "id": "61905206-d258-4ae7-acbb-8c8a749b01a0",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-13T03:23:05.963Z",
+      "title": "Hamul-Pajeon",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Green onions"
+        },
+        {
+          "qty": "",
+          "name": "Korean Pancake Mix (choose based on preference; in class, we use tempura flour with potato starch)"
+        },
+        {
+          "qty": "",
+          "name": "Water"
+        },
+        {
+          "qty": "",
+          "name": "Salt"
+        },
+        {
+          "qty": "",
+          "name": "Assorted seafood (such as squid, clams, mussels), cut into small pieces"
+        },
+        {
+          "qty": "",
+          "name": "Red and green chili peppers (optional, for vegetarians who do not eat fish, for extra heat and texture)"
+        }
+      ],
+      "instructions": [
+        "The ratio of water to tempura flour should always be 1:1. For kimchi pancakes, since kimchi contains liquid, adjust the amount of water accordingly to maintain a thick batter consistency.",
+        "Wash the green onions and cut them into 4 cm pieces (or adjust the length based on your pan size and preference).",
+        "In a bowl, mix the tempura flour, water, and seafood to form a thick batter. Add 1 teaspoon of salt.",
+        "Ensure the batter has the right thickness by adjusting the amount of flour and water while maintaining the 1:1 ratio.",
+        "Heat a generous amount of oil in a pan over medium-low heat. Once the pan is hot, pour in the batter and spread it evenly to ensure even cooking.",
+        "When the edges turn golden brown, flip the pancake and cook the other side until crispy."
+      ],
+      "prepNotes": "If preparing for vegetarians who do not eat fish, add red and green chili peppers for extra heat and texture.",
+      "tags": [
+        "Korean",
+        "seafood",
+        "pancake",
+        "appetizer"
+      ],
+      "source": ""
+    },
+    {
+      "id": "287b77fa-41d5-4888-b6e3-5bad2f18a72f",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-13T03:23:05.963Z",
+      "title": "LA Galbi",
+      "servings": "Per person, including bone weight 150–200g",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "LA-style beef short ribs"
+        },
+        {
+          "qty": "",
+          "name": "Plum syrup"
+        },
+        {
+          "qty": "",
+          "name": "Brown sugar"
+        },
+        {
+          "qty": "",
+          "name": "Soy sauce"
+        },
+        {
+          "qty": "",
+          "name": "Black pepper"
+        },
+        {
+          "qty": "",
+          "name": "Sesame oil"
+        },
+        {
+          "qty": "",
+          "name": "Minced garlic"
+        },
+        {
+          "qty": "",
+          "name": "Water"
+        },
+        {
+          "qty": "",
+          "name": "Chopped green onion and garlic (optional)"
+        }
+      ],
+      "instructions": [
+        "Rinse the LA galbi thoroughly under cold running water to remove any bone fragments, then pat it dry.",
+        "Place the ribs in a pan and add 20 ml (1/4 of a soju cup) of soy sauce.",
+        "Sprinkle 3 teaspoons of brown sugar, then drizzle 1 teaspoon each of plum syrup, sesame oil, and minced garlic over the meat.",
+        "Season with black pepper and, optionally, add chopped green onion and garlic.",
+        "Pour just enough water into the pan to fully submerge the ribs.",
+        "Cook over medium heat for 12 minutes, flipping occasionally to ensure even cooking, until the sauce is fully absorbed into the meat.",
+        "Plate and serve immediately."
+      ],
+      "prepNotes": "",
+      "tags": [
+        "Korean",
+        "beef",
+        "main dish",
+        "grilled"
+      ],
+      "source": ""
+    },
+    {
+      "id": "aac1d8cf-aeb5-46b2-ae21-7d9d864da0a9",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-13T03:23:05.963Z",
+      "title": "Dak Galbi",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "170 g",
+          "name": "(about 6 oz) boneless chicken thighs"
+        },
+        {
+          "qty": "1/2 tablespoon",
+          "name": "gochujang (Korean red chili paste)"
+        },
+        {
+          "qty": "1/2 tablespoon",
+          "name": "rice syrup (also labeled as jocheong or corn syrup at H Mart)"
+        },
+        {
+          "qty": "3 teaspoons",
+          "name": "sugar"
+        },
+        {
+          "qty": "1/2 tablespoon",
+          "name": "minced garlic"
+        },
+        {
+          "qty": "1/2 tablespoon",
+          "name": "toasted sesame oil"
+        },
+        {
+          "qty": "",
+          "name": "Several shakes of gochugaru (Korean red pepper flakes), to give it color"
+        },
+        {
+          "qty": "",
+          "name": "Several shakes of black pepper"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "soy sauce"
+        },
+        {
+          "qty": "",
+          "name": "Sliced green onion (scallion)"
+        },
+        {
+          "qty": "",
+          "name": "Sliced yellow onion"
+        },
+        {
+          "qty": "",
+          "name": "A pinch of sesame seeds"
+        }
+      ],
+      "instructions": [
+        "In a mixing bowl, combine the chicken thighs with all the marinade ingredients. Mix well until evenly coated. Let it sit while you prepare the pan.",
+        "Add just enough water to a pan to cover the bottom surface. This step prevents the marinated chicken from burning.",
+        "Place the marinated chicken into the pan. Turn the heat to high. Once the water starts boiling vigorously, reduce to medium heat.",
+        "Continue to cook the chicken, flipping occasionally so it cooks evenly. When about 70% of the water has evaporated, add the sliced green onion and yellow onion. (Adding vegetables later helps keep them from sticking to the chicken.)",
+        "Stir-fry everything together until the sauce thickens, the water fully evaporates, and nothing is burning.",
+        "Check the doneness of the chicken. Once fully cooked, transfer to a plate, sprinkle with sesame seeds, and enjoy!"
+      ],
+      "prepNotes": "A bold and spicy Korean stir-fried chicken dish, bursting with flavor from gochujang and fresh vegetables.",
+      "tags": [
+        "Korean",
+        "chicken",
+        "spicy",
+        "stir-fry",
+        "main dish"
+      ],
+      "source": ""
+    },
+    {
+      "id": "e0e5e019-51a8-427b-a692-bcdce55fba92",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-13T03:23:05.963Z",
+      "title": "Braised Tofu (Vegetarian menu)",
+      "servings": "",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Tofu"
+        },
+        {
+          "qty": "",
+          "name": "Cooking oil"
+        },
+        {
+          "qty": "2 tablespoons",
+          "name": "soy sauce (sauce)"
+        },
+        {
+          "qty": "3 teaspoons",
+          "name": "sugar (sauce)"
+        },
+        {
+          "qty": "",
+          "name": "½ tablespoon minced garlic (sauce)"
+        },
+        {
+          "qty": "1 tablespoon",
+          "name": "sesame oil (sauce)"
+        },
+        {
+          "qty": "3 tablespoons",
+          "name": "water (sauce)"
+        },
+        {
+          "qty": "",
+          "name": "Chopped green onion, as much as you like (sauce)"
+        }
+      ],
+      "instructions": [
+        "Slice the tofu and pat it dry with a paper towel.",
+        "Heat a pan over medium to medium-low heat and add a bit of cooking oil.",
+        "Place the tofu slices in the pan and grill until the bottom turns golden brown. Carefully flip them using a spatula, as the tofu can break easily.",
+        "Once both sides are nicely golden brown, pour the pre-mixed sauce over the tofu.",
+        "Let it simmer and reduce until the sauce thickens slightly and coats the tofu."
+      ],
+      "prepNotes": "A savory Korean side dish made by simmering tofu in a soy-based sauce with garlic and spices. Mix all sauce ingredients together in a bowl before cooking.",
+      "tags": [
+        "Korean",
+        "vegetarian",
+        "tofu",
+        "side dish"
+      ],
+      "source": ""
+    },
+    {
       "id": "13d6277d-b131-485f-81ca-939232d8d8d0",
       "afterPrepNotes": "",
       "rating": null,
