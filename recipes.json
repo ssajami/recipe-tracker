@@ -1,6 +1,116 @@
 {
   "recipes": [
     {
+      "id": "65f07c31-7107-4771-a330-deeeaf20fa5a",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:25:11.506Z",
+      "updatedAt": "2026-11-13T03:25:11.506Z",
+      "title": "Fresh Kimchi",
+      "servings": "For two leaves of bomdong cabbage",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Bomdong cabbage"
+        },
+        {
+          "qty": "",
+          "name": "Korean red pepper flakes (gochugaru)"
+        },
+        {
+          "qty": "",
+          "name": "Apple vinegar"
+        },
+        {
+          "qty": "",
+          "name": "Plum syrup"
+        },
+        {
+          "qty": "",
+          "name": "Salt"
+        },
+        {
+          "qty": "",
+          "name": "Minced garlic"
+        },
+        {
+          "qty": "",
+          "name": "Sugar"
+        },
+        {
+          "qty": "",
+          "name": "Sesame oil"
+        }
+      ],
+      "instructions": [
+        "Wash the bomdong cabbage thoroughly under cold water. Cut it in half lengthwise, then chop into small diamond-shaped pieces.",
+        "Place the chopped cabbage on a plate. Add 1/2 teaspoon of apple vinegar, 1 teaspoon of salt, 1/2 teaspoon of minced garlic, and 1/2 teaspoon of plum syrup and 1 teaspoon of sugar and lastly 1 teaspoon of sesame oil.",
+        "Mix well and serve."
+      ],
+      "prepNotes": "A fresh taste of kimchi without the fermentation process. A refreshing Korean side dish as a salad!",
+      "tags": [
+        "Korean",
+        "side dish",
+        "vegetarian",
+        "quick",
+        "salad"
+      ],
+      "source": ""
+    },
+    {
+      "id": "1caa0426-3847-47df-8cd5-904cdeab785d",
+      "afterPrepNotes": "",
+      "rating": null,
+      "createdAt": "2026-11-13T03:25:11.506Z",
+      "updatedAt": "2026-11-13T03:25:11.506Z",
+      "title": "Korean Potato Salad",
+      "servings": "For 150g of boiled potato",
+      "ingredients": [
+        {
+          "qty": "",
+          "name": "Boiled potatoes"
+        },
+        {
+          "qty": "",
+          "name": "Green peas"
+        },
+        {
+          "qty": "",
+          "name": "Corn"
+        },
+        {
+          "qty": "",
+          "name": "Finely chopped carrot (adjust the amount to taste)"
+        },
+        {
+          "qty": "",
+          "name": "Finely chopped apple (1/4 of an apple is ideal, but adjust to preference)"
+        },
+        {
+          "qty": "",
+          "name": "Mayonnaise"
+        },
+        {
+          "qty": "",
+          "name": "Salt"
+        }
+      ],
+      "instructions": [
+        "Boil the potatoes in hot water for 30 minutes.",
+        "Mash the boiled potatoes and mix with green peas, corn, finely chopped carrot, and apple.",
+        "Add 1/2 teaspoon of salt and 1 tablespoon of mayonnaise.",
+        "Mix everything well until smooth, and it's ready to serve."
+      ],
+      "prepNotes": "A perfect match for LA Galbi! A creamy, tangy, and delicious Korean-style potato salad.",
+      "tags": [
+        "Korean",
+        "side dish",
+        "vegetarian",
+        "salad"
+      ],
+      "source": ""
+    },
+    {
       "id": "61905206-d258-4ae7-acbb-8c8a749b01a0",
       "afterPrepNotes": "",
       "rating": null,
