@@ -872,14 +872,14 @@
       ],
       "prepNotes": "Cointreau is 80 proof — keep at 1 tbsp. The creamsicle identity comes from balancing orange and vanilla equally. This is not the same flavor profile as Grand Marnier Orange Cream; it's sweeter, more nostalgic, deliberately reminiscent of the childhood ice cream bar. Orange zest goes directly into the base.",
       "afterPrepNotes": "",
-      "rating": null,
+      "rating": 3,
       "tags": [
         "ice cream",
         "orange"
       ],
-      "pinned": true,
+      "pinned": false,
       "createdAt": "2026-10-01T13:21:48.784Z",
-      "updatedAt": "2026-10-01T13:24:25.832Z"
+      "updatedAt": "2026-11-15T18:05:20.734Z"
     },
     {
       "id": "ce5c0275-9a19-407b-871d-0d73f385dabc",
