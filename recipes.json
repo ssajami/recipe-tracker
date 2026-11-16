@@ -58,56 +58,56 @@
     },
     {
       "id": "1caa0426-3847-47df-8cd5-904cdeab785d",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:25:11.506Z",
-      "updatedAt": "2026-11-13T03:25:11.506Z",
       "title": "Korean Potato Salad",
-      "servings": "For 150g of boiled potato",
+      "servings": "",
+      "source": "",
       "ingredients": [
         {
-          "qty": "",
-          "name": "Boiled potatoes"
+          "qty": "150g, boiled",
+          "name": "potatoes"
         },
         {
           "qty": "",
-          "name": "Green peas"
+          "name": "green peas"
         },
         {
           "qty": "",
-          "name": "Corn"
+          "name": "corn"
         },
         {
-          "qty": "",
-          "name": "Finely chopped carrot (adjust the amount to taste)"
+          "qty": "finely chopped (adjust the amount to taste)",
+          "name": "carrot"
         },
         {
-          "qty": "",
-          "name": "Finely chopped apple (1/4 of an apple is ideal, but adjust to preference)"
+          "qty": "¼ finely chopped",
+          "name": "apple"
         },
         {
-          "qty": "",
-          "name": "Mayonnaise"
+          "qty": "1 tbsp",
+          "name": "mayonnaise"
         },
         {
-          "qty": "",
-          "name": "Salt"
+          "qty": "½ tsp",
+          "name": "salt"
         }
       ],
       "instructions": [
         "Boil the potatoes in hot water for 30 minutes.",
         "Mash the boiled potatoes and mix with green peas, corn, finely chopped carrot, and apple.",
-        "Add 1/2 teaspoon of salt and 1 tablespoon of mayonnaise.",
+        "Add salt and mayonnaise.",
         "Mix everything well until smooth, and it's ready to serve."
       ],
-      "prepNotes": "A perfect match for LA Galbi! A creamy, tangy, and delicious Korean-style potato salad.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
         "side dish",
-        "vegetarian",
         "salad"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T03:25:11.506Z",
+      "updatedAt": "2026-11-16T17:19:30.339Z"
     },
     {
       "id": "61905206-d258-4ae7-acbb-8c8a749b01a0",
