@@ -162,67 +162,71 @@
     },
     {
       "id": "287b77fa-41d5-4888-b6e3-5bad2f18a72f",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:23:05.963Z",
-      "updatedAt": "2026-11-13T03:23:05.963Z",
       "title": "LA Galbi",
       "servings": "Per person, including bone weight 150–200g",
+      "source": "",
       "ingredients": [
         {
-          "qty": "",
+          "qty": "150-200g",
           "name": "LA-style beef short ribs"
         },
         {
-          "qty": "",
-          "name": "Plum syrup"
+          "qty": "1 tsp",
+          "name": "plum syrup"
+        },
+        {
+          "qty": "3 tsp",
+          "name": "brown sugar"
+        },
+        {
+          "qty": "20ml",
+          "name": "soy sauce"
         },
         {
           "qty": "",
-          "name": "Brown sugar"
+          "name": "black pepper"
+        },
+        {
+          "qty": "1 tsp",
+          "name": "toasted sesame oil"
+        },
+        {
+          "qty": "1 tsp minced",
+          "name": "garlic"
         },
         {
           "qty": "",
-          "name": "Soy sauce"
+          "name": "water"
         },
         {
-          "qty": "",
-          "name": "Black pepper"
+          "qty": "Chopped   (optional)",
+          "name": "green onions"
         },
         {
-          "qty": "",
-          "name": "Sesame oil"
-        },
-        {
-          "qty": "",
-          "name": "Minced garlic"
-        },
-        {
-          "qty": "",
-          "name": "Water"
-        },
-        {
-          "qty": "",
-          "name": "Chopped green onion and garlic (optional)"
+          "qty": "Chopped   (optional)",
+          "name": "garlic cloves"
         }
       ],
       "instructions": [
         "Rinse the LA galbi thoroughly under cold running water to remove any bone fragments, then pat it dry.",
-        "Place the ribs in a pan and add 20 ml (1/4 of a soju cup) of soy sauce.",
-        "Sprinkle 3 teaspoons of brown sugar, then drizzle 1 teaspoon each of plum syrup, sesame oil, and minced garlic over the meat.",
+        "Place the ribs in a pan and add soy sauce.",
+        "Sprinkle brown sugar, then drizzle plum syrup, sesame oil, and minced garlic over the meat.",
         "Season with black pepper and, optionally, add chopped green onion and garlic.",
         "Pour just enough water into the pan to fully submerge the ribs.",
         "Cook over medium heat for 12 minutes, flipping occasionally to ensure even cooking, until the sauce is fully absorbed into the meat.",
         "Plate and serve immediately."
       ],
       "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
         "beef",
-        "main dish",
-        "grilled"
+        "main dish"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-16T17:29:07.450Z"
     },
     {
       "id": "aac1d8cf-aeb5-46b2-ae21-7d9d864da0a9",
