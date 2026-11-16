@@ -179,60 +179,57 @@
     },
     {
       "id": "aac1d8cf-aeb5-46b2-ae21-7d9d864da0a9",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:23:05.963Z",
-      "updatedAt": "2026-11-13T03:23:05.963Z",
       "title": "Dak Galbi",
       "servings": "",
+      "source": "",
       "ingredients": [
         {
-          "qty": "170 g",
-          "name": "(about 6 oz) boneless chicken thighs"
+          "qty": "170 g (about 6 oz)",
+          "name": "boneless chicken thighs"
         },
         {
-          "qty": "1/2 tablespoon",
+          "qty": "½ tbsp",
           "name": "gochujang (Korean red chili paste)"
         },
         {
-          "qty": "1/2 tablespoon",
-          "name": "rice syrup (also labeled as jocheong or corn syrup at H Mart)"
+          "qty": "½ tbsp",
+          "name": "rice syrup"
         },
         {
-          "qty": "3 teaspoons",
+          "qty": "3 tsp",
           "name": "sugar"
         },
         {
-          "qty": "1/2 tablespoon",
-          "name": "minced garlic"
+          "qty": "½ tbsp minced",
+          "name": "garlic cloves"
         },
         {
-          "qty": "1/2 tablespoon",
+          "qty": "½ tbsp",
           "name": "toasted sesame oil"
         },
         {
-          "qty": "",
-          "name": "Several shakes of gochugaru (Korean red pepper flakes), to give it color"
+          "qty": "several shakes",
+          "name": "Korean red pepper flakes (gochugaru)"
         },
         {
           "qty": "",
-          "name": "Several shakes of black pepper"
+          "name": "black pepper"
         },
         {
-          "qty": "1 tablespoon",
+          "qty": "1 tbsp",
           "name": "soy sauce"
         },
         {
-          "qty": "",
-          "name": "Sliced green onion (scallion)"
+          "qty": "Sliced ",
+          "name": "green onion"
         },
         {
-          "qty": "",
-          "name": "Sliced yellow onion"
+          "qty": "Sliced ",
+          "name": "yellow onion"
         },
         {
-          "qty": "",
-          "name": "A pinch of sesame seeds"
+          "qty": "pinch",
+          "name": "sesame seeds"
         }
       ],
       "instructions": [
@@ -243,15 +240,17 @@
         "Stir-fry everything together until the sauce thickens, the water fully evaporates, and nothing is burning.",
         "Check the doneness of the chicken. Once fully cooked, transfer to a plate, sprinkle with sesame seeds, and enjoy!"
       ],
-      "prepNotes": "A bold and spicy Korean stir-fried chicken dish, bursting with flavor from gochujang and fresh vegetables.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
         "chicken",
-        "spicy",
-        "stir-fry",
         "main dish"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-16T17:32:06.384Z"
     },
     {
       "id": "e0e5e019-51a8-427b-a692-bcdce55fba92",
