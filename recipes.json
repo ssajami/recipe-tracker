@@ -110,57 +110,6 @@
       "updatedAt": "2026-11-16T17:19:30.339Z"
     },
     {
-      "id": "61905206-d258-4ae7-acbb-8c8a749b01a0",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:23:05.963Z",
-      "updatedAt": "2026-11-13T03:23:05.963Z",
-      "title": "Hamul-Pajeon",
-      "servings": "",
-      "ingredients": [
-        {
-          "qty": "",
-          "name": "Green onions"
-        },
-        {
-          "qty": "",
-          "name": "Korean Pancake Mix (choose based on preference; in class, we use tempura flour with potato starch)"
-        },
-        {
-          "qty": "",
-          "name": "Water"
-        },
-        {
-          "qty": "",
-          "name": "Salt"
-        },
-        {
-          "qty": "",
-          "name": "Assorted seafood (such as squid, clams, mussels), cut into small pieces"
-        },
-        {
-          "qty": "",
-          "name": "Red and green chili peppers (optional, for vegetarians who do not eat fish, for extra heat and texture)"
-        }
-      ],
-      "instructions": [
-        "The ratio of water to tempura flour should always be 1:1. For kimchi pancakes, since kimchi contains liquid, adjust the amount of water accordingly to maintain a thick batter consistency.",
-        "Wash the green onions and cut them into 4 cm pieces (or adjust the length based on your pan size and preference).",
-        "In a bowl, mix the tempura flour, water, and seafood to form a thick batter. Add 1 teaspoon of salt.",
-        "Ensure the batter has the right thickness by adjusting the amount of flour and water while maintaining the 1:1 ratio.",
-        "Heat a generous amount of oil in a pan over medium-low heat. Once the pan is hot, pour in the batter and spread it evenly to ensure even cooking.",
-        "When the edges turn golden brown, flip the pancake and cook the other side until crispy."
-      ],
-      "prepNotes": "If preparing for vegetarians who do not eat fish, add red and green chili peppers for extra heat and texture.",
-      "tags": [
-        "Korean",
-        "seafood",
-        "pancake",
-        "appetizer"
-      ],
-      "source": ""
-    },
-    {
       "id": "287b77fa-41d5-4888-b6e3-5bad2f18a72f",
       "title": "LA Galbi",
       "servings": "Per person, including bone weight 150–200g",
