@@ -360,12 +360,9 @@
     },
     {
       "id": "13d6277d-b131-485f-81ca-939232d8d8d0",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T02:51:07.519Z",
-      "updatedAt": "2026-11-13T02:51:07.519Z",
       "title": "Tang-Pyeong-Chae (Royal Salad)",
       "servings": "",
+      "source": "",
       "ingredients": [
         {
           "qty": "",
@@ -373,53 +370,66 @@
         },
         {
           "qty": "",
-          "name": "Carrot"
+          "name": "carrot"
         },
         {
           "qty": "",
-          "name": "Zucchini (use only the skin, but the flesh can be included based on preference)"
+          "name": "zucchini skin"
         },
         {
           "qty": "",
-          "name": "Seasoned Korean seaweed"
+          "name": "seasoned Korean seaweed"
+        },
+        {
+          "qty": "minced",
+          "name": "ground beef"
         },
         {
           "qty": "",
-          "name": "Minced meat (pork or beef, depending on preference)"
+          "name": "sesame seeds"
         },
         {
           "qty": "",
-          "name": "Sesame seeds"
+          "name": "soy sauce"
         },
         {
           "qty": "",
-          "name": "Soy sauce"
+          "name": "toasted sesame oil"
         },
         {
           "qty": "",
-          "name": "Sesame oil"
-        },
-        {
-          "qty": "",
-          "name": "Black pepper"
+          "name": "black pepper"
         }
+      ],
+      "ingredientLinks": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "b3b85a17-0b23-48e3-b474-439a2db3ccdb",
+        null
       ],
       "instructions": [
         "Boil the Cheongpomuk in hot water for about 4 minutes until it becomes translucent. Rinse it under cold water, pat it dry, and cut it into bite-sized pieces.",
         "Cut the vegetables into strips similar in length to the Cheongpomuk. Heat oil in a pan over medium-low heat and sauté each vegetable separately, adding just a pinch of salt to each. Cook until they become soft and slightly bendable.",
-        "Season the mushrooms by mixing it with a little soy sauce, sesame oil, and black pepper in a small bowl. Then, stir-fry it until fully cooked.",
+        "Season the beef by mixing it with a little soy sauce, sesame oil, and black pepper in a small bowl. Then, stir-fry it until fully cooked.",
         "On a serving plate, place the Cheongpomuk in the center and arrange the vegetables and mushrooms around it in a circular pattern.",
         "Crush the seasoned seaweed into small pieces and place it next to the Cheongpomuk. Sprinkle sesame seeds and drizzle a little sesame oil over the top. Mix everything before eating."
       ],
-      "prepNotes": "If preparing for vegetarian, finely chop shiitake mushrooms to use in place of minced pork (other mushrooms may also be used). A dish that once graced the royal table — it's important to make it beautifully, as it's food for the king.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
         "salad",
-        "royal",
-        "vegetarian-option",
         "side dish"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T02:51:07.519Z",
+      "updatedAt": "2026-11-16T17:22:11.379Z"
     },
     {
       "id": "f2ba1db6-8674-4c8b-814d-2e963b40ad92",
