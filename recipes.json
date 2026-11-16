@@ -2,15 +2,12 @@
   "recipes": [
     {
       "id": "65f07c31-7107-4771-a330-deeeaf20fa5a",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:25:11.506Z",
-      "updatedAt": "2026-11-13T03:25:11.506Z",
       "title": "Fresh Kimchi",
-      "servings": "For two leaves of bomdong cabbage",
+      "servings": "",
+      "source": "",
       "ingredients": [
         {
-          "qty": "",
+          "qty": "2 leaves",
           "name": "Bomdong cabbage"
         },
         {
@@ -18,44 +15,46 @@
           "name": "Korean red pepper flakes (gochugaru)"
         },
         {
-          "qty": "",
-          "name": "Apple vinegar"
+          "qty": "½ tsp",
+          "name": "apple vinegar"
         },
         {
-          "qty": "",
-          "name": "Plum syrup"
+          "qty": "½ tsp",
+          "name": "plum syrup"
         },
         {
-          "qty": "",
-          "name": "Salt"
+          "qty": "1 tsp",
+          "name": "salt"
         },
         {
-          "qty": "",
-          "name": "Minced garlic"
+          "qty": "½ tsp, minced",
+          "name": "garlic cloves"
         },
         {
-          "qty": "",
-          "name": "Sugar"
+          "qty": "1 tsp",
+          "name": "sugar"
         },
         {
-          "qty": "",
-          "name": "Sesame oil"
+          "qty": "1 tsp",
+          "name": "toasted sesame oil"
         }
       ],
       "instructions": [
         "Wash the bomdong cabbage thoroughly under cold water. Cut it in half lengthwise, then chop into small diamond-shaped pieces.",
-        "Place the chopped cabbage on a plate. Add 1/2 teaspoon of apple vinegar, 1 teaspoon of salt, 1/2 teaspoon of minced garlic, and 1/2 teaspoon of plum syrup and 1 teaspoon of sugar and lastly 1 teaspoon of sesame oil.",
+        "Place the chopped cabbage on a plate. Add apple vinegar, salt, garlic, plum syrup and sugar and lastly sesame oil.",
         "Mix well and serve."
       ],
-      "prepNotes": "A fresh taste of kimchi without the fermentation process. A refreshing Korean side dish as a salad!",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
         "side dish",
-        "vegetarian",
-        "quick",
         "salad"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T03:25:11.506Z",
+      "updatedAt": "2026-11-16T17:16:34.664Z"
     },
     {
       "id": "1caa0426-3847-47df-8cd5-904cdeab785d",
