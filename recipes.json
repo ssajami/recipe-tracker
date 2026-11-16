@@ -254,44 +254,41 @@
     },
     {
       "id": "e0e5e019-51a8-427b-a692-bcdce55fba92",
-      "afterPrepNotes": "",
-      "rating": null,
-      "createdAt": "2026-11-13T03:23:05.963Z",
-      "updatedAt": "2026-11-13T03:23:05.963Z",
-      "title": "Braised Tofu (Vegetarian menu)",
+      "title": "Braised Tofu",
       "servings": "",
+      "source": "",
       "ingredients": [
         {
           "qty": "",
-          "name": "Tofu"
+          "name": "tofu"
         },
         {
           "qty": "",
-          "name": "Cooking oil"
+          "name": "cooking oil"
         },
         {
-          "qty": "2 tablespoons",
-          "name": "soy sauce (sauce)"
+          "qty": "2 tbsp",
+          "name": "soy sauce"
         },
         {
-          "qty": "3 teaspoons",
-          "name": "sugar (sauce)"
+          "qty": "3 tsp",
+          "name": "sugar"
         },
         {
-          "qty": "",
-          "name": "½ tablespoon minced garlic (sauce)"
+          "qty": "½ tbsp minced",
+          "name": "garlic"
         },
         {
-          "qty": "1 tablespoon",
-          "name": "sesame oil (sauce)"
+          "qty": "1 tbsp",
+          "name": "toasted sesame oil"
         },
         {
-          "qty": "3 tablespoons",
-          "name": "water (sauce)"
+          "qty": "3 tbsp",
+          "name": "water"
         },
         {
-          "qty": "",
-          "name": "Chopped green onion, as much as you like (sauce)"
+          "qty": "chopped",
+          "name": "green onion"
         }
       ],
       "instructions": [
@@ -301,14 +298,17 @@
         "Once both sides are nicely golden brown, pour the pre-mixed sauce over the tofu.",
         "Let it simmer and reduce until the sauce thickens slightly and coats the tofu."
       ],
-      "prepNotes": "A savory Korean side dish made by simmering tofu in a soy-based sauce with garlic and spices. Mix all sauce ingredients together in a bowl before cooking.",
+      "prepNotes": "",
+      "afterPrepNotes": "",
+      "rating": null,
       "tags": [
         "Korean",
-        "vegetarian",
         "tofu",
         "side dish"
       ],
-      "source": ""
+      "pinned": false,
+      "createdAt": "2026-11-13T03:23:05.963Z",
+      "updatedAt": "2026-11-16T17:34:04.432Z"
     },
     {
       "id": "13d6277d-b131-485f-81ca-939232d8d8d0",
